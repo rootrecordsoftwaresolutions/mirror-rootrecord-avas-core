@@ -1,0 +1,31 @@
+{
+  "id": "job-msdn7pl7",
+  "kind": "feature",
+  "status": "staged",
+  "title": "do a scan on that feature and get it ready to save chunks as schematics",
+  "proposalId": null,
+  "channelId": "1516108586307158088",
+  "messageId": "1533924780300963850",
+  "authorId": "1497037418979786823",
+  "brief": "do a scan on that feature and get it ready to save chunks as schematics",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\job-msdn7pl7.md",
+  "createdAt": 1785786566750,
+  "updatedAt": 1785786627483,
+  "history": [
+    {
+      "at": 1785786566750,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785786566757,
+      "status": "implementing",
+      "note": "Root Server dig"
+    },
+    {
+      "at": 1785786627483,
+      "status": "staged",
+      "note": "plan filed — needs proposal + vote before implement"
+    }
+  ]
+}

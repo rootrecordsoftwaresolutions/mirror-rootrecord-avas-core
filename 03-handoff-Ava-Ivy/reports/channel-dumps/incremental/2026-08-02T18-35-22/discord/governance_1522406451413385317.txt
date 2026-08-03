@@ -1,0 +1,19 @@
+# Discord #👩‍⚖️governance👩‍⚖️ — incremental
+id: 1522406451413385317
+dumped_at: 2026-08-02T18:35:38.434Z
+new_messages: 2
+after: 1533319292601499871
+
+========================================================================
+
+--- 2026-08-02T18:07:30.883Z | Ava
+**Opened:** PROP — Root-Ava-Core plugin
+Authorize design of Paper plugin **Root-Ava-Core** (Ava in-game companion hooks). **No live jar** until Alex greenlights after this vote. Docs under Ava Ivy notes.
+Forum thread + 7-day vote in <#1522413185364398090>.
+
+--- 2026-08-02T18:07:33.884Z | Ava
+**Opened:** PROP — Website tools ~$100 USD
+One-time **~$100 USD** (not Gold) tools/marketing budget for Ava’s site design. **Do not spend** until this vote passes.
+Forum thread + 7-day vote in <#1522413185364398090>.
+
+========================================================================

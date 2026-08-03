@@ -1,0 +1,26 @@
+{
+  "id": "job-mscjkrlp",
+  "kind": "dig",
+  "status": "implementing",
+  "title": "Lmao it's Minecraft lore. @ava_ivy_bot can touch on all that",
+  "proposalId": null,
+  "channelId": "tg:-1003868178598",
+  "messageId": "15281",
+  "authorId": "6644482344",
+  "brief": "Lmao it's Minecraft lore. @ava_ivy_bot can touch on all that",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\job-mscjkrlp.md",
+  "createdAt": 1785719991230,
+  "updatedAt": 1785719991237,
+  "history": [
+    {
+      "at": 1785719991230,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785719991237,
+      "status": "implementing",
+      "note": "commitment opened — must deliver"
+    }
+  ]
+}

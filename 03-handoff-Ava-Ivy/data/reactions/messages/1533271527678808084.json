@@ -1,0 +1,17 @@
+{
+  "messageId": "1533271527678808084",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "powering down — disconnecting discord and stopping background tasks. start me again on the box when you need me.",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785631004571,
+  "updatedAt": 1785631004571
+}

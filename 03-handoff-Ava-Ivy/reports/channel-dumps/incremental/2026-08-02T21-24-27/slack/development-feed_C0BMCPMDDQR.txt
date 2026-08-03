@@ -1,0 +1,16 @@
+# Slack #development-feed — incremental
+id: C0BMCPMDDQR
+dumped_at: 2026-08-02T21:24:45.432Z
+new_messages: 1
+since: 1785699681.482569
+
+========================================================================
+
+--- 2026-08-02T19:41:21.482Z | [bot] Ava Ivy
+*Post Absolute Ops soak — closed agent side*
+• Alex wish=command locked (rootrecorddev / WildEcho94 / verified ops ids)
+• Official parity ownership map filled — *do not kick* Official
+• Open PROPs still have :white_check_mark::x::heavy_minus_sign:; EcoFlow River2 online:0 quirk noted (prefer perSn)
+• Gates parked for Alex: tunnel, Ava-Core jar after vote, Linux-ops, live bond, Official sign-off
+
+========================================================================

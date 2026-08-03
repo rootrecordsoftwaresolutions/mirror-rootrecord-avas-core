@@ -1,0 +1,19 @@
+{
+  "messageId": "1533644388243210312",
+  "channelId": "1516121832493678612",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Got it - this channel stays **player issues only**. Help, stuck, economy/governance questions, `/proposal`/`/feedback` pointers - that lane.\n\nDev digs and staff ops still go Slack; I won't workshop plugins here.\n\nIf it's not a player help t",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785720211842,
+  "updatedAt": 1785720211842
+}

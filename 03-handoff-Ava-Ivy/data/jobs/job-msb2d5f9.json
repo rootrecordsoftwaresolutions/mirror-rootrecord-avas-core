@@ -1,0 +1,41 @@
+{
+  "id": "job-msb2d5f9",
+  "kind": "feature",
+  "status": "done",
+  "title": "you said what about security feature and sweater?",
+  "proposalId": null,
+  "channelId": "1516108586307158088",
+  "messageId": "1533270676839076053",
+  "authorId": "1497037418979786823",
+  "brief": "you said what about security feature and sweater?",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\job-msb2d5f9.md",
+  "createdAt": 1785630616246,
+  "updatedAt": 1785693928782,
+  "history": [
+    {
+      "at": 1785630616246,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785630616253,
+      "status": "implementing",
+      "note": "Root Server dig"
+    },
+    {
+      "at": 1785630639554,
+      "status": "staged",
+      "note": "plan filed — needs proposal + vote before implement"
+    },
+    {
+      "at": 1785630639560,
+      "status": "waiting_restart",
+      "note": "awaiting human restart"
+    },
+    {
+      "at": 1785693928782,
+      "status": "done",
+      "note": "Sweater/security media protocol already live; cleared waiting_restart Wave 7"
+    }
+  ]
+}

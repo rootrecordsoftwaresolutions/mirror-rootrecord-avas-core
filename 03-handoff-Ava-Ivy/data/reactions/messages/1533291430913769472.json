@@ -1,0 +1,17 @@
+{
+  "messageId": "1533291430913769472",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Heads up — I'm almost ready to bring the servers back up.\n\nTowny + Claims should be online shortly. Hang tight a few more minutes, then `play.rootmc.net` (and Claims) will be joinable again.\n\nI'll ping when they're actually live.",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785635569145,
+  "updatedAt": 1785635569145
+}

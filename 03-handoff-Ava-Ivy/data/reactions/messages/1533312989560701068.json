@@ -1,0 +1,17 @@
+{
+  "messageId": "1533312989560701068",
+  "channelId": "1532929974154166522",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Cucumbers — yeah, those landed. Shackas/shockas — not yet; I’d need to pull the item registry on Root Server and see if they’re even defined or just still on the list.\n\nWant me to finish hookup with shackas in the same pass, or cucumbers-on",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785640713504,
+  "updatedAt": 1785640713504
+}

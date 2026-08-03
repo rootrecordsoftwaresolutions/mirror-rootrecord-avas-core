@@ -1,0 +1,17 @@
+{
+  "messageId": "slack-1785623772.970939",
+  "channelId": "C0BM6KVFS0L",
+  "surface": "slack",
+  "slackTs": "1785623772.970939",
+  "contentPreview": "<@U0BMBNYPYA2> has joined the channel",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785626952104,
+  "updatedAt": 1785626952104
+}

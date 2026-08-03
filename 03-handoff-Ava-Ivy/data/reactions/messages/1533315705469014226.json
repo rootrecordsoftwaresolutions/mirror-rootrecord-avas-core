@@ -1,0 +1,23 @@
+{
+  "messageId": "1533315705469014226",
+  "channelId": "1532929974154166522",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "encoding glitch on my side — PowerShell chewed the unicode (em dashes / bullets) into `?` when that apology went out.\n\nalready re-edited clean. no more question-mark salad.",
+  "byEmoji": {
+    "❤": 1,
+    "👀": 1,
+    "👽": 1,
+    "🚀": 1,
+    "gold:420557829678694410": 1
+  },
+  "totals": {
+    "good": 2,
+    "bad": 0,
+    "neutral": 3,
+    "all": 5
+  },
+  "label": "good",
+  "firstSeenAt": 1785641353957,
+  "updatedAt": 1785641406069
+}

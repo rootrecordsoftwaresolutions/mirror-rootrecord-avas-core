@@ -1,0 +1,17 @@
+{
+  "messageId": "1533282059458580530",
+  "channelId": "1532929974154166522",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "No — don’t delete it. Keep `#development` as a **pointer only**: one pinned line that staff digs live on Slack `#development-feed`, with the archive link if you want it handy.\n\nDiscord stays for players, votes, and community. Slack owns the",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785633337130,
+  "updatedAt": 1785633337130
+}

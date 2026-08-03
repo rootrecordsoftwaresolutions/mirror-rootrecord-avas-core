@@ -1,0 +1,17 @@
+{
+  "sessions": {
+    "1413961145521410082": {
+      "discordId": "1413961145521410082",
+      "username": "lodge_0xcc7",
+      "status": "active",
+      "reason": "operator-start-figure-out",
+      "openedBy": "operator",
+      "startedAt": 1785696695144,
+      "updatedAt": 1785696695144,
+      "turns": 0,
+      "asked": [],
+      "factors": {},
+      "rawNotes": []
+    }
+  }
+}

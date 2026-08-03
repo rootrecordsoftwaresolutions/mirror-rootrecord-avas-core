@@ -1,0 +1,276 @@
+{
+  "updatedAt": 1785708172462,
+  "currency": "USD",
+  "otherIncome": [
+    {
+      "id": "inc-other",
+      "label": "Other (ads, sponsors, one-offs)",
+      "amountUsd": 0,
+      "period": "month",
+      "updatedAt": null,
+      "note": "Non-Stripe income — update when known"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "exp-shockbyte",
+      "label": "Shockbyte hosting (Claims+Towny)",
+      "amountUsd": 0,
+      "period": "month",
+      "category": "ops",
+      "updatedAt": null,
+      "note": "Set real monthly total when known"
+    },
+    {
+      "id": "exp-domains",
+      "label": "Domains (rootmc.net + related)",
+      "amountUsd": 0,
+      "period": "year",
+      "category": "ops",
+      "updatedAt": null,
+      "note": "Annual — convert to monthly when reviewing"
+    },
+    {
+      "id": "exp-cloudflare",
+      "label": "Cloudflare / Workers / Pages",
+      "amountUsd": 0,
+      "period": "month",
+      "category": "dev",
+      "updatedAt": null,
+      "note": "Include paid add-ons if any"
+    }
+  ],
+  "lastSuggestionAt": 1785708172462,
+  "lastSuggestions": [
+    {
+      "severity": "info",
+      "code": "stale_rootmc-ops/acct-default/inc-other",
+      "text": "Update amount/total for ledger row “rootmc-ops/acct-default/inc-other” (never set or older than ~45d)."
+    },
+    {
+      "severity": "info",
+      "code": "stale_rootmc-ops/acct-default/exp-shockbyte",
+      "text": "Update amount/total for ledger row “rootmc-ops/acct-default/exp-shockbyte” (never set or older than ~45d)."
+    },
+    {
+      "severity": "info",
+      "code": "stale_rootmc-ops/acct-default/exp-domains",
+      "text": "Update amount/total for ledger row “rootmc-ops/acct-default/exp-domains” (never set or older than ~45d)."
+    },
+    {
+      "severity": "info",
+      "code": "stale_rootmc-ops/acct-default/exp-cloudflare",
+      "text": "Update amount/total for ledger row “rootmc-ops/acct-default/exp-cloudflare” (never set or older than ~45d)."
+    },
+    {
+      "severity": "info",
+      "code": "zero_exp-shockbyte",
+      "text": "“Shockbyte hosting” is still $0 — set the real monthly/annual total when you know it."
+    },
+    {
+      "severity": "info",
+      "code": "zero_exp-domains",
+      "text": "“Domains” is still $0 — set the real monthly/annual total when you know it."
+    },
+    {
+      "severity": "info",
+      "code": "zero_exp-cloudflare",
+      "text": "“Cloudflare / Workers” is still $0 — set the real monthly/annual total when you know it."
+    },
+    {
+      "severity": "info",
+      "code": "missing_exp-power",
+      "text": "Consider adding expense “Power / home lab (OptiPlex)” (ops). Say: add ops expense Power / home lab (OptiPlex) <amount>/mo"
+    },
+    {
+      "severity": "info",
+      "code": "missing_exp-apple-google",
+      "text": "Consider adding expense “App store / Google Play fees” (growth). Say: add ops expense App store / Google Play fees <amount>/mo"
+    },
+    {
+      "severity": "info",
+      "code": "other_income_blank",
+      "text": "Other non-Stripe income is $0 — add sponsors/ads/one-offs or remove the placeholder."
+    },
+    {
+      "severity": "info",
+      "code": "ava_slice_band",
+      "text": "Ava allocation band on ~30d Stripe credits: $2.03–$3.04 (10–15%). Confirm routing still matches AVA-FINANCE-ROUTING-v1."
+    }
+  ],
+  "projects": [
+    {
+      "id": "rootmc-ops",
+      "name": "RootMC ops",
+      "note": "",
+      "accounts": [
+        {
+          "id": "acct-default",
+          "name": "Default",
+          "kind": "cash",
+          "currency": "USD",
+          "balanceUsd": 0,
+          "income": [
+            {
+              "id": "inc-other",
+              "label": "Other (ads, sponsors, one-offs)",
+              "amountUsd": 0,
+              "period": "month",
+              "updatedAt": null,
+              "note": "Non-Stripe income — update when known"
+            }
+          ],
+          "expenses": [
+            {
+              "id": "exp-shockbyte",
+              "label": "Shockbyte hosting (Claims+Towny)",
+              "amountUsd": 0,
+              "period": "month",
+              "category": "ops",
+              "updatedAt": null,
+              "note": "Set real monthly total when known"
+            },
+            {
+              "id": "exp-domains",
+              "label": "Domains (rootmc.net + related)",
+              "amountUsd": 0,
+              "period": "year",
+              "category": "ops",
+              "updatedAt": null,
+              "note": "Annual — convert to monthly when reviewing"
+            },
+            {
+              "id": "exp-cloudflare",
+              "label": "Cloudflare / Workers / Pages",
+              "amountUsd": 0,
+              "period": "month",
+              "category": "dev",
+              "updatedAt": null,
+              "note": "Include paid add-ons if any"
+            }
+          ],
+          "debts": [],
+          "note": "",
+          "createdAt": 1785703455081,
+          "updatedAt": 1785703455081
+        }
+      ],
+      "updatedAt": 1785703455081,
+      "income": [
+        {
+          "id": "inc-other",
+          "label": "Other (ads, sponsors, one-offs)",
+          "amountUsd": 0,
+          "period": "month",
+          "updatedAt": null,
+          "note": "Non-Stripe income — update when known"
+        }
+      ],
+      "expenses": [
+        {
+          "id": "exp-shockbyte",
+          "label": "Shockbyte hosting (Claims+Towny)",
+          "amountUsd": 0,
+          "period": "month",
+          "category": "ops",
+          "updatedAt": null,
+          "note": "Set real monthly total when known"
+        },
+        {
+          "id": "exp-domains",
+          "label": "Domains (rootmc.net + related)",
+          "amountUsd": 0,
+          "period": "year",
+          "category": "ops",
+          "updatedAt": null,
+          "note": "Annual — convert to monthly when reviewing"
+        },
+        {
+          "id": "exp-cloudflare",
+          "label": "Cloudflare / Workers / Pages",
+          "amountUsd": 0,
+          "period": "month",
+          "category": "dev",
+          "updatedAt": null,
+          "note": "Include paid add-ons if any"
+        }
+      ],
+      "debts": []
+    },
+    {
+      "id": "ava",
+      "name": "Ava",
+      "note": "",
+      "accounts": [
+        {
+          "id": "acct-default",
+          "name": "Default",
+          "kind": "cash",
+          "currency": "USD",
+          "balanceUsd": 0,
+          "income": [],
+          "expenses": [],
+          "debts": [],
+          "note": "",
+          "createdAt": 1785703455081,
+          "updatedAt": 1785703455081
+        },
+        {
+          "id": "acct-wishlist",
+          "name": "Hardware wishlist",
+          "kind": "project",
+          "currency": "USD",
+          "balanceUsd": 0,
+          "income": [],
+          "expenses": [],
+          "debts": [],
+          "note": "",
+          "createdAt": 1785703455081,
+          "updatedAt": 1785703455081
+        },
+        {
+          "id": "acct-debts",
+          "name": "Debts",
+          "kind": "debt",
+          "currency": "USD",
+          "balanceUsd": 0,
+          "income": [],
+          "expenses": [],
+          "debts": [
+            {
+              "id": "debt-example-float",
+              "label": "example-float",
+              "balanceUsd": 0,
+              "apr": null,
+              "minimumUsd": null,
+              "period": "once",
+              "note": "",
+              "updatedAt": 1785703455093
+            }
+          ],
+          "note": "",
+          "createdAt": 1785703455081,
+          "updatedAt": 1785703455093
+        },
+        {
+          "id": "acct-buffer",
+          "name": "buffer",
+          "kind": "cash",
+          "currency": "USD",
+          "balanceUsd": 0,
+          "income": [],
+          "expenses": [],
+          "debts": [],
+          "note": "",
+          "createdAt": 1785703455081,
+          "updatedAt": 1785703455081
+        }
+      ],
+      "updatedAt": 1785703455081,
+      "income": [],
+      "expenses": [],
+      "debts": []
+    }
+  ],
+  "debts": []
+}

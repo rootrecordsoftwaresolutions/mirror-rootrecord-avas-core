@@ -1,0 +1,37 @@
+{
+  "messageId": "1533581444792975404",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Power status** ?? live just now\n\n**Council voting shares** (eligible 4 ?? synced now)\n??? Svenj9 ??? **40.74%**\n??? Alexrs94 ??? **38.46%** (you ?? 248 Vote Shards ?? Ava reaction +3)\n??? Melee__ ??? **10.8%**\n??? Ava Ivy ??? **10%** (Ale",
+  "byEmoji": {
+    "vote_yes:1533005800908525698": 1,
+    "vote_no:1533005790829346937": 1,
+    "➖": 2
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 3,
+    "all": 4
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "➖": {
+          "signal": "neutral",
+          "count": 1
+        }
+      },
+      "good": 0,
+      "bad": 0,
+      "neutral": 1
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785704714756,
+  "updatedAt": 1785705358590
+}

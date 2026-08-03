@@ -1,0 +1,35 @@
+{
+  "messageId": "1532945550486278175",
+  "channelId": "1532945550486278175",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "@everyone\n\n**Proposal: Add pending proposals to hourly realm snapshots**\n\nAlex asked in `#voting` to treat this as a **proposal** (not a silent hotfix).\n\n**Problem:** Hourly economy/realm snapshots (`rootmc-live-economy-status`) don’t surfa",
+  "byEmoji": {
+    "👍": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "👍": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785553106352,
+  "updatedAt": 1785640355669
+}

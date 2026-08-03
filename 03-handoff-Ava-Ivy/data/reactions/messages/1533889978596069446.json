@@ -1,0 +1,19 @@
+{
+  "messageId": "1533889978596069446",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "On it - **`/solar`** everywhere.\n\n**What I'm wiring**\n- **Discord:** global slash **`/solar`** - any channel, instant reply (no @ needed)\n- **In-game:** **`/solar`** - same board, player-facing copy\n\n**What it pulls (live, never invented)**",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785778415043,
+  "updatedAt": 1785778415043
+}

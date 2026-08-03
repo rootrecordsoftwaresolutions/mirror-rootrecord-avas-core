@@ -1,0 +1,31 @@
+{
+  "id": "job-msb6zdy1",
+  "kind": "dig",
+  "status": "done",
+  "title": "Root-Skills dead XP blocks audit",
+  "proposalId": null,
+  "channelId": "1520665313631408251",
+  "messageId": "1533302317879918625",
+  "authorId": "154446475789729792",
+  "brief": "Melee reported some blocks do not give Root-Skills XP after the proportional curve ship. Audit mining/woodcutting/etc trigger lists against live jars on Claims+Towny; patch gaps; report which blocks were dead.",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\job-msb6zdy1.md",
+  "createdAt": 1785638372186,
+  "updatedAt": 1785638566230,
+  "history": [
+    {
+      "at": 1785638372186,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785638372193,
+      "status": "implementing",
+      "note": "commitment opened — must deliver"
+    },
+    {
+      "at": 1785638566230,
+      "status": "done",
+      "note": "first deliverable posted"
+    }
+  ]
+}

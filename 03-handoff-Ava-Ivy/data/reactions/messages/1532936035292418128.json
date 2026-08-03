@@ -1,0 +1,17 @@
+{
+  "messageId": "1532936035292418128",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "## Shipped / live since last big update\n• **Root-Skills v1.0.1** staged (Claims/Towny/Test jars + manifest) — cutover still human\n• Staff **#development** created; Slack `#development` + org canvas laid out\n• Root-Core-Node scoped to Melee;",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785626929997,
+  "updatedAt": 1785626929997
+}

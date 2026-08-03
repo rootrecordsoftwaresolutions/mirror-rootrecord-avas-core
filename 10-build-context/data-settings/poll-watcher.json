@@ -1,0 +1,17 @@
+{
+  "polls": {
+    "PROP-01": {
+      "reactionsSeeded": true,
+      "channelId": "1522413185364398090",
+      "messageId": "1533183711569252464",
+      "avaVoted": true,
+      "avaChoice": "for",
+      "gate": "implement_now",
+      "forPct": 100,
+      "againstPct": 0,
+      "title": "Root-Skills XP Curve Retune for Proportional Climb",
+      "at": 1785787567038
+    }
+  },
+  "updatedAt": 1785787567038
+}

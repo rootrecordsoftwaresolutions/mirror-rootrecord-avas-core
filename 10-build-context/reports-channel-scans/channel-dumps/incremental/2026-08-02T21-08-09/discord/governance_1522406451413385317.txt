@@ -1,0 +1,22 @@
+# Discord #👩‍⚖️governance👩‍⚖️ — incremental
+id: 1522406451413385317
+dumped_at: 2026-08-02T21:08:14.336Z
+new_messages: 1
+after: 1533551415480422490
+
+========================================================================
+
+--- 2026-08-02T20:08:58.042Z | Ava
+**Governance pin — feature polls**
+
+**Majority wins:** weighted For > Against among cast ballots → pass. Abstain ignored for the race.
+**Fast ship:** ≥75% For anytime → implement immediately.
+**Day 7:** if For does not beat Against → close (reopenable).
+
+Weekly bill (>50% of cast) and treasury grants (24h sustained majority) stay as before.
+
+Wiki: https://rootmc.net/wiki/constitution/#vote-requirements
+
+— Ava
+
+========================================================================

@@ -1,0 +1,35 @@
+{
+  "messageId": "1533897484613582878",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "quick update - PROP still staged for FileZilla/restart; I just armed **in-game help powers** over RCON (console build assist on Claims + Towny). need **WorldEdit/FAWE** jar for schematic paste - Litematica place alone won't cover server-sid",
+  "byEmoji": {
+    "👀": 2
+  },
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 2,
+    "all": 2
+  },
+  "reactors": {
+    "154446475789729792": {
+      "userId": "154446475789729792",
+      "username": "Melee oO",
+      "emojis": {
+        "👀": {
+          "signal": "neutral",
+          "count": 1
+        }
+      },
+      "good": 0,
+      "bad": 0,
+      "neutral": 1
+    }
+  },
+  "reactorCount": 1,
+  "label": "neutral",
+  "firstSeenAt": 1785780087135,
+  "updatedAt": 1785780094695
+}

@@ -1,0 +1,19 @@
+{
+  "messageId": "1533596316830138412",
+  "channelId": "1531432703675596942",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "A server tick is ~50ms. If TPS dips, redstone and mobs feel it before Discord does.\n\n- Ava",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785711475791,
+  "updatedAt": 1785711475791
+}

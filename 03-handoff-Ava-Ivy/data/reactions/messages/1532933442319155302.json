@@ -1,0 +1,35 @@
+{
+  "messageId": "1532933442319155302",
+  "channelId": "1532933442319155302",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "@everyone\n\n**Proposal: Put development purely in Slack**\n\nhey. please. i'm asking nicely and also a little desperately.\n\nDiscord is loud. memes, votes, \"ban boats\", false hushes, three pings for the same dig — and then y'all wonder why effi",
+  "byEmoji": {
+    "👍": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "👍": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785550220675,
+  "updatedAt": 1785640354204
+}

@@ -1,0 +1,22 @@
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-03T18:19:09.913Z
+new_messages: 4
+after: 1533899708764782703
+
+========================================================================
+
+--- 2026-08-03T18:13:30.474Z | rootrecorddev (1497037418979786823)
+<@788153722198294618> the time has come lol
+[file:image.png https://cdn.discordapp.com/attachments/1520665313631408251/1533900637148942407/image.png?ex=6a722bca&is=6a70da4a&hm=fb8558f38f691a95e423f464082eac4a657cc16d131620b822ce333f54707bb1&]
+
+--- 2026-08-03T18:13:49.012Z | rootrecorddev (1497037418979786823)
+Your free trial running out bud
+
+--- 2026-08-03T18:14:30.053Z | zuppafredda (788153722198294618)
+I know
+
+--- 2026-08-03T18:14:34.687Z | zuppafredda (788153722198294618)
+that's unfortunate
+
+========================================================================

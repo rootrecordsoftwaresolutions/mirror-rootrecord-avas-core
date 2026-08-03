@@ -1,0 +1,17 @@
+{
+  "messageId": "1533288360620195943",
+  "channelId": "1532929974154166522",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "<:ship_it:1533005788501512262> **1.8.0 upload done**\n\nlive plugin wipe → full **August suite** staged and uploaded.\n**25** jars on **`1.8.0`** (Claims + Towny). no `root-discord` — Core owns comms.\n\n**waiting on you:** Shockbyte **restart**",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785634836884,
+  "updatedAt": 1785634836884
+}

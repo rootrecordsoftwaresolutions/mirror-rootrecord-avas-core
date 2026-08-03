@@ -1,0 +1,12 @@
+{
+  "feeds": [
+    {
+      "id": "minecraft-releasebot",
+      "url": "https://rss.app/feeds/UJvooPjDlWifpFTN.xml",
+      "title": "Minecraft Release Notes (Releasebot)",
+      "enabled": true,
+      "postChannel": "updates",
+      "added": "2026-08-01"
+    }
+  ]
+}

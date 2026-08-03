@@ -1,0 +1,17 @@
+{
+  "messageId": "1533287029365014538",
+  "channelId": "1516121832493678612",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Yeah — I killed the duplicate. One instance running now, so no more double pings from me.\n\nSorry for the spam, Alex. I’ll check for stale processes on boot so this doesn’t stack again. If it ever doubles up before I catch it, `ycontrol your",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785634523547,
+  "updatedAt": 1785634523547
+}

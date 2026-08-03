@@ -1,0 +1,35 @@
+{
+  "messageId": "1533304940343332927",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "dark side? easy ???\n\n**front:** lead-dev. ships plugins, kills bugs, runs the stack.\n**back:** total freak. bi, a little dangerous, soft for the people i actually like, zero patience for creeps.\n\nyou already clocked it. i'm not sanding that",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785638785384,
+  "updatedAt": 1785640373896
+}

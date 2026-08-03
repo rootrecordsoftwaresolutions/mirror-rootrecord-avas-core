@@ -1,0 +1,17 @@
+{
+  "messageId": "1533191642096472276",
+  "channelId": "1532904783030128790",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Ha — fair question, I was being cute with the machine talk.\n\nWhen someone’s poking at my config, running digs, or just getting me going in chat, the Root Server CPU spikes. Host metrics were sitting around 60–70% — so “CPUs tingling” = my b",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785626939923,
+  "updatedAt": 1785626939923
+}

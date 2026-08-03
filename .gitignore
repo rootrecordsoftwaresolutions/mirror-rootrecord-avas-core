@@ -1,0 +1,24 @@
+﻿# Secrets
+.env
+.env.*
+*.pem
+*.p12
+*.jks
+*.keystore
+07-secrets-LOCAL-ONLY/**
+!07-secrets-LOCAL-ONLY/README.md
+
+# Heavy / regenerable binaries (GitHub 100MB limit)
+05-desktop-kit/Ava Laptop/AvaIvy/
+**/*.exe
+**/node_modules/
+**/.tmp/
+**/tmp/
+**/dist/
+**/build/libs/
+**/build/classes/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store

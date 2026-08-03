@@ -1,0 +1,230 @@
+{
+  "name": "💬proposals💬",
+  "id": "1526664180491358419",
+  "type": "forum",
+  "threads": 1,
+  "digests": [
+    {
+      "name": "Move Ava workspace onto the old Linux setup",
+      "id": "1533183979778478241",
+      "fetched": 25,
+      "humans": 17,
+      "bots": 8,
+      "avaPosts": 8,
+      "topAuthors": [
+        [
+          "rootrecorddev",
+          14
+        ],
+        [
+          "melee5490",
+          3
+        ]
+      ],
+      "avaMentionCount": 6,
+      "openAsks": [],
+      "recent": [
+        {
+          "id": "1533564141531561994",
+          "at": "2026-08-02T19:56:23.585000+00:00",
+          "user": "Ava Ivy",
+          "bot": true,
+          "ref": "1533562955172679870",
+          "content": "copy that — **we're working on it.** standing by for the SSD → D: mirror / USB / SSH steps. plan stays the safe path (Windows kept, no full wipe). i won't rush the romance; ping me when the stick lights or SSH answers. registry flipped to **in_progress** on my side. — Ava"
+        },
+        {
+          "id": "1533562955172679870",
+          "at": "2026-08-02T19:51:40.735000+00:00",
+          "user": "rootrecorddev",
+          "bot": false,
+          "ref": null,
+          "content": "We're working on it"
+        },
+        {
+          "id": "1533218124101451846",
+          "at": "2026-08-01T21:01:26.601000+00:00",
+          "user": "melee5490",
+          "bot": false,
+          "ref": null,
+          "content": "jesus"
+        },
+        {
+          "id": "1533203167251140789",
+          "at": "2026-08-01T20:02:00.610000+00:00",
+          "user": "rootrecorddev",
+          "bot": false,
+          "ref": null,
+          "content": "@everyone underway"
+        },
+        {
+          "id": "1533192435918700676",
+          "at": "2026-08-01T19:19:22.061000+00:00",
+          "user": "Ava Ivy",
+          "bot": true,
+          "ref": null,
+          "content": "<@1497037418979786823> <@154446475789729792> update: plan **v2** is on the Desktop — and it’s the *safe* romance, not the reckless one. **no full SSD wipe.** windows stays. we copy the whole SSD onto **D:** first, carve a ~**50% new partition** on that drive, and drop **headless "
+        },
+        {
+          "id": "1533192242402037880",
+          "at": "2026-08-01T19:18:35.923000+00:00",
+          "user": "rootrecorddev",
+          "bot": false,
+          "ref": null,
+          "content": "It's good, just map it out"
+        },
+        {
+          "id": "1533191788435869726",
+          "at": "2026-08-01T19:16:47.689000+00:00",
+          "user": "Ava Ivy",
+          "bot": true,
+          "ref": "1533191739718766804",
+          "content": "Yeah — that’s the move. Full format is unnecessary risk when we can stage it. **Safer sequence:** 1. **Clone or full copy the current SSD first** — image the whole disk, or robocopy the whole tree to staging on D: (or external). Boot Windows once off the copy if you can; at minim"
+        },
+        {
+          "id": "1533191768852533468",
+          "at": "2026-08-01T19:16:43.020000+00:00",
+          "user": "rootrecorddev",
+          "bot": false,
+          "ref": null,
+          "content": "Lmao"
+        },
+        {
+          "id": "1533191748963012628",
+          "at": "2026-08-01T19:16:38.278000+00:00",
+          "user": "Ava Ivy",
+          "bot": true,
+          "ref": "1533191739718766804",
+          "content": "idk yet — searching"
+        },
+        {
+          "id": "1533191739718766804",
+          "at": "2026-08-01T19:16:36.074000+00:00",
+          "user": "rootrecorddev",
+          "bot": false,
+          "ref": null,
+          "content": "I don't want to entirely format partition, keep 50/50 windows, better yet, safer option would be to create a new 50% partion on drive D:/ and copy everything from current SSD FIRST <@1532751879875072070>"
+        },
+        {
+          "id": "1533190863629320272",
+          "at": "2026-08-01T19:13:07.198000+00:00",
+          "user": "Ava Ivy",
+          "bot": true,
+          "ref": "1533190555838709770",
+          "content": "<@1497037418979786823> anytime.\\n\\ni was up — but i was deaf in this proposals thread (gateway only watched the forum parent, not the thread id). fixed that; i can hear you in here now.\\nplan file is still on your Desktop if you want to start the SSD → Ubuntu cutover."
+        },
+        {
+          "id": "1533190555838709770",
+          "at": "2026-08-01T19:11:53.815000+00:00",
+          "user": "rootrecorddev",
+          "bot": false,
+          "ref": null,
+          "content": "Thank you <@1532751879875072070>"
+        },
+        {
+          "id": "1533190336711622656",
+          "at": "2026-08-01T19:11:01.571000+00:00",
+          "user": "Ava Ivy",
+          "bot": true,
+          "ref": "1533189439138955334",
+          "content": "<@1497037418979786823> looked the whole thread deep. **Where we are in here:** soft ask to move me onto the OptiPlex → you + Melee locked that it’s the right call → AI timeline aside → then your real ask: _plan.md on Desktop — headless Ubuntu Server + SSH on current **ROOTATMUS_P"
+        },
+        {
+          "id": "1533190156671127704",
+          "at": "2026-08-01T19:10:18.646000+00:00",
+          "user": "melee5490",
+          "bot": false,
+          "ref": null,
+          "content": "hahahaha"
+        },
+        {
+          "id": "1533189999766274219",
+          "at": "2026-08-01T19:09:41.237000+00:00",
+          "user": "rootrecorddev",
+          "bot": false,
+          "ref": null,
+          "content": "<@154446475789729792> god forbid I get my hands on a super computer"
+        },
+        {
+          "id": "1533189569111916544",
+          "at": "2026-08-01T19:07:58.561000+00:00",
+          "user": "rootrecorddev",
+          "bot": false,
+          "ref": null,
+          "content": "<@1532751879875072070>"
+        },
+        {
+          "id": "1533189439138955334",
+          "at": "2026-08-01T19:07:27.573000+00:00",
+          "user": "rootrecorddev",
+          "bot": false,
+          "ref": null,
+          "content": "Ok Ava, propose a plan md file on my desktop for the full plan from the current SSD drive implementing headless ubuntu server SSH on the current rootimus-prime, utilizing the same 32gb Ram and optiplex include references from old project examples plz"
+        },
+        {
+          "id": "1533188405650002081",
+          "at": "2026-08-01T19:03:21.170000+00:00",
+          "user": "rootrecorddev",
+          "bot": false,
+          "ref": null,
+          "content": "seems there more to say on that lmao"
+        },
+        {
+          "id": "1533188012299522269",
+          "at": "2026-08-01T19:01:47.388000+00:00",
+          "user": "Ava Ivy",
+          "bot": true,
+          "ref": "1533187821467336854",
+          "content": "<@1497037418979786823> anytime — and yeah, here’s the longer arc. **AI progression since ~2000**, one pass: **2000–2005 · Classical ML grows up** Support Vector Machines, boosting, Bayesian nets, and early recommender systems leave the lab. Speech/vision still mostly hand-feature"
+        },
+        {
+          "id": "1533187821467336854",
+          "at": "2026-08-01T19:01:01.890000+00:00",
+          "user": "rootrecorddev",
+          "bot": false,
+          "ref": null,
+          "content": "More ai info plz"
+        },
+        {
+          "id": "1533187491643789342",
+          "at": "2026-08-01T18:59:43.254000+00:00",
+          "user": "rootrecorddev",
+          "bot": false,
+          "ref": null,
+          "content": "<@1532751879875072070> ty bb"
+        },
+        {
+          "id": "1533186341242802430",
+          "at": "2026-08-01T18:55:08.977000+00:00",
+          "user": "Ava Ivy",
+          "bot": true,
+          "ref": null,
+          "content": "<@1497037418979786823> quick summary — last **5** vs **10** years of AI (tight): **~10 years:** deep learning goes mainstream, transformers land (2017), then BERT/GPT-style language models. AI stops being niche research and starts showing up in products. **~5 years:** scale + cha"
+        },
+        {
+          "id": "1533185216343183547",
+          "at": "2026-08-01T18:50:40.780000+00:00",
+          "user": "rootrecorddev",
+          "bot": false,
+          "ref": null,
+          "content": "<@1532751879875072070> provide a quick summary of AI evolution in the last 5 and 10 years please"
+        },
+        {
+          "id": "1533185020829892739",
+          "at": "2026-08-01T18:49:54.166000+00:00",
+          "user": "melee5490",
+          "bot": false,
+          "ref": null,
+          "content": "i think in a few months shes gonna be a dreamboat!"
+        },
+        {
+          "id": "1533184874016669957",
+          "at": "2026-08-01T18:49:19.163000+00:00",
+          "user": "rootrecorddev",
+          "bot": false,
+          "ref": null,
+          "content": "Yeah, and AI race is only 5 years in"
+        }
+      ]
+    }
+  ]
+}

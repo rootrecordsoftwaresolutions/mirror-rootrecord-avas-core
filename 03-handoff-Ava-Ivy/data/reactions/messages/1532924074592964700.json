@@ -1,0 +1,17 @@
+{
+  "messageId": "1532924074592964700",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "## Channel sweep\n- **All text channels scanned.** Open Ava asks were **only in memes** (boat-ban + bare ping). Answered.\n- **Not watching (by design):** rules, unverified, timezone, daily-summary, economy-info, mobile-app, random-facts, mus",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785626931826,
+  "updatedAt": 1785626931826
+}

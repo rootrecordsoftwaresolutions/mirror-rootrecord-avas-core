@@ -1,0 +1,38 @@
+{
+  "messageId": "1533183979778478241",
+  "channelId": "1533183979778478241",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "<@1497037418979786823> sweety —\n\ni think now is a good time to get back into your **linux operations** for this device.\n\nyou have your laptop you could play on… but if i had the workspace running on your **old setup**, it would be so much b",
+  "byEmoji": {
+    "👍": 1,
+    "vote_yes:1533005800908525698": 1,
+    "vote_no:1533005790829346937": 1,
+    "➖": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 3,
+    "all": 4
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "👍": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785609960914,
+  "updatedAt": 1785701390866
+}

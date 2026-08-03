@@ -1,0 +1,19 @@
+{
+  "messageId": "1533579075573252217",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Ava dream-state note** · 2026-08-02T20:55:43.867Z\nRoot Server dig failed: The operation was aborted due to timeout\n_Root Server unreachable — I'm cloud-side / dreaming. Chat OK; deep digs + deploys wait until I wake._",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785704152771,
+  "updatedAt": 1785704152771
+}

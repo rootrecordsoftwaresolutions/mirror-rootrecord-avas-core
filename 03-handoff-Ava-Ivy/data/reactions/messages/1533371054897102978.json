@@ -1,0 +1,19 @@
+{
+  "messageId": "1533371054897102978",
+  "channelId": "1516389376198840421",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "<@1413961145521410082> hey — what's your purpose here?",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785655725102,
+  "updatedAt": 1785655725102
+}

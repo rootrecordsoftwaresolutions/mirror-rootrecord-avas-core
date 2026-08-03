@@ -1,0 +1,19 @@
+{
+  "id": "host-site-primary-v1",
+  "label": "HI Pacific Solar Root Server",
+  "updated_at": "2026-08-03T19:15:00.000Z",
+  "locale": "HI Pacific",
+  "lat": 19.5558,
+  "lon": -155.1069,
+  "tz_offset_hours": -10,
+  "links": {
+    "starlink": true,
+    "solar": true,
+    "ecoflow": true,
+    "website": "https://rootmc.net",
+    "solar_board": "https://ava.rootmc.net/solar",
+    "solar_ops_discord": "https://discord.com/channels/1516108585740800042/1533915343766949949",
+    "solar_ops_channel_id": "1533915343766949949"
+  },
+  "notes": "Public name: HI Pacific Solar Root Server. Never publish the city. Weather uses private lat/lon for NWS. #solar-server (1533915343766949949) is solar server ops Discord. If ava.rootmc.net/solar does not connect, the Root Server is offline. Solar=panel input W; energy totals=Wh/kWh estimate."
+}

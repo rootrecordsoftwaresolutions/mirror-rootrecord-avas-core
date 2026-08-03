@@ -1,0 +1,8 @@
+{
+  "at": 1785708395168,
+  "url": "mqtt.ecoflow.com",
+  "port": "8883",
+  "protocol": "mqtts",
+  "certificateAccount": "open-17a92010054f4eb6a7fe36e590e27dac",
+  "certificatePassword": "6e6b594a8a174238b5f600d86bfc6c4b"
+}

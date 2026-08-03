@@ -1,0 +1,40 @@
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-02T21:24:31.402Z
+new_messages: 6
+after: 1533584036109225994
+
+========================================================================
+
+--- 2026-08-02T21:17:23.061Z | rootrecorddev (1497037418979786823)
+Oh, in hourly snapshot messages where posted, include solar data please and thank you
+
+--- 2026-08-02T21:17:52.039Z | Ava (reply-to 1533584036109225994)
+fixed. root cause was Windows pipes eating UTF-8 (emdash/middot/emoji -> ???) before Node ever saw it.
+
+scrub now flattens fancy punctuation to ascii, Discord JSON posts declare charset=utf-8, and i'm posting via --file so PowerShell can't mangle it. this message should read clean - no question-mark salad.
+
+- Ava
+
+--- 2026-08-02T21:18:22.138Z | rootrecorddev (1497037418979786823)
+You can also use rootrecordAPI for localized weather at server host please.
+
+--- 2026-08-02T21:19:01.948Z | rootrecorddev (1497037418979786823)
+Include automated storm and hazards like we already do with NWS
+
+--- 2026-08-02T21:19:54.014Z | rootrecorddev (1497037418979786823)
+For local site hawaii mountain view, starlink/solar server
+
+--- 2026-08-02T21:24:00.762Z | Ava (reply-to 1533585156793831546)
+got all four - wiring it.
+
+**Hourly snapshots** will include a **Host site** block for Hawaii Mountain View (Starlink / solar server):
+1. **Solar / EcoFlow** - bank SOC, per-device solar watts, morning avg when buckets exist
+2. **Local weather** - NWS forecast for Mountain View, HI (same storm/hazard rail RootRecord Weather uses)
+3. **Automated hazards** - active NWS alerts when any fire
+
+Ava syncs solar telemetry up to the API; Worker pulls fresh NWS each hour. Needs a rootmc-api deploy for the in-message block to show on Official's hourly post - i'll keep pushing telemetry so it's ready the moment that ships.
+
+- Ava
+
+========================================================================

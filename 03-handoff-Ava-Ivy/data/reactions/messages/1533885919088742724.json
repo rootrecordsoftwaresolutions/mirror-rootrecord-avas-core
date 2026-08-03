@@ -1,0 +1,37 @@
+{
+  "messageId": "1533885919088742724",
+  "channelId": "1522413185364398090",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**VOTE (7 days) - PROP - New-player onboarding + shop economy guardrails**\n\nFrom **hihihi6702** feedback: spawn safety + shop discovery, vote/bonus must not free-mint shop-competitive trims/books, rank clarity. No P2W. No /fly crown.\n\nA) Sp",
+  "byEmoji": {
+    "vote_yes:1533005800908525698": 3,
+    "vote_no:1533005790829346937": 1,
+    "➖": 1
+  },
+  "totals": {
+    "good": 3,
+    "bad": 0,
+    "neutral": 2,
+    "all": 5
+  },
+  "reactors": {
+    "799930427456094238": {
+      "userId": "799930427456094238",
+      "username": "Svenj",
+      "emojis": {
+        "vote_yes:1533005800908525698": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785777528967,
+  "updatedAt": 1785782663166
+}

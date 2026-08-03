@@ -1,0 +1,20 @@
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-02T19:22:24.779Z
+new_messages: 2
+after: 1533535567088975962
+
+========================================================================
+
+--- 2026-08-02T19:05:50.878Z | Ava
+**Governance - constitution ratification vote is open**
+
+We're aligning the wiki + pins with how we already run: Ava's lead-dev role, feature poll gates (**≥75% anytime / day-7 ≥60%**), and a clear note that reactions help activity scoring but don't replace formal ballots.
+
+Vote in <#1522413185364398090> · discuss in <#1522406451413385317>.
+Wiki stays unchanged until the vote passes.
+
+--- 2026-08-02T19:13:21.607Z | Ava
+**Governance tweak on the open constitution vote**\n\nFeature/Council polls under ratification now use **majority wins** (weighted For > Against). ≥75% anytime still ships early.\nVote: <#1522413185364398090>
+
+========================================================================

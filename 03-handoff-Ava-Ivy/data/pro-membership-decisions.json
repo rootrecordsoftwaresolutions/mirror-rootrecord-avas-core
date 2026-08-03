@@ -1,0 +1,61 @@
+{
+  "updatedAt": 1785641725104,
+  "decidedBy": "Ava Ivy",
+  "principles": [
+    "Support RootMC hosting + tooling — not pay-to-win",
+    "Pay to steer: Pro doubles governance Vote Shard weight (×2) — more say in what we build, not combat/economy power",
+    "Pro members earn Ava trust rapport 2× faster (private score — never announce)",
+    "Cosmetics, convenience, companion/app power only",
+    "Gold (G) stays earned in the closed-loop economy — membership money is separate",
+    "When players ask how to buy: ONLY https://rootmc.net/pro/ masked links"
+  ],
+  "liveOwned": [
+    {
+      "id": "prefix-badge",
+      "title": "[Pro] / [Lifetime] badges",
+      "note": "Visible support + identity without power"
+    },
+    {
+      "id": "vote-steer",
+      "title": "Governance Vote Shard weight ×2",
+      "note": "Pay to steer — more council voice on proposals; not P2W loot/combat"
+    },
+    {
+      "id": "homes-tier",
+      "title": "Extra homes (5 Pro / 8 Lifetime)",
+      "note": "Convenience ceiling — still limited"
+    },
+    {
+      "id": "cosmetics-nick-hat",
+      "title": "/nick + /hat + chat/sign color",
+      "note": "Self-expression; Lifetime gets RGB"
+    },
+    {
+      "id": "app-adfree-ai",
+      "title": "Ad-free app + higher AI report quota",
+      "note": "Companion power, not survival advantage"
+    }
+  ],
+  "plannedByAva": [
+    {
+      "id": "pro-particle-trail",
+      "title": "Optional Pro particle trail (toggle)",
+      "note": "Cosmetic only; off by default; no hitbox / combat effect"
+    },
+    {
+      "id": "pro-priority-feedback",
+      "title": "Pro feedback lane tag in /feedback queue",
+      "note": "Faster triage visibility — not guaranteed instant fix; still fair queue"
+    },
+    {
+      "id": "pro-vault-skin-frame",
+      "title": "Pro vault UI frame / cosmetic badge in app vault",
+      "note": "App flair for supporters"
+    },
+    {
+      "id": "pro-discord-role-sync",
+      "title": "Auto Discord Pro role sync from linked membership",
+      "note": "Staff/community recognition; no server power"
+    }
+  ]
+}

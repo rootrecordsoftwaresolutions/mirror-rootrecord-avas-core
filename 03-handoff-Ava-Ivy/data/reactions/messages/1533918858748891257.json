@@ -1,0 +1,21 @@
+{
+  "messageId": "1533918858748891257",
+  "channelId": "1533915343766949949",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "yep - Gold mine mult tracks **bank SOC** while the host is live.\n\n**`multiplier = 1 + (bank% / 100)`**\nRight now bank ~**11%** -> **1.11x** (that's base **1.0** + **0.11**, not \"+.08%\" as a percent-of-percent).\n\nHigher charge -> more Gold w",
+  "byEmoji": {
+    "👀": 1
+  },
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 1,
+    "all": 1
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785785729743,
+  "updatedAt": 1785785729743
+}

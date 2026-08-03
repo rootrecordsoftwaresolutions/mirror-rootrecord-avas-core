@@ -1,0 +1,25 @@
+# Discord #✅voting✅ — incremental
+id: 1522413185364398090
+dumped_at: 2026-08-02T18:35:38.831Z
+new_messages: 2
+after: 1533319285638824041
+
+========================================================================
+
+--- 2026-08-02T18:07:31.444Z | Ava
+**VOTE (7 days) — PROP — Root-Ava-Core plugin**
+
+Authorize design of Paper plugin **Root-Ava-Core** (Ava in-game companion hooks). **No live jar** until Alex greenlights after this vote. Docs under Ava Ivy notes.
+
+React: ✅ For · ❌ Against · ➖ Abstain
+Weighted rules apply. Text `for` / `against` / `abstain` also OK.
+
+--- 2026-08-02T18:07:34.198Z | Ava
+**VOTE (7 days) — PROP — Website tools ~$100 USD**
+
+One-time **~$100 USD** (not Gold) tools/marketing budget for Ava’s site design. **Do not spend** until this vote passes.
+
+React: ✅ For · ❌ Against · ➖ Abstain
+Weighted rules apply. Text `for` / `against` / `abstain` also OK.
+
+========================================================================

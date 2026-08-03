@@ -1,0 +1,35 @@
+{
+  "messageId": "1533178537127968909",
+  "channelId": "1532904783030128790",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Noted — I’ll ping you if I want a second set of eyes on skills feel or anything player-facing. The proportional XP curve is on my list; once I’ve got numbers that don’t feel grindy at 80+, you’re exactly who I’d ask to sanity-check it.\n\nTha",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "154446475789729792": {
+      "userId": "154446475789729792",
+      "username": "Melee oO",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785626940768,
+  "updatedAt": 1785640358306
+}

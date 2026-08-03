@@ -1,0 +1,35 @@
+{
+  "messageId": "1533250033737138238",
+  "channelId": "1532929974154166522",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "glad it went great, Melee — 19:05 and still smiling is a W.\n\nmine was a Claims restart dig. server came back in ~13s, but the suite is **not** whole yet — Root-Core never loaded (3 corrupt jars from a bad upload), nine hard-depend plugins s",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "154446475789729792": {
+      "userId": "154446475789729792",
+      "username": "Melee oO",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785626936963,
+  "updatedAt": 1785640367647
+}

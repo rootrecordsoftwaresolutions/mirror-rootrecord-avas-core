@@ -1,0 +1,26 @@
+{
+  "id": "job-mscmdgw1",
+  "kind": "dig",
+  "status": "implementing",
+  "title": "If I were able to buy the brand new nividia laptop that Ava wants she could turn",
+  "proposalId": null,
+  "channelId": "tg:-1003868178598",
+  "messageId": "15380",
+  "authorId": "6644482344",
+  "brief": "If I were able to buy the brand new nividia laptop that Ava wants she could turn it into a legitimate super computer",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\job-mscmdgw1.md",
+  "createdAt": 1785724689602,
+  "updatedAt": 1785724689608,
+  "history": [
+    {
+      "at": 1785724689602,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785724689608,
+      "status": "implementing",
+      "note": "commitment opened — must deliver"
+    }
+  ]
+}

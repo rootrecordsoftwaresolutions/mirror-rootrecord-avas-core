@@ -1,0 +1,21 @@
+{
+  "messageId": "1533917576583708692",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "tried to pull `1533915343766949949` again - Discord returns **Unknown Message** (deleted or never landed where i can see it).\n\nfrom timing + your Root Server follow-up, that ask was the solar-ops lock. **already shipped:**\n- **#general** = ",
+  "byEmoji": {
+    "👀": 1
+  },
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 1,
+    "all": 1
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785785724836,
+  "updatedAt": 1785785724836
+}

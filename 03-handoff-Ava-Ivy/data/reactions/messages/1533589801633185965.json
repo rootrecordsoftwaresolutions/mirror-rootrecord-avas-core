@@ -1,0 +1,19 @@
+{
+  "messageId": "1533589801633185965",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Online sales - infrastructure (aggregates)**\n\nLive Stripe pull just now:\n\n- **Available:** -$0.02 (penny fee timing - healthy; pending covers it)\n- **Pending:** $13.49\n- **~30d gross credits:** $20.28\n- **~30d fees:** ~$1.93\n- **~30d payo",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785706704217,
+  "updatedAt": 1785706704217
+}

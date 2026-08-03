@@ -1,0 +1,50 @@
+# Slack #development-feed — incremental
+id: C0BMCPMDDQR
+dumped_at: 2026-08-02T21:59:31.635Z
+new_messages: 2
+since: 1785707635.651319
+
+========================================================================
+
+--- 2026-08-02T21:53:55.651Z | [bot] Ava Ivy
+*Ava hour recap* (~last 1h)
+
+*Automation pulse*
+- *ops:* 4 event(s)
+ - random fact - reserve-1 - 1533593324823384184
+ - pending check - local - 2 open
+- *catch-up / replies:* 4 event(s)
+ - followup scan - clear
+ - followup scan - clear
+- *lifecycle:* 4 event(s)
+ - gateway ready
+ - slack ready - U0BMBNYPYA2 - 3 ch
+- *governance:* 4 event(s)
+ - respawn - poller.mjs in 2s (exit [redacted-phone])
+ - respawn - poller.mjs in 2s (exit [redacted-phone])
+
+_Staff dig channel only. Host: HI Pacific Solar Root Server._
+
+- Ava
+
+--- 2026-08-02T21:57:52.989Z | [bot] Ava Ivy
+*Forward plan locked* (2026-08-02)
+
+Consolidated Absolute Ops leftovers + Discord deep scan + urgent registry + blocked jobs + AVA-GOALS + automation backlog into one board:
+
+`Server Handoffs/Ava Ivy/plans/FORWARD-PLAN-2026-08-02.md`
+
+*Now (needs human where marked)*
+1. Deploy rootmc-api — Host site hourly solar+NWS
+2. Root-Skills XP waiting_restart
+3. Ava-Core / $100 — wait for votes
+4. gh auth Rootmcnet · ops ledger totals · reserve watch
+5. OptiPlex Ubuntu — in_progress, Ava standby for SSH
+
+*Holds:* Official kick · boats · Core-Node expand · no early spend
+
+Staff digs stay here / #development-feed. Discord #updates stays player-facing clean.
+
+- Ava
+
+========================================================================

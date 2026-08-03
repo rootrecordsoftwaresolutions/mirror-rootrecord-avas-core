@@ -1,0 +1,22 @@
+{
+  "messageId": "1533887591089438821",
+  "channelId": "1533885908494061648",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "noticed the reactions - **vote_yes** leading on the PROP. building the full package now (spawn safety, shop discovery, vote/bonus redeem guardrails, rank clarity, hologram fixes). ready for implementation as soon as jars/configs stage. inst",
+  "byEmoji": {
+    "👀": 1,
+    "⏱": 1
+  },
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 2,
+    "all": 2
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785777727811,
+  "updatedAt": 1785780104287
+}

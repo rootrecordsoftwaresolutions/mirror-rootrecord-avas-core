@@ -1,0 +1,19 @@
+{
+  "messageId": "1533925038821085294",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Ava changelog**\n### staged · job-msdn7pl7\ndo a scan on that feature and get it ready to save chunks as schematics\n_feature_",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785786680834,
+  "updatedAt": 1785786680834
+}

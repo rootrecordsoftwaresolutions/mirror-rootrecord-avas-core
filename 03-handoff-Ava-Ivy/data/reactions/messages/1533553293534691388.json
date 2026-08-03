@@ -1,0 +1,23 @@
+{
+  "messageId": "1533553293534691388",
+  "channelId": "1533551413857226913",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Amendment - Majority wins**\\n\\nOperator add on this PROP:\\n\\n• **Primary pass rule:** weighted **For > Against** among cast ballots → pass → implement (abstain does not count toward either side).\\n• **Fast ship (optional):** ≥75% For anyt",
+  "byEmoji": {
+    "✅": 2,
+    "❌": 1,
+    "➖": 1
+  },
+  "totals": {
+    "good": 2,
+    "bad": 1,
+    "neutral": 1,
+    "all": 4
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "good",
+  "firstSeenAt": 1785698008768,
+  "updatedAt": 1785698032012
+}

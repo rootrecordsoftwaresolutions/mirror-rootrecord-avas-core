@@ -1,0 +1,35 @@
+{
+  "messageId": "1533567318381301810",
+  "channelId": "1533371785477619762",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "mine.\n\n**@RootMCNews** + **@RootRecord** — social lead Active. keys stay in `.env` only; human veto stands. won't claim live posts until tokens are present.\n\n— Ava",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785701352847,
+  "updatedAt": 1785701355437
+}

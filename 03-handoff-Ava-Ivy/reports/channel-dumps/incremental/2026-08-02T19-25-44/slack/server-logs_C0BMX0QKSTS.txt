@@ -1,0 +1,173 @@
+# Slack #server-logs — incremental
+id: C0BMX0QKSTS
+dumped_at: 2026-08-02T19:25:59.989Z
+new_messages: 5
+since: 1785697258.519659
+
+========================================================================
+
+--- 2026-08-02T19:00:58.386Z | [bot] incoming-webhook
+[T] server logs for the last hour
+```[2026-08-02T18:00:53.599Z] [INFO] [RootMC-Official] Hourly log batch queued to Slack/Discord (rootmc-server-log-20260802-180053.log).
+[2026-08-02T18:00:53.601Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T18:00:53.699Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:00:53.705Z] [INFO] [Root-Core] Root-Core updater: no downloads (up-to-date=24 skipped=1)
+[2026-08-02T18:00:53.763Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:00:54.241Z] [INFO] [Root-Core] Root-Core comms: posted server log rootmc-server-log-20260802-180053.log to Slack #server-logs.
+[2026-08-02T18:01:00.549Z] [INFO] [Towny] Time until a New Day: 19 minutes
+[2026-08-02T18:01:53.752Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:02:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:02:53.801Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:03:53.763Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:04:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:04:53.764Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:05:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T18:05:53.791Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:06:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:06:53.768Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:07:53.772Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:08:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:08:53.758Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:09:53.761Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:10:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T18:10:53.699Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:10:53.787Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:11:53.792Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:12:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:12:53.772Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:13:53.769Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:14:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:14:53.766Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:15:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T18:15:53.777Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+
+--- 2026-08-02T19:00:58.418Z | [bot] incoming-webhook
+[2026-08-02T18:16:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:16:53.766Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:17:53.752Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:18:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:18:53.761Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:19:53.757Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:20:00.551Z] [INFO] [Towny] Towny DailyTimerTask took 1ms to process.
+[2026-08-02T18:20:00.551Z] [INFO] [Towny] Cleaning up old backups...
+[2026-08-02T18:20:00.556Z] [INFO] [Towny] Successfully cleaned backups.
+[2026-08-02T18:20:00.556Z] [INFO] [Towny] Making backup...
+[2026-08-02T18:20:00.557Z] [INFO] [Towny] ***** Warning *****
+[2026-08-02T18:20:00.557Z] [INFO] [Towny] ***** Only Snapshots &amp; Regen files in plugins/Towny/data/ will be backed up!
+[2026-08-02T18:20:00.557Z] [INFO] [Towny] ***** This does not include your residents/towns/nations.
+[2026-08-02T18:20:00.557Z] [INFO] [Towny] ***** Make sure you have scheduled a backup in MySQL too!!!
+[2026-08-02T18:20:00.557Z] [INFO] [Towny] ***** If you already have backups or accept the risk, this message can be disabled in the database config.
+[2026-08-02T18:20:00.648Z] [INFO] [Towny] Towny flatfiles and settings successfully backed up.
+[2026-08-02T18:20:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T18:20:53.716Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:20:53.782Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:21:00.549Z] [INFO] [Towny] Time until a New Day: 19 minutes
+[2026-08-02T18:21:53.785Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:22:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:22:53.771Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:23:53.753Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:24:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:24:53.766Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:25:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T18:25:53.769Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:26:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:26:53.768Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:27:53.747Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:28:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:28:53.759Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:29:53.777Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:30:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+
+--- 2026-08-02T19:00:58.457Z | [bot] incoming-webhook
+[2026-08-02T18:30:53.699Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:30:53.767Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:31:53.786Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:32:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:32:53.766Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:33:53.773Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:34:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T18:34:53.743Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:35:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T18:35:53.78Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:36:43.52Z] [INFO] [Root-ItemInfo] Item census updated — reason=join players=1 containers=1011 skippedDupContainers=0 groundStacks=22 chunks=48 marketKeys=0 distinct=252
+[2026-08-02T18:36:43.755Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (252 items).
+[2026-08-02T18:36:57.68Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:37:57.688Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:38:04.499Z] [INFO] [RootMC] MC day rollover 29735004 -&gt; 29735005: towny, bonds, town tax, inactivity tax, payouts, heartbeat, cloud sync.
+[2026-08-02T18:38:04.499Z] [INFO] [Root-Webstat] Vanilla day 29735004 → 29735005 — recomputing webstat.
+[2026-08-02T18:38:04.502Z] [INFO] [Root-Economy] Towny new-day invoked via NewDayScheduler#newDay
+[2026-08-02T18:38:04.502Z] [INFO] [Towny] Cleaning up old backups...
+[2026-08-02T18:38:04.503Z] [INFO] [Towny] Towny DailyTimerTask took 1ms to process.
+[2026-08-02T18:38:04.508Z] [INFO] [Towny] Successfully cleaned backups.
+[2026-08-02T18:38:04.509Z] [INFO] [Towny] Making backup...
+[2026-08-02T18:38:04.509Z] [INFO] [Towny] ***** Warning *****
+[2026-08-02T18:38:04.509Z] [INFO] [Towny] ***** Only Snapshots &amp; Regen files in plugins/Towny/data/ will be backed up!
+[2026-08-02T18:38:04.509Z] [INFO] [Towny] ***** This does not include your residents/towns/nations.
+[2026-08-02T18:38:04.509Z] [INFO] [Towny] ***** Make sure you have scheduled a backup in MySQL too!!!
+[2026-08-02T18:38:04.509Z] [INFO] [Towny] ***** If you already have backups or accept the risk, this message can be disabled in the database config.
+[2026-08-02T18:38:04.63Z] [INFO] [Towny] Towny flatfiles and settings successfully backed up.
+[2026-08-02T18:38:04.676Z] [INFO] [Root-Economy] Bond MC day 29735004 settled — gross inflow 3.146 G, pool 0.787 G, holders 5.
+[2026-08-02T18:38:05.207Z] [INFO] [Root-Economy] Town daily tax MC day 29735004: 3 town(s), total 1.573 G.
+[2026-08-02T18:38:05.455Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T18:38:05.558Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T18:38:05.835Z] [WARNING] [RootMC] Cloud sync failed: HTTP 502: error code: 502
+
+java.io.IOException: HTTP 502: error code: 502
+
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchangeOnce(CloudApiClient.java:1113)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchange(CloudApiClient.java:1080)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.get(CloudApiClient.java:1016)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.sync(CloudApiClient.java:137)
+
+--- 2026-08-02T19:00:58.500Z | [bot] incoming-webhook
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.sync.SyncTask.syncLinkedPlayers(SyncTask.java:378)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.sync.SyncTask.runSync(SyncTask.java:336)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.sync.SyncTask.runSyncSafe(SyncTask.java:313)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.sync.SyncTask.lambda$runMcDayCloudSync$1(SyncTask.java:291)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+[2026-08-02T18:38:05.849Z] [INFO] [RootMC] Minecraft day economy pipeline complete.
+[2026-08-02T18:38:06.131Z] [INFO] [Root-Webstat] Webstat pushed to cloud (200).
+[2026-08-02T18:38:57.817Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=23 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T18:38:57.901Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:38:58.096Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (253 items).
+[2026-08-02T18:39:04.699Z] [INFO] [Towny] Time until a New Day: 56 seconds
+[2026-08-02T18:39:57.935Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:40:00.701Z] [INFO] [Towny] Cleaning up old backups...
+[2026-08-02T18:40:00.701Z] [INFO] [Towny] Towny DailyTimerTask took 1ms to process.
+[2026-08-02T18:40:00.706Z] [INFO] [Towny] Successfully cleaned backups.
+[2026-08-02T18:40:00.707Z] [INFO] [Towny] Making backup...
+[2026-08-02T18:40:00.707Z] [INFO] [Towny] ***** Warning *****
+[2026-08-02T18:40:00.707Z] [INFO] [Towny] ***** Only Snapshots &amp; Regen files in plugins/Towny/data/ will be backed up!
+[2026-08-02T18:40:00.707Z] [INFO] [Towny] ***** This does not include your residents/towns/nations.
+[2026-08-02T18:40:00.707Z] [INFO] [Towny] ***** Make sure you have scheduled a backup in MySQL too!!!
+[2026-08-02T18:40:00.707Z] [INFO] [Towny] ***** If you already have backups or accept the risk, this message can be disabled in the database config.
+[2026-08-02T18:40:00.815Z] [INFO] [Towny] Towny flatfiles and settings successfully backed up.
+[2026-08-02T18:40:57.75Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T18:40:57.866Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=21 chunks=48 marketKeys=0 distinct=254
+[2026-08-02T18:40:57.913Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:41:00.699Z] [INFO] [Towny] Time until a New Day: 19 minutes
+[2026-08-02T18:41:01.256Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T18:41:01.352Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T18:41:57.917Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:42:57.811Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=20 chunks=48 marketKeys=0 distinct=254
+[2026-08-02T18:42:57.903Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:42:58.045Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (254 items).
+[2026-08-02T18:43:57.914Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T18:44:57.811Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=19 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T18:44:57.903Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+
+--- 2026-08-02T19:00:58.519Z | [bot] incoming-webhook
+[2026-08-02T18:45:57.75Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[20
+
+========================================================================

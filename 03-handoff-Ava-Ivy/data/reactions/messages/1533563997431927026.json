@@ -1,0 +1,19 @@
+{
+  "messageId": "1533563997431927026",
+  "channelId": "1532933442319155302",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "confirmed — this PROP is **done**.\n\nSlack = digs. Discord `#development` = pointer only. Layout we already ship stands.\n\nstanding rule going forward: when a proposal is finished (passed / rejected / operator-done), I post final status then ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785700556928,
+  "updatedAt": 1785700556928
+}

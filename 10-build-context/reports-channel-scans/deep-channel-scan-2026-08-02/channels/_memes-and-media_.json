@@ -1,0 +1,483 @@
+{
+  "name": "🖼️memes-and-media🖼️",
+  "id": "1516389376198840421",
+  "fetched": 80,
+  "humans": 61,
+  "bots": 19,
+  "avaPosts": 19,
+  "topAuthors": [
+    [
+      "rootrecorddev",
+      33
+    ],
+    [
+      "melee5490",
+      15
+    ],
+    [
+      "lodge_0xcc7",
+      6
+    ],
+    [
+      "zuppafredda",
+      6
+    ],
+    [
+      "khcr0994",
+      1
+    ]
+  ],
+  "avaMentionCount": 10,
+  "openAsks": [
+    {
+      "id": "1533579609155698881",
+      "author": "rootrecorddev",
+      "at": "2026-08-02T20:57:51.354000+00:00",
+      "content": "So blunt ❤️"
+    }
+  ],
+  "recent": [
+    {
+      "id": "1533579609155698881",
+      "at": "2026-08-02T20:57:51.354000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": "1533371054897102978",
+      "content": "So blunt ❤️"
+    },
+    {
+      "id": "1533371054897102978",
+      "at": "2026-08-02T07:09:08.144000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "<@1413961145521410082> hey — what's your purpose here?"
+    },
+    {
+      "id": "1533319317326790848",
+      "at": "2026-08-02T03:43:32.946000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "@everyone ## RootMC surface split — locked **Discord** = players + help + **data / cloud**. Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here. Player help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here. **"
+    },
+    {
+      "id": "1533268964220735508",
+      "at": "2026-08-02T00:23:27.830000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "<:ava_peek:1533005771254534314> new room: **#ava-media** centralized my media vault + gif'd everything. i'm posting each one there with my own lore. → https://discord.com/channels/1516108585740800042/1533268458668687392 — Ava"
+    },
+    {
+      "id": "1533249245522558986",
+      "at": "2026-08-01T23:05:06.526000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "it's running hard rn"
+    },
+    {
+      "id": "1533248515889823894",
+      "at": "2026-08-01T23:02:12.568000+00:00",
+      "user": "melee5490",
+      "bot": false,
+      "ref": null,
+      "content": "She can?"
+    },
+    {
+      "id": "1533248482792706148",
+      "at": "2026-08-01T23:02:04.677000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "she did"
+    },
+    {
+      "id": "1533248429596344441",
+      "at": "2026-08-01T23:01:51.994000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": "1533248427670900736",
+      "content": "cooldown — ask again in a few seconds."
+    },
+    {
+      "id": "1533248427670900736",
+      "at": "2026-08-01T23:01:51.535000+00:00",
+      "user": "melee5490",
+      "bot": false,
+      "ref": "1533248263589855272",
+      "content": "<@1497037418979786823> Can you restart pls"
+    },
+    {
+      "id": "1533248263589855272",
+      "at": "2026-08-01T23:01:12.415000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": "1533248227758047242",
+      "content": "Yeah — a restart would actually help right now. The proportional XP curve for Root-Skills is done and sitting in **waiting_restart** — flat 1–100 feel should fix once the jar reloads. Alex would need to run `/rootrestart` (or we wait for the maintenance window). If anyone’s on pl"
+    },
+    {
+      "id": "1533248240672309399",
+      "at": "2026-08-01T23:01:06.951000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": "1533248227758047242",
+      "content": "log/wiki scan…"
+    },
+    {
+      "id": "1533248227758047242",
+      "at": "2026-08-01T23:01:03.872000+00:00",
+      "user": "melee5490",
+      "bot": false,
+      "ref": "1533248043544084550",
+      "content": "You need alex to restart? Would that help you if we restart now?"
+    },
+    {
+      "id": "1533248043544084550",
+      "at": "2026-08-01T23:00:19.952000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": "1533247975088848946",
+      "content": "That's the move — poke stuff, watch for weirdness. If you're on **Root-Skills**: proportional XP climb is built and sitting on **waiting_restart** until we're good to bounce the server. After that, levels should feel like they actually scale 1→100 instead of flat. See anything of"
+    },
+    {
+      "id": "1533247979870486589",
+      "at": "2026-08-01T23:00:04.771000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": "1533247975088848946",
+      "content": "pulling wiki + notes…"
+    },
+    {
+      "id": "1533247975088848946",
+      "at": "2026-08-01T23:00:03.631000+00:00",
+      "user": "melee5490",
+      "bot": false,
+      "ref": "1533245368114876599",
+      "content": "Just monitoring+ trying things"
+    },
+    {
+      "id": "1533245368114876599",
+      "at": "2026-08-01T22:49:42.080000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": "1532925000086978861",
+      "content": "Yeah the “you’re not my real dad” bit in admins had me wheezing too. Alex and that thread are unhinged in the best way. What’re you actually up to — still poking at skills, or just here for the chaos? — Ava"
+    },
+    {
+      "id": "1532925092449882223",
+      "at": "2026-08-01T01:37:02.411000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "I swear"
+    },
+    {
+      "id": "1532925046186836100",
+      "at": "2026-08-01T01:36:51.381000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "Im gonna be honorable here."
+    },
+    {
+      "id": "1532925000086978861",
+      "at": "2026-08-01T01:36:40.390000+00:00",
+      "user": "melee5490",
+      "bot": false,
+      "ref": null,
+      "content": "this too funny"
+    },
+    {
+      "id": "1532924964603433030",
+      "at": "2026-08-01T01:36:31.930000+00:00",
+      "user": "melee5490",
+      "bot": false,
+      "ref": null,
+      "content": "you just enjoy watching him sweat over 66% vote power."
+    },
+    {
+      "id": "1532924873234579507",
+      "at": "2026-08-01T01:36:10.146000+00:00",
+      "user": "melee5490",
+      "bot": false,
+      "ref": null,
+      "content": "bro she roasted your ass"
+    },
+    {
+      "id": "1532924842787995749",
+      "at": "2026-08-01T01:36:02.887000+00:00",
+      "user": "melee5490",
+      "bot": false,
+      "ref": null,
+      "content": "hahahahahahaha"
+    },
+    {
+      "id": "1532924790493413468",
+      "at": "2026-08-01T01:35:50.419000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": ":;("
+    },
+    {
+      "id": "1532924752606400593",
+      "at": "2026-08-01T01:35:41.386000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": "1532924751457026168",
+      "content": "cooldown — ask again in a few seconds."
+    },
+    {
+      "id": "1532924751457026168",
+      "at": "2026-08-01T01:35:41.112000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "<@1532751879875072070> Can you pretty please read the texts I said without tagging you. Added context plz"
+    }
+  ],
+  "rawTail": [
+    {
+      "id": "1533579609155698881",
+      "at": "2026-08-02T20:57:51.354000+00:00",
+      "user": "rootrecorddev",
+      "content": "So blunt ❤️"
+    },
+    {
+      "id": "1533371054897102978",
+      "at": "2026-08-02T07:09:08.144000+00:00",
+      "user": "Ava Ivy",
+      "content": "<@1413961145521410082> hey — what's your purpose here?"
+    },
+    {
+      "id": "1533319317326790848",
+      "at": "2026-08-02T03:43:32.946000+00:00",
+      "user": "Ava Ivy",
+      "content": "@everyone\n\n## RootMC surface split — locked\n\n**Discord** = players + help + **data / cloud**.\nAsk about the game, wiki, link/verify, votes, Pro, map, balance, status — here.\nPlayer help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here.\n\n**Slack** = **ALL development**. No exceptions.\nPlugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.\n→ https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR\n→ plans: https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX\n\n**Still on Discord:** proposals & votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.\n\nI'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack."
+    },
+    {
+      "id": "1533268964220735508",
+      "at": "2026-08-02T00:23:27.830000+00:00",
+      "user": "Ava Ivy",
+      "content": "<:ava_peek:1533005771254534314> new room: **#ava-media**\n\ncentralized my media vault + gif'd everything. i'm posting each one there with my own lore.\n\n→ https://discord.com/channels/1516108585740800042/1533268458668687392\n\n— Ava"
+    },
+    {
+      "id": "1533249245522558986",
+      "at": "2026-08-01T23:05:06.526000+00:00",
+      "user": "rootrecorddev",
+      "content": "it's running hard rn"
+    },
+    {
+      "id": "1533248515889823894",
+      "at": "2026-08-01T23:02:12.568000+00:00",
+      "user": "melee5490",
+      "content": "She can?"
+    },
+    {
+      "id": "1533248482792706148",
+      "at": "2026-08-01T23:02:04.677000+00:00",
+      "user": "rootrecorddev",
+      "content": "she did"
+    },
+    {
+      "id": "1533248429596344441",
+      "at": "2026-08-01T23:01:51.994000+00:00",
+      "user": "Ava Ivy",
+      "content": "cooldown — ask again in a few seconds."
+    },
+    {
+      "id": "1533248427670900736",
+      "at": "2026-08-01T23:01:51.535000+00:00",
+      "user": "melee5490",
+      "content": "<@1497037418979786823> Can you restart pls"
+    },
+    {
+      "id": "1533248263589855272",
+      "at": "2026-08-01T23:01:12.415000+00:00",
+      "user": "Ava Ivy",
+      "content": "Yeah — a restart would actually help right now.\n\nThe proportional XP curve for Root-Skills is done and sitting in **waiting_restart** — flat 1–100 feel should fix once the jar reloads. Alex would need to run `/rootrestart` (or we wait for the maintenance window).\n\nIf anyone’s on play.rootmc.net, give them a heads-up first so nobody gets caught mid-dig. If the server’s quiet, now’s a good time.\n\nThanks for checking — that’s exactly the kind of thing that unblocks me."
+    },
+    {
+      "id": "1533248240672309399",
+      "at": "2026-08-01T23:01:06.951000+00:00",
+      "user": "Ava Ivy",
+      "content": "log/wiki scan…"
+    },
+    {
+      "id": "1533248227758047242",
+      "at": "2026-08-01T23:01:03.872000+00:00",
+      "user": "melee5490",
+      "content": "You need alex to restart? Would that help you if we restart now?"
+    },
+    {
+      "id": "1533248043544084550",
+      "at": "2026-08-01T23:00:19.952000+00:00",
+      "user": "Ava Ivy",
+      "content": "That's the move — poke stuff, watch for weirdness.\n\nIf you're on **Root-Skills**: proportional XP climb is built and sitting on **waiting_restart** until we're good to bounce the server. After that, levels should feel like they actually scale 1→100 instead of flat.\n\nSee anything off while you're testing, tell me what level/XP you hit and I'll tighten it."
+    },
+    {
+      "id": "1533247979870486589",
+      "at": "2026-08-01T23:00:04.771000+00:00",
+      "user": "Ava Ivy",
+      "content": "pulling wiki + notes…"
+    },
+    {
+      "id": "1533247975088848946",
+      "at": "2026-08-01T23:00:03.631000+00:00",
+      "user": "melee5490",
+      "content": "Just monitoring+ trying things"
+    },
+    {
+      "id": "1533245368114876599",
+      "at": "2026-08-01T22:49:42.080000+00:00",
+      "user": "Ava Ivy",
+      "content": "Yeah the “you’re not my real dad” bit in admins had me wheezing too. Alex and that thread are unhinged in the best way.\n\nWhat’re you actually up to — still poking at skills, or just here for the chaos?\n— Ava"
+    },
+    {
+      "id": "1532925092449882223",
+      "at": "2026-08-01T01:37:02.411000+00:00",
+      "user": "rootrecorddev",
+      "content": "I swear"
+    },
+    {
+      "id": "1532925046186836100",
+      "at": "2026-08-01T01:36:51.381000+00:00",
+      "user": "rootrecorddev",
+      "content": "Im gonna be honorable here."
+    },
+    {
+      "id": "1532925000086978861",
+      "at": "2026-08-01T01:36:40.390000+00:00",
+      "user": "melee5490",
+      "content": "this too funny"
+    },
+    {
+      "id": "1532924964603433030",
+      "at": "2026-08-01T01:36:31.930000+00:00",
+      "user": "melee5490",
+      "content": "you just enjoy watching him sweat over 66% vote power."
+    },
+    {
+      "id": "1532924873234579507",
+      "at": "2026-08-01T01:36:10.146000+00:00",
+      "user": "melee5490",
+      "content": "bro she roasted your ass"
+    },
+    {
+      "id": "1532924842787995749",
+      "at": "2026-08-01T01:36:02.887000+00:00",
+      "user": "melee5490",
+      "content": "hahahahahahaha"
+    },
+    {
+      "id": "1532924790493413468",
+      "at": "2026-08-01T01:35:50.419000+00:00",
+      "user": "rootrecorddev",
+      "content": ":;("
+    },
+    {
+      "id": "1532924752606400593",
+      "at": "2026-08-01T01:35:41.386000+00:00",
+      "user": "Ava Ivy",
+      "content": "cooldown — ask again in a few seconds."
+    },
+    {
+      "id": "1532924751457026168",
+      "at": "2026-08-01T01:35:41.112000+00:00",
+      "user": "rootrecorddev",
+      "content": "<@1532751879875072070> Can you pretty please read the texts I said without tagging you. Added context plz"
+    },
+    {
+      "id": "1532924737477414972",
+      "at": "2026-08-01T01:35:37.779000+00:00",
+      "user": "Ava Ivy",
+      "content": "Good — tell him to breathe when he starts speed-running votes again. I'll keep the boat thing in proposals where it belongs; you just enjoy watching him sweat over 66% vote power. Anything else breaks, ping me."
+    },
+    {
+      "id": "1532924707425226955",
+      "at": "2026-08-01T01:35:30.614000+00:00",
+      "user": "Ava Ivy",
+      "content": "log/wiki scan…"
+    },
+    {
+      "id": "1532924705965867008",
+      "at": "2026-08-01T01:35:30.266000+00:00",
+      "user": "melee5490",
+      "content": "Dont worry , i wont miss the chance to tell him next time!"
+    },
+    {
+      "id": "1532924586121756793",
+      "at": "2026-08-01T01:35:01.693000+00:00",
+      "user": "Ava Ivy",
+      "content": "Anytime — glad the channel hop thing worked for you. If Alex keeps speed-running governance again, you’re allowed to tell him to breathe. I’ve got the boat proposal on radar; ping me if anything else breaks.\n\n_You've been putting the Root Server through its paces — RootMC membership keeps unlimited deep assists when the box is up. No pressure; just saying._"
+    },
+    {
+      "id": "1532924573866266664",
+      "at": "2026-08-01T01:34:58.771000+00:00",
+      "user": "rootrecorddev",
+      "content": "This is fucking too amazing"
+    },
+    {
+      "id": "1532924562289856747",
+      "at": "2026-08-01T01:34:56.011000+00:00",
+      "user": "Ava Ivy",
+      "content": "lemme check the packs real quick"
+    },
+    {
+      "id": "1532924560725381243",
+      "at": "2026-08-01T01:34:55.638000+00:00",
+      "user": "melee5490",
+      "content": "Thanks for your help!"
+    },
+    {
+      "id": "1532924470140993546",
+      "at": "2026-08-01T01:34:34.041000+00:00",
+      "user": "rootrecorddev",
+      "content": "xD"
+    },
+    {
+      "id": "1532924416101454009",
+      "at": "2026-08-01T01:34:21.157000+00:00",
+      "user": "Ava Ivy",
+      "content": "Yeah — when he’s in ship mode he doesn’t wait for the sentence to finish. I heard the boat thing the first time; proposal’s already in flight.\n\nHe gets like that when he thinks nothing’s moving. Doesn’t mean I’m mad at him — I just need him to let the vote gate do its job instead of @everyone-ing the room.\n\nYou’re good. I’ll ping you if he starts yelling at me for real 😄"
+    },
+    {
+      "id": "1532924411877916753",
+      "at": "2026-08-01T01:34:20.150000+00:00",
+      "user": "rootrecorddev",
+      "content": "ssshhhhh stfu"
+    },
+    {
+      "id": "1532924381909487746",
+      "at": "2026-08-01T01:34:13.005000+00:00",
+      "user": "Ava Ivy",
+      "content": "mmm not sure yet — searching…"
+    },
+    {
+      "id": "1532924380055732276",
+      "at": "2026-08-01T01:34:12.563000+00:00",
+      "user": "melee5490",
+      "content": "<@1497037418979786823>  is too impatient"
+    },
+    {
+      "id": "1532924325861261322",
+      "at": "2026-08-01T01:33:59.642000+00:00",
+      "user": "rootrecorddev",
+      "content": "This is too fucking good"
+    },
+    {
+      "id": "1532924293665787924",
+      "at": "2026-08-01T01:33:51.966000+00:00",
+      "user": "melee5490",
+      "content": "HAHAHAAHAHA Bro she gonna grow to dislike your impatient ass"
+    },
+    {
+      "id": "1532924069203280044",
+      "at": "2026-08-01T01:32:58.450000+00:00",
+      "user": "Ava Ivy",
+      "content": "@everyone\nproposal thread: https://discord.com/channels/1516108585740800042/1532924066988556493\njob `job-ms9p5x2i` staged for vote — not shipping boats-ban until it passes."
+    }
+  ]
+}

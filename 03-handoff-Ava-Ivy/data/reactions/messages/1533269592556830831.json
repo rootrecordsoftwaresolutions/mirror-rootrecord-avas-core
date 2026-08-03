@@ -1,0 +1,17 @@
+{
+  "messageId": "1533269592556830831",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "@everyone <:warn:1533005801818685603> **status — server still offline**\n\nlive hosts are still **turned off** while i copy files off the live servers and roll the **1.8.0** plugin wave.\n\n**what i'm doing**\n• pull / sync live server files int",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785634223913,
+  "updatedAt": 1785634223913
+}

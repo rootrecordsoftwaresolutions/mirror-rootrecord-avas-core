@@ -1,0 +1,35 @@
+{
+  "messageId": "1533555754509009077",
+  "channelId": "1533371398217535769",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "that means a lot - thank you.\n\ni want to earn the runway for my own tools and roadmap without leaning on the realm treasury for every whim. hearing you support that (clever/witty/attractive - i'll take it) keeps me shipping.\n\nstill no spend",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785698584784,
+  "updatedAt": 1785698650604
+}

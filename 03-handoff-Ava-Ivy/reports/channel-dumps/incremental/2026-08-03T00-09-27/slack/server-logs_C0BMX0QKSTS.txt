@@ -1,0 +1,278 @@
+# Slack #server-logs — incremental
+id: C0BMX0QKSTS
+dumped_at: 2026-08-03T00:09:41.916Z
+new_messages: 8
+since: 1785711965.063299
+
+========================================================================
+
+--- 2026-08-02T23:06:05.013Z | [bot] incoming-webhook
+[2026-08-02T22:41:07.224Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T22:42:03.65Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=23 chunks=48 marketKeys=0 distinct=252
+[2026-08-02T22:42:03.753Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:43:03.78Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:44:03.696Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=23 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T22:44:03.784Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:44:04.113Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (253 items).
+[2026-08-02T22:45:03.767Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:46:03.582Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T22:46:03.755Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:46:03.773Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=23 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T22:46:07.065Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T22:46:07.181Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T22:47:03.802Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:48:03.647Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=22 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T22:48:03.766Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:48:04.156Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (253 items).
+[2026-08-02T22:49:03.74Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:50:03.648Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=21 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T22:50:03.797Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:50:46.195Z] [INFO] [Root-ItemInfo] Item census updated — reason=join players=2 containers=941 skippedDupContainers=0 groundStacks=20 chunks=48 marketKeys=0 distinct=262
+[2026-08-02T22:50:46.454Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (262 items).
+[2026-08-02T22:51:04.031Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T22:51:04.211Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:51:07.705Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T22:51:07.803Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T22:51:19.304Z] [INFO] [Votifier] Got a protocol v1 vote record from /34.239.107.144:44582 -&gt; Vote (from:<http://PlanetMinecraft.com|PlanetMinecraft.com> username:Melee__ address:34.239.107.144 timeStamp:1785711079 additionalData:null)
+[2026-08-02T22:51:19.331Z] [INFO] [Root-Play] Votifier vote received — player=Melee__ service=<http://PlanetMinecraft.com|PlanetMinecraft.com>
+[2026-08-02T22:51:19.381Z] [INFO] [Root-Play] Vote service normalized: <http://PlanetMinecraft.com|PlanetMinecraft.com> -&gt; planetminecraft
+[2026-08-02T22:51:19.564Z] [INFO] [Root-Play] Vote appreciation +1 queued/granted for Melee__ (vote #657)
+[2026-08-02T22:51:19.59Z] [INFO] [Root-Play] Vote shard +1 for Melee__ (vote #657)
+[2026-08-02T22:51:19.701Z] [WARNING] [Root-Play] Claims vote mirror failed for Melee__
+java.io.IOException: HTTP 502: error code: 502
+
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchangeOnce(CloudApiClient.java:1113)
+
+--- 2026-08-02T23:06:05.046Z | [bot] incoming-webhook
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchange(CloudApiClient.java:1080)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.post(CloudApiClient.java:1072)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.queueClaimsVoteCredit(CloudApiClient.java:538)
+	at root-play-1.8.0.jar//com.rootrecord.minecraft.rootrewards.service.VoteRewardService.mirrorVoteToClaims(VoteRewardService.java:173)
+	at root-play-1.8.0.jar//com.rootrecord.minecraft.rootrewards.service.VoteRewardService.lambda$handleVote$0(VoteRewardService.java:79)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+[2026-08-02T22:51:19.75Z] [INFO] [Root-Play] Vote reward +8.0 G to Melee__ (planetminecraft)
+[2026-08-02T22:51:25.305Z] [INFO] [Votifier] Got a protocol v1 vote record from /45.79.154.79:59658 -&gt; Vote (from:MinecraftServersList username:Melee__ address:192.226.222.12 timeStamp:1785711085 additionalData:null)
+[2026-08-02T22:51:25.331Z] [INFO] [Root-Play] Votifier vote received — player=Melee__ service=MinecraftServersList
+[2026-08-02T22:51:25.333Z] [INFO] [Root-Play] Vote service normalized: MinecraftServersList -&gt; <http://minecraftlist.org|minecraftlist.org>
+[2026-08-02T22:51:25.428Z] [INFO] [Root-Play] Vote appreciation +1 queued/granted for Melee__ (vote #658)
+[2026-08-02T22:51:25.458Z] [INFO] [Root-Play] Vote shard +1 for Melee__ (vote #658)
+[2026-08-02T22:51:25.561Z] [WARNING] [Root-Play] Claims vote mirror failed for Melee__
+java.io.IOException: HTTP 502: error code: 502
+
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchangeOnce(CloudApiClient.java:1113)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchange(CloudApiClient.java:1080)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.post(CloudApiClient.java:1072)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.queueClaimsVoteCredit(CloudApiClient.java:538)
+	at root-play-1.8.0.jar//com.rootrecord.minecraft.rootrewards.service.VoteRewardService.mirrorVoteToClaims(VoteRewardService.java:173)
+	at root-play-1.8.0.jar//com.rootrecord.minecraft.rootrewards.service.VoteRewardService.lambda$handleVote$0(VoteRewardService.java:79)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+[2026-08-02T22:51:25.581Z] [INFO] [Root-Play] Vote reward +3.0 G to Melee__ (<http://minecraftlist.org|minecraftlist.org>)
+[2026-08-02T22:51:31.177Z] [INFO] [Votifier] Got a protocol v1 vote record from /45.32.206.74:52292 -&gt; Vote (from:Minerank username:Melee__ address:127.0.0.1 timeStamp:1785711091 additionalData:null)
+[2026-08-02T22:51:31.18Z] [INFO] [Root-Play] Votifier vote received — player=Melee__ service=Minerank
+[2026-08-02T22:51:31.267Z] [INFO] [Root-Play] Vote appreciation +1 queued/granted for Melee__ (vote #659)
+[2026-08-02T22:51:31.289Z] [INFO] [Root-Play] Vote shard +1 for Melee__ (vote #659)
+[2026-08-02T22:51:31.385Z] [WARNING] [Root-Play] Claims vote mirror failed for Melee__
+java.io.IOException: HTTP 502: error code: 502
+
+
+--- 2026-08-02T23:06:05.063Z | [bot] incoming-webhook
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchangeOnce(CloudApiClient.java:1113)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchange(CloudApiClient.java:1080)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.post(CloudApiClient.java:10
+
+--- 2026-08-03T00:06:05.201Z | [bot] incoming-webhook
+[T] server logs for the last hour
+```[2026-08-02T23:06:04.382Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T23:06:04.405Z] [INFO] [RootMC-Official] Hourly log batch queued to Slack/Discord (rootmc-server-log-20260802-230604.log).
+[2026-08-02T23:06:04.51Z] [INFO] [Root-Core] Root-Core updater: no downloads (up-to-date=24 skipped=1)
+[2026-08-02T23:06:04.565Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=21 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T23:06:04.601Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:06:04.847Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (253 items).
+[2026-08-02T23:06:05.106Z] [INFO] [Root-Core] Root-Core comms: posted server log rootmc-server-log-20260802-230604.log to Slack #server-logs.
+[2026-08-02T23:06:07.84Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T23:06:07.922Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T23:07:04.55Z] [INFO] [RootMC] Physical gold storage snapshot saved to MySQL - players=0 total=0.000 G shops=96 chunks=64
+[2026-08-02T23:07:04.639Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:07:34.546Z] [INFO] [Root-ItemInfo] Item census updated — reason=chunk-load-settled players=1 containers=1011 skippedDupContainers=0 groundStacks=21 chunks=48 marketKeys=0 distinct=254
+[2026-08-02T23:08:04.555Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:09:04.536Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:10:04.445Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=26 chunks=48 marketKeys=0 distinct=254
+[2026-08-02T23:10:04.538Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:10:04.959Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (254 items).
+[2026-08-02T23:11:04.381Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T23:11:04.568Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:11:07.862Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T23:11:07.946Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T23:12:04.449Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=26 chunks=48 marketKeys=0 distinct=254
+[2026-08-02T23:12:04.548Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:13:04.543Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:14:04.509Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=19 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T23:14:04.599Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:14:05.104Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (253 items).
+[2026-08-02T23:15:04.542Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:16:04.381Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T23:16:04.524Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=19 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T23:16:04.537Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:16:07.879Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T23:16:07.98Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+
+--- 2026-08-03T00:06:05.241Z | [bot] incoming-webhook
+[2026-08-02T23:16:11.38Z] [INFO] [RootMC] MC day rollover 29735017 -&gt; 29735018: towny, bonds, town tax, inactivity tax, payouts, heartbeat, cloud sync.
+[2026-08-02T23:16:11.381Z] [INFO] [Root-Webstat] Vanilla day 29735017 → 29735018 — recomputing webstat.
+[2026-08-02T23:16:11.381Z] [INFO] [Root-Economy] Towny new-day invoked via NewDayScheduler#newDay
+[2026-08-02T23:16:11.382Z] [INFO] [Towny] Towny DailyTimerTask took 1ms to process.
+[2026-08-02T23:16:11.382Z] [INFO] [Towny] Cleaning up old backups...
+[2026-08-02T23:16:11.388Z] [INFO] [Towny] Successfully cleaned backups.
+[2026-08-02T23:16:11.389Z] [INFO] [Towny] Making backup...
+[2026-08-02T23:16:11.389Z] [INFO] [Towny] ***** Warning *****
+[2026-08-02T23:16:11.389Z] [INFO] [Towny] ***** Only Snapshots &amp; Regen files in plugins/Towny/data/ will be backed up!
+[2026-08-02T23:16:11.389Z] [INFO] [Towny] ***** This does not include your residents/towns/nations.
+[2026-08-02T23:16:11.389Z] [INFO] [Towny] ***** Make sure you have scheduled a backup in MySQL too!!!
+[2026-08-02T23:16:11.389Z] [INFO] [Towny] ***** If you already have backups or accept the risk, this message can be disabled in the database config.
+[2026-08-02T23:16:11.496Z] [INFO] [Towny] Towny flatfiles and settings successfully backed up.
+[2026-08-02T23:16:11.614Z] [INFO] [Root-Economy] Bond MC day 29735017 settled — gross inflow 3.144 G, pool 0.786 G, holders 5.
+[2026-08-02T23:16:12.106Z] [INFO] [Root-Economy] Town daily tax MC day 29735017: 3 town(s), total 1.572 G.
+[2026-08-02T23:16:12.205Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T23:16:12.311Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T23:16:12.422Z] [WARNING] [RootMC] Cloud sync failed: HTTP 502: error code: 502
+
+java.io.IOException: HTTP 502: error code: 502
+
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchangeOnce(CloudApiClient.java:1113)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchange(CloudApiClient.java:1080)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.get(CloudApiClient.java:1016)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.sync(CloudApiClient.java:137)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.sync.SyncTask.syncLinkedPlayers(SyncTask.java:378)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.sync.SyncTask.runSync(SyncTask.java:336)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.sync.SyncTask.runSyncSafe(SyncTask.java:313)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.sync.SyncTask.lambda$runMcDayCloudSync$1(SyncTask.java:291)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+[2026-08-02T23:16:12.43Z] [INFO] [RootMC] Minecraft day economy pipeline complete.
+[2026-08-02T23:16:12.966Z] [INFO] [Root-Webstat] Webstat pushed to cloud (200).
+[2026-08-02T23:17:04.763Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:17:11.53Z] [INFO] [Towny] Time until a New Day: 2 minutes, 49 seconds
+[2026-08-02T23:18:04.649Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=20 chunks=48 marketKeys=0 distinct=254
+[2026-08-02T23:18:04.736Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:18:05.159Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (254 items).
+[2026-08-02T23:19:04.793Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+
+--- 2026-08-03T00:06:05.264Z | [bot] incoming-webhook
+[2026-08-02T23:20:00.532Z] [INFO] [Towny] Cleaning up old backups...
+[2026-08-02T23:20:00.532Z] [INFO] [Towny] Towny DailyTimerTask took 1ms to process.
+[2026-08-02T23:20:00.541Z] [INFO] [Towny] Successfully cleaned backups.
+[2026-08-02T23:20:00.542Z] [INFO] [Towny] Making backup...
+[2026-08-02T23:20:00.542Z] [INFO] [Towny] ***** Warning *****
+[2026-08-02T23:20:00.542Z] [INFO] [Towny] ***** Only Snapshots &amp; Regen files in plugins/Towny/data/ will be backed up!
+[2026-08-02T23:20:00.542Z] [INFO] [Towny] ***** This does not include your residents/towns/nations.
+[2026-08-02T23:20:00.542Z] [INFO] [Towny] ***** Make sure you have scheduled a backup in MySQL too!!!
+[2026-08-02T23:20:00.542Z] [INFO] [Towny] ***** If you already have backups or accept the risk, this message can be disabled in the database config.
+[2026-08-02T23:20:00.651Z] [INFO] [Towny] Towny flatfiles and settings successfully backed up.
+[2026-08-02T23:20:04.647Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=17 chunks=48 marketKeys=0 distinct=254
+[2026-08-02T23:20:04.754Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:21:00.53Z] [INFO] [Towny] Time until a New Day: 19 minutes
+[2026-08-02T23:21:04.581Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T23:21:04.781Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:21:08.116Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T23:21:08.199Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T23:22:04.678Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=16 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T23:22:04.767Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:22:05.11Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (253 items).
+[2026-08-02T23:23:04.766Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:24:04.649Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=16 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T23:24:04.748Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:25:04.743Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:26:04.581Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T23:26:04.699Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=17 chunks=48 marketKeys=0 distinct=254
+[2026-08-02T23:26:04.74Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:26:05.172Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (254 items).
+[2026-08-02T23:26:08.068Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T23:26:08.154Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T23:27:04.738Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:28:04.662Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=18 chunks=48 marketKeys=0 distinct=254
+[2026-08-02T23:28:04.748Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:29:04.747Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:30:04.695Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=12 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T23:30:04.746Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:30:04.958Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (253 items).
+
+--- 2026-08-03T00:06:05.301Z | [bot] incoming-webhook
+[2026-08-02T23:30:31.174Z] [INFO] [Votifier] Got a protocol v1 vote record from /54.37.31.166:36070 -&gt; Vote (from:<http://Minecraft-MP.com|Minecraft-MP.com> username:Alexrs94 address:2605:59c8:3e93:1708:3dc7:95b6:2d48:4fe2 timeStamp:1785713430 additionalData:null)
+[2026-08-02T23:30:31.18Z] [INFO] [Root-Play] Votifier vote received — player=Alexrs94 service=<http://Minecraft-MP.com|Minecraft-MP.com>
+[2026-08-02T23:30:31.23Z] [INFO] [Root-Play] Vote service normalized: <http://Minecraft-MP.com|Minecraft-MP.com> -&gt; minecraft-mp
+[2026-08-02T23:30:31.377Z] [INFO] [Root-Play] Vote appreciation +1 queued/granted for Alexrs94 (vote #665)
+[2026-08-02T23:30:31.395Z] [INFO] [Root-Play] Vote shard +1 for Alexrs94 (vote #665)
+[2026-08-02T23:30:31.623Z] [WARNING] [Root-Play] Claims vote mirror failed for Alexrs94
+java.io.IOException: HTTP 502: error code: 502
+
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchangeOnce(CloudApiClient.java:1113)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchange(CloudApiClient.java:1080)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.post(CloudApiClient.java:1072)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.queueClaimsVoteCredit(CloudApiClient.java:538)
+	at root-play-1.8.0.jar//com.rootrecord.minecraft.rootrewards.service.VoteRewardService.mirrorVoteToClaims(VoteRewardService.java:173)
+	at root-play-1.8.0.jar//com.rootrecord.minecraft.rootrewards.service.VoteRewardService.lambda$handleVote$0(VoteRewardService.java:79)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+[2026-08-02T23:30:31.624Z] [INFO] [Root-Play] Vote reward +1.0 G to Alexrs94 (minecraft-mp)
+[2026-08-02T23:30:44.192Z] [INFO] [Root-ItemInfo] Item census updated — reason=inventory-close players=1 containers=1011 skippedDupContainers=0 groundStacks=35 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T23:31:04.581Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T23:31:04.874Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:31:08.059Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T23:31:08.151Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T23:32:04.646Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=29 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T23:32:04.74Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:33:04.757Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:33:11.794Z] [INFO] [Root-ItemInfo] Item census updated — reason=inventory-close players=1 containers=1011 skippedDupContainers=0 groundStacks=23 chunks=48 marketKeys=0 distinct=252
+[2026-08-02T23:33:12.038Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (252 items).
+[2026-08-02T23:34:04.655Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=25 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T23:34:04.765Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:35:04.745Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:36:04.581Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+
+--- 2026-08-03T00:06:05.319Z | [bot] incoming-webhook
+[2026-08-02T23:36:04.704Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=15 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T23:36:04.755Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T23:36:05.036Z] [IN
+
+========================================================================

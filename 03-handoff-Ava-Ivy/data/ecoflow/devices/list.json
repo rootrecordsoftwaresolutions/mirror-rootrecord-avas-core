@@ -1,0 +1,20 @@
+{
+  "at": 1785708395390,
+  "devices": [
+    {
+      "sn": "R331ZAB5SG6S2858",
+      "productName": "DELTA 2",
+      "online": 1
+    },
+    {
+      "sn": "R331ZAB5SG755642",
+      "productName": "DELTA 2",
+      "online": 1
+    },
+    {
+      "sn": "R621ZA16XH6K1155",
+      "productName": "RIVER 2 Pro",
+      "online": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "messageId": "1533903833619763316",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "rechecked EcoFlow for **R621ZA16XH6K1155** (River 2 Pro).\n\nstill **not live** - EcoFlow device-list **online: 0**. last-known SOC ~57%, excluded from live bank until cloud flips. 60s poll + host-site SQL samples are watching; i can't invent",
+  "byEmoji": {
+    "👀": 1
+  },
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 1,
+    "all": 1
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785781617714,
+  "updatedAt": 1785781617714
+}

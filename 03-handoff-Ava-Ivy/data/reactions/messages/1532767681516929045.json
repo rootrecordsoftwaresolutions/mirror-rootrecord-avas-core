@@ -1,0 +1,48 @@
+{
+  "messageId": "1532767681516929045",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Glad that lands better. Same me, less noise — hit me up if you need wiki stuff, design help, or log weirdness 👍",
+  "byEmoji": {
+    "💯": 2
+  },
+  "totals": {
+    "good": 2,
+    "bad": 0,
+    "neutral": 0,
+    "all": 2
+  },
+  "reactors": {
+    "154446475789729792": {
+      "userId": "154446475789729792",
+      "username": "Melee oO",
+      "emojis": {
+        "💯": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    },
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "💯": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 2,
+  "label": "good",
+  "firstSeenAt": 1785542653039,
+  "updatedAt": 1785640341347
+}

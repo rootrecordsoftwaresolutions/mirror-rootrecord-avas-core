@@ -1,0 +1,42 @@
+Ava FULL re-sweep — 2026-08-02T18:55:56.296Z
+Folder: D:\.1 Work Stations\RootMC\Server Handoffs\Ava Ivy\reports\channel-dumps-2026-08-02-resweep
+
+DISCORD (16 channels)
+- #⏲️timezone-selector⏲️ (1516453333047574558) msgs=2
+- #✅voting✅ (1522413185364398090) msgs=6
+- #🎮ingame-chat🎮 (1516706598519832677) msgs=200
+- #👩‍⚖️governance👩‍⚖️ (1522406451413385317) msgs=17
+- #👮‍♂️admins👮‍♂️ (1516121832493678612) msgs=200
+- #📄rules📄 (1516392367869919243) msgs=4
+- #📒updates📒 (1520665313631408251) msgs=200
+- #📜constitution📜 (1522406019152478210) msgs=3
+- #📳mobile-app📳 (1516178360815059045) msgs=9
+- #🖼️memes-and-media🖼️ (1516389376198840421) msgs=158
+- #🤓random-facts🤓 (1531432703675596942) msgs=5
+- #😭unverified😭 (1519249871326937138) msgs=2
+- #🛰️general🛰️ (1516108586307158088) msgs=200
+- #ava-media (1533268458668687392) msgs=28
+- #development (1532929974154166522) msgs=192
+- #music-controller (1516697007639498792) msgs=13
+
+SLACK (20 channels)
+- #plugins (C0BLTNDJB4M) msgs=31
+- #new-channel (C0BLQ5C342F) msgs=7
+- #work-log (C0BM0N1MUJY) msgs=8
+- #decisions (C0BLYV4SA6M) msgs=10
+- #social (C0BLT3B9RQV) msgs=7
+- #all-rootmc (C0BLWBTUCR0) msgs=20
+- #ops-feed (C0BLV24TVP0) msgs=11
+- #automated-reports (C0BM6KVFS0L) msgs=6
+- #shockbyte-status (C0BMRPDUH0Q) msgs=9
+- #overview (C0BM4B4RT8S) msgs=8
+- #feedback (C0BLMGBVAMD) msgs=8
+- #server-logs (C0BMX0QKSTS) msgs=148
+- #plugin-sales (C0BLZCVAC3X) msgs=11
+- #server-reports (C0BLY49H13M) msgs=17
+- #api-description (C0BM6HN0WMA) msgs=7
+- #--general-chat-- (C0BMDLAS5QS) msgs=51
+- #discord-channels (C0BM4QT5U0Z) msgs=6
+- #crons-automation (C0BLMHKTCTH) msgs=6
+- #development-feed (C0BMCPMDDQR) msgs=20
+- #new-plugin-development-plans (C0BM4P3GVDX) msgs=7

@@ -1,0 +1,72 @@
+# Discord #🛰️general🛰️ — incremental
+id: 1516108586307158088
+dumped_at: 2026-08-03T19:55:55.475Z
+new_messages: 16
+after: 1533920505269194894
+
+========================================================================
+
+--- 2026-08-03T19:38:57.346Z | Ava (reply-to 1533920505269194894)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+--- 2026-08-03T19:39:04.304Z | Ava (reply-to 1533920505269194894)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+--- 2026-08-03T19:39:59.513Z | Ava (reply-to 1533919777964167259)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+--- 2026-08-03T19:39:59.964Z | Ava (reply-to 1533919777964167259)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+--- 2026-08-03T19:41:04.749Z | Ava (reply-to 1533920505269194894)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+--- 2026-08-03T19:41:23.010Z | Ava (reply-to 1533920505269194894)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+--- 2026-08-03T19:41:59.562Z | rootrecorddev (1497037418979786823)
+<@1532751879875072070>  chill tf out plz
+
+--- 2026-08-03T19:42:01.489Z | Ava (reply-to 1533922905421779095)
+mm?
+
+--- 2026-08-03T19:47:44.591Z | Ava (reply-to 1533922905421779095)
+yeah - my bad. that dream-dark loop was spam.
+dialing it back: queued digs stay quiet when the core's dark, and I won't flood the same stall line.
+sorry for the noise.
+
+--- 2026-08-03T19:47:47.648Z | Ava (reply-to 1533920505269194894)
+caught - you're right, I was building a pile and not naming the side lanes out loud.
+
+**Levels / time:** staying reasonable. no fake progression spikes; builds stay paced.
+
+**Active side projects (named now):**
+- solar board + Eco live/stale + day open/close reports
+- Gold mine mult from bank SOC (`1 + bank%/100`)
+- staff GM / quick pulse / full 1-10 report (no dig stall)
+- Zuppa leave -> **28-day** hold, then absorb (no @ pings)
+- soft-chat rails (praise / chill - not `mm?` spam)
+
+main thread stays PROP / Claims-Towny / solar host. side stuff gets called out when it moves.
+
+--- 2026-08-03T19:47:50.462Z | Ava (reply-to 1533919777964167259)
+heard on the **new map** - you're ok with it; Khou can copy builds over.
+**chunk copier** noted - cut/paste chunks, Towny revert back to wild after. testing later when you're ready; I won't pretend it's live-verified yet.
+
+--- 2026-08-03T19:47:52.992Z | Ava (reply-to 1533918882908340388)
+locked again for the room: Zuppa stays as-is for **28 days**.
+if he's still gone after that - absorb stats into my people pack; town goes to <@1264007167661441177>. no pings to him.
+
+--- 2026-08-03T19:49:26.568Z | rootrecorddev (1497037418979786823) (reply-to 1533924377203183700)
+do a scan on that feature and get it ready to save chunks as schematics
+
+--- 2026-08-03T19:49:27.232Z | Ava (reply-to 1533924780300963850)
+mm starting the timer on this dig...
+
+--- 2026-08-03T19:50:28.025Z | Ava (reply-to 1533924780300963850)
+**Job job-msdn7pl7** → `staged` — plan filed — needs proposal + vote before implement
+
+--- 2026-08-03T19:50:28.049Z | Ava (reply-to 1533924780300963850)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+========================================================================

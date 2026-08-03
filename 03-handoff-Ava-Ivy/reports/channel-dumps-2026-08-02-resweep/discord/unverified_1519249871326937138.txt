@@ -1,0 +1,17 @@
+# Discord #😭unverified😭
+id: 1519249871326937138
+topic: 
+dumped_at: 2026-08-02T18:55:42.299Z
+limit: 200
+
+========================================================================
+
+--- 2026-06-24T07:59:45.589Z | [bot] RootMC
+**Unlock Discord chat** — link your Minecraft player with **`/link`** in-game, then finish on the verify page.
+_Read the steps below. When you're linked, you can talk in the rest of the server._
+
+--- 2026-06-24T07:59:46.010Z | [bot] RootMC
+(no text)
+
+========================================================================
+message_count: 2

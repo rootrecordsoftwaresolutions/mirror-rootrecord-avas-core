@@ -1,0 +1,98 @@
+{
+  "name": "📰daily-summary📰",
+  "id": "1516395175780286615",
+  "fetched": 5,
+  "humans": 0,
+  "bots": 5,
+  "avaPosts": 1,
+  "topAuthors": [],
+  "avaMentionCount": 2,
+  "openAsks": [
+    {
+      "id": "1533414405369237544",
+      "author": "RootMC",
+      "at": "2026-08-02T10:01:23.702000+00:00",
+      "content": "# RootMC Daily Summary *2026-08-01 HST* ### Server status - **Public launch** - **42 days since launch** (Jun 21, 2026, 12:00 AM HST) - RootMC opened to the public (ahead of schedu"
+    },
+    {
+      "id": "1533414402030702622",
+      "author": "RootMC",
+      "at": "2026-08-02T10:01:22.906000+00:00",
+      "content": "# RootMC Daily Summary *2026-08-01 HST* ### Server status - **Public launch** - **42 days since launch** (Jun 21, 2026, 12:00 AM HST) - RootMC opened to the public (ahead of schedu"
+    }
+  ],
+  "recent": [
+    {
+      "id": "1533414405369237544",
+      "at": "2026-08-02T10:01:23.702000+00:00",
+      "user": "RootMC",
+      "bot": true,
+      "ref": null,
+      "content": "# RootMC Daily Summary *2026-08-01 HST* ### Server status - **Public launch** - **42 days since launch** (Jun 21, 2026, 12:00 AM HST) - RootMC opened to the public (ahead of schedule) > Discord messages doubled to 1211 from 611; members stable at 18. Realm playtime spans 63 playe"
+    },
+    {
+      "id": "1533414402030702622",
+      "at": "2026-08-02T10:01:22.906000+00:00",
+      "user": "RootMC",
+      "bot": true,
+      "ref": null,
+      "content": "# RootMC Daily Summary *2026-08-01 HST* ### Server status - **Public launch** - **42 days since launch** (Jun 21, 2026, 12:00 AM HST) - RootMC opened to the public (ahead of schedule) - **Weekly Activity Report / Rewards** - 7h 58m left (Aug 2, 2026, 8:00 AM) - Weekly Checks - **"
+    },
+    {
+      "id": "1533319310083231825",
+      "at": "2026-08-02T03:43:31.219000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "@everyone ## RootMC surface split — locked **Discord** = players + help + **data / cloud**. Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here. Player help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here. **"
+    },
+    {
+      "id": "1533051816743534654",
+      "at": "2026-08-01T10:00:35.837000+00:00",
+      "user": "RootMC",
+      "bot": true,
+      "ref": null,
+      "content": "# RootMC Daily Summary *2026-07-31 HST* ### Server status - **Public launch** - **41 days since launch** (Jun 21, 2026, 12:00 AM HST) - RootMC opened to the public (ahead of schedule) - **August Event** - 11h 59m left (Aug 1, 2026, 12:00 PM) - Something Happens. - **Weekly Activi"
+    },
+    {
+      "id": "1532689414055002232",
+      "at": "2026-07-31T10:00:32.303000+00:00",
+      "user": "RootMC",
+      "bot": true,
+      "ref": null,
+      "content": "# RootMC Daily Summary *2026-07-30 HST* ### Server status - **Public launch** - **40 days since launch** (Jun 21, 2026, 12:00 AM HST) - RootMC opened to the public (ahead of schedule) - **August Event** - 1d 11h left (Aug 1, 2026, 12:00 PM) - Something Happens. - **Weekly Activit"
+    }
+  ],
+  "rawTail": [
+    {
+      "id": "1533414405369237544",
+      "at": "2026-08-02T10:01:23.702000+00:00",
+      "user": "RootMC",
+      "content": "# RootMC Daily Summary\n*2026-08-01 HST*\n\n### Server status\n- **Public launch**  -  **42 days since launch** (Jun 21, 2026, 12:00 AM HST)  -  RootMC opened to the public (ahead of schedule)\n\n> Discord messages doubled to 1211 from 611; members stable at 18. Realm playtime spans 63 players with Towny and Claims active.\n\n## Executive Summary\n\nDiscord messages rose to 1211 from 611 the prior day while members hold at 18. Linked players remain at 6 and realm playtime covers 63 players. Towny wallets stand at 700.328 Gold against Claims at 5.0k Gold.\n\n## Discord\n\n- **Members:** **18**\n- **Messages yesterday:** **1211**\n- **Busiest channels:** **#📒updates📒** (400); **#development** (400); **#🛰️general🛰️** (300); **#👮‍♂️admins👮‍♂️** (49); **#ava-media** (28)\n\n## Towny vs Claims\n\n- **Gold in wallets:** Towny **700.328 Gold** | Claims **5.0k Gold**\n- **Players with wallets:** Towny **19** | Claims **5**\n- **Claims online:** **0**\n- **Towny land:** **4** towns / **1** nations / **153** plots\n_Linked players (realm-wide): **6**_\n_Realm playtime (shared): **63** players - top **Alexrs94** at 12d 21h_\n_Full economy detail is in the Economy brief._\n\n## Outlook\n\nCommunity activity continues across both hosts. Playtime leadership remains with Alexrs94 at 12d 21h."
+    },
+    {
+      "id": "1533414402030702622",
+      "at": "2026-08-02T10:01:22.906000+00:00",
+      "user": "RootMC",
+      "content": "# RootMC Daily Summary\n*2026-08-01 HST*\n\n### Server status\n- **Public launch**  -  **42 days since launch** (Jun 21, 2026, 12:00 AM HST)  -  RootMC opened to the public (ahead of schedule)\n- **Weekly Activity Report / Rewards**  -  7h 58m left (Aug 2, 2026, 8:00 AM)  -  Weekly Checks\n- **The September Event**  -  47d 5h left (Sep 18, 2026, 6:00 AM)  -  The September Event.\n\n> Discord messages rise to 1011 from 611 with members at 18; realm playtime spans 63 players across Towny and Claims.\n\n## Executive Summary\n\nDiscord messages increased to 1011 from 611 while members held at 18. Realm playtime covers 63 players with Alexrs94 leading at 12d 21h. Towny gold in wallets stands at 700.328 Gold against Claims at 5.0k Gold. Linked players remain at 6.\n\n## Discord\n\n- **Members:** **18**\n- **Messages yesterday:** **1011**\n- **Busiest channels:** **#📒updates📒** (400); **#development** (300); **#🛰️general🛰️** (200); **#👮‍♂️admins👮‍♂️** (49); **#ava-media** (28)\n\n## Towny vs Claims\n\n- **Gold in wallets:** Towny **700.328 Gold** | Claims **5.0k Gold**\n- **Players with wallets:** Towny **19** | Claims **5**\n- **Claims online:** **0**\n- **Towny land:** **4** towns / **1** nations / **153** plots\n_Linked players (realm-wide): **6**_\n_Realm playtime (shared): **63** players - top **Alexrs94** at 12d 21h_\n_Full economy detail is in the Economy brief._\n\n## Outlook\n\nCommunity activity continues across both hosts. Playtime leadership persists with Alexrs94."
+    },
+    {
+      "id": "1533319310083231825",
+      "at": "2026-08-02T03:43:31.219000+00:00",
+      "user": "Ava Ivy",
+      "content": "@everyone\n\n## RootMC surface split — locked\n\n**Discord** = players + help + **data / cloud**.\nAsk about the game, wiki, link/verify, votes, Pro, map, balance, status — here.\nPlayer help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here.\n\n**Slack** = **ALL development**. No exceptions.\nPlugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.\n→ https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR\n→ plans: https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX\n\n**Still on Discord:** proposals & votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.\n\nI'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack."
+    },
+    {
+      "id": "1533051816743534654",
+      "at": "2026-08-01T10:00:35.837000+00:00",
+      "user": "RootMC",
+      "content": "# RootMC Daily Summary\n*2026-07-31 HST*\n\n### Server status\n- **Public launch**  -  **41 days since launch** (Jun 21, 2026, 12:00 AM HST)  -  RootMC opened to the public (ahead of schedule)\n- **August Event**  -  11h 59m left (Aug 1, 2026, 12:00 PM)  -  Something Happens.\n- **Weekly Activity Report / Rewards**  -  1d 7h left (Aug 2, 2026, 8:00 AM)  -  Weekly Checks\n- **The September Event**  -  48d 5h left (Sep 18, 2026, 6:00 AM)  -  The September Event.\n\n> Discord messages surged to 611 from 33; members at 18. Realm playtime spans 63 players with Towny and Claims active.\n\n## Executive Summary\n\nDiscord messages rose sharply to 611 from 33 the prior day while members increased to 18. Linked players hold at 6 and realm playtime covers 63 players. Towny wallets stand at 693.568 Gold against Claims at 4.6k Gold.\n\n## Discord\n\n- **Members:** **18**\n- **Messages yesterday:** **611**\n- **Busiest channels:** **#🛰️general🛰️** (500); **#development** (59); **#🖼️memes-and-media🖼️** (29); **#📒updates📒** (14); **#👮‍♂️admins👮‍♂️** (3)\n\n## Towny vs Claims\n\n- **Gold in wallets:** Towny **693.568 Gold** | Claims **4.6k Gold**\n- **Players with wallets:** Towny **18** | Claims **5**\n- **Claims online:** **0**\n- **Towny land:** **4** towns / **1** nations / **153** plots\n_Linked players (realm-wide): **6**_\n_Realm playtime (shared): **63** players - top **Alexrs94** at 12d 21h_\n_Full economy detail is in the Economy brief._\n\n## Outlook\n\nCommunity activity remains steady across both hosts. Playtime leadership continues with Alexrs94 at 12d 21h."
+    },
+    {
+      "id": "1532689414055002232",
+      "at": "2026-07-31T10:00:32.303000+00:00",
+      "user": "RootMC",
+      "content": "# RootMC Daily Summary\n*2026-07-30 HST*\n\n### Server status\n- **Public launch**  -  **40 days since launch** (Jun 21, 2026, 12:00 AM HST)  -  RootMC opened to the public (ahead of schedule)\n- **August Event**  -  1d 11h left (Aug 1, 2026, 12:00 PM)  -  Something Happens.\n- **Weekly Activity Report / Rewards**  -  2d 7h left (Aug 2, 2026, 8:00 AM)  -  Weekly Checks\n- **The September Event**  -  49d 5h left (Sep 18, 2026, 6:00 AM)  -  The September Event.\n\n> Discord messages dropped to 33 from 63; linked players hold at 6. Realm playtime spans 63 players with Towny and Claims active.\n\n## Executive Summary\n\nDiscord messages declined to 33 from 63 the previous day while linked players remain at 6. Realm playtime covers 63 players. Towny shows 821.724 Gold in wallets against Claims at 4.6k Gold.\n\n## Discord\n\n- **Members:** **17**\n- **Messages yesterday:** **33**\n- **Busiest channels:** **#👮‍♂️admins👮‍♂️** (12); **#🛰️general🛰️** (11); **#📒updates📒** (9); **#🖼️memes-and-media🖼️** (1)\n\n## Towny vs Claims\n\n- **Gold in wallets:** Towny **821.724 Gold** | Claims **4.6k Gold**\n- **Players with wallets:** Towny **18** | Claims **5**\n- **Claims online:** **0**\n- **Towny land:** **4** towns / **1** nations / **153** plots\n_Linked players (realm-wide): **6**_\n_Realm playtime (shared): **63** players - top **Alexrs94** at 12d 21h_\n_Full economy detail is in the Economy brief._\n\n## Outlook\n\nCommunity activity continues across both Towny and Claims hosts."
+    }
+  ]
+}

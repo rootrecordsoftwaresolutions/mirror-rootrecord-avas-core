@@ -1,0 +1,33 @@
+{
+  "avaDiscordAppId": "1532751879875072070",
+  "avaSlackUserId": "U0BMBNYPYA2",
+  "alexSlackUserId": "U0BLWBTGYTU",
+  "alexDiscordId": "1497037418979786823",
+  "alexTelegramId": "6644482344",
+  "rootmcGuildId": "1516108585740800042",
+  "rootmcLegacyBotAppId": "1511794429986345020",
+  "channels": {
+    "general": "1516108586307158088",
+    "admins": "1516121832493678612",
+    "proposals": "1526664180491358419",
+    "governance": "1522406451413385317",
+    "voting": "1522413185364398090",
+    "constitution": "1522406019152478210",
+    "development": "1532929974154166522",
+    "memesMedia": "1516389376198840421",
+    "avaMedia": "1533268458668687392",
+    "randomFacts": "1531432703675596942",
+    "updates": "1520665313631408251",
+    "solarServer": "1533915343766949949",
+    "hourlySnapshots": "1528956490831102093",
+    "ingameChat": "1516706598519832677",
+    "slackDev": "C0BMCPMDDQR",
+    "slackPlans": "C0BM4P3GVDX"
+  },
+  "defaults": {
+    "avaPort": 8787,
+    "avaModel": "composer-2.5",
+    "avaGrokModel": "grok-3-mini",
+    "ollamaUrl": "http://127.0.0.1:11434"
+  }
+}

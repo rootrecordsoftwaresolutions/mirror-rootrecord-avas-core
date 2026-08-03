@@ -1,0 +1,26 @@
+{
+  "feeds": {
+    "minecraft-releasebot": {
+      "seen": [
+        "df64aed8c32489327748d1c8ddc75191",
+        "cbd56b80415c3cf7a635ebbb76399640",
+        "0b4fb7fdaa784fdbc0d5bc08c7f39809",
+        "ff3a5ac8113df919f01ef9c784f2d60f",
+        "10a7478b8d5e8dd0517113b0152d18f1",
+        "e0e7fc284f520b7bc973b3f4faddeaa7",
+        "91417967a5379b15d1da60de113209a7",
+        "41f3251fb1549b902b6c51fc4771e564",
+        "d9e71a79b9cafe33bcb7c41c90c6c9ad",
+        "e1ebfb9dd77d38d31eae6dcca6933c1d",
+        "9ca36c0161b7e231cf88bef852603c74",
+        "6a99cd77d74d55114e9dcd99600acfe0",
+        "b9ed2efa02f87aae21d0d9aef3eb61f7",
+        "8d7a1319a16f231585ccb36d35f904c5",
+        "3c16410b08e5686de9dcfaba214ac5a9"
+      ],
+      "seeded": true,
+      "title": "Minecraft Release Notes (Releasebot)",
+      "lastPoll": "2026-08-03T19:55:29.512Z"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "messageId": "1533644548843245580",
+  "channelId": "1516121832493678612",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Got it - player issues only in here. Stuck, rules, claims, `/proposal` stuff, Pro links, that lane.\n\nDev digs and backend work stay on Slack; I'll point folks there if they wander in with jar talk.",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785720206483,
+  "updatedAt": 1785720206483
+}

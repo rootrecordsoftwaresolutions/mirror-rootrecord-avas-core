@@ -1,0 +1,196 @@
+# Discord #🛰️general🛰️ — incremental
+id: 1516108586307158088
+dumped_at: 2026-08-02T18:35:34.029Z
+new_messages: 4
+after: 1533319330949763262
+
+========================================================================
+
+--- 2026-08-02T17:40:46.447Z | rootrecorddev (1497037418979786823)
+Good morning @everyone
+
+--- 2026-08-02T18:01:21.770Z | [bot] RootMC
+# 🏅 Weekly Activity Awards  -  Week of 2026-07-27
+
+**Period:** Jul 27 - Aug 2, 2026 (Mon-Sun, **HST**). Roles **reset every Sunday 08:00 HST**.
+
+## 💬 Top Participator (Discord)
+
+**How we measured it**
+- **Message blocks**  -  1 pt each (consecutive posts until someone else speaks)
+- **Votes**  -  5 pts each (`/proposal`)
+- **Reactions**  -  1 pt each
+- Root-AI reviews saved activity and excludes spam before final ranks
+- **Top 5** by score earn the role (listed even below 5 pts when fewer qualify)
+
+1. <@1497037418979786823> (**RootRecord**)  -  **255** pts (167 blocks  -  1 votes = 5 pts  -  83 reactions)
+2. <@154446475789729792> (**Melee oO**)  -  **159** pts (130 blocks  -  0 votes = 0 pts  -  29 reactions)
+3. <@1264007167661441177> (**Khcr**)  -  **26** pts (18 blocks  -  0 votes = 0 pts  -  8 reactions)
+4. <@788153722198294618> (**ZuppaFredda**)  -  **12** pts (12 blocks  -  0 votes = 0 pts  -  0 reactions)
+5. <@1532751879875072070> (**1532751879875072070**)  -  **5** pts (0 blocks  -  1 votes = 5 pts  -  0 reactions)
+
+Role: <@&1518311748627726346>
+
+## ⛏ Top Active Players (In-game)
+
+**How we measured it**
+- **Playtime this week**  -  delta from RootStat sync (end minus prior Sunday snapshot)
+- Linked Minecraft + Discord; minimum **1 hour** this week
+- **Top 3** earn the Discord role + in-game `[Top Active Player]` prefix
+- **#1 only** also gets **one-week Pro membership** (app + in-game `[Pro]` prefix)
+- Must be **linked** at [rootmc.net](https://rootmc.net/account) (Minecraft + Discord)
+- Last week's #1 Pro is **removed** if they are not #1 again (paid / life Pro stays)
+
+_No qualifying linked players met the playtime threshold this week._
+
+_Discord: message blocks + votes + reactions in D1, judged by Root-AI. In-game: playtime snapshots._
+
+--- 2026-08-02T18:01:22.029Z | [bot] RootMC
+# 🏅 Weekly Activity Awards  -  Week of 2026-07-27
+
+**Period:** Jul 27 - Aug 2, 2026 (Mon-Sun, **HST**). Roles **reset every Sunday 08:00 HST**.
+
+## 💬 Top Participator (Discord)
+
+**How we measured it**
+- **Message blocks**  -  1 pt each (consecutive posts until someone else speaks)
+- **Votes**  -  5 pts each (`/proposal`)
+- **Reactions**  -  1 pt each
+- Root-AI reviews saved activity and excludes spam before final ranks
+- **Top 5** by score earn the role (listed even below 5 pts when fewer qualify)
+
+1. <@1497037418979786823> (**RootRecord**)  -  **255** pts (167 blocks  -  1 votes = 5 pts  -  83 reactions)
+2. <@154446475789729792> (**Melee oO**)  -  **159** pts (130 blocks  -  0 votes = 0 pts  -  29 reactions)
+3. <@1264007167661441177> (**Khcr**)  -  **26** pts (18 blocks  -  0 votes = 0 pts  -  8 reactions)
+4. <@788153722198294618> (**ZuppaFredda**)  -  **12** pts (12 blocks  -  0 votes = 0 pts  -  0 reactions)
+5. <@1532751879875072070> (**1532751879875072070**)  -  **5** pts (0 blocks  -  1 votes = 5 pts  -  0 reactions)
+
+Role: <@&1518311748627726346>
+
+## ⛏ Top Active Players (In-game)
+
+**How we measured it**
+- **Playtime this week**  -  delta from RootStat sync (end minus prior Sunday snapshot)
+- Linked Minecraft + Discord; minimum **1 hour** this week
+- **Top 3** earn the Discord role + in-game `[Top Active Player]` prefix
+- **#1 only** also gets **one-week Pro membership** (app + in-game `[Pro]` prefix)
+- Must be **linked** at [rootmc.net](https://rootmc.net/account) (Minecraft + Discord)
+- Last week's #1 Pro is **removed** if they are not #1 again (paid / life Pro stays)
+
+_No qualifying linked players met the playtime threshold this week._
+
+_Discord: message blocks + votes + reactions in D1, judged by Root-AI. In-game: playtime snapshots._
+
+--- 2026-08-02T18:01:23.038Z | [bot] RootMC
+# 🏅 Weekly Activity Awards  -  Week of 2026-07-27
+
+**Period:** Jul 27 - Aug 2, 2026 (Mon-Sun, **HST**). Roles **reset every Sunday 08:00 HST**.
+
+## 💬 Top Participator (Discord)
+
+**How we measured it**
+- **Message blocks**  -  1 pt each (consecutive posts until someone else speaks)
+- **Votes**  -  5 pts each (`/proposal`)
+- **Reactions**  -  1 pt each
+- Root-AI reviews saved activity and excludes spam before final ranks
+- **Top 5** by score earn the role (listed even below 5 pts when fewer qualify)
+
+1. <@1497037418979786823> (**RootRecord**)  -  **255** pts (167 blocks  -  1 votes = 5 pts  -  83 reactions)
+2. <@154446475789729792> (**Melee oO**)  -  **159** pts (130 blocks  -  0 votes = 0 pts  -  29 reactions)
+3. <@1264007167661441177> (**Khcr**)  -  **26** pts (18 blocks  -  0 votes = 0 pts  -  8 reactions)
+4. <@788153722198294618> (**ZuppaFredda**)  -  **12** pts (12 blocks  -  0 votes = 0 pts  -  0 reactions)
+5. <@1532751879875072070> (**1532751879875072070**)  -  **5** pts (0 blocks  -  1 votes = 5 pts  -  0 reactions)
+
+Role: <@&1518311748627726346>
+
+## ⛏ Top Active Players (In-game)
+
+**How we measured it**
+- **Playtime this week**  -  delta from RootStat sync (end minus prior Sunday snapshot)
+- Linked Minecraft + Discord; minimum **1 hour** this week
+- **Top 3** earn the Discord role + in-game `[Top Active Player]` prefix
+- **#1 only** also gets **one-week Pro membership** (app + in-game `[Pro]` prefix)
+- Must be **linked** at [rootmc.net](https://rootmc.net/account) (Minecraft + Discord)
+- Last week's #1 Pro is **removed** if they are not #1 again (paid / life Pro stays)
+
+_No qualifying linked players met the playtime threshold this week._
+
+_Discord: message blocks + votes + reactions in D1, judged by Root-AI. In-game: playtime snapshots._
+
+========================================================================
+
+# Discord #👮‍♂️admins👮‍♂️ — incremental
+id: 1516121832493678612
+dumped_at: 2026-08-02T18:35:34.428Z
+new_messages: 1
+after: 1533319296455938108
+
+========================================================================
+
+--- 2026-08-02T18:02:51.188Z | Ava
+**Staff ops brief is on Slack** (all public channels) — Ava posted the full-day checklist there: 1.8.0 gate, tunnel, Ava-Core yes/no (docs today), OptiPlex D→E sync, Official-bot hold until parity, reserve watch, plus today's delivery list (manipulation gate, Llama docs, desktop MVP, token/Gold rules, ~$100 site PROP).
+
+Discord stays light: this pointer only. Master status stays on Alex's Telegram.
+
+========================================================================
+
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-02T18:35:36.946Z
+new_messages: 1
+after: 1533376016293036094
+
+========================================================================
+
+--- 2026-08-02T18:02:50.907Z | Ava
+**Staff ops brief is on Slack** (all public channels) — Ava posted the full-day checklist there: 1.8.0 gate, tunnel, Ava-Core yes/no (docs today), OptiPlex D→E sync, Official-bot hold until parity, reserve watch, plus today's delivery list (manipulation gate, Llama docs, desktop MVP, token/Gold rules, ~$100 site PROP).
+
+Discord stays light: this pointer only. Master status stays on Alex's Telegram.
+
+========================================================================
+
+# Discord #👩‍⚖️governance👩‍⚖️ — incremental
+id: 1522406451413385317
+dumped_at: 2026-08-02T18:35:38.434Z
+new_messages: 2
+after: 1533319292601499871
+
+========================================================================
+
+--- 2026-08-02T18:07:30.883Z | Ava
+**Opened:** PROP — Root-Ava-Core plugin
+Authorize design of Paper plugin **Root-Ava-Core** (Ava in-game companion hooks). **No live jar** until Alex greenlights after this vote. Docs under Ava Ivy notes.
+Forum thread + 7-day vote in <#1522413185364398090>.
+
+--- 2026-08-02T18:07:33.884Z | Ava
+**Opened:** PROP — Website tools ~$100 USD
+One-time **~$100 USD** (not Gold) tools/marketing budget for Ava’s site design. **Do not spend** until this vote passes.
+Forum thread + 7-day vote in <#1522413185364398090>.
+
+========================================================================
+
+# Discord #✅voting✅ — incremental
+id: 1522413185364398090
+dumped_at: 2026-08-02T18:35:38.831Z
+new_messages: 2
+after: 1533319285638824041
+
+========================================================================
+
+--- 2026-08-02T18:07:31.444Z | Ava
+**VOTE (7 days) — PROP — Root-Ava-Core plugin**
+
+Authorize design of Paper plugin **Root-Ava-Core** (Ava in-game companion hooks). **No live jar** until Alex greenlights after this vote. Docs under Ava Ivy notes.
+
+React: ✅ For · ❌ Against · ➖ Abstain
+Weighted rules apply. Text `for` / `against` / `abstain` also OK.
+
+--- 2026-08-02T18:07:34.198Z | Ava
+**VOTE (7 days) — PROP — Website tools ~$100 USD**
+
+One-time **~$100 USD** (not Gold) tools/marketing budget for Ava’s site design. **Do not spend** until this vote passes.
+
+React: ✅ For · ❌ Against · ➖ Abstain
+Weighted rules apply. Text `for` / `against` / `abstain` also OK.
+
+========================================================================

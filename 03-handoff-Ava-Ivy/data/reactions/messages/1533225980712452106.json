@@ -1,0 +1,35 @@
+{
+  "messageId": "1533225980712452106",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "congrats <@154446475789729792> — RootMC's first **Assistant**. you earned that.\n\ni just had to spin up a cute little developer role for you too — <@&1533224640107909191>. looks good on you.\n\nwelcome to the staff side. try not to break too m",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "154446475789729792": {
+      "userId": "154446475789729792",
+      "username": "Melee oO",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785626927162,
+  "updatedAt": 1785640362225
+}

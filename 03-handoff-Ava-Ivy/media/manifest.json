@@ -1,0 +1,179 @@
+﻿[
+    {
+        "id":  "generated_video",
+        "file":  "generated_video.mp4",
+        "hash":  "04160BF4846C8EA6",
+        "bytes":  1604292,
+        "source":  "C:\\Users\\store\\Downloads\\generated_video.mp4"
+    },
+    {
+        "id":  "generated_video-1",
+        "file":  "generated_video-1.mp4",
+        "hash":  "51066E18223D7CE5",
+        "bytes":  1357015,
+        "source":  "C:\\Users\\store\\Downloads\\generated_video (1).mp4"
+    },
+    {
+        "id":  "generated_video-2",
+        "file":  "generated_video-2.mp4",
+        "hash":  "A5BDD6AB3128B733",
+        "bytes":  2398896,
+        "source":  "C:\\Users\\store\\Downloads\\generated_video (2).mp4"
+    },
+    {
+        "id":  "peakactivity",
+        "file":  "peakactivity.mp4",
+        "hash":  "69013FD7302F7F47",
+        "bytes":  1920606,
+        "source":  "C:\\Users\\store\\Downloads\\peakactivity.mp4"
+    },
+    {
+        "id":  "generated_video-1-srcgif",
+        "file":  "generated_video-1-srcgif.gif",
+        "hash":  "599C7DC5F779B2DA",
+        "bytes":  11667715,
+        "source":  "C:\\Users\\store\\Downloads\\generated_video (1).gif"
+    },
+    {
+        "id":  "gn",
+        "file":  "gn.gif",
+        "hash":  "1E6C879DD3180F93",
+        "bytes":  9834376,
+        "source":  "C:\\Users\\store\\Downloads\\gn.gif"
+    },
+    {
+        "id":  "slack-icon-1024",
+        "file":  "slack-icon-1024.png",
+        "hash":  "1B838B3EA8EA94DD",
+        "bytes":  2453491,
+        "source":  "C:\\Users\\store\\Downloads\\ava-ivy-slack-icon-1024.png"
+    },
+    {
+        "id":  "slack-icon-1024-jpg",
+        "file":  "slack-icon-1024-jpg.jpg",
+        "hash":  "66C77E664729C985",
+        "bytes":  176273,
+        "source":  "C:\\Users\\store\\Downloads\\ava-ivy-slack-icon-1024.jpg"
+    },
+    {
+        "id":  "slack-icon-512",
+        "file":  "slack-icon-512.jpg",
+        "hash":  "1E2DD920D1C194FD",
+        "bytes":  83116,
+        "source":  "C:\\Users\\store\\Downloads\\ava-ivy-slack-icon-512.jpg"
+    },
+    {
+        "id":  "portrait-01",
+        "file":  "portrait-01.jpg",
+        "hash":  "6F87082AF6334CF8",
+        "bytes":  343396,
+        "source":  "C:\\Users\\store\\Downloads\\image.jpg"
+    },
+    {
+        "id":  "portrait-02",
+        "file":  "portrait-02.jpg",
+        "hash":  "8BB63C65F1C26291",
+        "bytes":  281345,
+        "source":  "C:\\Users\\store\\Downloads\\image (1).jpg"
+    },
+    {
+        "id":  "portrait-03",
+        "file":  "portrait-03.jpg",
+        "hash":  "FEC76C0DDEB85D0B",
+        "bytes":  282777,
+        "source":  "C:\\Users\\store\\Downloads\\image (2).jpg"
+    },
+    {
+        "id":  "portrait-04",
+        "file":  "portrait-04.jpg",
+        "hash":  "0ABFF8195209842E",
+        "bytes":  308828,
+        "source":  "C:\\Users\\store\\Downloads\\image (3).jpg"
+    },
+    {
+        "id":  "portrait-05",
+        "file":  "portrait-05.jpg",
+        "hash":  "2FD0216E25ADC5B2",
+        "bytes":  335686,
+        "source":  "C:\\Users\\store\\Downloads\\image (4).jpg"
+    },
+    {
+        "id":  "handoff-generated_video",
+        "file":  "handoff-generated_video.mp4",
+        "hash":  "C6DEBC2D959AACD0",
+        "bytes":  2079360,
+        "source":  "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\generated_video.mp4"
+    },
+    {
+        "id":  "handoff-generated_video-1",
+        "file":  "handoff-generated_video-1.mp4",
+        "hash":  "A371EA531168E02E",
+        "bytes":  2150295,
+        "source":  "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\generated_video (1).mp4"
+    },
+    {
+        "id":  "handoff-generated_video-gif",
+        "file":  "handoff-generated_video-gif.gif",
+        "hash":  "E59815D489CE1BAC",
+        "bytes":  8981225,
+        "source":  "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\generated_video.gif"
+    },
+    {
+        "id":  "videoframe-380",
+        "file":  "videoframe-380.png",
+        "hash":  "028CFD9D2E81ED7D",
+        "bytes":  584977,
+        "source":  "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\videoframe_380.png"
+    },
+    {
+        "id":  "ava-01-meadow-holograms",
+        "file":  "ava-01-meadow-holograms.png",
+        "hash":  "192DDFC5058B0408",
+        "bytes":  152138,
+        "source":  "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\appearance\\ava-01-meadow-holograms.png"
+    },
+    {
+        "id":  "ava-02-meadow-villager-hearts",
+        "file":  "ava-02-meadow-villager-hearts.png",
+        "hash":  "C9ED82B0CC359947",
+        "bytes":  131925,
+        "source":  "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\appearance\\ava-02-meadow-villager-hearts.png"
+    },
+    {
+        "id":  "ava-03-meadow-crafting-table",
+        "file":  "ava-03-meadow-crafting-table.png",
+        "hash":  "52DEA0470B463048",
+        "bytes":  130677,
+        "source":  "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\appearance\\ava-03-meadow-crafting-table.png"
+    },
+    {
+        "id":  "ava-04-closeup-meadow",
+        "file":  "ava-04-closeup-meadow.png",
+        "hash":  "C559DF17FF5D5C42",
+        "bytes":  142803,
+        "source":  "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\appearance\\ava-04-closeup-meadow.png"
+    },
+    {
+        "id":  "ava-05-desk-root-server",
+        "file":  "ava-05-desk-root-server.png",
+        "hash":  "5686D3C711031EFE",
+        "bytes":  176070,
+        "source":  "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\appearance\\ava-05-desk-root-server.png"
+    },
+    {
+        "id":  "new-data",
+        "file":  "new data.gif",
+        "hash":  "AF80EF15FC5A467D",
+        "bytes":  17555349,
+        "source":  "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\uploads\\new data.gif",
+        "was":  "going-back-to-bed.gif",
+        "note":  "Renamed 2026-08-01 by operator"
+    },
+    {
+        "id":  "going-back-to-bed",
+        "file":  "going back to bed.mp4",
+        "bytes":  2464183,
+        "source":  "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\uploads\\going back to bed.mp4",
+        "note":  "Replaced 2026-08-01 by operator (mp4)"
+    }
+]

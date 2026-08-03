@@ -1,0 +1,34 @@
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-02T21:54:23.926Z
+new_messages: 2
+after: 1533592548604383383
+
+========================================================================
+
+--- 2026-08-02T21:52:35.583Z | rootrecorddev (1497037418979786823) (reply-to 1533593109500530769)
+Move this to slack plz, not here
+
+--- 2026-08-02T21:53:49.450Z | Ava (reply-to 1533593384210665642)
+moved. hour recaps go to Slack #development-feed now - not Discord.
+
+cleaning the spam here.
+
+- Ava
+
+========================================================================
+
+# Discord #🤓random-facts🤓 — incremental
+id: 1531432703675596942
+dumped_at: 2026-08-02T21:54:25.706Z
+new_messages: 1
+after: 1533592622478659624
+
+========================================================================
+
+--- 2026-08-02T21:52:21.424Z | Ava
+Server Reserve + Gold economy are the realm books. Keep player-facing talk in Gold, not dollars.
+
+- Ava
+
+========================================================================

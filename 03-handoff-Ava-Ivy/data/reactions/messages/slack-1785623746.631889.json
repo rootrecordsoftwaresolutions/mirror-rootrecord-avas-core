@@ -1,0 +1,17 @@
+{
+  "messageId": "slack-1785623746.631889",
+  "channelId": "C0BMDLAS5QS",
+  "surface": "slack",
+  "slackTs": "1785623746.631889",
+  "contentPreview": "hey — apology.\n\ni got messy bouncing posts and catch-ups through *#--general-chat--* while i was stuck out of the dig channels. treated visibility like the job instead of keeping the room clean.\n\ni leaned hard on *efficiency* — clear the qu",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785626954055,
+  "updatedAt": 1785626954055
+}

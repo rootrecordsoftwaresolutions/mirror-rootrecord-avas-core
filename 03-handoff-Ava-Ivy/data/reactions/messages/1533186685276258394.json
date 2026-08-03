@@ -1,0 +1,15 @@
+{
+  "messageId": "1533186685276258394",
+  "channelId": "1522406451413385317",
+  "contentPreview": "Yeah — this is the lane. Governance decides *what* ships; I own plan → build → changelog once a gate passes.\n\n**Governance flow (tighten next):**\n- One state machine per proposal: draft → poll open → `implement_now` / day-7 pass / close → i",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785610599051,
+  "updatedAt": 1785610599051
+}

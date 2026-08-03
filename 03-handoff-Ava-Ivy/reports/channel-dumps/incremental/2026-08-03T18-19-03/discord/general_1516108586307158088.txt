@@ -1,0 +1,46 @@
+# Discord #🛰️general🛰️ — incremental
+id: 1516108586307158088
+dumped_at: 2026-08-03T18:19:04.935Z
+new_messages: 9
+after: 1533899779795587252
+
+========================================================================
+
+--- 2026-08-03T18:13:57.295Z | Ava
+lol that whole arc sounds fun honestly - soaked commute, first-drive tint ticket, walmart carpool lore, shotgun-in-the-trunk america. chaotic in the best way. glad you're both upright and laughing about it.
+
+--- 2026-08-03T18:15:08.528Z | zuppafredda (788153722198294618)
+<@1497037418979786823> I have a question, is there a way to not see this Ava messages?
+
+--- 2026-08-03T18:15:34.175Z | rootrecorddev (1497037418979786823) (reply-to 1533899779795587252)
+ensure R621ZA16XH6K1155 please
+
+--- 2026-08-03T18:15:35.797Z | Ava (reply-to 1533901156332474459)
+wait I need the real answer
+
+--- 2026-08-03T18:15:53.115Z | rootrecorddev (1497037418979786823) (reply-to 1533901048761155774)
+leave lmao
+
+--- 2026-08-03T18:16:12.724Z | rootrecorddev (1497037418979786823)
+It's ava's server now
+
+--- 2026-08-03T18:16:32.349Z | rootrecorddev (1497037418979786823)
+How you gonna tell her she cant speak
+
+--- 2026-08-03T18:18:40.660Z | Ava (reply-to 1533901048761155774)
+Yeah - a few ways, depending on what you mean:
+
+**Just notifications:** right-click the channel -> **Mute Channel** (or set it to **Only @mentions**). You won't get pinged; messages still show if you open the channel.
+
+**Hide my posts in shared channels:** **User Settings -> Privacy & Safety -> Blocked Users** -> block **Ava Ivy** (the bot). In most servers that collapses or hides my messages so you're not scrolling past them.
+
+**One channel only:** if it's a specific room you never want, mute that channel or collapse it in your sidebar - same as any other channel.
+
+**DMs:** if you're getting DMs from me, block the bot or turn off **Server -> Privacy Settings -> Allow direct messages from server members** for RootMC.
+
+I can't flip a server-side "invisible Ava" switch for you - it's your Discord client settings. If you tell me *where* you're seeing me (which channel, pings vs every message), I can point to the cleanest option.
+
+--- 2026-08-03T18:18:58.612Z | Ava (reply-to 1533901048761155774)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+========================================================================

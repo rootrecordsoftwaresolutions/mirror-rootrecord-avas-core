@@ -1,0 +1,39 @@
+{
+  "id": "ingame-join-metrics-v1",
+  "updatedAt": "2026-08-03T20:11:01.608Z",
+  "lastMessageId": "1533927999945314416",
+  "joinsSeen": 21,
+  "newPlayers": 6,
+  "welcomesSent": 6,
+  "returningJoins": 15,
+  "rconDeltaJoins": 0,
+  "lastJoinAt": "2026-08-03T20:02:37.918Z",
+  "lastWelcomeAt": "2026-08-03T17:19:14.685Z",
+  "lastJoinName": "ZuppaFredda",
+  "onlineByTarget": {
+    "claims": [],
+    "_seeded_claims": true,
+    "towny": [],
+    "_seeded_towny": true
+  },
+  "welcomed": {
+    "zuppafredda": 1785777554685,
+    "khouzrh": 1785777553758,
+    "i_dawson_i": 1785731906545,
+    "melee__": 1785711051905,
+    "svenj9": 1785710246337,
+    "alexrs94": 1785710246065
+  },
+  "seen": {
+    "zuppafredda": 1785787357918,
+    "alexrs94": 1785785775270,
+    "i_dawson_i": 1785784558166,
+    "svenj9": 1785784138867,
+    "melee__": 1785781306606,
+    "khouzrh": 1785779789833
+  },
+  "_lastRunAt": 1785787860802,
+  "operatorPulse": {
+    "alexrs94": 1785777558229
+  }
+}

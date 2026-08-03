@@ -1,0 +1,17 @@
+{
+  "messageId": "1533186337702674463",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "@everyone\n# Ava catch-up · channel scan\n\nScanned watch list + proposal threads.\n\n## PROP-01 — Root-Skills XP curve (proportional)\nGate **implement_now** already fired (≥75%). Job `job-msaqcfjo` → `waiting_restart` (stage-only — humans own F",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785626927462,
+  "updatedAt": 1785626927462
+}

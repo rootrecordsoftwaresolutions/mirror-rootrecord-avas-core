@@ -1,0 +1,87 @@
+{
+  "discordId": "finance-multi-acct-test",
+  "username": "t",
+  "firstSeenAt": 1785703455100,
+  "trust": 50,
+  "rudeness": 0,
+  "skepticism": 0,
+  "interests": [],
+  "notes": [],
+  "samples": [],
+  "knownId": null,
+  "cursorRuns": 0,
+  "member": false,
+  "finance": {
+    "optIn": true,
+    "optInAt": 1785703455100,
+    "optOutAt": null,
+    "currency": "USD",
+    "accounts": [
+      {
+        "id": "acct-default",
+        "name": "Default",
+        "kind": "cash",
+        "currency": "USD",
+        "balanceUsd": 0,
+        "income": [],
+        "expenses": [],
+        "debts": [],
+        "note": "",
+        "createdAt": 1785703455100,
+        "updatedAt": 1785703455100
+      },
+      {
+        "id": "acct-checking",
+        "name": "checking",
+        "kind": "cash",
+        "currency": "USD",
+        "balanceUsd": 100,
+        "income": [
+          {
+            "id": "inc-job",
+            "label": "job",
+            "amountUsd": 2500,
+            "period": "month",
+            "note": "",
+            "updatedAt": 1785703455142
+          }
+        ],
+        "expenses": [],
+        "debts": [],
+        "note": "",
+        "createdAt": 1785703455106,
+        "updatedAt": 1785703455142
+      },
+      {
+        "id": "acct-debts",
+        "name": "debts",
+        "kind": "debt",
+        "currency": "USD",
+        "balanceUsd": 0,
+        "income": [],
+        "expenses": [],
+        "debts": [
+          {
+            "id": "debt-car-loan",
+            "label": "car-loan",
+            "balanceUsd": 4500,
+            "apr": null,
+            "minimumUsd": null,
+            "period": "once",
+            "note": "",
+            "updatedAt": 1785703455152
+          }
+        ],
+        "note": "",
+        "createdAt": 1785703455132,
+        "updatedAt": 1785703455152
+      }
+    ],
+    "income": [],
+    "expenses": [],
+    "debts": [],
+    "notes": [],
+    "lastReviewAt": null
+  },
+  "updatedAt": 1785703455152
+}

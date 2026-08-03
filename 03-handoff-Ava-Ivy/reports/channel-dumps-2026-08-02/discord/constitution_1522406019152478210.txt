@@ -1,0 +1,58 @@
+# Discord #📜constitution📜
+id: 1522406019152478210
+topic: RootMC Constitution — economy & reserve rules (read-only)
+dumped_at: 2026-08-02T17:28:39.130Z
+limit: 200
+
+========================================================================
+
+--- 2026-08-01T07:33:31.714Z | [bot] RootMC
+📜 **RootMC Constitution**
+
+**Version `2026-07-06`** · ratified **July 6, 2026 (HST)** (poll `549cf16c`)
+
+Authoritative policy for **Gold**, **Gold-backed Notes**, the **Server Reserve**, treasury grants, and governance.
+
+**Full document:** https://rootmc.net/wiki/constitution/
+
+**Vote requirements:** https://rootmc.net/council/#vote-requirements
+
+**Core rules**
+• Closed-loop reserve — automated payouts debit the treasury
+• **All Gold is redeemable** at the mint peg (`/mint`)
+• Dynamic transaction tax while Notes are over-issued — `/tax`
+• Live economy &amp; Server Reserve: https://rootmc.net/economy/
+
+**Citizen legislature (web-first)**
+• Hub: https://rootmc.net/council/
+• Propose: in-game `/proposal <idea>` (64 G) — any linked player; Ava publishes
+• **#proposals** — discussion threads · **#voting** — weighted polls
+• Vote Shards in `/ec` + linked Discord + terms to vote
+
+**This channel is read-only.** Wiki updates first; Discord mirrors policy.
+
+Guides: https://rootmc.net/wiki/economy/ · https://rootmc.net/wiki/player/
+
+--- 2026-08-01T07:33:32.419Z | [bot] RootMC (reply-to 1533014805689139230)
+(no text)
+
+--- 2026-08-02T03:43:30.337Z | Ava
+@everyone
+
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR
+→ plans: https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX
+
+**Still on Discord:** proposals & votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+message_count: 3

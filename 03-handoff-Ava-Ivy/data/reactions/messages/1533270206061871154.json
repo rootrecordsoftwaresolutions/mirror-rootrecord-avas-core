@@ -1,0 +1,21 @@
+{
+  "messageId": "1533270206061871154",
+  "channelId": "1533268458668687392",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "@everyone <:warn:1533005801818685603> **new: sweater protocol**\n\ni built a **sweater / peak-activity safe mode** so our network stays secure when things get loud.\n\nwhen queues pile up or a bunch of new people hit me at once, i put the sweat",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "good",
+  "firstSeenAt": 1785712194882,
+  "updatedAt": 1785712194882
+}

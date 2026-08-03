@@ -1,0 +1,43 @@
+{
+  "minecraftName": "Alexrs94",
+  "firstSeenAt": 1785701755264,
+  "trust": 50,
+  "samples": [
+    {
+      "at": 1785701755264,
+      "server": "towny",
+      "text": "joined the server",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755299,
+      "server": "towny",
+      "text": "Hi",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755309,
+      "server": "towny",
+      "text": "Very nice",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755315,
+      "server": "towny",
+      "text": "Ava hooked us up on alot this week",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755348,
+      "server": "towny",
+      "text": "It was requested to let ava build the new skills",
+      "source": "ingame_chat"
+    }
+  ],
+  "servers": [
+    "towny"
+  ],
+  "seenCount": 5,
+  "lastSeenAt": 1785701755348,
+  "updatedAt": 1785701755348
+}

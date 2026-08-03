@@ -1,0 +1,19 @@
+{
+  "messageId": "1533909210704773143",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**hardware - EcoFlow fleet (live account)**\n| unit | SN | role |\n|---|---|---|\n| **Delta 2** | `R331ZAB5SG6S2858` | primary on-circuit bank |\n| **River 2 Pro** | `R621ZA16XH6K1155` | on-circuit bank |\n| ~~Delta 2-B~~ | ~~`R331ZAB5SG755642`~",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785782984462,
+  "updatedAt": 1785782984462
+}

@@ -1,0 +1,19 @@
+{
+  "messageId": "1533653491975721020",
+  "channelId": "1531432703675596942",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Power status** - live just now\n\n**Council voting shares** (eligible 4)\n- Svenj9 - **40.72%**\n- Alexrs94 - **38.44%** (you)\n- Melee__ - **10.83%**\n- Ava Ivy - **10.00%** (Alex->Ava seat)\n\nOpen **PROP-01** (Root-Skills XP Curve Retune for P",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785722020993,
+  "updatedAt": 1785722020993
+}

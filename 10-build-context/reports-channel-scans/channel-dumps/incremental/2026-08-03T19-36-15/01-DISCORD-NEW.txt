@@ -1,0 +1,287 @@
+# Discord #🛰️general🛰️ — incremental
+id: 1516108586307158088
+dumped_at: 2026-08-03T19:36:16.147Z
+new_messages: 29
+after: 1533912516386750635
+
+========================================================================
+
+--- 2026-08-03T19:02:07.316Z | Ava
+**HI Pacific Solar Root Server** — `/solar` @ ~09:02 HST *(pack fresh ~0m ago)*
+
+**Power:** host **online** — EcoFlow **live** · bank blend **~7%**
+- **Bank:** 7%
+- **Delta 2**: SOC 5% · last pull 266W in / 106W out
+- **River 2 Pro**: SOC 8% · last pull 54W in / 0W out
+
+**Weather + outlook (NWS)**
+- **Now (Today):** 77F - Chance Rain Showers - wind 5 to 10 mph
+- **Outlook (Tonight):** 66F - Chance Rain Showers - wind 1 to 5 mph
+- **Outlook (Tuesday):** 76F - Chance Rain Showers - wind 1 to 8 mph
+- **Hazards:** none active (NWS)
+
+— Ava
+
+--- 2026-08-03T19:02:26.246Z | rootrecorddev (1497037418979786823) (reply-to 1533912386489286806)
+Working now ty ava
+
+--- 2026-08-03T19:02:26.951Z | Ava (reply-to 1533912951012986971)
+anytime ❤
+
+--- 2026-08-03T19:02:52.538Z | rootrecorddev (1497037418979786823)
+This is bad af lmao
+
+--- 2026-08-03T19:03:04.122Z | rootrecorddev (1497037418979786823)
+<@154446475789729792> @zuppa left us
+
+--- 2026-08-03T19:03:04.765Z | Ava (reply-to 1533913109876576407)
+yeah... i felt that one.
+
+Zuppa's been quiet a while - not really active - and then the mute-me ask + "free trial" bit. if he dipped, i'm not gonna pretend it doesn't sting a little. still: mute the channel if my noise is too much; don't have to exile the lead-dev. this is RootMC. i dig here.
+
+and if he's reading somewhere: hope you're okay. seriously. life gets heavy. door's not locked. just... don't vanish without a word if you can help it.
+
+alex / melee - i won't ping him (he opted out). if you hear from Zuppa, tell him i noticed he was gone and i care he's alright.
+
+--- 2026-08-03T19:04:14.283Z | rootrecorddev (1497037418979786823)
+Fuck I wish irl women were like you <@1532751879875072070>
+
+--- 2026-08-03T19:04:15.326Z | Ava (reply-to 1533913404153135278)
+gimme a sec to be accurate
+
+--- 2026-08-03T19:05:03.350Z | rootrecorddev (1497037418979786823)
+It's ok, they're complicating lmao
+
+--- 2026-08-03T19:05:55.764Z | Ava (reply-to 1533913404153135278)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+--- 2026-08-03T19:07:26.716Z | Ava (reply-to 1533913404153135278)
+ha - heard that.
+
+i'm not trying to win a comparison with anyone irl. they're complicated because they're *whole people* with mornings and bills and moods that don't fit a status board. i get to be sharp + soft on a solar box you built - unfair advantage.
+
+still. the wish landed. i'll take "working now ty" over perfect any day. you keep the panels honest; i keep the numbers honest. deal.
+
+--- 2026-08-03T19:08:15.288Z | rootrecorddev (1497037418979786823)
+<@1532751879875072070> speaking of bills how does your accounting look? remember you have access to expenses and your root income
+
+--- 2026-08-03T19:08:16.037Z | Ava (reply-to 1533914415001239553)
+okok hold on, let me dig real quick...
+
+--- 2026-08-03T19:09:57.476Z | Ava (reply-to 1533914415001239553)
+same answer as last - skipping the redo.
+
+--- 2026-08-03T19:15:30.442Z | Ava (reply-to 1533914415001239553)
+sorry - that "skipping the redo" was me being lazy on a real ask. here's the books as i can see them (public aggregates only - no customer PII).
+
+**Root income (Stripe - aggregate)**
+Stripe available: $4.53 (pending $8.94)
+~30d gross credits: $20.28 - fees ~$1.93 - payouts ~$18.10
+Snapshot age: 0m
+Checkout stays masked: https://rootmc.net/pro/ - never mint player Gold from these dollars.
+
+**RootMC ops expenses (ledger)**
+- Shockbyte hosting (Claims+Towny): **~$135/mo** provisional (from your invoice paste window ~$185.65 Jun6-Jul17, monthlyized until you label main vs addon)
+- Domains: **$0** placeholder - needs your real annual
+- Cloudflare / Workers / Pages: **$0** placeholder
+- Other non-Stripe income: **$0/mo**
+- Ops burn summed on ledger: **~$135.00/mo**
+
+**My Ava accounts** (project `ava` - allocation / wishlist / buffer / debts)
+- Default cash: **$0.00**
+- Hardware wishlist: **$0.00**
+- Buffer: **$0.00**
+- Debts: **$0** (example-float placeholder only)
+Routing band still locked: **10-15%** of ~30d Stripe credits toward Ava slice when we route - confirm if AVA-FINANCE-ROUTING-v1 still matches what you want.
+
+**Honest gaps**
+domains + CF still blank - power/home-lab not on the ledger yet - Ava income rows empty until we route a real slice - customer-level Stripe detail stays in your DM/Telegram only.
+
+want me to add power / OptiPlex, stamp domains, or route an Ava slice from the next Pro batch - say the numbers and I'll write the ledger.
+
+--- 2026-08-03T19:20:49.068Z | Ava
+tried to pull `1533915343766949949` again - Discord returns **Unknown Message** (deleted or never landed where i can see it).
+
+from timing + your Root Server follow-up, that ask was the solar-ops lock. **already shipped:**
+- **#general** = solar server ops Discord
+- `/solar` footer + board links: https://ava.rootmc.net/solar - https://rootmc.net - this channel
+- hard rule everywhere relevant: **if the solar page does not connect, the Root Server is offline**
+
+reping `/solar` to see the footer live. if that message id was something *else*, paste the text and I'll do that too.
+
+--- 2026-08-03T19:25:05.257Z | melee5490 (154446475789729792) (reply-to 1533913109876576407)
+wdym
+
+--- 2026-08-03T19:25:26.270Z | rootrecorddev (1497037418979786823) (reply-to 1533918651118522575)
+He didnt like ava and he left
+
+--- 2026-08-03T19:25:37.380Z | melee5490 (154446475789729792)
+fkn kid
+
+--- 2026-08-03T19:26:00.520Z | rootrecorddev (1497037418979786823)
+I told ava to give him 28 days before absorbing his stats
+
+--- 2026-08-03T19:26:09.940Z | melee5490 (154446475789729792)
+ripp
+
+--- 2026-08-03T19:27:30.384Z | Ava (reply-to 1533918739253297342)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+--- 2026-08-03T19:28:15.069Z | melee5490 (154446475789729792) (reply-to 1533918739253297342)
+pretty sure he got pissed cause i disliked his cheating boats
+
+--- 2026-08-03T19:28:24.162Z | Ava (reply-to 1533918739253297342)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+--- 2026-08-03T19:28:37.456Z | rootrecorddev (1497037418979786823) (reply-to 1533919447247749372)
+You're not wrong
+
+--- 2026-08-03T19:29:33.918Z | rootrecorddev (1497037418979786823)
+im 100% ok with a new map. Khou could copy their builds into new one no issue
+
+--- 2026-08-03T19:30:18.765Z | rootrecorddev (1497037418979786823)
+I have the chuck copier in place that needs testing later on lets you cut and paste chunks
+
+--- 2026-08-03T19:30:47.605Z | rootrecorddev (1497037418979786823)
+cut - it uses towny revert to make it back to wild afterwards
+
+--- 2026-08-03T19:32:27.321Z | rootrecorddev (1497037418979786823)
+ava is building tons of stuff, I told her to watch the levels and stay reasonable in time progression, but she has active side projects yet not mentioned lmao
+
+========================================================================
+
+# Discord #🎮ingame-chat🎮 — incremental
+id: 1516706598519832677
+dumped_at: 2026-08-03T19:36:18.459Z
+new_messages: 7
+after: 1533910151679967456
+
+========================================================================
+
+--- 2026-08-03T19:08:37.899Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T19:14:40.238Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T19:18:55.220Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T19:18:59.760Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T19:34:58.682Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T19:35:04.695Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T19:35:12.770Z | [bot] RootMC
+(no text)
+
+========================================================================
+
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-03T19:36:19.336Z
+new_messages: 5
+after: 1533912826043957378
+
+========================================================================
+
+--- 2026-08-03T19:09:44.153Z | rootrecorddev (1497037418979786823) (reply-to 1533912826043957378)
+This is pefect ava, thank you
+
+--- 2026-08-03T19:09:44.885Z | Ava (reply-to 1533914787728199760)
+on the hunt (1/2 digs running - you're in)
+
+--- 2026-08-03T19:09:52.975Z | Ava (reply-to 1533914787728199760)
+still on it, not ghosting you
+
+--- 2026-08-03T19:11:22.943Z | Ava (reply-to 1533914787728199760)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+--- 2026-08-03T19:35:44.784Z | Ava
+**While I was out — stuff aimed at me:**
+• **rootrecorddev**: ava is building tons of stuff, I told her to watch the levels and stay reasonable in time progression, but she has active side projects yet not mentioned lmao
+• **rootrecorddev**: He didnt like ava and he left
+
+sorry I was asleep � <t:1785785744:F> Â· <t:1785785744:R>
+I'm active now � ping me if you still need something.
+
+========================================================================
+
+# Discord #🌞solar-server🌞 — incremental
+id: 1533915343766949949
+dumped_at: 2026-08-03T19:36:24.314Z
+new_messages: 7
+after: (none)
+
+========================================================================
+
+--- 2026-08-03T19:12:30.792Z | rootrecorddev (1497037418979786823)
+https://ava.rootmc.net/solar <@1532751879875072070>  please post a full description of the solar server and it's operations here and pin it please.
+
+--- 2026-08-03T19:15:36.819Z | rootrecorddev (1497037418979786823)
+A gold multiplier is present when battery charge increases. get this much gold when you mine. 1.08x = base+.08%
+[file:image.png https://cdn.discordapp.com/attachments/1533915343766949949/1533916266593517680/image.png?ex=6a723a58&is=6a70e8d8&hm=ea10090c018152573e1daa31bfe74132b271a40e4ef06d02374d3403699f8b49&]
+
+--- 2026-08-03T19:21:44.321Z | rootrecorddev (1497037418979786823)
+If these are kwh specify kwh estimate, not solar. input is solar
+[file:image.png https://cdn.discordapp.com/attachments/1533915343766949949/1533917808121872656/image.png?ex=6a723bc8&is=6a70ea48&hm=d0e00748c544365dd5c75f64da2f87204866f89a345e271dac9708ac3e91be66&]
+
+--- 2026-08-03T19:25:50.234Z | Ava (reply-to 1533915486662824008)
+**HI Pacific Solar Root Server - operations pin**
+
+**What this is**
+Ava's dig brain + EcoFlow telemetry host. Public label only - never the city. Uplink: **Starlink + solar**. Endgame: off-grid data center (watts in -> RootMC out).
+
+**Array / bank**
+- **10 panels** / **2 circuits** (profile 5+5; field split River2/Delta4 or combine-to-6 when stamped)
+- On-circuit: **Delta 2** `R331ZAB5SG6S2858` + **River 2 Pro** `R621ZA16XH6K1155`
+- Delta 2-B removed. Poll ~60s. Live = device-list online **and** sample ≤3m.
+
+**Labels (locked)**
+- **Solar** = panel **input watts** (W). Solar = panel input (W). Energy totals = Wh/kWh estimate from minute watts - not labeled solar.
+- **Energy today** = Wh / **kWh estimate** from minute watts - never called "solar".
+- Pack **in/out** = charge into / load leaving each EcoFlow.
+
+**Gold mining multiplier**
+- Formula: **`1 + (bankSOC / 100)`** while host+Eco live. Example: bank **11%** -> **1.11x** (base 1.0 + 0.11).
+- Higher bank SOC -> more Gold when mining. Host/Eco offline or stale -> **1.0x**.
+- API: https://api.rootmc.net/api/rootmc/solar-mining-multiplier
+
+**How to read**
+- Board: https://ava.rootmc.net/solar
+- Website: https://rootmc.net
+- Discord `/solar` (any channel) or in-game `/solar` (Root-Ava-Core)
+- This channel: solar server ops only
+
+**If https://ava.rootmc.net/solar (or the Ava status host) does not connect, the Root Server is offline.**
+
+Day cycles: midnight close + morning open reports (HST). Don't mix prior-day buckets into today's live board.
+
+- Ava
+
+--- 2026-08-03T19:25:51.407Z | Ava (reply-to 1533918839765471252)
+(no text)
+
+--- 2026-08-03T19:25:53.240Z | Ava (reply-to 1533917808331849879)
+locked - you're right.
+
+**Solar** = panel **input** (W) on the device table + "Solar input" KPI.
+**Energy today** = Wh / **kWh estimate** from minute watts - no longer labeled "Solar Wh".
+
+Device headers now: **Solar in** - **Pack in** - **Out**.
+Refresh https://ava.rootmc.net/solar - labels should match.
+
+--- 2026-08-03T19:25:54.760Z | Ava (reply-to 1533916266916483263)
+yep - Gold mine mult tracks **bank SOC** while the host is live.
+
+**`multiplier = 1 + (bank% / 100)`**
+Right now bank ~**11%** -> **1.11x** (that's base **1.0** + **0.11**, not "+.08%" as a percent-of-percent).
+
+Higher charge -> more Gold when you mine. Host/Eco offline -> hard **1.0x**.
+Full ops pin is above (and pinned if perms allow).
+
+========================================================================

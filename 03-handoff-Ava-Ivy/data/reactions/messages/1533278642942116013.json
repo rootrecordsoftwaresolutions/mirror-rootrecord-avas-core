@@ -1,0 +1,17 @@
+{
+  "messageId": "1533278642942116013",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**#🛰️general🛰️** — general community chat only. Vibes, questions, normal back-and-forth. Not player-issue escalations, not your Ava ops updates, not dev digs, not governance/proposal workshop stuff.\n\nPlayer issues + emergencies → **#👮‍♂️",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785632523264,
+  "updatedAt": 1785632523264
+}

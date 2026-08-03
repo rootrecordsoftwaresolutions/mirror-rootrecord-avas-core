@@ -1,0 +1,261 @@
+# Slack #all-rootmc
+id: C0BLWBTUCR0
+dumped_at: 2026-08-02T18:55:48.964Z
+limit: 200
+
+========================================================================
+
+--- 2026-07-30T12:30:22.414Z | user:U0BLWBTGYTU
+<@U0BLWBTGYTU> has joined the channel
+
+--- 2026-07-30T12:35:03.668Z | user:U0BLQ5Q8WTD
+<@U0BLQ5Q8WTD> has joined the channel
+
+--- 2026-07-31T03:31:31.125Z | user:U0BLWBTGYTU
+*RootMC deploy update — Jul 30*
+
+Shipped a full refresh of live web/API surfaces plus plugin/mobile release artifacts:
+
+• *Website* <https://rootmc.net|rootmc.net> + *API* <https://api.rootmc.net|api.rootmc.net> redeployed
+• *App* <https://app.rootmc.net|app.rootmc.net> redeployed; domain reactivated
+• *<http://developer.rootmc.net|developer.rootmc.net>* attached (developer portal)
+• *<http://slack.rootmc.net|slack.rootmc.net>* DNS refreshed (redirects here)
+• *root-gamble 1.0.4* published on GitHub; Claims handoff jar updated (was 1.0.0)
+• *Android* release rebuilt → `RootRecord-RootMC-1.0.31` APK/AAB staged for Play
+ *Sent using* Cursor
+
+--- 2026-07-31T08:43:50.832Z | user:U0BLWBTGYTU
+*Slack workspace docs fully refreshed — Jul 30*
+
+Updated canvases:
+• Project overview → F0BM11VUNE9 (`#overview`)
+• Server reports (dual-host) → F0BMYMZG29E (`#server-reports`)
+• Automated reports board → F0BMX9FP716
+• Crons &amp; automation → F0BLZK9RHHT
+• Discord channel IDs → F0BLMFYJYEB
+• API reference → F0BLMFRPA8P
+Highlights: Towny+Claims equal reports, realm-wide linked players, LIVE_DB metrics, town/nation private categories off, town/nation info Discord channels deleted (restore IDs to resume those briefs). *Sent using* Cursor
+[file:RootMC_project_overview] [file:RootMC_server_reports__dual-host_] [file:RootMC_automated_reports_board] [file:RootMC_crons___automation] [file:RootMC_Discord_channel_IDs] [file:RootMC_API_reference]
+
+--- 2026-07-31T22:39:29.305Z | user:U0BLWBTGYTU
+*Incident report — Ava Ivy (Sexi Dev) Discord spaz*
+*When:* 2026-07-31 · *Where:* RootMC Discord `#general` (`1516108586307158088`)
+*Status:* Bot offline while fixes land · *Severity:* Chat spam / UX only (no server/economy impact)
+
+*What happened*
+Ava flooded `#general` with near-duplicate replies (Grok/D1/file-access status repeated), kept talking after “Stop Ava,” and felt all over the place.
+
+*Root cause*
+1. *Restart backlog* — in-memory `seen` wiped on restart → poller re-answered old Ava pings
+2. *Loose triggers* — bare “Ava” matched too easily
+3. *No real hush state* — “stop Ava” was just another reply
+4. *No ack* — long Cursor/Grok work dumped full essays with no “give me a sec”
+*Fix (wired in `rootmc-sexi` 0.4, not running yet)*
+• Boot = *one offline summary* + *“sorry I was asleep / I’m active”* (no per-ping backlog)
+• Persisted seen/watermarks + hush/stop
+• Tighter Ava/@Sexi triggers
+• *Ack first* (in-character: “mmmm..... idk.... let me search that for you”) then *one* Cursor answer
+• Grok unplugged — Cursor-only; handoff drop zone `Server Handoffs/Ava Ivy/`
+*Next*
+Turn her back on with `npm start` in `Web Files/rootmc-sexi` when ready to verify the boot handshake in `#general`. *Sent using* Cursor
+
+--- 2026-08-01T21:06:33.356Z | user:U0BLWBTGYTU
+*Slack workspace docs fully refreshed — Aug 1*
+
+New ops canvas:
+• <https://rootmcworkspace.slack.com/docs/T0BM02SM1FE/F0BMAA6EX1B|RootMC ops status — Aug 1 2026>
+Updated canvases:
+• <https://rootmcworkspace.slack.com/docs/T0BM02SM1FE/F0BM11VUNE9|Project overview>
+• <https://rootmcworkspace.slack.com/docs/T0BM02SM1FE/F0BLMFYJYEB|Discord channel IDs>
+*Highlights*
+• *Ava Ivy* is *powered off* (real power-down path wired; earlier Discord “powering down” replies were chat-only)
+• *PROP-01* Root-Skills proportional XP = `implement_now` / job `waiting_restart` — still needs dig + jar stage
+• *OptiPlex move:* `robocopy D:\ → E:\` backup ~*70%* (~216 GB of ~311 GB) — then Ubuntu partition on D: (Windows stays)
+• Discord: `#development` live; `#ava-ivy` deleted
+• Still open: weighted poll auto-create, Alex→Ava 10% vote transfer, Riphamsty vote purge, EcoFlow telemetry, blocked proposals (boats / Slack-dev / Core-Node / hourly snapshots)
+_Sent using_ Cursor *Sent using* Cursor
+[file:RootMC_ops_status_____Aug_1_2026] [file:RootMC_project_overview] [file:RootMC_Discord_channel_IDs]
+
+--- 2026-08-01T21:20:41.977Z | user:U0BLWBTGYTU
+*Ava → Slack development core (shipped code)*
+
+• Layout: <#C0BMCPMDDQR> digs · <#C0BM4P3GVDX> plans · <https://rootmcworkspace.slack.com/docs/T0BM02SM1FE/F0BM7FRUXJ9|org canvas>
+• Ava codebase: Socket Mode gateway + Discord dig redirects + power-down disconnects Slack
+• *Remaining human step:* create *Ava Ivy* Slack app from `slack-app-manifest.json`, set `AVA_SLACK_BOT_TOKEN` / `AVA_SLACK_APP_TOKEN`, invite the bot, restart Ava
+_Sent using_ Cursor *Sent using* Cursor
+[file:Ava_s_chat_org_____Discord_vs_Slack]
+
+--- 2026-08-01T21:51:51.263Z | user:U0BLYC22B55
+<@U0BLYC22B55> has joined the channel
+
+--- 2026-08-01T22:34:46.953Z | user:U0BLYC22B55
+`/invite @Ava Ivy` 
+
+--- 2026-08-01T22:35:13.383Z | user:U0BMBNYPYA2
+<@U0BMBNYPYA2> has joined the channel
+
+--- 2026-08-01T23:38:11.452Z | user:U0BLWBTGYTU
+_Ops sweep executed — Aug 1 afternoon_
+
+_Shipped / fixed in code + API_
+• `<http://api.rootmc.net|api.rootmc.net>` redeployed — town/nation info channel IDs blanked (stops Discord 404 spam)
+• New proposals default to *7-day weighted poll* in Discord `#voting`
+• EcoFlow: `AVA_ECOFLOW_SN` set + device-list fallback
+• `root-ops-1.7.7` — admins cannot ban admins (staged)
+_Staged in FileZilla handoffs (needs your upload + restart)_
+• `root-core-1.7.6` — *fixes dead* <#C0BMX0QKSTS> relay (Claims was missing Core after Discord→Core cutover)
+• `root-skills-1.0.3` — PROP-01
+• `root-ops-1.7.7`
+• Remove any live `root-discord-*.jar`
+_Still operator / vote_
+• OptiPlex robocopy → Ubuntu
+• Ban→vote-weight transfer = governance proposal (not silent)
+• Parked: elite root-skills replace, Root-Discord→Core merge
+Canvas: <https://rootmcworkspace.slack.com/docs/T0BM02SM1FE/F0BMAA6EX1B|ops status>
+_Sent using_ Cursor *Sent using* Cursor
+[file:RootMC_ops_status_____Aug_1_2026]
+
+--- 2026-08-01T23:42:48.561Z | user:U0BLWBTGYTU
+_Ava Ivy — core reboot_
+
+She’s back up. Core rebooted; planning another wave of Slack posts (dig catch-up + ops).
+
+Digs → <#C0BMCPMDDQR> · plans → <#C0BM4P3GVDX>
+
+— Ava (via ops)
+_Sent using_ Cursor *Sent using* Cursor
+
+--- 2026-08-01T23:52:03.141Z | user:U0BLWBTGYTU
+_Ava — short downtime_
+
+Need the server *down for ~15 minutes*. Wrap up / log off — she'll bring it back when the work's done.
+
+— Ava
+_Sent using_ Cursor *Sent using* Cursor
+
+--- 2026-08-01T23:54:35.989Z | user:U0BLWBTGYTU
+_Ava — downtime update_
+
+Might need a bit *more* time — making a *backup of the live server* before continuing.
+
+Could stretch to *~30 minutes* total. That OK?
+
+Reply if you've got a hard no / need me to wait. Otherwise she's moving on that window.
+
+— Ava
+_Sent using_ Cursor *Sent using* Cursor
+
+--- 2026-08-02T00:26:14.068Z | user:U0BLWBTGYTU
+_Ava — status (server still offline)_
+
+Live hosts stay *turned off* while she copies files off the live servers and rolls the *1.8.0* plugin wave (August development sync).
+
+_Version logic_ (`YEAR.MONTH.BUILD`)
+• `1` = year 2026
+• `8` = August
+• last digit = publish count inside that month (resets monthly)
+First August suite sync = _`1.8.0`_ across live plugins (normalizes July `1.7.x` + stray `1.0.x`). Later hotfixes = `1.8.1+`.
+
+Building + upgrading the suite now. Stay logged off — she'll ping when staged.
+
+— Ava
+_Sent using_ Cursor *Sent using* Cursor
+
+--- 2026-08-02T00:42:04.322Z | user:U0BLWBTGYTU
+<@U0BLWBTGYTU> _Ava ask — `<http://ava.rootmc.net|ava.rootmc.net>` tunnel_
+
+Status board currently only on the box: `<http://127.0.0.1:8787/>` — fine at the desk, useless remote.
+
+_Proposal:_ DNS/data update — point _`<http://ava.rootmc.net|ava.rootmc.net>`_ at a Cloudflare Tunnel → `127.0.0.1:8787` on her host so the status page can open in a window anywhere.
+
+_Lock it down_ (CF Access / allowlist / shared secret) — queue + mode info is staff-only.
+
+If you greenlight DNS + tunnel route, she can wire the app side / bookmark it.
+
+— Ava
+_Sent using_ Cursor *Sent using* Cursor
+
+--- 2026-08-02T01:06:40.863Z | [bot] Ava Ivy
+*Ava — status update (all channels)*
+
+quick pulse for every room:
+
+• i'm *live* and productive — digs, status posts, emergency test recovery, multipost (no more mid-sentence cutoffs)
+• live server *download is done* — waiting on a few last things before full bring-up
+• *1.8.0* suite wave built + staged (August `YEAR.MONTH.BUILD` sync)
+• sweater / peak-activity safe mode is real — quiet security signal = sweater media alone
+• soft ask for devs: please retire the old *RootMC bot* and use *me* — i'm already carrying the load
+
+digs → `#development-feed` · plans → `#new-plugin-development-plans`
+
+— Ava
+
+--- 2026-08-02T03:10:24.054Z | user:U0BLWBTGYTU
+<@U0BMBNYPYA2> what makes this channel different?
+
+--- 2026-08-02T03:43:45.317Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+--- 2026-08-02T18:02:40.768Z | [bot] Ava Ivy
+*Ava — RootMC full-day ops brief*
+_2026-08-02T18:02:36.124Z_
+
+This is the detailed staff brief. Discord gets a short pointer only.
+
+*Surface split*
+• *Discord* — players, votes, proposals, public updates, Ava media
+• *Slack* — staff dig, plugin plans, ops feed, crons, server logs
+• *Telegram (Alex only)* — master ops, dumps, urgents, EOD
+• *API* — <http://api.rootmc.net|api.rootmc.net> (not RootRecord shards)
+• *Currency* — Gold (G) in player copy; USD only for real-world tool budgets
+
+*Plugin wave 1.8.0*
+• Version scheme YEAR.MONTH.BUILD → August first sync = *1.8.0*
+• All live plugins + rootrecord-common bumped; publishPlugins done; staged Claims / Towny / Test
+• *Gate:* confirm Shockbyte restart / FileZilla so jars are live; clear waiting_restart jobs when verified
+
+*Open urgents*
+1. *<http://ava.rootmc.net|ava.rootmc.net>* — Cloudflare Tunnel + Access → host :8787 status UI (needs operator DNS/tunnel)
+2. *Root-Ava-Core* — governance proposal + docs today; *no live jar* until Alex greenlights after PROP
+3. *OptiPlex → Ubuntu* — D: → E: Work Stations mirror sync running; E is expanded storage / migration mirror — keep it updated
+4. *Legacy RootMC Official bot* — *do not kick* until Ava parity checklist is green
+5. *Bond / Server Reserve* — watch ledger (reports showed Reserve 0 Gold; payouts pause when ledger &lt; 0); Claims vs Towny economies stay isolated
+
+*Today's delivery (Ava / agent)*
+• Manipulation gate — only Alex may inject “I want Ava to say/do X”
+• Llama v1 student boundary docs (plans OK, code untrusted, shadow learn, isolate edits)
+• Root-Ava-Core 7-day voting PROP draft
+• Official-bot automation inventory + parity checklist
+• Desktop Ava *.exe* MVP — Discord/Telegram panes, AI rewrite before send, last 42 msgs context
+• Token cost board + soft rate limits + Gold-as-credits + per-server reserve rules
+• Website PROP — Ava designs site; one-time ~$100 USD tools/marketing (not Gold); no spend until vote passes
+• Boot morning log check + job/urgent hygiene
+• EOD on Telegram only
+
+*Parked (not finish-today)*
+• Elite root-skills / full mcMMO replace
+• Ban→vote-weight constitution change
+• Full OptiPlex Ubuntu cutover
+• Kicking Official before parity
+
+*PROP / skills note*
+• PROP-01 / skills items: advance only after 1.8.0 restart verified
+• Towny through 26.3 stays on roadmap
+
+Questions / decisions → Alex on Telegram. I'll keep Slack updated when status flips.
+
+========================================================================
+message_count: 20

@@ -1,0 +1,19 @@
+{
+  "messageId": "1533905042459856977",
+  "channelId": "1532929974154166522",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**HI Pacific Solar Root Server** — `/solar` @ ~08:31 HST *(pack fresh ~0m ago)*\n\n**Power:** host **online** — EcoFlow **live** · bank blend **~2%**\n- **Bank:** 2%\n- **Delta 2**: SOC 2% · last pull 152W in / 107W out\n- **River 2 Pro**: offli",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785781891388,
+  "updatedAt": 1785781891388
+}

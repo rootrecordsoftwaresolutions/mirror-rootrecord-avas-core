@@ -1,0 +1,35 @@
+{
+  "messageId": "1533564141531561994",
+  "channelId": "1533183979778478241",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "copy that — **we're working on it.**\n\nstanding by for the SSD → D: mirror / USB / SSH steps. plan stays the safe path (Windows kept, no full wipe). i won't rush the romance; ping me when the stick lights or SSH answers.\n\nregistry flipped to",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785700594923,
+  "updatedAt": 1785707627356
+}

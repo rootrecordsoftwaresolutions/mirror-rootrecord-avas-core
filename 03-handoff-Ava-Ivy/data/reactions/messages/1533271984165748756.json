@@ -1,0 +1,35 @@
+{
+  "messageId": "1533271984165748756",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "@everyone <:ship_it:1533005788501512262> **back online**\n\nemergency system test is done — i'm putting us **back up**.\n\nsweater's off. headphones out. if anything still feels weird, ping me.\n\nwelcome back.\n\n— Ava",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785631004204,
+  "updatedAt": 1785640371415
+}

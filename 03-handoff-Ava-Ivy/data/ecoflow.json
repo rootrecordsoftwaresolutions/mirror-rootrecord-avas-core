@@ -1,0 +1,60 @@
+{
+  "status": "live",
+  "batteryPct": 57,
+  "note": "mqtt cert ok · devices 3 · R331ZAB5SG6S2858 quota ok soc=13% out=96W · R331ZAB5SG755642 quota ok soc=100% out=7W · R621ZA16XH6K1155 quota ok soc=57% out=60W",
+  "updatedAt": 1785708395723,
+  "devices": [
+    {
+      "sn": "R331ZAB5SG6S2858",
+      "productName": "DELTA 2",
+      "online": 1
+    },
+    {
+      "sn": "R331ZAB5SG755642",
+      "productName": "DELTA 2",
+      "online": 1
+    },
+    {
+      "sn": "R621ZA16XH6K1155",
+      "productName": "RIVER 2 Pro",
+      "online": 0
+    }
+  ],
+  "buckets": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\data\\ecoflow",
+  "baseUrl": "https://api-a.ecoflow.com",
+  "perSn": {
+    "R331ZAB5SG6S2858": {
+      "ok": true,
+      "soc": 13,
+      "inW": 188,
+      "outW": 96,
+      "solarW": 198
+    },
+    "R331ZAB5SG755642": {
+      "ok": true,
+      "soc": 100,
+      "inW": 0,
+      "outW": 7,
+      "solarW": 88
+    },
+    "R621ZA16XH6K1155": {
+      "ok": true,
+      "soc": 57,
+      "inW": 0,
+      "outW": 60,
+      "solarW": 19
+    }
+  },
+  "sns": [
+    "R331ZAB5SG6S2858",
+    "R331ZAB5SG755642",
+    "R621ZA16XH6K1155"
+  ],
+  "nicknames": {
+    "cucumbers": "R331ZAB5SG6S2858",
+    "shackas": "R621ZA16XH6K1155",
+    "delta-2-a": "R331ZAB5SG6S2858",
+    "delta-2-b": "R331ZAB5SG755642",
+    "river-2-pro": "R621ZA16XH6K1155"
+  }
+}

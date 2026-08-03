@@ -1,0 +1,66 @@
+{
+  "updatedAt": 1785786979363,
+  "surfaces": {
+    "cursor": {
+      "label": "Cursor Root Server",
+      "unit": "digs",
+      "used": 0,
+      "softCap": null
+    },
+    "dream": {
+      "label": "Dream brain",
+      "unit": "replies",
+      "used": 0,
+      "softCap": null
+    },
+    "discord": {
+      "label": "Discord API",
+      "unit": "msgs",
+      "used": 23,
+      "softCap": 400
+    },
+    "slack": {
+      "label": "Slack API",
+      "unit": "msgs",
+      "used": 1,
+      "softCap": 400
+    },
+    "telegram": {
+      "label": "Telegram ops",
+      "unit": "msgs",
+      "used": 49,
+      "softCap": null
+    }
+  },
+  "tiers": {
+    "free": {
+      "softUsdCeiling": 0.5,
+      "note": "modest Discord digs"
+    },
+    "membership": {
+      "softUsdCeiling": 3,
+      "note": "~$5/mo → ~$3 usage soft ceiling"
+    },
+    "operator": {
+      "softUsdCeiling": null,
+      "note": "uncapped ops"
+    }
+  },
+  "goldCredits": {
+    "enabled": true,
+    "note": "Gold (G) is Ava credit unit in player copy — never show dollars to players"
+  },
+  "reserves": {
+    "claims": {
+      "gold": 0,
+      "pausedPayouts": false,
+      "isolated": true
+    },
+    "towny": {
+      "gold": 0,
+      "pausedPayouts": false,
+      "isolated": true
+    }
+  },
+  "compareHostsOnlyWhenAsked": true
+}

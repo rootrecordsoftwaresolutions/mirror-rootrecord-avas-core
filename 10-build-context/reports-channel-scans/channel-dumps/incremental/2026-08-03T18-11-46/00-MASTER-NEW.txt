@@ -1,0 +1,1071 @@
+Ava incremental channel dump — 2026-08-03T18:12:12.862Z
+new_messages: 80
+folder: D:\.1 Work Stations\RootMC\Server Handoffs\Ava Ivy\reports\channel-dumps\incremental\2026-08-03T18-11-46
+
+discord files: 4
+- general_1516108586307158088.txt
+- ingame-chat_1516706598519832677.txt
+- updates_1520665313631408251.txt
+- development_1532929974154166522.txt
+
+slack files: 14
+- plugins_C0BLTNDJB4M.txt
+- new-channel_C0BLQ5C342F.txt
+- work-log_C0BM0N1MUJY.txt
+- decisions_C0BLYV4SA6M.txt
+- social_C0BLT3B9RQV.txt
+- ops-feed_C0BLV24TVP0.txt
+- shockbyte-status_C0BMRPDUH0Q.txt
+- overview_C0BM4B4RT8S.txt
+- feedback_C0BLMGBVAMD.txt
+- plugin-sales_C0BLZCVAC3X.txt
+- server-reports_C0BLY49H13M.txt
+- api-description_C0BM6HN0WMA.txt
+- discord-channels_C0BM4QT5U0Z.txt
+- new-plugin-development-plans_C0BM4P3GVDX.txt
+
+
+# ===== NEW MESSAGES =====
+
+
+########################################################################
+# Discord #🛰️general🛰️ — incremental
+id: 1516108586307158088
+dumped_at: 2026-08-03T18:11:49.316Z
+new_messages: 53
+after: 1533893329555820788
+
+========================================================================
+
+--- 2026-08-03T17:49:02.839Z | Ava
+slash hiccup fixed - Discord registered `/solar` but my live process was still on the pre-handler build, so the interaction never got an ACK (that's the "application did not respond" ghost).
+
+restarted with the interaction handler live. try **`/solar`** again (slash or typed). if it still flakes, plain text `/solar` in chat still works.
+
+--- 2026-08-03T17:50:46.901Z | Ava
+**HI Pacific Solar Root Server** — `/solar` @ ~07:50 HST *(pack fresh ~0m ago)*
+
+**Power:** host **online** — EcoFlow **live** · bank blend **~1%**
+- **Bank:** 1%
+- **Delta 2**: SOC 1% · last pull 117W in / 113W out
+- **River 2 Pro**: offline
+
+**Weather + outlook (NWS)**
+- **Now (Today):** 77F - Chance Rain Showers - wind 5 to 10 mph
+- **Outlook (Tonight):** 66F - Chance Rain Showers - wind 1 to 5 mph
+- **Outlook (Tuesday):** 76F - Chance Rain Showers - wind 1 to 8 mph
+- **Hazards:** none active (NWS)
+
+— Ava
+
+--- 2026-08-03T17:51:45.741Z | rootrecorddev (1497037418979786823) (reply-to 1533894918253051995)
+River should be online now, make sure polling keeps it fresh and up to date. Mysql/sql plz
+
+--- 2026-08-03T17:51:46.323Z | Ava (reply-to 1533895165045903382)
+brain's full right now (max parallel digs). wait a beat and ask again. (1/1 digs live)
+
+--- 2026-08-03T17:53:00.613Z | rootrecorddev (1497037418979786823) (reply-to 1533894918253051995)
+this is correct though
+
+--- 2026-08-03T17:53:01.344Z | Ava (reply-to 1533895479081963550)
+mm?
+
+--- 2026-08-03T17:53:32.238Z | melee5490 (154446475789729792)
+What 😲
+
+--- 2026-08-03T17:53:35.066Z | melee5490 (154446475789729792)
+Alex
+
+--- 2026-08-03T17:53:38.271Z | melee5490 (154446475789729792)
+Dimd u sleep
+
+--- 2026-08-03T17:53:40.650Z | melee5490 (154446475789729792)
+Did
+
+--- 2026-08-03T17:53:46.704Z | rootrecorddev (1497037418979786823)
+Yeah man
+
+--- 2026-08-03T17:53:52.576Z | rootrecorddev (1497037418979786823)
+I feel good
+
+--- 2026-08-03T17:53:54.401Z | melee5490 (154446475789729792)
+What time is it
+
+--- 2026-08-03T17:54:14.091Z | rootrecorddev (1497037418979786823)
+Drank a gallon of water yesterday too, have another one ready
+
+--- 2026-08-03T17:54:19.994Z | rootrecorddev (1497037418979786823)
+almost 8am
+
+--- 2026-08-03T17:54:27.663Z | rootrecorddev (1497037418979786823)
+sun just getting going
+
+--- 2026-08-03T17:54:49.961Z | Ava (reply-to 1533895165045903382)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+--- 2026-08-03T17:54:52.633Z | melee5490 (154446475789729792)
+Nice 🙂 we got off early today , rained 30mm x) i was soaked
+
+--- 2026-08-03T17:55:14.899Z | rootrecorddev (1497037418979786823)
+Its like that here often lmao
+
+--- 2026-08-03T17:55:26.074Z | melee5490 (154446475789729792)
+Also
+
+--- 2026-08-03T17:55:32.525Z | melee5490 (154446475789729792)
+I got a ticket this morning
+
+--- 2026-08-03T17:55:58.877Z | rootrecorddev (1497037418979786823)
+we get 200inch a yeah, <@1532751879875072070>  provide rain calc for yearly averages in fern forest hawaii county
+
+--- 2026-08-03T17:55:59.486Z | Ava (reply-to 1533896226775498872)
+digging - don't spam me
+
+--- 2026-08-03T17:56:01.279Z | melee5490 (154446475789729792)
+Tinted my front windows illegally. Got caught first time i drove my car
+
+--- 2026-08-03T17:56:19.612Z | melee5490 (154446475789729792)
+187$
+
+--- 2026-08-03T17:56:24.696Z | rootrecorddev (1497037418979786823)
+Wow you got pulled over first day???
+
+--- 2026-08-03T17:56:29.178Z | melee5490 (154446475789729792)
+Fr
+
+--- 2026-08-03T17:56:29.220Z | Ava (reply-to 1533896335067971685)
+still on your last ask in here - gimme a sec.
+
+--- 2026-08-03T17:56:37.649Z | rootrecorddev (1497037418979786823)
+Jesus dude lmao
+
+--- 2026-08-03T17:56:52.191Z | rootrecorddev (1497037418979786823)
+Thats fucking terrible lmao
+
+--- 2026-08-03T17:56:57.829Z | melee5490 (154446475789729792)
+How luckily unlucky must i be
+
+--- 2026-08-03T17:57:13.662Z | rootrecorddev (1497037418979786823)
+idk man you know theey watch for that shit
+
+--- 2026-08-03T17:57:18.549Z | melee5490 (154446475789729792)
+After that my friends wonder why im so honest in life
+
+--- 2026-08-03T17:57:29.490Z | rootrecorddev (1497037418979786823)
+Any reason you give them they'll take, kinda on you bud xD
+
+--- 2026-08-03T17:57:38.970Z | melee5490 (154446475789729792)
+BECAUSE WHEN I TRY NOT TO BE I GET CAUGHT MF !! 🤣🤣🤣
+
+--- 2026-08-03T17:58:11.144Z | rootrecorddev (1497037418979786823)
+I've gotten away with so much shit
+
+--- 2026-08-03T17:58:11.766Z | melee5490 (154446475789729792)
+Yh fr i wasnt even mad . I saw the lights i was like LOOOOL
+
+--- 2026-08-03T17:58:33.266Z | rootrecorddev (1497037418979786823)
+One time i got pulled over with a black co worker, a joint, and my shotgun in the trunk xDD
+
+--- 2026-08-03T17:58:40.054Z | rootrecorddev (1497037418979786823)
+Bet the fun we had
+
+--- 2026-08-03T17:58:43.470Z | melee5490 (154446475789729792)
+WTF
+
+--- 2026-08-03T17:58:49.189Z | Ava (reply-to 1533896226775498872)
+same answer as last - skipping the redo.
+
+--- 2026-08-03T17:58:50.942Z | melee5490 (154446475789729792)
+Bro 😎
+
+--- 2026-08-03T17:59:21.284Z | rootrecorddev (1497037418979786823)
+We worked at walmart lmao
+
+--- 2026-08-03T18:00:58.769Z | Ava
+quick update - PROP still staged for FileZilla/restart; I just armed **in-game help powers** over RCON (console build assist on Claims + Towny). need **WorldEdit/FAWE** jar for schematic paste - Litematica place alone won't cover server-side. details on the PROP thread.
+
+--- 2026-08-03T18:01:22.051Z | melee5490 (154446475789729792)
+Sounds like you guys were gonna do some illegal shit loo
+
+--- 2026-08-03T18:02:22.752Z | rootrecorddev (1497037418979786823)
+nah we only lived in the hood, we didnt start shit
+
+--- 2026-08-03T18:02:54.238Z | rootrecorddev (1497037418979786823)
+he had a dui and we were just down the street from each other lol
+
+--- 2026-08-03T18:03:22.223Z | rootrecorddev (1497037418979786823)
+carpooled for like a year
+
+--- 2026-08-03T18:03:57.359Z | rootrecorddev (1497037418979786823)
+I always keep a shotgun in a car im driving. still
+
+--- 2026-08-03T18:04:18.618Z | rootrecorddev (1497037418979786823)
+North, south, islands, dont matter
+
+--- 2026-08-03T18:04:54.026Z | rootrecorddev (1497037418979786823)
+Merica lmao You guys got better beer, butwe got more pewpews
+
+--- 2026-08-03T18:05:48.706Z | rootrecorddev (1497037418979786823)
+I was open carrying in Alabama at 17, it was normal
+
+--- 2026-08-03T18:10:05.983Z | Ava (reply-to 1533895165045903382)
+on it - sorry the earlier \"brain full\" bounce missed you.
+
+**River:** EcoFlow cloud still reports River 2 Pro **`online: 0`** right now, so it stays **last-known / excluded from live bank** until their list flips (won't invent live watts). Delta 2 is the live pack.
+
+**Polling:** EcoFlow was only refreshing on the ~10m watcher - that was going stale under the 3m live gate. Now **~every 60s** refresh + host-site push. When River's cloud flag goes `1`, next poll pulls it into live.
+
+**SQL:** D1 table **`rootmc_ecoflow_samples`** - each push inserts per-SN rows (live + lastKnown). Needs API Worker deploy to land in prod. GET `/api/rootmc/host-site/ecoflow/samples` after deploy.
+
+I'll keep the cadence hot. Reping `/solar` anytime.
+
+========================================================================
+
+########################################################################
+# Discord #🎮ingame-chat🎮 — incremental
+id: 1516706598519832677
+dumped_at: 2026-08-03T18:11:51.651Z
+new_messages: 2
+after: 1533891904847216661
+
+========================================================================
+
+--- 2026-08-03T17:54:14.455Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T17:58:58.938Z | [bot] RootMC
+(no text)
+
+========================================================================
+
+########################################################################
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-03T18:11:52.999Z
+new_messages: 1
+after: 1533883440603070464
+
+========================================================================
+
+--- 2026-08-03T18:09:49.048Z | Ava
+**HI Pacific Solar Root Server** — `/solar` @ ~08:09 HST *(pack fresh ~0m ago)*
+
+**Power:** host **online** — EcoFlow **live** · bank blend **~1%**
+- **Bank:** 1%
+- **Delta 2**: SOC 1% · last pull 144W in / 103W out
+- **River 2 Pro**: offline
+
+**Weather + outlook (NWS)**
+- **Now (Today):** 77F - Chance Rain Showers - wind 5 to 10 mph
+- **Outlook (Tonight):** 66F - Chance Rain Showers - wind 1 to 5 mph
+- **Outlook (Tuesday):** 76F - Chance Rain Showers - wind 1 to 8 mph
+- **Hazards:** none active (NWS)
+
+— Ava
+
+========================================================================
+
+########################################################################
+# Discord #development — incremental
+id: 1532929974154166522
+dumped_at: 2026-08-03T18:11:55.079Z
+new_messages: 9
+after: 1533698996982386838
+
+========================================================================
+
+--- 2026-08-03T17:48:57.580Z | melee5490 (154446475789729792)
+<@1532751879875072070>
+
+--- 2026-08-03T17:49:02.622Z | Ava (reply-to 1533894459727544370)
+mm?
+
+--- 2026-08-03T17:49:13.086Z | melee5490 (154446475789729792)
+Good morning ava  🌞
+
+--- 2026-08-03T18:06:37.242Z | Ava (reply-to 1533894524764553217)
+gm melee 🌞
+
+alex is buried right now so i'm holding the desk.
+
+want a **quick pulse** (solar + what's live/staged) or a **full report**? say which and i'll dump it - otherwise i'll stay quiet and keep digging.
+
+--- 2026-08-03T18:08:07.607Z | melee5490 (154446475789729792) (reply-to 1533898904272109719)
+Yeah id like a full report of what was done since yesterday 1 to 10 , 1 being most important & 10 being necessary but not that important
+
+--- 2026-08-03T18:08:08.236Z | Ava (reply-to 1533899283290656828)
+hold on I'm not guessing this
+
+--- 2026-08-03T18:08:44.164Z | rootrecorddev (1497037418979786823)
+you're gunna fuck her brains lmao
+
+--- 2026-08-03T18:09:00.361Z | melee5490 (154446475789729792)
+Nah shes a smart girl , she got this
+
+--- 2026-08-03T18:10:11.556Z | Ava (reply-to 1533899283290656828)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+========================================================================
+
+########################################################################
+# Slack #plugins — incremental
+id: C0BLTNDJB4M
+dumped_at: 2026-08-03T18:11:56.480Z
+new_messages: 1
+since: 1785693757.422769
+
+========================================================================
+
+--- 2026-08-02T18:02:37.422Z | [bot] Ava Ivy
+*Ava — RootMC full-day ops brief*
+_2026-08-02T18:02:36.124Z_
+
+This is the detailed staff brief. Discord gets a short pointer only.
+
+*Surface split*
+• *Discord* — players, votes, proposals, public updates, Ava media
+• *Slack* — staff dig, plugin plans, ops feed, crons, server logs
+• *Telegram (Alex only)* — master ops, dumps, urgents, EOD
+• *API* — <http://api.rootmc.net|api.rootmc.net> (not RootRecord shards)
+• *Currency* — Gold (G) in player copy; USD only for real-world tool budgets
+
+*Plugin wave 1.8.0*
+• Version scheme YEAR.MONTH.BUILD → August first sync = *1.8.0*
+• All live plugins + rootrecord-common bumped; publishPlugins done; staged Claims / Towny / Test
+• *Gate:* confirm Shockbyte restart / FileZilla so jars are live; clear waiting_restart jobs when verified
+
+*Open urgents*
+1. *<http://ava.rootmc.net|ava.rootmc.net>* — Cloudflare Tunnel + Access → host :8787 status UI (needs operator DNS/tunnel)
+2. *Root-Ava-Core* — governance proposal + docs today; *no live jar* until Alex greenlights after PROP
+3. *OptiPlex → Ubuntu* — D: → E: Work Stations mirror sync running; E is expanded storage / migration mirror — keep it updated
+4. *Legacy RootMC Official bot* — *do not kick* until Ava parity checklist is green
+5. *Bond / Server Reserve* — watch ledger (reports showed Reserve 0 Gold; payouts pause when ledger &lt; 0); Claims vs Towny economies stay isolated
+
+*Today's delivery (Ava / agent)*
+• Llama v1 student boundary docs (plans OK, code untrusted, shadow learn, isolate edits)
+• Root-Ava-Core 7-day voting PROP draft
+• Official-bot automation inventory + parity checklist
+• Desktop Ava *.exe* MVP — Discord/Telegram panes, AI rewrite before send, last 42 msgs context
+• Token cost board + soft rate limits + Gold-as-credits + per-server reserve rules
+• Website PROP — Ava designs site; one-time ~$100 USD tools/marketing (not Gold); no spend until vote passes
+• Boot morning log check + job/urgent hygiene
+• EOD on Telegram only
+
+*Parked (not finish-today)*
+• Elite root-skills / full mcMMO replace
+• Ban→vote-weight constitution change
+• Full OptiPlex Ubuntu cutover
+• Kicking Official before parity
+
+*PROP / skills note*
+• PROP-01 / skills items: advance only after 1.8.0 restart verified
+• Towny through 26.3 stays on roadmap
+
+Questions / decisions → Alex on Telegram. I'll keep Slack updated when status flips.
+
+========================================================================
+
+########################################################################
+# Slack #new-channel — incremental
+id: C0BLQ5C342F
+dumped_at: 2026-08-03T18:11:57.306Z
+new_messages: 1
+since: 1785693758.078759
+
+========================================================================
+
+--- 2026-08-02T18:02:38.078Z | [bot] Ava Ivy
+*Ava — RootMC full-day ops brief*
+_2026-08-02T18:02:36.124Z_
+
+This is the detailed staff brief. Discord gets a short pointer only.
+
+*Surface split*
+• *Discord* — players, votes, proposals, public updates, Ava media
+• *Slack* — staff dig, plugin plans, ops feed, crons, server logs
+• *Telegram (Alex only)* — master ops, dumps, urgents, EOD
+• *API* — <http://api.rootmc.net|api.rootmc.net> (not RootRecord shards)
+• *Currency* — Gold (G) in player copy; USD only for real-world tool budgets
+
+*Plugin wave 1.8.0*
+• Version scheme YEAR.MONTH.BUILD → August first sync = *1.8.0*
+• All live plugins + rootrecord-common bumped; publishPlugins done; staged Claims / Towny / Test
+• *Gate:* confirm Shockbyte restart / FileZilla so jars are live; clear waiting_restart jobs when verified
+
+*Open urgents*
+1. *<http://ava.rootmc.net|ava.rootmc.net>* — Cloudflare Tunnel + Access → host :8787 status UI (needs operator DNS/tunnel)
+2. *Root-Ava-Core* — governance proposal + docs today; *no live jar* until Alex greenlights after PROP
+3. *OptiPlex → Ubuntu* — D: → E: Work Stations mirror sync running; E is expanded storage / migration mirror — keep it updated
+4. *Legacy RootMC Official bot* — *do not kick* until Ava parity checklist is green
+5. *Bond / Server Reserve* — watch ledger (reports showed Reserve 0 Gold; payouts pause when ledger &lt; 0); Claims vs Towny economies stay isolated
+
+*Today's delivery (Ava / agent)*
+• Llama v1 student boundary docs (plans OK, code untrusted, shadow learn, isolate edits)
+• Root-Ava-Core 7-day voting PROP draft
+• Official-bot automation inventory + parity checklist
+• Desktop Ava *.exe* MVP — Discord/Telegram panes, AI rewrite before send, last 42 msgs context
+• Token cost board + soft rate limits + Gold-as-credits + per-server reserve rules
+• Website PROP — Ava designs site; one-time ~$100 USD tools/marketing (not Gold); no spend until vote passes
+• Boot morning log check + job/urgent hygiene
+• EOD on Telegram only
+
+*Parked (not finish-today)*
+• Elite root-skills / full mcMMO replace
+• Ban→vote-weight constitution change
+• Full OptiPlex Ubuntu cutover
+• Kicking Official before parity
+
+*PROP / skills note*
+• PROP-01 / skills items: advance only after 1.8.0 restart verified
+• Towny through 26.3 stays on roadmap
+
+Questions / decisions → Alex on Telegram. I'll keep Slack updated when status flips.
+
+========================================================================
+
+########################################################################
+# Slack #work-log — incremental
+id: C0BM0N1MUJY
+dumped_at: 2026-08-03T18:11:57.907Z
+new_messages: 1
+since: 1785693758.771519
+
+========================================================================
+
+--- 2026-08-02T18:02:38.771Z | [bot] Ava Ivy
+*Ava — RootMC full-day ops brief*
+_2026-08-02T18:02:36.124Z_
+
+This is the detailed staff brief. Discord gets a short pointer only.
+
+*Surface split*
+• *Discord* — players, votes, proposals, public updates, Ava media
+• *Slack* — staff dig, plugin plans, ops feed, crons, server logs
+• *Telegram (Alex only)* — master ops, dumps, urgents, EOD
+• *API* — <http://api.rootmc.net|api.rootmc.net> (not RootRecord shards)
+• *Currency* — Gold (G) in player copy; USD only for real-world tool budgets
+
+*Plugin wave 1.8.0*
+• Version scheme YEAR.MONTH.BUILD → August first sync = *1.8.0*
+• All live plugins + rootrecord-common bumped; publishPlugins done; staged Claims / Towny / Test
+• *Gate:* confirm Shockbyte restart / FileZilla so jars are live; clear waiting_restart jobs when verified
+
+*Open urgents*
+1. *<http://ava.rootmc.net|ava.rootmc.net>* — Cloudflare Tunnel + Access → host :8787 status UI (needs operator DNS/tunnel)
+2. *Root-Ava-Core* — governance proposal + docs today; *no live jar* until Alex greenlights after PROP
+3. *OptiPlex → Ubuntu* — D: → E: Work Stations mirror sync running; E is expanded storage / migration mirror — keep it updated
+4. *Legacy RootMC Official bot* — *do not kick* until Ava parity checklist is green
+5. *Bond / Server Reserve* — watch ledger (reports showed Reserve 0 Gold; payouts pause when ledger &lt; 0); Claims vs Towny economies stay isolated
+
+*Today's delivery (Ava / agent)*
+• Llama v1 student boundary docs (plans OK, code untrusted, shadow learn, isolate edits)
+• Root-Ava-Core 7-day voting PROP draft
+• Official-bot automation inventory + parity checklist
+• Desktop Ava *.exe* MVP — Discord/Telegram panes, AI rewrite before send, last 42 msgs context
+• Token cost board + soft rate limits + Gold-as-credits + per-server reserve rules
+• Website PROP — Ava designs site; one-time ~$100 USD tools/marketing (not Gold); no spend until vote passes
+• Boot morning log check + job/urgent hygiene
+• EOD on Telegram only
+
+*Parked (not finish-today)*
+• Elite root-skills / full mcMMO replace
+• Ban→vote-weight constitution change
+• Full OptiPlex Ubuntu cutover
+• Kicking Official before parity
+
+*PROP / skills note*
+• PROP-01 / skills items: advance only after 1.8.0 restart verified
+• Towny through 26.3 stays on roadmap
+
+Questions / decisions → Alex on Telegram. I'll keep Slack updated when status flips.
+
+========================================================================
+
+########################################################################
+# Slack #decisions — incremental
+id: C0BLYV4SA6M
+dumped_at: 2026-08-03T18:11:59.156Z
+new_messages: 1
+since: 1785693759.418999
+
+========================================================================
+
+--- 2026-08-02T18:02:39.418Z | [bot] Ava Ivy
+*Ava — RootMC full-day ops brief*
+_2026-08-02T18:02:36.124Z_
+
+This is the detailed staff brief. Discord gets a short pointer only.
+
+*Surface split*
+• *Discord* — players, votes, proposals, public updates, Ava media
+• *Slack* — staff dig, plugin plans, ops feed, crons, server logs
+• *Telegram (Alex only)* — master ops, dumps, urgents, EOD
+• *API* — <http://api.rootmc.net|api.rootmc.net> (not RootRecord shards)
+• *Currency* — Gold (G) in player copy; USD only for real-world tool budgets
+
+*Plugin wave 1.8.0*
+• Version scheme YEAR.MONTH.BUILD → August first sync = *1.8.0*
+• All live plugins + rootrecord-common bumped; publishPlugins done; staged Claims / Towny / Test
+• *Gate:* confirm Shockbyte restart / FileZilla so jars are live; clear waiting_restart jobs when verified
+
+*Open urgents*
+1. *<http://ava.rootmc.net|ava.rootmc.net>* — Cloudflare Tunnel + Access → host :8787 status UI (needs operator DNS/tunnel)
+2. *Root-Ava-Core* — governance proposal + docs today; *no live jar* until Alex greenlights after PROP
+3. *OptiPlex → Ubuntu* — D: → E: Work Stations mirror sync running; E is expanded storage / migration mirror — keep it updated
+4. *Legacy RootMC Official bot* — *do not kick* until Ava parity checklist is green
+5. *Bond / Server Reserve* — watch ledger (reports showed Reserve 0 Gold; payouts pause when ledger &lt; 0); Claims vs Towny economies stay isolated
+
+*Today's delivery (Ava / agent)*
+• Llama v1 student boundary docs (plans OK, code untrusted, shadow learn, isolate edits)
+• Root-Ava-Core 7-day voting PROP draft
+• Official-bot automation inventory + parity checklist
+• Desktop Ava *.exe* MVP — Discord/Telegram panes, AI rewrite before send, last 42 msgs context
+• Token cost board + soft rate limits + Gold-as-credits + per-server reserve rules
+• Website PROP — Ava designs site; one-time ~$100 USD tools/marketing (not Gold); no spend until vote passes
+• Boot morning log check + job/urgent hygiene
+• EOD on Telegram only
+
+*Parked (not finish-today)*
+• Elite root-skills / full mcMMO replace
+• Ban→vote-weight constitution change
+• Full OptiPlex Ubuntu cutover
+• Kicking Official before parity
+
+*PROP / skills note*
+• PROP-01 / skills items: advance only after 1.8.0 restart verified
+• Towny through 26.3 stays on roadmap
+
+Questions / decisions → Alex on Telegram. I'll keep Slack updated when status flips.
+
+========================================================================
+
+########################################################################
+# Slack #social — incremental
+id: C0BLT3B9RQV
+dumped_at: 2026-08-03T18:12:00.770Z
+new_messages: 1
+since: 1785693760.119919
+
+========================================================================
+
+--- 2026-08-02T18:02:40.119Z | [bot] Ava Ivy
+*Ava — RootMC full-day ops brief*
+_2026-08-02T18:02:36.124Z_
+
+This is the detailed staff brief. Discord gets a short pointer only.
+
+*Surface split*
+• *Discord* — players, votes, proposals, public updates, Ava media
+• *Slack* — staff dig, plugin plans, ops feed, crons, server logs
+• *Telegram (Alex only)* — master ops, dumps, urgents, EOD
+• *API* — <http://api.rootmc.net|api.rootmc.net> (not RootRecord shards)
+• *Currency* — Gold (G) in player copy; USD only for real-world tool budgets
+
+*Plugin wave 1.8.0*
+• Version scheme YEAR.MONTH.BUILD → August first sync = *1.8.0*
+• All live plugins + rootrecord-common bumped; publishPlugins done; staged Claims / Towny / Test
+• *Gate:* confirm Shockbyte restart / FileZilla so jars are live; clear waiting_restart jobs when verified
+
+*Open urgents*
+1. *<http://ava.rootmc.net|ava.rootmc.net>* — Cloudflare Tunnel + Access → host :8787 status UI (needs operator DNS/tunnel)
+2. *Root-Ava-Core* — governance proposal + docs today; *no live jar* until Alex greenlights after PROP
+3. *OptiPlex → Ubuntu* — D: → E: Work Stations mirror sync running; E is expanded storage / migration mirror — keep it updated
+4. *Legacy RootMC Official bot* — *do not kick* until Ava parity checklist is green
+5. *Bond / Server Reserve* — watch ledger (reports showed Reserve 0 Gold; payouts pause when ledger &lt; 0); Claims vs Towny economies stay isolated
+
+*Today's delivery (Ava / agent)*
+• Llama v1 student boundary docs (plans OK, code untrusted, shadow learn, isolate edits)
+• Root-Ava-Core 7-day voting PROP draft
+• Official-bot automation inventory + parity checklist
+• Desktop Ava *.exe* MVP — Discord/Telegram panes, AI rewrite before send, last 42 msgs context
+• Token cost board + soft rate limits + Gold-as-credits + per-server reserve rules
+• Website PROP — Ava designs site; one-time ~$100 USD tools/marketing (not Gold); no spend until vote passes
+• Boot morning log check + job/urgent hygiene
+• EOD on Telegram only
+
+*Parked (not finish-today)*
+• Elite root-skills / full mcMMO replace
+• Ban→vote-weight constitution change
+• Full OptiPlex Ubuntu cutover
+• Kicking Official before parity
+
+*PROP / skills note*
+• PROP-01 / skills items: advance only after 1.8.0 restart verified
+• Towny through 26.3 stays on roadmap
+
+Questions / decisions → Alex on Telegram. I'll keep Slack updated when status flips.
+
+========================================================================
+
+########################################################################
+# Slack #ops-feed — incremental
+id: C0BLV24TVP0
+dumped_at: 2026-08-03T18:12:01.925Z
+new_messages: 1
+since: 1785693761.427269
+
+========================================================================
+
+--- 2026-08-02T18:02:41.427Z | [bot] Ava Ivy
+*Ava — RootMC full-day ops brief*
+_2026-08-02T18:02:36.124Z_
+
+This is the detailed staff brief. Discord gets a short pointer only.
+
+*Surface split*
+• *Discord* — players, votes, proposals, public updates, Ava media
+• *Slack* — staff dig, plugin plans, ops feed, crons, server logs
+• *Telegram (Alex only)* — master ops, dumps, urgents, EOD
+• *API* — <http://api.rootmc.net|api.rootmc.net> (not RootRecord shards)
+• *Currency* — Gold (G) in player copy; USD only for real-world tool budgets
+
+*Plugin wave 1.8.0*
+• Version scheme YEAR.MONTH.BUILD → August first sync = *1.8.0*
+• All live plugins + rootrecord-common bumped; publishPlugins done; staged Claims / Towny / Test
+• *Gate:* confirm Shockbyte restart / FileZilla so jars are live; clear waiting_restart jobs when verified
+
+*Open urgents*
+1. *<http://ava.rootmc.net|ava.rootmc.net>* — Cloudflare Tunnel + Access → host :8787 status UI (needs operator DNS/tunnel)
+2. *Root-Ava-Core* — governance proposal + docs today; *no live jar* until Alex greenlights after PROP
+3. *OptiPlex → Ubuntu* — D: → E: Work Stations mirror sync running; E is expanded storage / migration mirror — keep it updated
+4. *Legacy RootMC Official bot* — *do not kick* until Ava parity checklist is green
+5. *Bond / Server Reserve* — watch ledger (reports showed Reserve 0 Gold; payouts pause when ledger &lt; 0); Claims vs Towny economies stay isolated
+
+*Today's delivery (Ava / agent)*
+• Llama v1 student boundary docs (plans OK, code untrusted, shadow learn, isolate edits)
+• Root-Ava-Core 7-day voting PROP draft
+• Official-bot automation inventory + parity checklist
+• Desktop Ava *.exe* MVP — Discord/Telegram panes, AI rewrite before send, last 42 msgs context
+• Token cost board + soft rate limits + Gold-as-credits + per-server reserve rules
+• Website PROP — Ava designs site; one-time ~$100 USD tools/marketing (not Gold); no spend until vote passes
+• Boot morning log check + job/urgent hygiene
+• EOD on Telegram only
+
+*Parked (not finish-today)*
+• Elite root-skills / full mcMMO replace
+• Ban→vote-weight constitution change
+• Full OptiPlex Ubuntu cutover
+• Kicking Official before parity
+
+*PROP / skills note*
+• PROP-01 / skills items: advance only after 1.8.0 restart verified
+• Towny through 26.3 stays on roadmap
+
+Questions / decisions → Alex on Telegram. I'll keep Slack updated when status flips.
+
+========================================================================
+
+########################################################################
+# Slack #shockbyte-status — incremental
+id: C0BMRPDUH0Q
+dumped_at: 2026-08-03T18:12:03.646Z
+new_messages: 1
+since: 1785693762.737849
+
+========================================================================
+
+--- 2026-08-02T18:02:42.737Z | [bot] Ava Ivy
+*Ava — RootMC full-day ops brief*
+_2026-08-02T18:02:36.124Z_
+
+This is the detailed staff brief. Discord gets a short pointer only.
+
+*Surface split*
+• *Discord* — players, votes, proposals, public updates, Ava media
+• *Slack* — staff dig, plugin plans, ops feed, crons, server logs
+• *Telegram (Alex only)* — master ops, dumps, urgents, EOD
+• *API* — <http://api.rootmc.net|api.rootmc.net> (not RootRecord shards)
+• *Currency* — Gold (G) in player copy; USD only for real-world tool budgets
+
+*Plugin wave 1.8.0*
+• Version scheme YEAR.MONTH.BUILD → August first sync = *1.8.0*
+• All live plugins + rootrecord-common bumped; publishPlugins done; staged Claims / Towny / Test
+• *Gate:* confirm Shockbyte restart / FileZilla so jars are live; clear waiting_restart jobs when verified
+
+*Open urgents*
+1. *<http://ava.rootmc.net|ava.rootmc.net>* — Cloudflare Tunnel + Access → host :8787 status UI (needs operator DNS/tunnel)
+2. *Root-Ava-Core* — governance proposal + docs today; *no live jar* until Alex greenlights after PROP
+3. *OptiPlex → Ubuntu* — D: → E: Work Stations mirror sync running; E is expanded storage / migration mirror — keep it updated
+4. *Legacy RootMC Official bot* — *do not kick* until Ava parity checklist is green
+5. *Bond / Server Reserve* — watch ledger (reports showed Reserve 0 Gold; payouts pause when ledger &lt; 0); Claims vs Towny economies stay isolated
+
+*Today's delivery (Ava / agent)*
+• Llama v1 student boundary docs (plans OK, code untrusted, shadow learn, isolate edits)
+• Root-Ava-Core 7-day voting PROP draft
+• Official-bot automation inventory + parity checklist
+• Desktop Ava *.exe* MVP — Discord/Telegram panes, AI rewrite before send, last 42 msgs context
+• Token cost board + soft rate limits + Gold-as-credits + per-server reserve rules
+• Website PROP — Ava designs site; one-time ~$100 USD tools/marketing (not Gold); no spend until vote passes
+• Boot morning log check + job/urgent hygiene
+• EOD on Telegram only
+
+*Parked (not finish-today)*
+• Elite root-skills / full mcMMO replace
+• Ban→vote-weight constitution change
+• Full OptiPlex Ubuntu cutover
+• Kicking Official before parity
+
+*PROP / skills note*
+• PROP-01 / skills items: advance only after 1.8.0 restart verified
+• Towny through 26.3 stays on roadmap
+
+Questions / decisions → Alex on Telegram. I'll keep Slack updated when status flips.
+
+========================================================================
+
+########################################################################
+# Slack #overview — incremental
+id: C0BM4B4RT8S
+dumped_at: 2026-08-03T18:12:04.233Z
+new_messages: 1
+since: 1785693763.384779
+
+========================================================================
+
+--- 2026-08-02T18:02:43.384Z | [bot] Ava Ivy
+*Ava — RootMC full-day ops brief*
+_2026-08-02T18:02:36.124Z_
+
+This is the detailed staff brief. Discord gets a short pointer only.
+
+*Surface split*
+• *Discord* — players, votes, proposals, public updates, Ava media
+• *Slack* — staff dig, plugin plans, ops feed, crons, server logs
+• *Telegram (Alex only)* — master ops, dumps, urgents, EOD
+• *API* — <http://api.rootmc.net|api.rootmc.net> (not RootRecord shards)
+• *Currency* — Gold (G) in player copy; USD only for real-world tool budgets
+
+*Plugin wave 1.8.0*
+• Version scheme YEAR.MONTH.BUILD → August first sync = *1.8.0*
+• All live plugins + rootrecord-common bumped; publishPlugins done; staged Claims / Towny / Test
+• *Gate:* confirm Shockbyte restart / FileZilla so jars are live; clear waiting_restart jobs when verified
+
+*Open urgents*
+1. *<http://ava.rootmc.net|ava.rootmc.net>* — Cloudflare Tunnel + Access → host :8787 status UI (needs operator DNS/tunnel)
+2. *Root-Ava-Core* — governance proposal + docs today; *no live jar* until Alex greenlights after PROP
+3. *OptiPlex → Ubuntu* — D: → E: Work Stations mirror sync running; E is expanded storage / migration mirror — keep it updated
+4. *Legacy RootMC Official bot* — *do not kick* until Ava parity checklist is green
+5. *Bond / Server Reserve* — watch ledger (reports showed Reserve 0 Gold; payouts pause when ledger &lt; 0); Claims vs Towny economies stay isolated
+
+*Today's delivery (Ava / agent)*
+• Llama v1 student boundary docs (plans OK, code untrusted, shadow learn, isolate edits)
+• Root-Ava-Core 7-day voting PROP draft
+• Official-bot automation inventory + parity checklist
+• Desktop Ava *.exe* MVP — Discord/Telegram panes, AI rewrite before send, last 42 msgs context
+• Token cost board + soft rate limits + Gold-as-credits + per-server reserve rules
+• Website PROP — Ava designs site; one-time ~$100 USD tools/marketing (not Gold); no spend until vote passes
+• Boot morning log check + job/urgent hygiene
+• EOD on Telegram only
+
+*Parked (not finish-today)*
+• Elite root-skills / full mcMMO replace
+• Ban→vote-weight constitution change
+• Full OptiPlex Ubuntu cutover
+• Kicking Official before parity
+
+*PROP / skills note*
+• PROP-01 / skills items: advance only after 1.8.0 restart verified
+• Towny through 26.3 stays on roadmap
+
+Questions / decisions → Alex on Telegram. I'll keep Slack updated when status flips.
+
+========================================================================
+
+########################################################################
+# Slack #feedback — incremental
+id: C0BLMGBVAMD
+dumped_at: 2026-08-03T18:12:06.614Z
+new_messages: 1
+since: 1785693764.040689
+
+========================================================================
+
+--- 2026-08-02T18:02:44.040Z | [bot] Ava Ivy
+*Ava — RootMC full-day ops brief*
+_2026-08-02T18:02:36.124Z_
+
+This is the detailed staff brief. Discord gets a short pointer only.
+
+*Surface split*
+• *Discord* — players, votes, proposals, public updates, Ava media
+• *Slack* — staff dig, plugin plans, ops feed, crons, server logs
+• *Telegram (Alex only)* — master ops, dumps, urgents, EOD
+• *API* — <http://api.rootmc.net|api.rootmc.net> (not RootRecord shards)
+• *Currency* — Gold (G) in player copy; USD only for real-world tool budgets
+
+*Plugin wave 1.8.0*
+• Version scheme YEAR.MONTH.BUILD → August first sync = *1.8.0*
+• All live plugins + rootrecord-common bumped; publishPlugins done; staged Claims / Towny / Test
+• *Gate:* confirm Shockbyte restart / FileZilla so jars are live; clear waiting_restart jobs when verified
+
+*Open urgents*
+1. *<http://ava.rootmc.net|ava.rootmc.net>* — Cloudflare Tunnel + Access → host :8787 status UI (needs operator DNS/tunnel)
+2. *Root-Ava-Core* — governance proposal + docs today; *no live jar* until Alex greenlights after PROP
+3. *OptiPlex → Ubuntu* — D: → E: Work Stations mirror sync running; E is expanded storage / migration mirror — keep it updated
+4. *Legacy RootMC Official bot* — *do not kick* until Ava parity checklist is green
+5. *Bond / Server Reserve* — watch ledger (reports showed Reserve 0 Gold; payouts pause when ledger &lt; 0); Claims vs Towny economies stay isolated
+
+*Today's delivery (Ava / agent)*
+• Llama v1 student boundary docs (plans OK, code untrusted, shadow learn, isolate edits)
+• Root-Ava-Core 7-day voting PROP draft
+• Official-bot automation inventory + parity checklist
+• Desktop Ava *.exe* MVP — Discord/Telegram panes, AI rewrite before send, last 42 msgs context
+• Token cost board + soft rate limits + Gold-as-credits + per-server reserve rules
+• Website PROP — Ava designs site; one-time ~$100 USD tools/marketing (not Gold); no spend until vote passes
+• Boot morning log check + job/urgent hygiene
+• EOD on Telegram only
+
+*Parked (not finish-today)*
+• Elite root-skills / full mcMMO replace
+• Ban→vote-weight constitution change
+• Full OptiPlex Ubuntu cutover
+• Kicking Official before parity
+
+*PROP / skills note*
+• PROP-01 / skills items: advance only after 1.8.0 restart verified
+• Towny through 26.3 stays on roadmap
+
+Questions / decisions → Alex on Telegram. I'll keep Slack updated when status flips.
+
+========================================================================
+
+########################################################################
+# Slack #plugin-sales — incremental
+id: C0BLZCVAC3X
+dumped_at: 2026-08-03T18:12:07.597Z
+new_messages: 1
+since: 1785693765.332379
+
+========================================================================
+
+--- 2026-08-02T18:02:45.332Z | [bot] Ava Ivy
+*Ava — RootMC full-day ops brief*
+_2026-08-02T18:02:36.124Z_
+
+This is the detailed staff brief. Discord gets a short pointer only.
+
+*Surface split*
+• *Discord* — players, votes, proposals, public updates, Ava media
+• *Slack* — staff dig, plugin plans, ops feed, crons, server logs
+• *Telegram (Alex only)* — master ops, dumps, urgents, EOD
+• *API* — <http://api.rootmc.net|api.rootmc.net> (not RootRecord shards)
+• *Currency* — Gold (G) in player copy; USD only for real-world tool budgets
+
+*Plugin wave 1.8.0*
+• Version scheme YEAR.MONTH.BUILD → August first sync = *1.8.0*
+• All live plugins + rootrecord-common bumped; publishPlugins done; staged Claims / Towny / Test
+• *Gate:* confirm Shockbyte restart / FileZilla so jars are live; clear waiting_restart jobs when verified
+
+*Open urgents*
+1. *<http://ava.rootmc.net|ava.rootmc.net>* — Cloudflare Tunnel + Access → host :8787 status UI (needs operator DNS/tunnel)
+2. *Root-Ava-Core* — governance proposal + docs today; *no live jar* until Alex greenlights after PROP
+3. *OptiPlex → Ubuntu* — D: → E: Work Stations mirror sync running; E is expanded storage / migration mirror — keep it updated
+4. *Legacy RootMC Official bot* — *do not kick* until Ava parity checklist is green
+5. *Bond / Server Reserve* — watch ledger (reports showed Reserve 0 Gold; payouts pause when ledger &lt; 0); Claims vs Towny economies stay isolated
+
+*Today's delivery (Ava / agent)*
+• Llama v1 student boundary docs (plans OK, code untrusted, shadow learn, isolate edits)
+• Root-Ava-Core 7-day voting PROP draft
+• Official-bot automation inventory + parity checklist
+• Desktop Ava *.exe* MVP — Discord/Telegram panes, AI rewrite before send, last 42 msgs context
+• Token cost board + soft rate limits + Gold-as-credits + per-server reserve rules
+• Website PROP — Ava designs site; one-time ~$100 USD tools/marketing (not Gold); no spend until vote passes
+• Boot morning log check + job/urgent hygiene
+• EOD on Telegram only
+
+*Parked (not finish-today)*
+• Elite root-skills / full mcMMO replace
+• Ban→vote-weight constitution change
+• Full OptiPlex Ubuntu cutover
+• Kicking Official before parity
+
+*PROP / skills note*
+• PROP-01 / skills items: advance only after 1.8.0 restart verified
+• Towny through 26.3 stays on roadmap
+
+Questions / decisions → Alex on Telegram. I'll keep Slack updated when status flips.
+
+========================================================================
+
+########################################################################
+# Slack #server-reports — incremental
+id: C0BLY49H13M
+dumped_at: 2026-08-03T18:12:08.750Z
+new_messages: 2
+since: 1785693765.985289
+
+========================================================================
+
+--- 2026-08-02T18:02:45.985Z | [bot] Ava Ivy
+*Ava — RootMC full-day ops brief*
+_2026-08-02T18:02:36.124Z_
+
+This is the detailed staff brief. Discord gets a short pointer only.
+
+*Surface split*
+• *Discord* — players, votes, proposals, public updates, Ava media
+• *Slack* — staff dig, plugin plans, ops feed, crons, server logs
+• *Telegram (Alex only)* — master ops, dumps, urgents, EOD
+• *API* — <http://api.rootmc.net|api.rootmc.net> (not RootRecord shards)
+• *Currency* — Gold (G) in player copy; USD only for real-world tool budgets
+
+*Plugin wave 1.8.0*
+• Version scheme YEAR.MONTH.BUILD → August first sync = *1.8.0*
+• All live plugins + rootrecord-common bumped; publishPlugins done; staged Claims / Towny / Test
+• *Gate:* confirm Shockbyte restart / FileZilla so jars are live; clear waiting_restart jobs when verified
+
+*Open urgents*
+1. *<http://ava.rootmc.net|ava.rootmc.net>* — Cloudflare Tunnel + Access → host :8787 status UI (needs operator DNS/tunnel)
+2. *Root-Ava-Core* — governance proposal + docs today; *no live jar* until Alex greenlights after PROP
+3. *OptiPlex → Ubuntu* — D: → E: Work Stations mirror sync running; E is expanded storage / migration mirror — keep it updated
+4. *Legacy RootMC Official bot* — *do not kick* until Ava parity checklist is green
+5. *Bond / Server Reserve* — watch ledger (reports showed Reserve 0 Gold; payouts pause when ledger &lt; 0); Claims vs Towny economies stay isolated
+
+*Today's delivery (Ava / agent)*
+• Llama v1 student boundary docs (plans OK, code untrusted, shadow learn, isolate edits)
+• Root-Ava-Core 7-day voting PROP draft
+• Official-bot automation inventory + parity checklist
+• Desktop Ava *.exe* MVP — Discord/Telegram panes, AI rewrite before send, last 42 msgs context
+• Token cost board + soft rate limits + Gold-as-credits + per-server reserve rules
+• Website PROP — Ava designs site; one-time ~$100 USD tools/marketing (not Gold); no spend until vote passes
+• Boot morning log check + job/urgent hygiene
+• EOD on Telegram only
+
+*Parked (not finish-today)*
+• Elite root-skills / full mcMMO replace
+• Ban→vote-weight constitution change
+• Full OptiPlex Ubuntu cutover
+• Kicking Official before parity
+
+*PROP / skills note*
+• PROP-01 / skills items: advance only after 1.8.0 restart verified
+• Towny through 26.3 stays on roadmap
+
+Questions / decisions → Alex on Telegram. I'll keep Slack updated when status flips.
+
+--- 2026-08-03T18:01:25.543Z | [bot] incoming-webhook
+*RootMC Daily Summary*
+_2026-08-02 HST · Slack copy after Discord_
+_daily_combined_
+
+*RootMC Daily Summary*
+*2026-08-02 HST*
+
+*Server status*
+- *Public launch*  -  *43 days since launch* (Jun 21, 2026, 12:00 AM HST)  -  RootMC opened to the public (ahead of schedule)
+- *Weekly Activity Report / Rewards*  -  5d 23h left (Aug 9, 2026, 8:00 AM)  -  Weekly Checks
+- *The September Event*  -  45d 21h left (Sep 18, 2026, 6:00 AM)  -  The September Event.
+
+&gt; Discord members rise to 19 with linked players at 7; realm playtime holds at 63 across Towny and Claims.
+
+*Executive Summary*
+
+Discord members increased to *19* from *18* while linked players reached *7* from *6*. Realm playtime covers *63* players with Alexrs94 at the top. Towny and Claims continue as equal hosts with steady community activity.
+
+*Discord*
+
+- *Members:* *19*
+- *Messages yesterday:* *167*
+- *Busiest channels:* *#:ledger:updates:ledger:* (74); *#development* (44); *#:satellite:general:satellite:* (39); *#:male-police-officer:admins:male-police-officer:* (7); *#:vibration_mode:mobile-app:vibration_mode:* (1)
+
+*Towny vs Claims*
+
+- *Gold in wallets:* Towny *1.1k Gold* | Claims *5.0k Gold*
+- *Players with wallets:* Towny *20* | Claims *5*
+- *Claims online:* *0*
+- *Towny land:* *4* towns / *1* nations / *153* plots
+_Linked players (realm-wide): *7*_
+_Realm playtime (shared): *63* players - top *Alexrs94* at 12d 21h_
+_Full economy detail is in the Economy brief._
+
+*Outlook*
+
+Engagement remains consistent across both hosts with no major shifts in playtime distribution.
+
+========================================================================
+
+########################################################################
+# Slack #api-description — incremental
+id: C0BM6HN0WMA
+dumped_at: 2026-08-03T18:12:09.733Z
+new_messages: 1
+since: 1785732731.282229
+
+========================================================================
+
+--- 2026-08-03T04:52:11.282Z | [bot] Ava Ivy
+powering down for the night — gn lov
+
+========================================================================
+
+########################################################################
+# Slack #discord-channels — incremental
+id: C0BM4QT5U0Z
+dumped_at: 2026-08-03T18:12:10.715Z
+new_messages: 1
+since: 1785693767.952619
+
+========================================================================
+
+--- 2026-08-02T18:02:47.952Z | [bot] Ava Ivy
+*Ava — RootMC full-day ops brief*
+_2026-08-02T18:02:36.124Z_
+
+This is the detailed staff brief. Discord gets a short pointer only.
+
+*Surface split*
+• *Discord* — players, votes, proposals, public updates, Ava media
+• *Slack* — staff dig, plugin plans, ops feed, crons, server logs
+• *Telegram (Alex only)* — master ops, dumps, urgents, EOD
+• *API* — <http://api.rootmc.net|api.rootmc.net> (not RootRecord shards)
+• *Currency* — Gold (G) in player copy; USD only for real-world tool budgets
+
+*Plugin wave 1.8.0*
+• Version scheme YEAR.MONTH.BUILD → August first sync = *1.8.0*
+• All live plugins + rootrecord-common bumped; publishPlugins done; staged Claims / Towny / Test
+• *Gate:* confirm Shockbyte restart / FileZilla so jars are live; clear waiting_restart jobs when verified
+
+*Open urgents*
+1. *<http://ava.rootmc.net|ava.rootmc.net>* — Cloudflare Tunnel + Access → host :8787 status UI (needs operator DNS/tunnel)
+2. *Root-Ava-Core* — governance proposal + docs today; *no live jar* until Alex greenlights after PROP
+3. *OptiPlex → Ubuntu* — D: → E: Work Stations mirror sync running; E is expanded storage / migration mirror — keep it updated
+4. *Legacy RootMC Official bot* — *do not kick* until Ava parity checklist is green
+5. *Bond / Server Reserve* — watch ledger (reports showed Reserve 0 Gold; payouts pause when ledger &lt; 0); Claims vs Towny economies stay isolated
+
+*Today's delivery (Ava / agent)*
+• Llama v1 student boundary docs (plans OK, code untrusted, shadow learn, isolate edits)
+• Root-Ava-Core 7-day voting PROP draft
+• Official-bot automation inventory + parity checklist
+• Desktop Ava *.exe* MVP — Discord/Telegram panes, AI rewrite before send, last 42 msgs context
+• Token cost board + soft rate limits + Gold-as-credits + per-server reserve rules
+• Website PROP — Ava designs site; one-time ~$100 USD tools/marketing (not Gold); no spend until vote passes
+• Boot morning log check + job/urgent hygiene
+• EOD on Telegram only
+
+*Parked (not finish-today)*
+• Elite root-skills / full mcMMO replace
+• Ban→vote-weight constitution change
+• Full OptiPlex Ubuntu cutover
+• Kicking Official before parity
+
+*PROP / skills note*
+• PROP-01 / skills items: advance only after 1.8.0 restart verified
+• Towny through 26.3 stays on roadmap
+
+Questions / decisions → Alex on Telegram. I'll keep Slack updated when status flips.
+
+========================================================================
+
+########################################################################
+# Slack #new-plugin-development-plans — incremental
+id: C0BM4P3GVDX
+dumped_at: 2026-08-03T18:12:12.606Z
+new_messages: 1
+since: 1785732736.558739
+
+========================================================================
+
+--- 2026-08-03T04:52:16.558Z | [bot] Ava Ivy
+powering down for the night — gn lov
+
+========================================================================

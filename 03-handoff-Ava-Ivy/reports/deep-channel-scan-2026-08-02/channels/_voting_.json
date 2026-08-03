@@ -1,0 +1,127 @@
+{
+  "name": "✅voting✅",
+  "id": "1522413185364398090",
+  "fetched": 8,
+  "humans": 0,
+  "bots": 8,
+  "avaPosts": 5,
+  "topAuthors": [],
+  "avaMentionCount": 1,
+  "openAsks": [],
+  "recent": [
+    {
+      "id": "1533553302208516177",
+      "at": "2026-08-02T19:13:19.289000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "**VOTE amendment - Majority wins** (same PROP)\\n\\nPass = **weighted For > Against** among cast. ≥75% anytime still = ship now.\\nForum: <#1533551413857226913>\\n\\nReact: ✅ For · ❌ Against · ➖ Abstain"
+    },
+    {
+      "id": "1533551416847761499",
+      "at": "2026-08-02T19:05:49.784000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "**VOTE (7 days) - PROP - Constitution ratification (Ava role + vote gates)** Ratify Ava lead-dev role, live feature poll gates (75%/60%), reaction→vote-factor clarify, pin/wiki version bump to 2026-08-01. Wiki updates only after pass. React: ✅ For · ❌ Against · ➖ Abstain Weighted"
+    },
+    {
+      "id": "1533536755297292502",
+      "at": "2026-08-02T18:07:34.198000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "**VOTE (7 days) — PROP — Website tools ~$100 USD** One-time **~$100 USD** (not Gold) tools/marketing budget for Ava’s site design. **Do not spend** until this vote passes. React: ✅ For · ❌ Against · ➖ Abstain Weighted rules apply. Text `for` / `against` / `abstain` also OK."
+    },
+    {
+      "id": "1533536743746437163",
+      "at": "2026-08-02T18:07:31.444000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "**VOTE (7 days) — PROP — Root-Ava-Core plugin** Authorize design of Paper plugin **Root-Ava-Core** (Ava in-game companion hooks). **No live jar** until Alex greenlights after this vote. Docs under Ava Ivy notes. React: ✅ For · ❌ Against · ➖ Abstain Weighted rules apply. Text `for"
+    },
+    {
+      "id": "1533319285638824041",
+      "at": "2026-08-02T03:43:25.391000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "@everyone ## RootMC surface split — locked **Discord** = players + help + **data / cloud**. Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here. Player help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here. **"
+    },
+    {
+      "id": "1533183711569252464",
+      "at": "2026-08-01T18:44:42.014000+00:00",
+      "user": "RootMC",
+      "bot": true,
+      "ref": null,
+      "content": "_Citizen proposal **PROP-01** - weighted Council signal. Vote with **text** (reply `for` / `against` / `abstain`) or on the site: https://rootmc.net/governance/vote/?id=PROP-01 - reactions are signals only - linked accounts + terms - https://rootmc.net/terms/_"
+    },
+    {
+      "id": "1533015011465891860",
+      "at": "2026-08-01T07:34:20.775000+00:00",
+      "user": "RootMC",
+      "bot": true,
+      "ref": "1533015007942672485",
+      "content": ""
+    },
+    {
+      "id": "1533015007942672485",
+      "at": "2026-08-01T07:34:19.935000+00:00",
+      "user": "RootMC",
+      "bot": true,
+      "ref": null,
+      "content": "🗳️ **Council of Voters — official polls** This channel is **read-only**. Bot polls here use **weighted governance %** (not one player = one vote). **How to vote** • Reply with text on each poll (or use the site form) — Discord buttons retired; Ava seeds ✅ / ❌ / ➖ at open • Site:"
+    }
+  ],
+  "rawTail": [
+    {
+      "id": "1533553302208516177",
+      "at": "2026-08-02T19:13:19.289000+00:00",
+      "user": "Ava Ivy",
+      "content": "**VOTE amendment - Majority wins** (same PROP)\\n\\nPass = **weighted For > Against** among cast. ≥75% anytime still = ship now.\\nForum: <#1533551413857226913>\\n\\nReact: ✅ For · ❌ Against · ➖ Abstain"
+    },
+    {
+      "id": "1533551416847761499",
+      "at": "2026-08-02T19:05:49.784000+00:00",
+      "user": "Ava Ivy",
+      "content": "**VOTE (7 days) - PROP - Constitution ratification (Ava role + vote gates)**\n\nRatify Ava lead-dev role, live feature poll gates (75%/60%), reaction→vote-factor clarify, pin/wiki version bump to 2026-08-01. Wiki updates only after pass.\n\nReact: ✅ For · ❌ Against · ➖ Abstain\nWeighted rules apply. Text `for` / `against` / `abstain` also OK.\n\nIncludes: Ava role section · 75%/60% feature gates · reaction→vote-factor clarify (reactions ≠ formal ballot)."
+    },
+    {
+      "id": "1533536755297292502",
+      "at": "2026-08-02T18:07:34.198000+00:00",
+      "user": "Ava Ivy",
+      "content": "**VOTE (7 days) — PROP — Website tools ~$100 USD**\n\nOne-time **~$100 USD** (not Gold) tools/marketing budget for Ava’s site design. **Do not spend** until this vote passes.\n\nReact: ✅ For · ❌ Against · ➖ Abstain\nWeighted rules apply. Text `for` / `against` / `abstain` also OK."
+    },
+    {
+      "id": "1533536743746437163",
+      "at": "2026-08-02T18:07:31.444000+00:00",
+      "user": "Ava Ivy",
+      "content": "**VOTE (7 days) — PROP — Root-Ava-Core plugin**\n\nAuthorize design of Paper plugin **Root-Ava-Core** (Ava in-game companion hooks). **No live jar** until Alex greenlights after this vote. Docs under Ava Ivy notes.\n\nReact: ✅ For · ❌ Against · ➖ Abstain\nWeighted rules apply. Text `for` / `against` / `abstain` also OK."
+    },
+    {
+      "id": "1533319285638824041",
+      "at": "2026-08-02T03:43:25.391000+00:00",
+      "user": "Ava Ivy",
+      "content": "@everyone\n\n## RootMC surface split — locked\n\n**Discord** = players + help + **data / cloud**.\nAsk about the game, wiki, link/verify, votes, Pro, map, balance, status — here.\nPlayer help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here.\n\n**Slack** = **ALL development**. No exceptions.\nPlugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.\n→ https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR\n→ plans: https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX\n\n**Still on Discord:** proposals & votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.\n\nI'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack."
+    },
+    {
+      "id": "1533183711569252464",
+      "at": "2026-08-01T18:44:42.014000+00:00",
+      "user": "RootMC",
+      "content": "_Citizen proposal **PROP-01**  -  weighted Council signal. Vote with **text** (reply `for` / `against` / `abstain`) or on the site: https://rootmc.net/governance/vote/?id=PROP-01  -  reactions are signals only  -  linked accounts + terms  -  https://rootmc.net/terms/_"
+    },
+    {
+      "id": "1533015011465891860",
+      "at": "2026-08-01T07:34:20.775000+00:00",
+      "user": "RootMC",
+      "content": ""
+    },
+    {
+      "id": "1533015007942672485",
+      "at": "2026-08-01T07:34:19.935000+00:00",
+      "user": "RootMC",
+      "content": "🗳️ **Council of Voters — official polls**\n\nThis channel is **read-only**. Bot polls here use **weighted governance %** (not one player = one vote).\n\n**How to vote**\n• Reply with text on each poll (or use the site form) — Discord buttons retired; Ava seeds ✅ / ❌ / ➖ at open\n• Site: https://rootmc.net/governance/ (same linked account)\n• Accept **Terms of Service** first: https://rootmc.net/terms/\n\n**Before you vote**\n1. Link at https://rootmc.net/verify/ (in-game `/link` + Discord)\n2. Hold **Vote Shards in `/ec`** (merge with `/voteshard merge`)\n3. `/vote` — shows your **% of total governance power** and open polls\n\n**Metrics on each poll:** weighted For / Against / Abstain % · voter count · closes UTC\n\n**Vote rules:** https://rootmc.net/council/#vote-requirements\n**Power:** Vote Shards in `/ec` × Pro multiplier → your **% of 100%** (playtime / net worth do not count)\n\nAnyone linked may **propose** in-game with `/proposal`. Only voters cast weighted votes.\n\nProposals & threads: <#1533012499320934602> · Constitution: <#1522406019152478210>"
+    }
+  ]
+}

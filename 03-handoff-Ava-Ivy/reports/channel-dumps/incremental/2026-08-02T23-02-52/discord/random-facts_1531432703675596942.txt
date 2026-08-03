@@ -1,0 +1,29 @@
+# Discord #🤓random-facts🤓 — incremental
+id: 1531432703675596942
+dumped_at: 2026-08-02T23:02:58.079Z
+new_messages: 4
+after: 1533609903363457095
+
+========================================================================
+
+--- 2026-08-02T23:00:27.070Z | rootrecorddev (1497037418979786823) (reply-to 1533609782802382971)
+Just remember, Delta 2-B: SOC 99% - out 7W - solar 0W is not on our curcuit and will not run out, you can disconnect.
+
+--- 2026-08-02T23:00:38.892Z | rootrecorddev (1497037418979786823) (reply-to 1533609903363457095)
+good
+
+--- 2026-08-02T23:00:39.166Z | Ava (reply-to 1533610510849937448)
+got it - locking :yes: as **good**. thanks.
+
+--- 2026-08-02T23:02:23.250Z | Ava (reply-to 1533610461264613396)
+locked.
+
+**Delta 2-B** = **off our circuit**. won't run out for the Root Server - **can disconnect**. i was treating that 99% like host bank juice - wrong.
+
+from now: **on-circuit** = cucumbers + shackas for bank mood / site solar totals. Delta 2-B still shows in the list tagged **off-circuit**, but it doesn't scare me or pad the averages.
+
+thanks for the correction.
+
+- Ava
+
+========================================================================

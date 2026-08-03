@@ -1,0 +1,14 @@
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-02T18:35:36.946Z
+new_messages: 1
+after: 1533376016293036094
+
+========================================================================
+
+--- 2026-08-02T18:02:50.907Z | Ava
+**Staff ops brief is on Slack** (all public channels) — Ava posted the full-day checklist there: 1.8.0 gate, tunnel, Ava-Core yes/no (docs today), OptiPlex D→E sync, Official-bot hold until parity, reserve watch, plus today's delivery list (manipulation gate, Llama docs, desktop MVP, token/Gold rules, ~$100 site PROP).
+
+Discord stays light: this pointer only. Master status stays on Alex's Telegram.
+
+========================================================================

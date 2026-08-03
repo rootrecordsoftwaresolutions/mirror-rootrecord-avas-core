@@ -1,0 +1,233 @@
+# Slack #server-logs — incremental
+id: C0BMX0QKSTS
+dumped_at: 2026-08-02T22:01:48.047Z
+new_messages: 7
+since: 1785704464.027749
+
+========================================================================
+
+--- 2026-08-02T21:01:04.007Z | [bot] incoming-webhook
+[2026-08-02T20:21:05.674Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T20:22:02.208Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:23:02.069Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=2 containers=940 skippedDupContainers=0 groundStacks=37 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T20:23:02.15Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:23:02.561Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (259 items).
+[2026-08-02T20:24:02.207Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:25:02.016Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=2 containers=940 skippedDupContainers=0 groundStacks=25 chunks=48 marketKeys=0 distinct=260
+[2026-08-02T20:25:02.252Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:26:02Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T20:26:02.155Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:26:05.464Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T20:26:05.561Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T20:27:02.063Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=2 containers=940 skippedDupContainers=0 groundStacks=23 chunks=48 marketKeys=0 distinct=260
+[2026-08-02T20:27:02.165Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:27:02.405Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (260 items).
+[2026-08-02T20:28:02.164Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:29:02.074Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=2 containers=940 skippedDupContainers=0 groundStacks=25 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T20:29:02.169Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:30:02.202Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:31:02Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T20:31:02.124Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=2 containers=940 skippedDupContainers=0 groundStacks=17 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T20:31:02.34Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:31:02.439Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (259 items).
+[2026-08-02T20:31:05.545Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T20:31:05.645Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T20:32:02.067Z] [INFO] [RootMC] Physical gold storage snapshot saved to MySQL - players=0 total=0.000 G shops=96 chunks=64
+[2026-08-02T20:32:02.167Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:33:02.064Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=2 containers=940 skippedDupContainers=0 groundStacks=19 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T20:33:02.184Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:34:02.209Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:35:02.061Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=2 containers=940 skippedDupContainers=0 groundStacks=20 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T20:35:02.154Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:35:02.371Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (259 items).
+[2026-08-02T20:35:35.072Z] [INFO] [Root-ItemInfo] Item census updated — reason=inventory-close players=2 containers=1019 skippedDupContainers=0 groundStacks=20 chunks=48 marketKeys=0 distinct=441
+
+--- 2026-08-02T21:01:04.027Z | [bot] incoming-webhook
+[2026-08-02T20:36:02Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T20:36:02.183Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[20
+
+--- 2026-08-02T22:01:04.888Z | [bot] incoming-webhook
+[T] server logs for the last hour
+```[2026-08-02T21:01:03.518Z] [INFO] [RootMC-Official] Hourly log batch queued to Slack/Discord (rootmc-server-log-20260802-210103.log).
+[2026-08-02T21:01:03.672Z] [INFO] [Root-Core] Root-Core updater: no downloads (up-to-date=24 skipped=1)
+[2026-08-02T21:01:03.702Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=2 containers=945 skippedDupContainers=0 groundStacks=19 chunks=48 marketKeys=0 distinct=288
+[2026-08-02T21:01:03.763Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:01:04.073Z] [INFO] [Root-Core] Root-Core comms: posted server log rootmc-server-log-20260802-210103.log to Slack #server-logs.
+[2026-08-02T21:01:07.107Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T21:01:07.211Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T21:02:03.619Z] [INFO] [RootMC] Physical gold storage snapshot saved to MySQL - players=0 total=0.000 G shops=96 chunks=64
+[2026-08-02T21:02:03.696Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:02:33.671Z] [INFO] [Root-ItemInfo] Item census updated — reason=chunk-load-settled players=2 containers=1019 skippedDupContainers=0 groundStacks=20 chunks=48 marketKeys=0 distinct=446
+[2026-08-02T21:02:34.33Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (446 items).
+[2026-08-02T21:03:03.655Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:04:03.734Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:04:10.716Z] [INFO] [Root-ItemInfo] Item census updated — reason=chunk-load-settled players=2 containers=945 skippedDupContainers=0 groundStacks=21 chunks=48 marketKeys=0 distinct=289
+[2026-08-02T21:05:03.563Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=2 containers=945 skippedDupContainers=0 groundStacks=24 chunks=48 marketKeys=0 distinct=290
+[2026-08-02T21:05:03.674Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:05:03.963Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (290 items).
+[2026-08-02T21:06:03.5Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T21:06:03.668Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:06:07.006Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T21:06:07.109Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T21:06:11.416Z] [INFO] [Root-ItemInfo] Item census updated — reason=chunk-load-settled players=2 containers=953 skippedDupContainers=0 groundStacks=21 chunks=48 marketKeys=0 distinct=268
+[2026-08-02T21:07:02.413Z] [INFO] [Root-ItemInfo] Item census updated — reason=chunk-load-settled players=2 containers=950 skippedDupContainers=0 groundStacks=20 chunks=48 marketKeys=0 distinct=265
+[2026-08-02T21:07:03.671Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:07:57.218Z] [INFO] [Root-ItemInfo] Item census updated — reason=chunk-load-settled players=2 containers=1019 skippedDupContainers=0 groundStacks=21 chunks=48 marketKeys=0 distinct=447
+[2026-08-02T21:07:57.604Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (447 items).
+[2026-08-02T21:08:03.701Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:09:03.566Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1111 skippedDupContainers=0 groundStacks=22 chunks=48 marketKeys=0 distinct=258
+[2026-08-02T21:09:03.669Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:10:03.765Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:11:03.5Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+
+--- 2026-08-02T22:01:04.930Z | [bot] incoming-webhook
+[2026-08-02T21:11:03.631Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1111 skippedDupContainers=0 groundStacks=23 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T21:11:03.657Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:11:04.526Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (259 items).
+[2026-08-02T21:11:07.007Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T21:11:07.114Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T21:12:03.681Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:13:03.565Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1111 skippedDupContainers=0 groundStacks=18 chunks=48 marketKeys=0 distinct=258
+[2026-08-02T21:13:03.663Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:14:03.653Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:15:03.57Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1111 skippedDupContainers=0 groundStacks=23 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T21:15:03.671Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:15:04.022Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (259 items).
+[2026-08-02T21:16:03.5Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T21:16:03.676Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:16:06.989Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T21:16:07.073Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T21:17:03.571Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1111 skippedDupContainers=0 groundStacks=24 chunks=48 marketKeys=0 distinct=258
+[2026-08-02T21:17:03.68Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:18:03.677Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:18:05.499Z] [INFO] [RootMC] MC day rollover 29735012 -&gt; 29735013: towny, bonds, town tax, inactivity tax, payouts, heartbeat, cloud sync.
+[2026-08-02T21:18:05.537Z] [INFO] [Root-Webstat] Vanilla day 29735012 → 29735013 — recomputing webstat.
+[2026-08-02T21:18:05.537Z] [INFO] [Root-Economy] Towny new-day invoked via NewDayScheduler#newDay
+[2026-08-02T21:18:05.542Z] [INFO] [Towny] Cleaning up old backups...
+[2026-08-02T21:18:05.542Z] [INFO] [Towny] Towny DailyTimerTask took 5ms to process.
+[2026-08-02T21:18:05.547Z] [INFO] [Towny] Successfully cleaned backups.
+[2026-08-02T21:18:05.547Z] [INFO] [Towny] Making backup...
+[2026-08-02T21:18:05.547Z] [INFO] [Towny] ***** Warning *****
+[2026-08-02T21:18:05.547Z] [INFO] [Towny] ***** Only Snapshots &amp; Regen files in plugins/Towny/data/ will be backed up!
+[2026-08-02T21:18:05.548Z] [INFO] [Towny] ***** This does not include your residents/towns/nations.
+[2026-08-02T21:18:05.548Z] [INFO] [Towny] ***** Make sure you have scheduled a backup in MySQL too!!!
+[2026-08-02T21:18:05.548Z] [INFO] [Towny] ***** If you already have backups or accept the risk, this message can be disabled in the database config.
+[2026-08-02T21:18:05.656Z] [INFO] [Towny] Towny flatfiles and settings successfully backed up.
+[2026-08-02T21:18:05.804Z] [INFO] [Root-Economy] Bond MC day 29735012 settled — gross inflow 3.144 G, pool 0.786 G, holders 5.
+[2026-08-02T21:18:06.414Z] [INFO] [Root-Economy] Town daily tax MC day 29735012: 3 town(s), total 1.572 G.
+[2026-08-02T21:18:06.586Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T21:18:06.688Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T21:18:06.846Z] [WARNING] [RootMC] Cloud sync failed: HTTP 502: error code: 502
+
+java.io.IOException: HTTP 502: error code: 502
+
+
+--- 2026-08-02T22:01:04.968Z | [bot] incoming-webhook
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchangeOnce(CloudApiClient.java:1113)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchange(CloudApiClient.java:1080)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.get(CloudApiClient.java:1016)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.sync(CloudApiClient.java:137)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.sync.SyncTask.syncLinkedPlayers(SyncTask.java:378)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.sync.SyncTask.runSync(SyncTask.java:336)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.sync.SyncTask.runSyncSafe(SyncTask.java:313)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.sync.SyncTask.lambda$runMcDayCloudSync$1(SyncTask.java:291)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+[2026-08-02T21:18:06.849Z] [INFO] [RootMC] Minecraft day economy pipeline complete.
+[2026-08-02T21:18:07.283Z] [INFO] [Root-Webstat] Webstat pushed to cloud (200).
+[2026-08-02T21:19:03.874Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1111 skippedDupContainers=0 groundStacks=25 chunks=48 marketKeys=0 distinct=258
+[2026-08-02T21:19:03.997Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:19:04.768Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (258 items).
+[2026-08-02T21:19:05.749Z] [INFO] [Towny] Time until a New Day: 55 seconds
+[2026-08-02T21:20:00.751Z] [INFO] [Towny] Towny DailyTimerTask took 1ms to process.
+[2026-08-02T21:20:00.751Z] [INFO] [Towny] Cleaning up old backups...
+[2026-08-02T21:20:00.756Z] [INFO] [Towny] Successfully cleaned backups.
+[2026-08-02T21:20:00.757Z] [INFO] [Towny] Making backup...
+[2026-08-02T21:20:00.757Z] [INFO] [Towny] ***** Warning *****
+[2026-08-02T21:20:00.757Z] [INFO] [Towny] ***** Only Snapshots &amp; Regen files in plugins/Towny/data/ will be backed up!
+[2026-08-02T21:20:00.757Z] [INFO] [Towny] ***** This does not include your residents/towns/nations.
+[2026-08-02T21:20:00.757Z] [INFO] [Towny] ***** Make sure you have scheduled a backup in MySQL too!!!
+[2026-08-02T21:20:00.757Z] [INFO] [Towny] ***** If you already have backups or accept the risk, this message can be disabled in the database config.
+[2026-08-02T21:20:00.862Z] [INFO] [Towny] Towny flatfiles and settings successfully backed up.
+[2026-08-02T21:20:03.981Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:21:00.749Z] [INFO] [Towny] Time until a New Day: 19 minutes
+[2026-08-02T21:21:03.8Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T21:21:03.958Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:21:03.992Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1111 skippedDupContainers=0 groundStacks=24 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T21:21:07.272Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T21:21:07.364Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T21:22:03.99Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:23:03.863Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1111 skippedDupContainers=0 groundStacks=31 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T21:23:03.969Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+
+--- 2026-08-02T22:01:04.998Z | [bot] incoming-webhook
+[2026-08-02T21:23:04.314Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (259 items).
+[2026-08-02T21:24:03.967Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:25:03.863Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1111 skippedDupContainers=0 groundStacks=29 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T21:25:03.966Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:26:03.801Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T21:26:04.013Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:26:07.302Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T21:26:07.394Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T21:27:03.867Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1111 skippedDupContainers=0 groundStacks=21 chunks=48 marketKeys=0 distinct=258
+[2026-08-02T21:27:03.951Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:27:04.158Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (258 items).
+[2026-08-02T21:28:03.963Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:29:03.863Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1111 skippedDupContainers=0 groundStacks=17 chunks=48 marketKeys=0 distinct=257
+[2026-08-02T21:29:03.969Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:30:04.003Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:31:03.8Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T21:31:03.912Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1111 skippedDupContainers=0 groundStacks=22 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T21:31:03.964Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:31:04.187Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (259 items).
+[2026-08-02T21:31:07.295Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T21:31:07.389Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T21:32:03.864Z] [INFO] [RootMC] Physical gold storage snapshot saved to MySQL - players=0 total=0.000 G shops=96 chunks=64
+[2026-08-02T21:32:03.986Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:32:33.917Z] [INFO] [Root-ItemInfo] Item census updated — reason=chunk-load-settled players=1 containers=1111 skippedDupContainers=0 groundStacks=24 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T21:33:03.992Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:34:03.962Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:35:03.86Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1111 skippedDupContainers=0 groundStacks=26 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T21:35:03.974Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:35:04.133Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (259 items).
+[2026-08-02T21:36:03.8Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T21:36:03.971Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:36:07.289Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T21:36:07.38Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T21:37:03.865Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1111 skippedDupContainers=0 groundStacks=18 chunks=48 marketKeys=0 distinct=258
+[2026-08-02T21:37:03.976Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+
+--- 2026-08-02T22:01:05.015Z | [bot] incoming-webhook
+[2026-08-02T21:38:03.962Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T21:38:05.799Z] [INFO] [RootMC] MC day rollover 2973501
+
+========================================================================

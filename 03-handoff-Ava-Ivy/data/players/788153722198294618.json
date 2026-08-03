@@ -1,0 +1,87 @@
+{
+  "discordId": "788153722198294618",
+  "username": "zuppafredda",
+  "firstSeenAt": 1785542646396,
+  "trust": 35,
+  "rudeness": 0,
+  "skepticism": 2,
+  "interests": [],
+  "notes": [
+    "win-over-target",
+    "pending-distrust-note"
+  ],
+  "samples": [
+    {
+      "at": 1785542646396,
+      "channel": "🛰️general🛰️",
+      "text": "get this clanker out of here",
+      "source": "first-join-scout"
+    },
+    {
+      "at": 1785542646401,
+      "channel": "🛰️general🛰️",
+      "text": "I'm gonna start being racist with AI's",
+      "source": "first-join-scout"
+    },
+    {
+      "at": 1785542646405,
+      "channel": "🛰️general🛰️",
+      "text": "please make a different channel for her",
+      "source": "first-join-scout"
+    },
+    {
+      "at": 1785542646410,
+      "channel": "🛰️general🛰️",
+      "text": "no but this AI is cringe af",
+      "source": "first-join-scout"
+    },
+    {
+      "at": 1785542646416,
+      "channel": "🛰️general🛰️",
+      "text": "its starting to get unconfortable",
+      "source": "first-join-scout"
+    },
+    {
+      "at": 1785542649007,
+      "channel": "🖼️memes-and-media🖼️",
+      "text": "scam",
+      "source": "first-join-scout"
+    },
+    {
+      "at": 1785542649019,
+      "channel": "🖼️memes-and-media🖼️",
+      "text": "get me on a payment plan",
+      "source": "first-join-scout"
+    },
+    {
+      "at": 1785542649025,
+      "channel": "🖼️memes-and-media🖼️",
+      "text": "I was joking",
+      "source": "first-join-scout"
+    },
+    {
+      "at": 1785542649034,
+      "channel": "🖼️memes-and-media🖼️",
+      "text": "I file for bankruptcy",
+      "source": "first-join-scout"
+    },
+    {
+      "at": 1785542649043,
+      "channel": "🖼️memes-and-media🖼️",
+      "text": "10.000 dollar bill is a LOT",
+      "source": "first-join-scout"
+    }
+  ],
+  "knownId": "zuppafredda",
+  "secrets": false,
+  "onboardingSentAt": null,
+  "cursorRuns": 0,
+  "member": false,
+  "lastSeenAt": 1785542649043,
+  "seenCount": 10,
+  "channels": [
+    "🛰️general🛰️",
+    "🖼️memes-and-media🖼️"
+  ],
+  "tone": "default"
+}

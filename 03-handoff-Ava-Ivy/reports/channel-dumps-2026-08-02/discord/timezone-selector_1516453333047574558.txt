@@ -1,0 +1,33 @@
+# Discord #⏲️timezone-selector⏲️
+id: 1516453333047574558
+topic: 
+dumped_at: 2026-08-02T17:28:31.871Z
+limit: 200
+
+========================================================================
+
+--- 2026-06-16T14:59:19.422Z | [bot] RootMC
+## Timezone Roles
+Pick your timezone so we can schedule events better.
+Select one option below; you can change it anytime.
+
+--- 2026-08-02T03:43:24.676Z | Ava
+@everyone
+
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR
+→ plans: https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX
+
+**Still on Discord:** proposals & votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+message_count: 2

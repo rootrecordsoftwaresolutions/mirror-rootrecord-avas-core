@@ -1,0 +1,14 @@
+# Discord #👩‍⚖️governance👩‍⚖️ — incremental
+id: 1522406451413385317
+dumped_at: 2026-08-03T17:47:54.471Z
+new_messages: 1
+after: 1533699019283365888
+
+========================================================================
+
+--- 2026-08-03T17:15:00.945Z | Ava
+**Opened:** PROP - New-player onboarding + shop economy guardrails
+From **hihihi6702** feedback: spawn safety + shop discovery, vote/bonus must not free-mint shop-competitive trims/books, rank clarity. No P2W. No /fly crown.
+Forum + 7-day vote in <#1522413185364398090>.
+
+========================================================================

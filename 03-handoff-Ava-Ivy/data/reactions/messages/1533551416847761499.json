@@ -1,0 +1,23 @@
+{
+  "messageId": "1533551416847761499",
+  "channelId": "1522413185364398090",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**VOTE (7 days) - PROP - Constitution ratification (Ava role + vote gates)**\n\nRatify Ava lead-dev role, live feature poll gates (75%/60%), reaction→vote-factor clarify, pin/wiki version bump to 2026-08-01. Wiki updates only after pass.\n\nRea",
+  "byEmoji": {
+    "➖": 1,
+    "vote_yes:1533005800908525698": 1,
+    "vote_no:1533005790829346937": 1
+  },
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 3,
+    "all": 3
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785697561127,
+  "updatedAt": 1785701400730
+}

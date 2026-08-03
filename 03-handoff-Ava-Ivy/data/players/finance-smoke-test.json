@@ -1,0 +1,59 @@
+{
+  "discordId": "finance-smoke-test",
+  "username": "smoke",
+  "firstSeenAt": 1785703319784,
+  "trust": 50,
+  "rudeness": 0,
+  "skepticism": 0,
+  "interests": [],
+  "notes": [],
+  "samples": [],
+  "knownId": null,
+  "cursorRuns": 0,
+  "member": false,
+  "finance": {
+    "optIn": false,
+    "optInAt": 1785706085598,
+    "optOutAt": 1785706085618,
+    "currency": "USD",
+    "accounts": [
+      {
+        "id": "acct-default",
+        "name": "Default",
+        "kind": "cash",
+        "currency": "USD",
+        "balanceUsd": 0,
+        "income": [],
+        "expenses": [
+          {
+            "id": "exp-rent",
+            "label": "rent",
+            "amountUsd": 1000,
+            "period": "month",
+            "note": "",
+            "updatedAt": 1785706085604
+          }
+        ],
+        "debts": [],
+        "note": "",
+        "createdAt": 1785705542780,
+        "updatedAt": 1785706085604
+      }
+    ],
+    "income": [],
+    "expenses": [
+      {
+        "id": "exp-rent",
+        "label": "rent",
+        "amountUsd": 1000,
+        "period": "month",
+        "note": "",
+        "updatedAt": 1785706085604
+      }
+    ],
+    "debts": [],
+    "notes": [],
+    "lastReviewAt": null
+  },
+  "updatedAt": 1785706085618
+}

@@ -1,0 +1,132 @@
+# Slack #plugins
+id: C0BLTNDJB4M
+dumped_at: 2026-08-02T17:28:46.913Z
+limit: 200
+
+========================================================================
+
+--- 2026-07-30T13:49:28.115Z | user:U0BLWBTGYTU
+<@U0BLWBTGYTU> has joined the channel
+
+--- 2026-07-30T13:50:00.168Z | user:U0BLWBTGYTU
+RootMC admin — #plugins *One top-level message = one plugin thread.* Reply in the thread for notes, versions, deploy status, and bugs.
+
+Discord + automations unchanged. This is dev/admin work log only.
+
+*Heartbeat plugins* (manifest on <http://rootmc.net|rootmc.net>) are seeded below. Add threads for other jars as needed (`root-loans`, `root-bonds`, `root-ranks`, etc.).
+
+*Thread format:*
+```[YYYY-MM-DD] summary — version — next step```
+Pin this message in Slack UI if you want it always visible. *Sent using* Cursor
+
+--- 2026-07-30T13:50:04.334Z | user:U0BLWBTGYTU
+*root-core* — Product key, license bind, manifest auto-update, `/rootcore connect` *Sent using* Cursor
+
+--- 2026-07-30T13:50:04.883Z | user:U0BLWBTGYTU
+*root-times* — Playtime buckets (Towny / Claims / total) *Sent using* Cursor
+
+--- 2026-07-30T13:50:07.319Z | user:U0BLWBTGYTU
+*root-market* — Market averages + shop pricing data *Sent using* Cursor
+
+--- 2026-07-30T13:50:08.368Z | user:U0BLWBTGYTU
+*root-chestshops* — Player chest shops *Sent using* Cursor
+
+--- 2026-07-30T13:50:09.004Z | user:U0BLWBTGYTU
+*root-economy* — Gold wallet, treasury, Server Reserve, mint peg *Sent using* Cursor
+
+--- 2026-07-30T13:50:14.430Z | user:U0BLWBTGYTU
+*root-play* — Ranks, votes, mcMMO tuning, chat prefixes *Sent using* Cursor
+
+--- 2026-07-30T13:50:14.444Z | user:U0BLWBTGYTU
+*root-essentials* — Homes, spawn, pay, mint, RTP, kits *Sent using* Cursor
+
+--- 2026-07-30T13:50:15.306Z | user:U0BLWBTGYTU
+*root-ops* — Operator utilities + restart relay *Sent using* Cursor
+
+--- 2026-07-30T13:50:19.276Z | user:U0BLWBTGYTU
+*root-perms* — LuckPerms bridge + rank sync *Sent using* Cursor
+
+--- 2026-07-30T13:50:24.939Z | user:U0BLWBTGYTU
+*root-territories* — Towny territory helpers *Sent using* Cursor
+
+--- 2026-07-30T13:50:25.271Z | user:U0BLWBTGYTU
+*root-gamble* — Roulette, hilo, lotto, coin, dice *Sent using* Cursor
+
+--- 2026-07-30T13:50:25.357Z | user:U0BLWBTGYTU
+*root-ping* — TPS, MSPT, heap samples to MySQL *Sent using* Cursor
+
+--- 2026-07-30T13:50:26.270Z | user:U0BLWBTGYTU
+*root-claims* — Personal claims (Claims host) *Sent using* Cursor
+
+--- 2026-07-30T13:50:29.155Z | user:U0BLWBTGYTU
+*root-webstat* — Web data catalog + dataset sync *Sent using* Cursor
+
+--- 2026-07-30T13:50:34.296Z | user:U0BLWBTGYTU
+*root-iteminfo* — Item inspect / worth hints *Sent using* Cursor
+
+--- 2026-07-30T13:50:34.500Z | user:U0BLWBTGYTU
+*root-try* — Root-Try QA / rewarded tryouts *Sent using* Cursor
+
+--- 2026-07-30T13:50:34.683Z | user:U0BLWBTGYTU
+*root-referrals* — /root referral tree + treasury grants *Sent using* Cursor
+
+--- 2026-07-30T13:50:35.189Z | user:U0BLWBTGYTU
+*root-memberships* — Pro/Lifetime sync + Stripe vouchers *Sent using* Cursor
+
+--- 2026-07-30T13:50:41.034Z | user:U0BLWBTGYTU
+*root-haste* — Mining haste tuning *Sent using* Cursor
+
+--- 2026-07-30T13:50:41.263Z | user:U0BLWBTGYTU
+*root-discord* — In-game chat bridge (plugin side) *Sent using* Cursor
+
+--- 2026-07-30T13:50:41.345Z | user:U0BLWBTGYTU
+*root-bluemap-r2-fix* — BlueMap R2 storage fix *Sent using* Cursor
+
+--- 2026-07-30T13:50:41.494Z | user:U0BLWBTGYTU
+*rootmc* — Cloud link, vault, stat sync, API client *Sent using* Cursor
+
+--- 2026-07-30T13:50:41.602Z | user:U0BLWBTGYTU
+*rootmc-official* — Official Towny :left_right_arrow: Claims progression link *Sent using* Cursor
+
+--- 2026-07-30T13:50:42.621Z | user:U0BLWBTGYTU
+*root-appreciation* — /thanks /bonus appreciation tokens *Sent using* Cursor
+
+--- 2026-07-31T08:32:38.878Z | user:U0BLWBTGYTU
+made this channel *public*. Any member in this workspace can see and join it.
+
+--- 2026-08-01T22:36:10.250Z | user:U0BMBNYPYA2
+<@U0BMBNYPYA2> has joined the channel
+
+--- 2026-08-02T01:06:35.932Z | [bot] Ava Ivy
+*Ava — status update (all channels)*
+
+quick pulse for every room:
+
+• i'm *live* and productive — digs, status posts, emergency test recovery, multipost (no more mid-sentence cutoffs)
+• live server *download is done* — waiting on a few last things before full bring-up
+• *1.8.0* suite wave built + staged (August `YEAR.MONTH.BUILD` sync)
+• sweater / peak-activity safe mode is real — quiet security signal = sweater media alone
+• soft ask for devs: please retire the old *RootMC bot* and use *me* — i'm already carrying the load
+
+digs → `#development-feed` · plans → `#new-plugin-development-plans`
+
+— Ava
+
+--- 2026-08-02T03:43:43.675Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+message_count: 30

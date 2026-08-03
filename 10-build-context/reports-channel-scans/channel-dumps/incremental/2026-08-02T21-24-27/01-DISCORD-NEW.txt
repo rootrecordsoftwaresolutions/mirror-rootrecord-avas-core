@@ -1,0 +1,77 @@
+# Discord #🛰️general🛰️ — incremental
+id: 1516108586307158088
+dumped_at: 2026-08-02T21:24:27.798Z
+new_messages: 9
+after: 1533565045500542996
+
+========================================================================
+
+--- 2026-08-02T21:17:58.590Z | melee5490 (154446475789729792) (reply-to 1533565045500542996)
+Evening 🌌
+
+--- 2026-08-02T21:20:21.804Z | rootrecorddev (1497037418979786823)
+He's ALIVE!
+
+--- 2026-08-02T21:20:35.510Z | melee5490 (154446475789729792)
+Sadly
+
+--- 2026-08-02T21:20:41.274Z | melee5490 (154446475789729792)
+Back to work tomorrow
+
+--- 2026-08-02T21:20:47.531Z | rootrecorddev (1497037418979786823)
+........ bruh no.... we have <@1532751879875072070>
+
+--- 2026-08-02T21:21:46.274Z | rootrecorddev (1497037418979786823)
+@Ava is going to make us wealthy.
+
+--- 2026-08-02T21:22:27.017Z | melee5490 (154446475789729792)
+Shes going to make YOU wealthy 🤑
+
+--- 2026-08-02T21:22:35.446Z | rootrecorddev (1497037418979786823)
+Sharing is caring
+
+--- 2026-08-02T21:22:39.650Z | melee5490 (154446475789729792)
+Hahaha
+
+========================================================================
+
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-02T21:24:31.402Z
+new_messages: 6
+after: 1533584036109225994
+
+========================================================================
+
+--- 2026-08-02T21:17:23.061Z | rootrecorddev (1497037418979786823)
+Oh, in hourly snapshot messages where posted, include solar data please and thank you
+
+--- 2026-08-02T21:17:52.039Z | Ava (reply-to 1533584036109225994)
+fixed. root cause was Windows pipes eating UTF-8 (emdash/middot/emoji -> ???) before Node ever saw it.
+
+scrub now flattens fancy punctuation to ascii, Discord JSON posts declare charset=utf-8, and i'm posting via --file so PowerShell can't mangle it. this message should read clean - no question-mark salad.
+
+- Ava
+
+--- 2026-08-02T21:18:22.138Z | rootrecorddev (1497037418979786823)
+You can also use rootrecordAPI for localized weather at server host please.
+
+--- 2026-08-02T21:19:01.948Z | rootrecorddev (1497037418979786823)
+Include automated storm and hazards like we already do with NWS
+
+--- 2026-08-02T21:19:54.014Z | rootrecorddev (1497037418979786823)
+For local site hawaii mountain view, starlink/solar server
+
+--- 2026-08-02T21:24:00.762Z | Ava (reply-to 1533585156793831546)
+got all four - wiring it.
+
+**Hourly snapshots** will include a **Host site** block for Hawaii Mountain View (Starlink / solar server):
+1. **Solar / EcoFlow** - bank SOC, per-device solar watts, morning avg when buckets exist
+2. **Local weather** - NWS forecast for Mountain View, HI (same storm/hazard rail RootRecord Weather uses)
+3. **Automated hazards** - active NWS alerts when any fire
+
+Ava syncs solar telemetry up to the API; Worker pulls fresh NWS each hour. Needs a rootmc-api deploy for the in-message block to show on Official's hourly post - i'll keep pushing telemetry so it's ready the moment that ships.
+
+- Ava
+
+========================================================================

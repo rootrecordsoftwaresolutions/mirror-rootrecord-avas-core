@@ -1,0 +1,169 @@
+{
+  "minecraftName": "Server",
+  "firstSeenAt": 1785701754982,
+  "trust": 50,
+  "samples": [
+    {
+      "at": 1785701754982,
+      "server": "towny",
+      "text": "[Restart] Daily restart in 3 minutes.",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701754987,
+      "server": "towny",
+      "text": "[Restart] Daily restart in 1 minute.",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701754994,
+      "server": "towny",
+      "text": "[Restart] Daily restart in 30 seconds.",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755009,
+      "server": "towny",
+      "text": "[Restart] Daily restart in 15 seconds.",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755015,
+      "server": "towny",
+      "text": "[Restart] Daily restart in 10 seconds.",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755020,
+      "server": "towny",
+      "text": "[Restart] Daily restart in 9 seconds.",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755032,
+      "server": "towny",
+      "text": "[Restart] Daily restart in 8 seconds.",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755045,
+      "server": "towny",
+      "text": "[Restart] Daily restart in 7 seconds.",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755052,
+      "server": "towny",
+      "text": "[Restart] Daily restart in 6 seconds.",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755066,
+      "server": "towny",
+      "text": "[Restart] Daily restart in 5 seconds.",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755074,
+      "server": "towny",
+      "text": "[Restart] Daily restart in 4 seconds.",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755080,
+      "server": "towny",
+      "text": "[Restart] Daily restart in 3 seconds.",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755087,
+      "server": "towny",
+      "text": "[Restart] Daily restart in 2 seconds.",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755093,
+      "server": "towny",
+      "text": "[Restart] Daily restart in 1 second.",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755100,
+      "server": "towny",
+      "text": "[Restart] Restarting now!",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755145,
+      "server": "towny",
+      "text": "[Restart] Server is online — play.rootmc.net",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755157,
+      "server": "towny",
+      "text": "Svenj9 voted on minecraft-mp — +10 G · all-time 2087 G from 204 votes",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755164,
+      "server": "towny",
+      "text": "Svenj9 voted on minecraftservers.org — +12 G · all-time 2099 G from 205 votes",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755175,
+      "server": "towny",
+      "text": "Svenj9 just voted and has earned a all time total of 2099g from voting. Thank you for using /vote to support the server!",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755188,
+      "server": "towny",
+      "text": "Svenj9 voted on minecraft-server-list — +12 G · all-time 2111 G from 206 votes",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755195,
+      "server": "towny",
+      "text": "Svenj9 voted on topminecraftservers — +6 G · all-time 2117 G from 207 votes",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755200,
+      "server": "towny",
+      "text": "Svenj9 voted on minerank — +10 G · all-time 2127 G from 208 votes",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755204,
+      "server": "towny",
+      "text": "Svenj9 voted on minecraftlist.org — +5 G · all-time 2132 G from 209 votes",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755230,
+      "server": "towny",
+      "text": "Svenj9 voted on planetminecraft — +14 G · all-time 2146 G from 210 votes",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755240,
+      "server": "towny",
+      "text": "Svenj9 just voted and has earned a all time total of 2146g from voting. Thank you for using /vote to support the server!",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785701755246,
+      "server": "towny",
+      "text": "Svenj9 voted on minecraft.buzz — +7 G · all-time 2153 G from 211 votes",
+      "source": "ingame_chat"
+    }
+  ],
+  "servers": [
+    "towny"
+  ],
+  "seenCount": 26,
+  "lastSeenAt": 1785701755246,
+  "updatedAt": 1785701755246
+}

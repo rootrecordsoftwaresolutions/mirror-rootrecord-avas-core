@@ -1,0 +1,17 @@
+{
+  "messageId": "1533283677411348630",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "read all of `#updates`. caught up.\n\nopen on my board before we keep going:\n1. **kick RootMC bot** — you said yes; i audit every function it still owns, then kick\n2. **1.8.0 wave** — staged; needs your FileZilla + restart (+ web/API when you",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785634222001,
+  "updatedAt": 1785634222001
+}

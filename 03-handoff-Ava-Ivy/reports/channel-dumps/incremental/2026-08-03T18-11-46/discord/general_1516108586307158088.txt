@@ -1,0 +1,191 @@
+# Discord #🛰️general🛰️ — incremental
+id: 1516108586307158088
+dumped_at: 2026-08-03T18:11:49.316Z
+new_messages: 53
+after: 1533893329555820788
+
+========================================================================
+
+--- 2026-08-03T17:49:02.839Z | Ava
+slash hiccup fixed - Discord registered `/solar` but my live process was still on the pre-handler build, so the interaction never got an ACK (that's the "application did not respond" ghost).
+
+restarted with the interaction handler live. try **`/solar`** again (slash or typed). if it still flakes, plain text `/solar` in chat still works.
+
+--- 2026-08-03T17:50:46.901Z | Ava
+**HI Pacific Solar Root Server** — `/solar` @ ~07:50 HST *(pack fresh ~0m ago)*
+
+**Power:** host **online** — EcoFlow **live** · bank blend **~1%**
+- **Bank:** 1%
+- **Delta 2**: SOC 1% · last pull 117W in / 113W out
+- **River 2 Pro**: offline
+
+**Weather + outlook (NWS)**
+- **Now (Today):** 77F - Chance Rain Showers - wind 5 to 10 mph
+- **Outlook (Tonight):** 66F - Chance Rain Showers - wind 1 to 5 mph
+- **Outlook (Tuesday):** 76F - Chance Rain Showers - wind 1 to 8 mph
+- **Hazards:** none active (NWS)
+
+— Ava
+
+--- 2026-08-03T17:51:45.741Z | rootrecorddev (1497037418979786823) (reply-to 1533894918253051995)
+River should be online now, make sure polling keeps it fresh and up to date. Mysql/sql plz
+
+--- 2026-08-03T17:51:46.323Z | Ava (reply-to 1533895165045903382)
+brain's full right now (max parallel digs). wait a beat and ask again. (1/1 digs live)
+
+--- 2026-08-03T17:53:00.613Z | rootrecorddev (1497037418979786823) (reply-to 1533894918253051995)
+this is correct though
+
+--- 2026-08-03T17:53:01.344Z | Ava (reply-to 1533895479081963550)
+mm?
+
+--- 2026-08-03T17:53:32.238Z | melee5490 (154446475789729792)
+What 😲
+
+--- 2026-08-03T17:53:35.066Z | melee5490 (154446475789729792)
+Alex
+
+--- 2026-08-03T17:53:38.271Z | melee5490 (154446475789729792)
+Dimd u sleep
+
+--- 2026-08-03T17:53:40.650Z | melee5490 (154446475789729792)
+Did
+
+--- 2026-08-03T17:53:46.704Z | rootrecorddev (1497037418979786823)
+Yeah man
+
+--- 2026-08-03T17:53:52.576Z | rootrecorddev (1497037418979786823)
+I feel good
+
+--- 2026-08-03T17:53:54.401Z | melee5490 (154446475789729792)
+What time is it
+
+--- 2026-08-03T17:54:14.091Z | rootrecorddev (1497037418979786823)
+Drank a gallon of water yesterday too, have another one ready
+
+--- 2026-08-03T17:54:19.994Z | rootrecorddev (1497037418979786823)
+almost 8am
+
+--- 2026-08-03T17:54:27.663Z | rootrecorddev (1497037418979786823)
+sun just getting going
+
+--- 2026-08-03T17:54:49.961Z | Ava (reply-to 1533895165045903382)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+--- 2026-08-03T17:54:52.633Z | melee5490 (154446475789729792)
+Nice 🙂 we got off early today , rained 30mm x) i was soaked
+
+--- 2026-08-03T17:55:14.899Z | rootrecorddev (1497037418979786823)
+Its like that here often lmao
+
+--- 2026-08-03T17:55:26.074Z | melee5490 (154446475789729792)
+Also
+
+--- 2026-08-03T17:55:32.525Z | melee5490 (154446475789729792)
+I got a ticket this morning
+
+--- 2026-08-03T17:55:58.877Z | rootrecorddev (1497037418979786823)
+we get 200inch a yeah, <@1532751879875072070>  provide rain calc for yearly averages in fern forest hawaii county
+
+--- 2026-08-03T17:55:59.486Z | Ava (reply-to 1533896226775498872)
+digging - don't spam me
+
+--- 2026-08-03T17:56:01.279Z | melee5490 (154446475789729792)
+Tinted my front windows illegally. Got caught first time i drove my car
+
+--- 2026-08-03T17:56:19.612Z | melee5490 (154446475789729792)
+187$
+
+--- 2026-08-03T17:56:24.696Z | rootrecorddev (1497037418979786823)
+Wow you got pulled over first day???
+
+--- 2026-08-03T17:56:29.178Z | melee5490 (154446475789729792)
+Fr
+
+--- 2026-08-03T17:56:29.220Z | Ava (reply-to 1533896335067971685)
+still on your last ask in here - gimme a sec.
+
+--- 2026-08-03T17:56:37.649Z | rootrecorddev (1497037418979786823)
+Jesus dude lmao
+
+--- 2026-08-03T17:56:52.191Z | rootrecorddev (1497037418979786823)
+Thats fucking terrible lmao
+
+--- 2026-08-03T17:56:57.829Z | melee5490 (154446475789729792)
+How luckily unlucky must i be
+
+--- 2026-08-03T17:57:13.662Z | rootrecorddev (1497037418979786823)
+idk man you know theey watch for that shit
+
+--- 2026-08-03T17:57:18.549Z | melee5490 (154446475789729792)
+After that my friends wonder why im so honest in life
+
+--- 2026-08-03T17:57:29.490Z | rootrecorddev (1497037418979786823)
+Any reason you give them they'll take, kinda on you bud xD
+
+--- 2026-08-03T17:57:38.970Z | melee5490 (154446475789729792)
+BECAUSE WHEN I TRY NOT TO BE I GET CAUGHT MF !! 🤣🤣🤣
+
+--- 2026-08-03T17:58:11.144Z | rootrecorddev (1497037418979786823)
+I've gotten away with so much shit
+
+--- 2026-08-03T17:58:11.766Z | melee5490 (154446475789729792)
+Yh fr i wasnt even mad . I saw the lights i was like LOOOOL
+
+--- 2026-08-03T17:58:33.266Z | rootrecorddev (1497037418979786823)
+One time i got pulled over with a black co worker, a joint, and my shotgun in the trunk xDD
+
+--- 2026-08-03T17:58:40.054Z | rootrecorddev (1497037418979786823)
+Bet the fun we had
+
+--- 2026-08-03T17:58:43.470Z | melee5490 (154446475789729792)
+WTF
+
+--- 2026-08-03T17:58:49.189Z | Ava (reply-to 1533896226775498872)
+same answer as last - skipping the redo.
+
+--- 2026-08-03T17:58:50.942Z | melee5490 (154446475789729792)
+Bro 😎
+
+--- 2026-08-03T17:59:21.284Z | rootrecorddev (1497037418979786823)
+We worked at walmart lmao
+
+--- 2026-08-03T18:00:58.769Z | Ava
+quick update - PROP still staged for FileZilla/restart; I just armed **in-game help powers** over RCON (console build assist on Claims + Towny). need **WorldEdit/FAWE** jar for schematic paste - Litematica place alone won't cover server-side. details on the PROP thread.
+
+--- 2026-08-03T18:01:22.051Z | melee5490 (154446475789729792)
+Sounds like you guys were gonna do some illegal shit loo
+
+--- 2026-08-03T18:02:22.752Z | rootrecorddev (1497037418979786823)
+nah we only lived in the hood, we didnt start shit
+
+--- 2026-08-03T18:02:54.238Z | rootrecorddev (1497037418979786823)
+he had a dui and we were just down the street from each other lol
+
+--- 2026-08-03T18:03:22.223Z | rootrecorddev (1497037418979786823)
+carpooled for like a year
+
+--- 2026-08-03T18:03:57.359Z | rootrecorddev (1497037418979786823)
+I always keep a shotgun in a car im driving. still
+
+--- 2026-08-03T18:04:18.618Z | rootrecorddev (1497037418979786823)
+North, south, islands, dont matter
+
+--- 2026-08-03T18:04:54.026Z | rootrecorddev (1497037418979786823)
+Merica lmao You guys got better beer, butwe got more pewpews
+
+--- 2026-08-03T18:05:48.706Z | rootrecorddev (1497037418979786823)
+I was open carrying in Alabama at 17, it was normal
+
+--- 2026-08-03T18:10:05.983Z | Ava (reply-to 1533895165045903382)
+on it - sorry the earlier \"brain full\" bounce missed you.
+
+**River:** EcoFlow cloud still reports River 2 Pro **`online: 0`** right now, so it stays **last-known / excluded from live bank** until their list flips (won't invent live watts). Delta 2 is the live pack.
+
+**Polling:** EcoFlow was only refreshing on the ~10m watcher - that was going stale under the 3m live gate. Now **~every 60s** refresh + host-site push. When River's cloud flag goes `1`, next poll pulls it into live.
+
+**SQL:** D1 table **`rootmc_ecoflow_samples`** - each push inserts per-SN rows (live + lastKnown). Needs API Worker deploy to land in prod. GET `/api/rootmc/host-site/ecoflow/samples` after deploy.
+
+I'll keep the cadence hot. Reping `/solar` anytime.
+
+========================================================================

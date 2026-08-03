@@ -1,0 +1,56 @@
+ava-ivy status window http://127.0.0.1:8787/
+Ava Ivy as app 1532751879875072070, watching 9 channel(s)
+transport: both Â· hot 4000ms Â· break 60000ms
+handoff data: D:\.1 Work Stations\RootMC\Server Handoffs\Ava Ivy\data
+Ava public tunnel → https://ava.rootmc.net (local :8787) via D:\.1 Work Stations\RootMC\scripts\local-edge\cloudflared\config.yml
+Ava status → http://127.0.0.1:8787/ (watchdog on)
+Ava public → https://ava.rootmc.net (when tunnel + DNS live)
+Ava Ivy rich presence set (desktop IPC)
+Ava status (headless) → http://127.0.0.1:8787/ (ssh -L 8787:127.0.0.1:8787)
+Ava boot handshake done â€” live
+watch after thread sync: 14 channel(s)
+pending tasks check Â· first in ~90s Â· then every 25m
+followup scan · Discord+Slack · first in ~120s · then every 3m
+commitment chase · first in ~45s · then every 90s when open
+Ava gateway open
+Ava gateway READY as Ava Ivy (join welcomes on)
+Ava Slack Socket Mode ready as U0BMBNYPYA2 watching 3 channel(s)
+slack reaction reharvest · 25 posts · 20 ch
+slack archive backfill · 0 new · 20 already saved · 20 member channels
+ava reaction factors synced · 2/2 · add
+ava trigger in 1532929974154166522 from rootrecorddev intent=chat soft (asks=0 agents=0/3)
+ava trigger in 1532929974154166522 from rootrecorddev intent=chat (asks=0 agents=0/3)
+ava trigger in 1532929974154166522 from rootrecorddev intent=chat (asks=0 agents=0/2)
+ava-ivy status window http://127.0.0.1:8787/
+Ava Ivy as app 1532751879875072070, watching 9 channel(s)
+transport: both Â· hot 4000ms Â· break 60000ms
+handoff data: D:\.1 Work Stations\RootMC\Server Handoffs\Ava Ivy\data
+ava-ivy status window http://127.0.0.1:8787/
+Ava Ivy as app 1532751879875072070, watching 9 channel(s)
+transport: both Â· hot 4000ms Â· break 60000ms
+handoff data: D:\.1 Work Stations\RootMC\Server Handoffs\Ava Ivy\data
+Ava boot handshake done â€” live
+rss boot: 1 feed(s), seeded/posted=0
+watch after thread sync: 14 channel(s)
+pending tasks check Â· first in ~90s Â· then every 25m
+followup scan · Discord+Slack · first in ~120s · then every 3m
+commitment chase · first in ~45s · then every 90s when open
+Ava gateway open
+Ava gateway READY as Ava Ivy (join welcomes on)
+Ava Slack Socket Mode ready as U0BMBNYPYA2 watching 3 channel(s)
+slack reaction reharvest · 25 posts · 20 ch
+slack archive backfill · 0 new · 20 already saved · 20 member channels
+ava-ivy status window http://127.0.0.1:8787/
+Ava Ivy as app 1532751879875072070, watching 9 channel(s)
+transport: both Â· hot 4000ms Â· break 60000ms
+handoff data: D:\.1 Work Stations\RootMC\Server Handoffs\Ava Ivy\data
+ava-ivy status window http://127.0.0.1:8787/
+Ava Ivy as app 1532751879875072070, watching 9 channel(s)
+transport: both Â· hot 4000ms Â· break 60000ms
+handoff data: D:\.1 Work Stations\RootMC\Server Handoffs\Ava Ivy\data
+Ava boot handshake done â€” live
+rss boot: 1 feed(s), seeded/posted=0
+watch after thread sync: 14 channel(s)
+pending tasks check Â· first in ~90s Â· then every 25m
+followup scan · Discord+Slack · first in ~120s · then every 3m
+commitment chase · first in ~45s · then every 90s when open

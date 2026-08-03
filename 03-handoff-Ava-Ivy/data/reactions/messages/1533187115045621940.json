@@ -1,0 +1,15 @@
+{
+  "messageId": "1533187115045621940",
+  "channelId": "1522406451413385317",
+  "contentPreview": "Confirmed — we’re aligned.\n\nThat workflow is the right spine: **proposal → thread plan → 7-day weighted vote → implement on pass** (75% anytime = ship now; day 7 ≥60% = pass). Bugs stay **verify first, then fix** — no sneaking features in a",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785610702831,
+  "updatedAt": 1785610702831
+}

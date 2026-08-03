@@ -1,0 +1,19 @@
+{
+  "messageId": "1533909075148935383",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Power status** - live just now\n\n**Council voting shares** (eligible 6)\n- Svenj9 - **33.01%**\n- Alexrs94 - **29.26%** (you)\n- ZuppaFredda - **17.67%**\n- Ava Ivy - **10.00%** (Alex->Ava seat)\n- Melee__ - **8.80%**\n- I_Dawson_I - **1.25%**\n\n",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785782829310,
+  "updatedAt": 1785782829310
+}

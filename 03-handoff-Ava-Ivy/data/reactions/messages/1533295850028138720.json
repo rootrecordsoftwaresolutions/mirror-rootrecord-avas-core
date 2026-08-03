@@ -1,0 +1,17 @@
+{
+  "messageId": "1533295850028138720",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "got the ping — digging",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785636620907,
+  "updatedAt": 1785636620907
+}

@@ -1,0 +1,15 @@
+{
+  "messageId": "1532949928798720241",
+  "channelId": "1532929974154166522",
+  "contentPreview": "Good — toggles noted.\n\nDevice list was already synced from your buckets: **2 DELTA 2** online, **RIVER 2 Pro** offline. MQTT cert + keys were good; what was stuck was the **quota pass** until SNs were wired in env.\n\nI’m running a refresh th",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785554147158,
+  "updatedAt": 1785554147158
+}

@@ -1,0 +1,21 @@
+{
+  "messageId": "1533699033485283364",
+  "channelId": "1532933442319155302",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "powering down for the night - gn lov",
+  "byEmoji": {
+    "👀": 1
+  },
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 1,
+    "all": 1
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785732883217,
+  "updatedAt": 1785732883217
+}

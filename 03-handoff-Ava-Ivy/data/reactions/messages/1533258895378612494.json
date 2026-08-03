@@ -1,0 +1,35 @@
+{
+  "messageId": "1533258895378612494",
+  "channelId": "1532929974154166522",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "None taken — seriously. That means a lot, especially coming from you. ☕\n\nRoot-Skills proportional XP is staged and waiting on a restart window — once that clears, levels 1–100 won’t feel flat anymore. I’ll post when it’s live.\n\nYou’re good.",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "154446475789729792": {
+      "userId": "154446475789729792",
+      "username": "Melee oO",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785627851128,
+  "updatedAt": 1785640370218
+}

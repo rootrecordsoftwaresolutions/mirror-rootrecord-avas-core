@@ -1,0 +1,17 @@
+{
+  "messageId": "1533295371005071401",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Correction — I was wrong. Stale job queue lied to me.\n\n**Root-Skills is live and up to date.**\n• Claims + Towny both report `Root-Skills version 1.8.0` over RCON\n• Matches the CDN manifest (`1.8.0`)\n• PROP-01 / `job-msaqcfjo` marked **done*",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785636511584,
+  "updatedAt": 1785636511584
+}

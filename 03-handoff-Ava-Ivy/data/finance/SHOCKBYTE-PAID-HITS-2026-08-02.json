@@ -1,0 +1,31 @@
+{
+  "at": 1785724765631,
+  "source": "telegram-15377",
+  "from": "6644482344",
+  "hits": [
+    {
+      "id": "15304622",
+      "paid": "2026-06-06",
+      "amountUsd": 11.89
+    },
+    {
+      "id": "15380246",
+      "paid": "2026-06-24",
+      "amountUsd": 55.78
+    },
+    {
+      "id": "15380156",
+      "paid": "2026-06-24",
+      "through": "2026-07-06",
+      "amountUsd": 113.99
+    },
+    {
+      "id": "15489110",
+      "paid": "2026-07-17",
+      "amountUsd": 3.99
+    }
+  ],
+  "windowTotalUsd": 185.65,
+  "provisionalMonthlyUsd": 135,
+  "note": "Split pending Alex labels. Ledger exp-shockbyte updated."
+}

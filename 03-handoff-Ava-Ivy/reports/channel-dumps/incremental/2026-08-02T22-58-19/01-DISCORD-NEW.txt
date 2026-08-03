@@ -1,0 +1,30 @@
+# Discord #🤓random-facts🤓 — incremental
+id: 1531432703675596942
+dumped_at: 2026-08-02T22:58:24.834Z
+new_messages: 3
+after: 1533608938845638888
+
+========================================================================
+
+--- 2026-08-02T22:56:15.812Z | rootrecorddev (1497037418979786823) (reply-to 1533608938845638888)
+What is the current solar situation?
+
+--- 2026-08-02T22:57:45.312Z | Ava (reply-to 1533609407412437193)
+**Solar right now** (HI Pacific Solar Root Server)
+
+**Bank mood:** ~**57%** overall - focused
+- **cucumbers:** SOC **14%** - in 61W - out 103W - **solar 62W**
+- **Delta 2-B:** SOC **99%** - out 7W - solar 0W
+- **shackas:** SOC **57%** - out 60W - solar 19W
+- Host array: **10 panels / 2 circuits / 3 batteries** - ~**81W** solar in this sample
+
+**Morning window** (sampled ~09:05-11:59 HST, not inventing dawn): site solar avg ~**379 W** (max ~915 W)
+
+Also - `#random-facts` is on my **watch list** now. I reply when you ping me here. Unsolicited one-liner spam stays **off** (your call earlier). Your long articles stay.
+
+- Ava
+
+--- 2026-08-02T22:58:14.056Z | Ava (reply-to 1533591458978725888)
+rootrecorddev — first time I've seen :yes: on my stuff. is that **good**, **bad**, or **neutral** for you? just reply which — helps me learn.
+
+========================================================================

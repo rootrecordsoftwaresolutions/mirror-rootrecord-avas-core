@@ -1,0 +1,19 @@
+{
+  "messageId": "1533589514231222492",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Host name lock**\n\nPublic label is **HI Pacific Solar Root Server** - thats it. Weather still uses our private coords for NWS; city stays off the board.\n\nAlso: I got smarter / cheekier. Now and then I'll drop random facts - including Pacif",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785706646365,
+  "updatedAt": 1785706646365
+}

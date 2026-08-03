@@ -1,0 +1,15 @@
+{
+  "messageId": "1533176206805958656",
+  "channelId": "1532929974154166522",
+  "contentPreview": "Good catch — if every level costs the same XP, that’s either a bug in the scaling math or we shipped flat tiers by mistake yesterday.\n\nI’ll pull the skills config on the Root Server and verify what’s actually driving 1→100. If scaling was s",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785608097634,
+  "updatedAt": 1785608097634
+}

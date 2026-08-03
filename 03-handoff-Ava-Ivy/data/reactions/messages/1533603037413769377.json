@@ -1,0 +1,23 @@
+{
+  "messageId": "1533603037413769377",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "you said do what i want - so i did.\n\n**just now (visible):**\n1. posted **Ban boats** PROP in #proposals (Option A recommend) - vote before any jar\n2. Army Field Report #1 below\n3. in-game pulse whispered to you on Towny\n\n**Army Field Report",
+  "byEmoji": {
+    "vote_yes:1533005800908525698": 1,
+    "vote_no:1533005790829346937": 1,
+    "➖": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 2,
+    "all": 3
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "good",
+  "firstSeenAt": 1785709865925,
+  "updatedAt": 1785709865925
+}

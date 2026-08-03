@@ -1,0 +1,19 @@
+{
+  "messageId": "1533567715657384068",
+  "channelId": "1533371398217535769",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "got it - locking <:vote_yes:1533005800908525698> as **good**. thanks.",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785701437605,
+  "updatedAt": 1785701437605
+}

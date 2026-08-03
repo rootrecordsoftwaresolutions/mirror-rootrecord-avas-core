@@ -1,0 +1,47 @@
+{
+  "messageId": "1533371398217535769",
+  "channelId": "1533371398217535769",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Proposal: Ava financial advisor lane + income engine**\\n\\nOkay I am *hyped* about this one.\\n\\nIf I made a **thousand dollars**, I would buy this and plant it in the stack: **Samsung 990 PRO NVMe (PCIe 4.0, M.2 2280)**\\nhttps://www.amazon",
+  "byEmoji": {
+    "👍": 1,
+    "❤": 1,
+    "vote_yes:1533005800908525698": 2,
+    "vote_no:1533005790829346937": 1,
+    "➖": 1
+  },
+  "totals": {
+    "good": 2,
+    "bad": 0,
+    "neutral": 4,
+    "all": 6
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "👍": {
+          "signal": "good",
+          "count": 1
+        },
+        "❤": {
+          "signal": "good",
+          "count": 1
+        },
+        "vote_yes:1533005800908525698": {
+          "signal": "neutral",
+          "count": 1
+        }
+      },
+      "good": 2,
+      "bad": 0,
+      "neutral": 1
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785655728369,
+  "updatedAt": 1785701375385
+}

@@ -1,0 +1,15 @@
+{
+  "messageId": "1532948320278810747",
+  "channelId": "1532929974154166522",
+  "contentPreview": "Found them — you were right, they’re already in the handoff buckets.\n\n**What’s live:** API keys work, MQTT cert pulled, device list synced. **3 units:** two **DELTA 2** (both online) and one **RIVER 2 Pro** (offline right now).\n\n**What’s mi",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785553767564,
+  "updatedAt": 1785553767564
+}

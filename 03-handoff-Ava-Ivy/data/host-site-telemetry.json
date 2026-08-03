@@ -1,0 +1,61 @@
+{
+  "site": {
+    "id": "host-site-primary-v1",
+    "label": "HI Pacific Solar Root Server",
+    "locale": "HI Pacific",
+    "lat": 19.5558,
+    "lon": -155.1069,
+    "tz_offset_hours": -10,
+    "updated_at": "2026-08-02T21:36:00.000Z",
+    "links": {
+      "starlink": true,
+      "solar": true,
+      "ecoflow": true
+    },
+    "notes": "Public name: HI Pacific Solar Root Server. Never publish the city. Weather uses private lat/lon for NWS."
+  },
+  "solar": {
+    "batteryPct": 57,
+    "perSn": {
+      "R331ZAB5SG6S2858": {
+        "ok": true,
+        "soc": 13,
+        "inW": 188,
+        "outW": 96,
+        "solarW": 198
+      },
+      "R331ZAB5SG755642": {
+        "ok": true,
+        "soc": 100,
+        "inW": 0,
+        "outW": 7,
+        "solarW": 88
+      },
+      "R621ZA16XH6K1155": {
+        "ok": true,
+        "soc": 57,
+        "inW": 0,
+        "outW": 60,
+        "solarW": 19
+      }
+    },
+    "morningAvgW": 379.44736842105266,
+    "morningNote": "sample window starts after dawn - not a full morning average"
+  },
+  "weather": {
+    "ok": true,
+    "source": "NWS",
+    "city": null,
+    "state": null,
+    "period": {
+      "name": "Today",
+      "temp": 73,
+      "unit": "F",
+      "wind": "12 mph",
+      "short": "Scattered Rain Showers"
+    },
+    "alerts": [],
+    "fetchedAt": "2026-08-02T22:06:36.755Z"
+  },
+  "updatedAt": "2026-08-02T22:06:36.756Z"
+}

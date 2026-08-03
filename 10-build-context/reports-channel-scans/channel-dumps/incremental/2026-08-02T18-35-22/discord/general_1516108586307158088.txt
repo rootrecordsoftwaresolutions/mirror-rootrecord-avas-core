@@ -1,0 +1,120 @@
+# Discord #🛰️general🛰️ — incremental
+id: 1516108586307158088
+dumped_at: 2026-08-02T18:35:34.029Z
+new_messages: 4
+after: 1533319330949763262
+
+========================================================================
+
+--- 2026-08-02T17:40:46.447Z | rootrecorddev (1497037418979786823)
+Good morning @everyone
+
+--- 2026-08-02T18:01:21.770Z | [bot] RootMC
+# 🏅 Weekly Activity Awards  -  Week of 2026-07-27
+
+**Period:** Jul 27 - Aug 2, 2026 (Mon-Sun, **HST**). Roles **reset every Sunday 08:00 HST**.
+
+## 💬 Top Participator (Discord)
+
+**How we measured it**
+- **Message blocks**  -  1 pt each (consecutive posts until someone else speaks)
+- **Votes**  -  5 pts each (`/proposal`)
+- **Reactions**  -  1 pt each
+- Root-AI reviews saved activity and excludes spam before final ranks
+- **Top 5** by score earn the role (listed even below 5 pts when fewer qualify)
+
+1. <@1497037418979786823> (**RootRecord**)  -  **255** pts (167 blocks  -  1 votes = 5 pts  -  83 reactions)
+2. <@154446475789729792> (**Melee oO**)  -  **159** pts (130 blocks  -  0 votes = 0 pts  -  29 reactions)
+3. <@1264007167661441177> (**Khcr**)  -  **26** pts (18 blocks  -  0 votes = 0 pts  -  8 reactions)
+4. <@788153722198294618> (**ZuppaFredda**)  -  **12** pts (12 blocks  -  0 votes = 0 pts  -  0 reactions)
+5. <@1532751879875072070> (**1532751879875072070**)  -  **5** pts (0 blocks  -  1 votes = 5 pts  -  0 reactions)
+
+Role: <@&1518311748627726346>
+
+## ⛏ Top Active Players (In-game)
+
+**How we measured it**
+- **Playtime this week**  -  delta from RootStat sync (end minus prior Sunday snapshot)
+- Linked Minecraft + Discord; minimum **1 hour** this week
+- **Top 3** earn the Discord role + in-game `[Top Active Player]` prefix
+- **#1 only** also gets **one-week Pro membership** (app + in-game `[Pro]` prefix)
+- Must be **linked** at [rootmc.net](https://rootmc.net/account) (Minecraft + Discord)
+- Last week's #1 Pro is **removed** if they are not #1 again (paid / life Pro stays)
+
+_No qualifying linked players met the playtime threshold this week._
+
+_Discord: message blocks + votes + reactions in D1, judged by Root-AI. In-game: playtime snapshots._
+
+--- 2026-08-02T18:01:22.029Z | [bot] RootMC
+# 🏅 Weekly Activity Awards  -  Week of 2026-07-27
+
+**Period:** Jul 27 - Aug 2, 2026 (Mon-Sun, **HST**). Roles **reset every Sunday 08:00 HST**.
+
+## 💬 Top Participator (Discord)
+
+**How we measured it**
+- **Message blocks**  -  1 pt each (consecutive posts until someone else speaks)
+- **Votes**  -  5 pts each (`/proposal`)
+- **Reactions**  -  1 pt each
+- Root-AI reviews saved activity and excludes spam before final ranks
+- **Top 5** by score earn the role (listed even below 5 pts when fewer qualify)
+
+1. <@1497037418979786823> (**RootRecord**)  -  **255** pts (167 blocks  -  1 votes = 5 pts  -  83 reactions)
+2. <@154446475789729792> (**Melee oO**)  -  **159** pts (130 blocks  -  0 votes = 0 pts  -  29 reactions)
+3. <@1264007167661441177> (**Khcr**)  -  **26** pts (18 blocks  -  0 votes = 0 pts  -  8 reactions)
+4. <@788153722198294618> (**ZuppaFredda**)  -  **12** pts (12 blocks  -  0 votes = 0 pts  -  0 reactions)
+5. <@1532751879875072070> (**1532751879875072070**)  -  **5** pts (0 blocks  -  1 votes = 5 pts  -  0 reactions)
+
+Role: <@&1518311748627726346>
+
+## ⛏ Top Active Players (In-game)
+
+**How we measured it**
+- **Playtime this week**  -  delta from RootStat sync (end minus prior Sunday snapshot)
+- Linked Minecraft + Discord; minimum **1 hour** this week
+- **Top 3** earn the Discord role + in-game `[Top Active Player]` prefix
+- **#1 only** also gets **one-week Pro membership** (app + in-game `[Pro]` prefix)
+- Must be **linked** at [rootmc.net](https://rootmc.net/account) (Minecraft + Discord)
+- Last week's #1 Pro is **removed** if they are not #1 again (paid / life Pro stays)
+
+_No qualifying linked players met the playtime threshold this week._
+
+_Discord: message blocks + votes + reactions in D1, judged by Root-AI. In-game: playtime snapshots._
+
+--- 2026-08-02T18:01:23.038Z | [bot] RootMC
+# 🏅 Weekly Activity Awards  -  Week of 2026-07-27
+
+**Period:** Jul 27 - Aug 2, 2026 (Mon-Sun, **HST**). Roles **reset every Sunday 08:00 HST**.
+
+## 💬 Top Participator (Discord)
+
+**How we measured it**
+- **Message blocks**  -  1 pt each (consecutive posts until someone else speaks)
+- **Votes**  -  5 pts each (`/proposal`)
+- **Reactions**  -  1 pt each
+- Root-AI reviews saved activity and excludes spam before final ranks
+- **Top 5** by score earn the role (listed even below 5 pts when fewer qualify)
+
+1. <@1497037418979786823> (**RootRecord**)  -  **255** pts (167 blocks  -  1 votes = 5 pts  -  83 reactions)
+2. <@154446475789729792> (**Melee oO**)  -  **159** pts (130 blocks  -  0 votes = 0 pts  -  29 reactions)
+3. <@1264007167661441177> (**Khcr**)  -  **26** pts (18 blocks  -  0 votes = 0 pts  -  8 reactions)
+4. <@788153722198294618> (**ZuppaFredda**)  -  **12** pts (12 blocks  -  0 votes = 0 pts  -  0 reactions)
+5. <@1532751879875072070> (**1532751879875072070**)  -  **5** pts (0 blocks  -  1 votes = 5 pts  -  0 reactions)
+
+Role: <@&1518311748627726346>
+
+## ⛏ Top Active Players (In-game)
+
+**How we measured it**
+- **Playtime this week**  -  delta from RootStat sync (end minus prior Sunday snapshot)
+- Linked Minecraft + Discord; minimum **1 hour** this week
+- **Top 3** earn the Discord role + in-game `[Top Active Player]` prefix
+- **#1 only** also gets **one-week Pro membership** (app + in-game `[Pro]` prefix)
+- Must be **linked** at [rootmc.net](https://rootmc.net/account) (Minecraft + Discord)
+- Last week's #1 Pro is **removed** if they are not #1 again (paid / life Pro stays)
+
+_No qualifying linked players met the playtime threshold this week._
+
+_Discord: message blocks + votes + reactions in D1, judged by Root-AI. In-game: playtime snapshots._
+
+========================================================================

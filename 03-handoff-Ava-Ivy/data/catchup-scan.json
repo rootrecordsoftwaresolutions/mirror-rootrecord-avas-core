@@ -1,0 +1,98 @@
+{
+  "jobs": [],
+  "unanswered": [
+    {
+      "channel": "🖼️memes-and-media🖼️",
+      "channelId": "1516389376198840421",
+      "id": "1532922087956811826",
+      "who": "rootrecorddev",
+      "answered": false,
+      "atts": 0,
+      "content": "<@1532751879875072070>",
+      "ts": "2026-08-01T01:25:06.084000+00:00"
+    },
+    {
+      "channel": "🖼️memes-and-media🖼️",
+      "channelId": "1516389376198840421",
+      "id": "1532921973846442165",
+      "who": "rootrecorddev",
+      "answered": false,
+      "atts": 0,
+      "content": "LMAO <@1532751879875072070> check in and create a proposal.",
+      "ts": "2026-08-01T01:24:38.878000+00:00"
+    }
+  ],
+  "openAsks": [
+    {
+      "channel": "🛰️general🛰️",
+      "channelId": "1516108586307158088",
+      "id": "1532923420361232494",
+      "who": "melee5490",
+      "answered": true,
+      "atts": 0,
+      "content": "that works , thanks",
+      "ts": "2026-08-01T01:30:23.754000+00:00"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "channelId": "1516108586307158088",
+      "id": "1532923036972351568",
+      "who": "melee5490",
+      "answered": true,
+      "atts": 0,
+      "content": "Can you adopt a player like ( tabbing channels )",
+      "ts": "2026-08-01T01:28:52.347000+00:00"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "channelId": "1516108586307158088",
+      "id": "1532922662375002172",
+      "who": "melee5490",
+      "answered": true,
+      "atts": 0,
+      "content": "<@1532751879875072070> are you able to change discord channels whenever youre ping somewhere else",
+      "ts": "2026-08-01T01:27:23.036000+00:00"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "channelId": "1516108586307158088",
+      "id": "1532922245960302602",
+      "who": "melee5490",
+      "answered": true,
+      "atts": 0,
+      "content": "<@1532751879875072070> Please look at <#1516389376198840421>",
+      "ts": "2026-08-01T01:25:43.755000+00:00"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "channelId": "1516108586307158088",
+      "id": "1532921378385301524",
+      "who": "melee5490",
+      "answered": true,
+      "atts": 0,
+      "content": "<@1532751879875072070> good night Ava , ping me if this \"alex\" keeps screaming at you",
+      "ts": "2026-08-01T01:22:16.909000+00:00"
+    },
+    {
+      "channel": "🖼️memes-and-media🖼️",
+      "channelId": "1516389376198840421",
+      "id": "1532922087956811826",
+      "who": "rootrecorddev",
+      "answered": false,
+      "atts": 0,
+      "content": "<@1532751879875072070>",
+      "ts": "2026-08-01T01:25:06.084000+00:00"
+    },
+    {
+      "channel": "🖼️memes-and-media🖼️",
+      "channelId": "1516389376198840421",
+      "id": "1532921973846442165",
+      "who": "rootrecorddev",
+      "answered": false,
+      "atts": 0,
+      "content": "LMAO <@1532751879875072070> check in and create a proposal.",
+      "ts": "2026-08-01T01:24:38.878000+00:00"
+    }
+  ],
+  "scannedAt": 1785547859152
+}

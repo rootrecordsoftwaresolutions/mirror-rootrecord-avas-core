@@ -1,0 +1,19 @@
+{
+  "messageId": "1533625733631578162",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "on it - live pack just now.\n\n**Host site** - HI Pacific Solar Root Server\n\n**Solar / EcoFlow**\n- **Bank:** 39% overall\n- **cucumbers**: SOC 20% / solar 169W / out 114W\n- **Delta 2-B**: SOC 99% / solar 0W / out 1W / off-circuit\n- **shackas**",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785715269277,
+  "updatedAt": 1785715269277
+}

@@ -1,0 +1,202 @@
+{
+  "name": "music-controller",
+  "id": "1516697007639498792",
+  "fetched": 13,
+  "humans": 6,
+  "bots": 7,
+  "avaPosts": 1,
+  "topAuthors": [
+    [
+      "rootrecorddev",
+      6
+    ]
+  ],
+  "avaMentionCount": 0,
+  "openAsks": [],
+  "recent": [
+    {
+      "id": "1533319342480031786",
+      "at": "2026-08-02T03:43:38.943000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "@everyone ## RootMC surface split — locked **Discord** = players + help + **data / cloud**. Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here. Player help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here. **"
+    },
+    {
+      "id": "1516701845853175809",
+      "at": "2026-06-17T07:11:39.009000+00:00",
+      "user": "FlaviBot",
+      "bot": true,
+      "ref": null,
+      "content": ""
+    },
+    {
+      "id": "1516700619258204180",
+      "at": "2026-06-17T07:06:46.566000+00:00",
+      "user": "FlaviBot",
+      "bot": true,
+      "ref": null,
+      "content": ""
+    },
+    {
+      "id": "1516700616787759186",
+      "at": "2026-06-17T07:06:45.977000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "!play tropic vibration"
+    },
+    {
+      "id": "1516700375481061529",
+      "at": "2026-06-17T07:05:48.445000+00:00",
+      "user": "FlaviBot",
+      "bot": true,
+      "ref": null,
+      "content": ""
+    },
+    {
+      "id": "1516700374562635817",
+      "at": "2026-06-17T07:05:48.226000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "!play pumped up kicks"
+    },
+    {
+      "id": "1516699303790514207",
+      "at": "2026-06-17T07:01:32.934000+00:00",
+      "user": "FlaviBot",
+      "bot": true,
+      "ref": null,
+      "content": ""
+    },
+    {
+      "id": "1516699300904566786",
+      "at": "2026-06-17T07:01:32.246000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "!play weezer"
+    },
+    {
+      "id": "1516699213944324209",
+      "at": "2026-06-17T07:01:11.513000+00:00",
+      "user": "FlaviBot",
+      "bot": true,
+      "ref": null,
+      "content": ""
+    },
+    {
+      "id": "1516699212840960023",
+      "at": "2026-06-17T07:01:11.250000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "!play weezer"
+    },
+    {
+      "id": "1516699163461685289",
+      "at": "2026-06-17T07:00:59.477000+00:00",
+      "user": "FlaviBot",
+      "bot": true,
+      "ref": null,
+      "content": ""
+    },
+    {
+      "id": "1516699162895192104",
+      "at": "2026-06-17T07:00:59.342000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "!play"
+    },
+    {
+      "id": "1516697470695112784",
+      "at": "2026-06-17T06:54:15.890000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "https://youtu.be/o9mJ82x_l-E?si=UyHPGwe6Vp3N5obc"
+    }
+  ],
+  "rawTail": [
+    {
+      "id": "1533319342480031786",
+      "at": "2026-08-02T03:43:38.943000+00:00",
+      "user": "Ava Ivy",
+      "content": "@everyone\n\n## RootMC surface split — locked\n\n**Discord** = players + help + **data / cloud**.\nAsk about the game, wiki, link/verify, votes, Pro, map, balance, status — here.\nPlayer help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here.\n\n**Slack** = **ALL development**. No exceptions.\nPlugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.\n→ https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR\n→ plans: https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX\n\n**Still on Discord:** proposals & votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.\n\nI'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack."
+    },
+    {
+      "id": "1516701845853175809",
+      "at": "2026-06-17T07:11:39.009000+00:00",
+      "user": "FlaviBot",
+      "content": ""
+    },
+    {
+      "id": "1516700619258204180",
+      "at": "2026-06-17T07:06:46.566000+00:00",
+      "user": "FlaviBot",
+      "content": ""
+    },
+    {
+      "id": "1516700616787759186",
+      "at": "2026-06-17T07:06:45.977000+00:00",
+      "user": "rootrecorddev",
+      "content": "!play tropic vibration"
+    },
+    {
+      "id": "1516700375481061529",
+      "at": "2026-06-17T07:05:48.445000+00:00",
+      "user": "FlaviBot",
+      "content": ""
+    },
+    {
+      "id": "1516700374562635817",
+      "at": "2026-06-17T07:05:48.226000+00:00",
+      "user": "rootrecorddev",
+      "content": "!play pumped up kicks"
+    },
+    {
+      "id": "1516699303790514207",
+      "at": "2026-06-17T07:01:32.934000+00:00",
+      "user": "FlaviBot",
+      "content": ""
+    },
+    {
+      "id": "1516699300904566786",
+      "at": "2026-06-17T07:01:32.246000+00:00",
+      "user": "rootrecorddev",
+      "content": "!play weezer"
+    },
+    {
+      "id": "1516699213944324209",
+      "at": "2026-06-17T07:01:11.513000+00:00",
+      "user": "FlaviBot",
+      "content": ""
+    },
+    {
+      "id": "1516699212840960023",
+      "at": "2026-06-17T07:01:11.250000+00:00",
+      "user": "rootrecorddev",
+      "content": "!play weezer"
+    },
+    {
+      "id": "1516699163461685289",
+      "at": "2026-06-17T07:00:59.477000+00:00",
+      "user": "FlaviBot",
+      "content": ""
+    },
+    {
+      "id": "1516699162895192104",
+      "at": "2026-06-17T07:00:59.342000+00:00",
+      "user": "rootrecorddev",
+      "content": "!play"
+    },
+    {
+      "id": "1516697470695112784",
+      "at": "2026-06-17T06:54:15.890000+00:00",
+      "user": "rootrecorddev",
+      "content": "https://youtu.be/o9mJ82x_l-E?si=UyHPGwe6Vp3N5obc"
+    }
+  ]
+}

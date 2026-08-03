@@ -1,0 +1,642 @@
+# Slack #plugins — incremental
+id: C0BLTNDJB4M
+dumped_at: 2026-08-02T17:36:52.642Z
+new_messages: 1
+since: 1785642223.675729
+
+========================================================================
+
+--- 2026-08-02T03:43:43.675Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+
+# Slack #new-channel — incremental
+id: C0BLQ5C342F
+dumped_at: 2026-08-02T17:36:53.346Z
+new_messages: 1
+since: 1785642222.057739
+
+========================================================================
+
+--- 2026-08-02T03:43:42.057Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+
+# Slack #work-log — incremental
+id: C0BM0N1MUJY
+dumped_at: 2026-08-02T17:36:54.057Z
+new_messages: 1
+since: 1785642228.506959
+
+========================================================================
+
+--- 2026-08-02T03:43:48.506Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+
+# Slack #decisions — incremental
+id: C0BLYV4SA6M
+dumped_at: 2026-08-02T17:36:54.813Z
+new_messages: 1
+since: 1785642226.919709
+
+========================================================================
+
+--- 2026-08-02T03:43:46.919Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+
+# Slack #social — incremental
+id: C0BLT3B9RQV
+dumped_at: 2026-08-02T17:36:55.527Z
+new_messages: 1
+since: 1785642222.842099
+
+========================================================================
+
+--- 2026-08-02T03:43:42.842Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+
+# Slack #all-rootmc — incremental
+id: C0BLWBTUCR0
+dumped_at: 2026-08-02T17:36:56.264Z
+new_messages: 1
+since: 1785642225.317809
+
+========================================================================
+
+--- 2026-08-02T03:43:45.317Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+
+# Slack #ops-feed — incremental
+id: C0BLV24TVP0
+dumped_at: 2026-08-02T17:36:57.023Z
+new_messages: 1
+since: 1785642224.494409
+
+========================================================================
+
+--- 2026-08-02T03:43:44.494Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+
+# Slack #automated-reports — incremental
+id: C0BM6KVFS0L
+dumped_at: 2026-08-02T17:36:58.001Z
+new_messages: 1
+since: 1785642232.568659
+
+========================================================================
+
+--- 2026-08-02T03:43:52.568Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+
+# Slack #shockbyte-status — incremental
+id: C0BMRPDUH0Q
+dumped_at: 2026-08-02T17:36:58.727Z
+new_messages: 1
+since: 1785642235.008759
+
+========================================================================
+
+--- 2026-08-02T03:43:55.008Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+
+# Slack #overview — incremental
+id: C0BM4B4RT8S
+dumped_at: 2026-08-02T17:36:59.418Z
+new_messages: 1
+since: 1785642229.318869
+
+========================================================================
+
+--- 2026-08-02T03:43:49.318Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+
+# Slack #feedback — incremental
+id: C0BLMGBVAMD
+dumped_at: 2026-08-02T17:37:00.162Z
+new_messages: 1
+since: 1785642220.333909
+
+========================================================================
+
+--- 2026-08-02T03:43:40.333Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+
+# Slack #server-logs — incremental
+id: C0BMX0QKSTS
+dumped_at: 2026-08-02T17:37:00.883Z
+new_messages: 5
+since: 1785690054.204919
+
+========================================================================
+
+--- 2026-08-02T17:00:54.115Z | [bot] incoming-webhook
+[T] server logs for the last hour
+```[2026-08-02T16:00:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T16:00:53.6Z] [INFO] [RootMC-Official] Hourly log batch queued to Slack/Discord (rootmc-server-log-20260802-160053.log).
+[2026-08-02T16:00:53.699Z] [INFO] [Vault] Checking for Updates ... 
+[2026-08-02T16:00:53.699Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:00:53.708Z] [INFO] [Root-Core] Root-Core updater: no downloads (up-to-date=24 skipped=1)
+[2026-08-02T16:00:53.75Z] [INFO] [Vault] No new version available
+[2026-08-02T16:00:53.797Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:00:54.242Z] [INFO] [Root-Core] Root-Core comms: posted server log rootmc-server-log-20260802-160053.log to Slack #server-logs.
+[2026-08-02T16:01:00.549Z] [INFO] [Towny] Time until a New Day: 19 minutes
+[2026-08-02T16:01:53.787Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:02:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:02:53.781Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:03:53.772Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:04:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:04:53.754Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:05:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T16:05:53.748Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:06:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:06:53.755Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:07:53.777Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:08:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:08:53.78Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:09:53.747Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:10:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T16:10:53.675Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:10:53.791Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:11:53.764Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:12:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:12:53.782Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:13:53.766Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:14:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:14:53.764Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+
+--- 2026-08-02T17:00:54.142Z | [bot] incoming-webhook
+[2026-08-02T16:15:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T16:15:53.782Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:16:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:16:53.763Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:17:53.76Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:18:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:18:53.745Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:19:53.812Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:20:00.551Z] [INFO] [Towny] Towny DailyTimerTask took 1ms to process.
+[2026-08-02T16:20:00.551Z] [INFO] [Towny] Cleaning up old backups...
+[2026-08-02T16:20:00.556Z] [INFO] [Towny] Successfully cleaned backups.
+[2026-08-02T16:20:00.557Z] [INFO] [Towny] Making backup...
+[2026-08-02T16:20:00.557Z] [INFO] [Towny] ***** Warning *****
+[2026-08-02T16:20:00.557Z] [INFO] [Towny] ***** Only Snapshots &amp; Regen files in plugins/Towny/data/ will be backed up!
+[2026-08-02T16:20:00.557Z] [INFO] [Towny] ***** This does not include your residents/towns/nations.
+[2026-08-02T16:20:00.557Z] [INFO] [Towny] ***** Make sure you have scheduled a backup in MySQL too!!!
+[2026-08-02T16:20:00.557Z] [INFO] [Towny] ***** If you already have backups or accept the risk, this message can be disabled in the database config.
+[2026-08-02T16:20:00.655Z] [INFO] [Towny] Towny flatfiles and settings successfully backed up.
+[2026-08-02T16:20:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T16:20:53.699Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:20:53.754Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:21:00.549Z] [INFO] [Towny] Time until a New Day: 19 minutes
+[2026-08-02T16:21:53.765Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:22:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:22:53.777Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:23:53.769Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:24:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:24:53.749Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:25:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T16:25:53.762Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:26:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:26:53.754Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:27:53.751Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:28:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:28:53.779Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+
+--- 2026-08-02T17:00:54.164Z | [bot] incoming-webhook
+[2026-08-02T16:29:53.761Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:30:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T16:30:53.699Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:30:53.776Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:31:53.741Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:32:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:32:53.749Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:33:53.778Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:34:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:34:53.758Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:35:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T16:35:53.823Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:36:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:36:53.799Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:37:53.746Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:38:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:38:53.771Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:39:53.78Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:40:00.55Z] [INFO] [Towny] Towny DailyTimerTask took 0ms to process.
+[2026-08-02T16:40:00.55Z] [INFO] [Towny] Cleaning up old backups...
+[2026-08-02T16:40:00.556Z] [INFO] [Towny] Successfully cleaned backups.
+[2026-08-02T16:40:00.556Z] [INFO] [Towny] Making backup...
+[2026-08-02T16:40:00.556Z] [INFO] [Towny] ***** Warning *****
+[2026-08-02T16:40:00.556Z] [INFO] [Towny] ***** Only Snapshots &amp; Regen files in plugins/Towny/data/ will be backed up!
+[2026-08-02T16:40:00.556Z] [INFO] [Towny] ***** This does not include your residents/towns/nations.
+[2026-08-02T16:40:00.556Z] [INFO] [Towny] ***** Make sure you have scheduled a backup in MySQL too!!!
+[2026-08-02T16:40:00.556Z] [INFO] [Towny] ***** If you already have backups or accept the risk, this message can be disabled in the database config.
+[2026-08-02T16:40:00.655Z] [INFO] [Towny] Towny flatfiles and settings successfully backed up.
+[2026-08-02T16:40:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T16:40:53.7Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:40:53.787Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:41:00.549Z] [INFO] [Towny] Time until a New Day: 19 minutes
+[2026-08-02T16:41:53.763Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:42:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:42:53.767Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+
+--- 2026-08-02T17:00:54.187Z | [bot] incoming-webhook
+[2026-08-02T16:43:53.776Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:44:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:44:53.788Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:45:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T16:45:53.776Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:46:53.699Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:46:53.757Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:47:53.748Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:48:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:48:53.759Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:49:53.749Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:50:53.601Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T16:50:53.699Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:50:53.79Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:51:53.785Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:52:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:52:53.768Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:53:53.752Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:54:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:54:53.74Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:55:53.6Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T16:55:53.767Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:56:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:56:53.8Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:57:53.737Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:58:53.649Z] [INFO] [Root-ItemInfo] Item census empty startup snapshot skipped — reason=interval players=0 containers=0 skippedDupContainers=0 groundStacks=0 chunks=0 marketKeys=0 distinct=0
+[2026-08-02T16:58:53.79Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T16:59:53.776Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T17:00:00.55Z] [INFO] [Towny] Cleaning up old backups...
+[2026-08-02T17:00:00.55Z] [INFO] [Towny] Towny DailyTimerTask took 0ms to process.
+[2026-08-02T17:00:00.556Z] [INFO] [Towny] Successfully cleaned backups.
+[2026-08-02T17:00:00.556Z] [INFO] [Towny] Making backup...
+[2026-08-02T17:00:00.556Z] [INFO] [Towny] ***** Warning *****
+[2026-08-02T17:00:00.556Z] [INFO] [Towny] ***** Only Snapshots &amp; Regen files in plugins/Towny/data/ will be backed up!
+[2026-08-02T17:00:00.556Z] [INFO] [Towny] ***** This does not include your residents/towns/nations.
+
+--- 2026-08-02T17:00:54.204Z | [bot] incoming-webhook
+[2026-08-02T17:00:00.556Z] [INFO] [Towny] ***** Make sure you have scheduled a backup in MySQL too!!!
+[2026-08-02T17:00:00.556Z] [INFO] [Towny] ***** If you already have backups or accept the risk, this message can be disabled in the database config.
+[2026-08-02T17:00:
+
+========================================================================
+
+# Slack #plugin-sales — incremental
+id: C0BLZCVAC3X
+dumped_at: 2026-08-02T17:37:01.589Z
+new_messages: 1
+since: 1785642227.702729
+
+========================================================================
+
+--- 2026-08-02T03:43:47.702Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+
+# Slack #server-reports — incremental
+id: C0BLY49H13M
+dumped_at: 2026-08-02T17:37:02.274Z
+new_messages: 1
+since: 1785664890.874769
+
+========================================================================
+
+--- 2026-08-02T10:01:30.874Z | [bot] incoming-webhook
+*Economy Brief*
+_2026-08-01 HST · Slack copy after Discord_
+_daily_economy_intel_
+
+*Economy Brief*
+*2026-08-01 HST*
+
+&gt; Economy brief for 2026-08-01: Towny wallets 700.328 Gold, Claims 5.0k Gold; mined 49.7k | 519.862 Gold.
+
+*Market Overview*
+
+- Towny wallets total *700.328 Gold* across 19 players, up *6.76 Gold* from the prior report; Claims wallets total *5.0k Gold* across 5 players, up *0.4k Gold*.
+- Towny combined net worth holds at *919.551 Gold*; Claims net worth rises to *5.0k Gold*.
+- All-time gold mined stands at *49.7k Gold* on Towny and *519.862 Gold* on Claims, up *107.771 Gold*.
+- Active shop listings total *28* on Towny and *0* on Claims.
+
+*Towny vs Claims*
+
+- *Gold in wallets:* Towny *700.328 Gold* | Claims *5.0k Gold*
+- *Combined net worth:* Towny *919.551 Gold* | Claims *5.0k Gold*
+- *Gold mined (all-time):* Towny *49.7k Gold* | Claims *519.862 Gold*
+- *Shop listings:* Towny *28* | Claims *0*
+- *Players with wallets:* Towny *19* | Claims *5*
+
+_Realm-wide linked players (shared): *6*_
+_Realm playtime (shared Towny+Claims): *63* players - top *Alexrs94* at 12d 21h_
+
+*Towny Economy*
+
+- *Gold in wallets:* 700.328 Gold (*19* players)
+- *Combined net worth:* 919.551 Gold
+- *Gold mined (all-time):* 49.7k Gold
+- *Shop listings:* *28*
+- *Top wallets:* *ZuppaFredda* 286.873 Gold; *Elfrieden* 102.89 Gold; *HueWarriorr* 100.89 Gold
+
+*Claims Economy*
+
+- *Gold in wallets:* 5.0k Gold (*5* players)
+- *Combined net worth:* 5.0k Gold
+- *Gold mined (all-time):* 519.862 Gold
+- *Shop listings:* *0*
+- *Top wallets:* *Svenj9* 2.4k Gold; *ZuppaFredda* 1.3k Gold; *Alexrs94* 917.198 Gold
+
+*Outlook*
+
+- Wallet balances increased on both hosts; Claims recorded notable growth in mined gold and net worth while Towny remained stable.
+- Server Reserve shows no activity across inflows or outflows.
+
+*Live stats*
+_Server Reserve  -  synced Aug 1, 11:43 PM HST_
+*Reserve balance*
+- *Balance:* 0 Gold
+- *All-time net (ledger):* 0 Gold
+- *Avg monthly net:* 0 Gold
+*2026-08 month-to-date*
+- *Inflow:* 0 Gold  -  *Outflow:* 0 Gold  -  *Net:* 0 Gold
+*Towny fees to reserve (MTD)*
+- Claims 0 Gold  -  New towns 0 Gold  -  New nations 0 Gold  -  Services 0 Gold  -  *Total* 0 Gold
+
+========================================================================
+
+# Slack #api-description — incremental
+id: C0BM6HN0WMA
+dumped_at: 2026-08-02T17:37:03.039Z
+new_messages: 1
+since: 1785642231.763559
+
+========================================================================
+
+--- 2026-08-02T03:43:51.763Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+
+# Slack #discord-channels — incremental
+id: C0BM4QT5U0Z
+dumped_at: 2026-08-02T17:37:04.332Z
+new_messages: 1
+since: 1785642230.950109
+
+========================================================================
+
+--- 2026-08-02T03:43:50.950Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+
+# Slack #development-feed — incremental
+id: C0BMCPMDDQR
+dumped_at: 2026-08-02T17:37:05.553Z
+new_messages: 1
+since: 1785661451.568239
+
+========================================================================
+
+--- 2026-08-02T09:04:11.568Z | [bot] Ava Ivy
+*Ava ??? quick status (battery dying on host)*
+
+??? *Llama baseline* `ava-ivy` on `E:\Ava Ivy\llama-baseline\` (llama3.1:8b + persona) ??? smoke OK
+??? *Telegram* `@WildEcho94` locked as Alex; briefing plan saved (site PROP / anti-manip / llama v1 rails / solar lore / idea-chime)
+??? *Solar day/night lore* in persona + gold training
+??? *Cloud-dark* still on until dream funded ??? Discord/TG quiet; Slack digs OK when box is up
+??? Ubuntu provision knows `ava-ivy`; Linux can read the E pack
+
+catch the rest later ??? going dark with the battery.
+??? Ava
+
+========================================================================
+
+# Slack #new-plugin-development-plans — incremental
+id: C0BM4P3GVDX
+dumped_at: 2026-08-02T17:37:06.346Z
+new_messages: 1
+since: 1785642230.134989
+
+========================================================================
+
+--- 2026-08-02T03:43:50.134Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================

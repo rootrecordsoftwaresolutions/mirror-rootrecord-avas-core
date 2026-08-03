@@ -1,0 +1,25 @@
+{
+  "days": {
+    "2026-08-01": {
+      "host_key": "laptop",
+      "metric_date": "2026-08-01",
+      "cpu_sum": 920110.1100000007,
+      "ram_sum": 681081.0199999999,
+      "disk_sum": 441308.87000000005,
+      "sample_total": 13380,
+      "minute_count": 555,
+      "updated_at": "2026-08-02T00:00:01.169Z"
+    },
+    "2026-08-02": {
+      "host_key": "laptop",
+      "metric_date": "2026-08-02",
+      "cpu_sum": 1240995.4699999997,
+      "ram_sum": 1150822.09,
+      "disk_sum": 576843.54,
+      "sample_total": 19128,
+      "minute_count": 852,
+      "updated_at": "2026-08-02T22:11:00.856Z"
+    }
+  },
+  "updatedAt": 1785708660856
+}

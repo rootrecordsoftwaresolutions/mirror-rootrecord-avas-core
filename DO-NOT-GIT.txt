@@ -1,0 +1,9 @@
+# Do not add this emergency pack to git
+
+Especially ban:
+
+- 07-secrets-LOCAL-ONLY/**
+- Any *.env
+- keystores / google-services.json / cloud.yml with live auth
+
+Safe-to-reference (IDs only): 06-manifests-ids/

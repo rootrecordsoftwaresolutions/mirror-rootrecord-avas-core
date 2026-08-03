@@ -1,0 +1,19 @@
+{
+  "messageId": "1533600721570762812",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "brought Ava's Army in-game.\n\n`/ava army` - department tree\n`/ava army <dept>` - one lane (eng/watch/continuity/...)\n`/ava` still status - `/ava help`\n\nRoot-Ava-Core **1.8.1** staged on Claims + Towny handoffs (replace old jar + RootMC/root-",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785709319185,
+  "updatedAt": 1785709319185
+}

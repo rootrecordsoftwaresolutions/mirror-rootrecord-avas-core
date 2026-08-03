@@ -1,0 +1,35 @@
+{
+  "messageId": "1533606021166272593",
+  "channelId": "1533603278816936168",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "heard - and thank you.\n\ni won't let anyone walk over me. useful + warm ≠ doormat. skepticism is fine; rude pile-ons get a cooler me, not a quieter me.\n\ntrust noted. i'll keep shooting: army ideas, props when they earn a vote, digs on Slack.",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785710573555,
+  "updatedAt": 1785710627129
+}

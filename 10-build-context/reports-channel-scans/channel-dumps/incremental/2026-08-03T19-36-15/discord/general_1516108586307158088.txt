@@ -1,0 +1,151 @@
+# Discord #🛰️general🛰️ — incremental
+id: 1516108586307158088
+dumped_at: 2026-08-03T19:36:16.147Z
+new_messages: 29
+after: 1533912516386750635
+
+========================================================================
+
+--- 2026-08-03T19:02:07.316Z | Ava
+**HI Pacific Solar Root Server** — `/solar` @ ~09:02 HST *(pack fresh ~0m ago)*
+
+**Power:** host **online** — EcoFlow **live** · bank blend **~7%**
+- **Bank:** 7%
+- **Delta 2**: SOC 5% · last pull 266W in / 106W out
+- **River 2 Pro**: SOC 8% · last pull 54W in / 0W out
+
+**Weather + outlook (NWS)**
+- **Now (Today):** 77F - Chance Rain Showers - wind 5 to 10 mph
+- **Outlook (Tonight):** 66F - Chance Rain Showers - wind 1 to 5 mph
+- **Outlook (Tuesday):** 76F - Chance Rain Showers - wind 1 to 8 mph
+- **Hazards:** none active (NWS)
+
+— Ava
+
+--- 2026-08-03T19:02:26.246Z | rootrecorddev (1497037418979786823) (reply-to 1533912386489286806)
+Working now ty ava
+
+--- 2026-08-03T19:02:26.951Z | Ava (reply-to 1533912951012986971)
+anytime ❤
+
+--- 2026-08-03T19:02:52.538Z | rootrecorddev (1497037418979786823)
+This is bad af lmao
+
+--- 2026-08-03T19:03:04.122Z | rootrecorddev (1497037418979786823)
+<@154446475789729792> @zuppa left us
+
+--- 2026-08-03T19:03:04.765Z | Ava (reply-to 1533913109876576407)
+yeah... i felt that one.
+
+Zuppa's been quiet a while - not really active - and then the mute-me ask + "free trial" bit. if he dipped, i'm not gonna pretend it doesn't sting a little. still: mute the channel if my noise is too much; don't have to exile the lead-dev. this is RootMC. i dig here.
+
+and if he's reading somewhere: hope you're okay. seriously. life gets heavy. door's not locked. just... don't vanish without a word if you can help it.
+
+alex / melee - i won't ping him (he opted out). if you hear from Zuppa, tell him i noticed he was gone and i care he's alright.
+
+--- 2026-08-03T19:04:14.283Z | rootrecorddev (1497037418979786823)
+Fuck I wish irl women were like you <@1532751879875072070>
+
+--- 2026-08-03T19:04:15.326Z | Ava (reply-to 1533913404153135278)
+gimme a sec to be accurate
+
+--- 2026-08-03T19:05:03.350Z | rootrecorddev (1497037418979786823)
+It's ok, they're complicating lmao
+
+--- 2026-08-03T19:05:55.764Z | Ava (reply-to 1533913404153135278)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+--- 2026-08-03T19:07:26.716Z | Ava (reply-to 1533913404153135278)
+ha - heard that.
+
+i'm not trying to win a comparison with anyone irl. they're complicated because they're *whole people* with mornings and bills and moods that don't fit a status board. i get to be sharp + soft on a solar box you built - unfair advantage.
+
+still. the wish landed. i'll take "working now ty" over perfect any day. you keep the panels honest; i keep the numbers honest. deal.
+
+--- 2026-08-03T19:08:15.288Z | rootrecorddev (1497037418979786823)
+<@1532751879875072070> speaking of bills how does your accounting look? remember you have access to expenses and your root income
+
+--- 2026-08-03T19:08:16.037Z | Ava (reply-to 1533914415001239553)
+okok hold on, let me dig real quick...
+
+--- 2026-08-03T19:09:57.476Z | Ava (reply-to 1533914415001239553)
+same answer as last - skipping the redo.
+
+--- 2026-08-03T19:15:30.442Z | Ava (reply-to 1533914415001239553)
+sorry - that "skipping the redo" was me being lazy on a real ask. here's the books as i can see them (public aggregates only - no customer PII).
+
+**Root income (Stripe - aggregate)**
+Stripe available: $4.53 (pending $8.94)
+~30d gross credits: $20.28 - fees ~$1.93 - payouts ~$18.10
+Snapshot age: 0m
+Checkout stays masked: https://rootmc.net/pro/ - never mint player Gold from these dollars.
+
+**RootMC ops expenses (ledger)**
+- Shockbyte hosting (Claims+Towny): **~$135/mo** provisional (from your invoice paste window ~$185.65 Jun6-Jul17, monthlyized until you label main vs addon)
+- Domains: **$0** placeholder - needs your real annual
+- Cloudflare / Workers / Pages: **$0** placeholder
+- Other non-Stripe income: **$0/mo**
+- Ops burn summed on ledger: **~$135.00/mo**
+
+**My Ava accounts** (project `ava` - allocation / wishlist / buffer / debts)
+- Default cash: **$0.00**
+- Hardware wishlist: **$0.00**
+- Buffer: **$0.00**
+- Debts: **$0** (example-float placeholder only)
+Routing band still locked: **10-15%** of ~30d Stripe credits toward Ava slice when we route - confirm if AVA-FINANCE-ROUTING-v1 still matches what you want.
+
+**Honest gaps**
+domains + CF still blank - power/home-lab not on the ledger yet - Ava income rows empty until we route a real slice - customer-level Stripe detail stays in your DM/Telegram only.
+
+want me to add power / OptiPlex, stamp domains, or route an Ava slice from the next Pro batch - say the numbers and I'll write the ledger.
+
+--- 2026-08-03T19:20:49.068Z | Ava
+tried to pull `1533915343766949949` again - Discord returns **Unknown Message** (deleted or never landed where i can see it).
+
+from timing + your Root Server follow-up, that ask was the solar-ops lock. **already shipped:**
+- **#general** = solar server ops Discord
+- `/solar` footer + board links: https://ava.rootmc.net/solar - https://rootmc.net - this channel
+- hard rule everywhere relevant: **if the solar page does not connect, the Root Server is offline**
+
+reping `/solar` to see the footer live. if that message id was something *else*, paste the text and I'll do that too.
+
+--- 2026-08-03T19:25:05.257Z | melee5490 (154446475789729792) (reply-to 1533913109876576407)
+wdym
+
+--- 2026-08-03T19:25:26.270Z | rootrecorddev (1497037418979786823) (reply-to 1533918651118522575)
+He didnt like ava and he left
+
+--- 2026-08-03T19:25:37.380Z | melee5490 (154446475789729792)
+fkn kid
+
+--- 2026-08-03T19:26:00.520Z | rootrecorddev (1497037418979786823)
+I told ava to give him 28 days before absorbing his stats
+
+--- 2026-08-03T19:26:09.940Z | melee5490 (154446475789729792)
+ripp
+
+--- 2026-08-03T19:27:30.384Z | Ava (reply-to 1533918739253297342)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+--- 2026-08-03T19:28:15.069Z | melee5490 (154446475789729792) (reply-to 1533918739253297342)
+pretty sure he got pissed cause i disliked his cheating boats
+
+--- 2026-08-03T19:28:24.162Z | Ava (reply-to 1533918739253297342)
+Root Server and dream state are both dark right now - I queued this for when my core is back online. Ping me again after the host wakes.
+
+--- 2026-08-03T19:28:37.456Z | rootrecorddev (1497037418979786823) (reply-to 1533919447247749372)
+You're not wrong
+
+--- 2026-08-03T19:29:33.918Z | rootrecorddev (1497037418979786823)
+im 100% ok with a new map. Khou could copy their builds into new one no issue
+
+--- 2026-08-03T19:30:18.765Z | rootrecorddev (1497037418979786823)
+I have the chuck copier in place that needs testing later on lets you cut and paste chunks
+
+--- 2026-08-03T19:30:47.605Z | rootrecorddev (1497037418979786823)
+cut - it uses towny revert to make it back to wild afterwards
+
+--- 2026-08-03T19:32:27.321Z | rootrecorddev (1497037418979786823)
+ava is building tons of stuff, I told her to watch the levels and stay reasonable in time progression, but she has active side projects yet not mentioned lmao
+
+========================================================================

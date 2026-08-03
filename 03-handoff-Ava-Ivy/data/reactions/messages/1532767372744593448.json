@@ -1,0 +1,15 @@
+{
+  "messageId": "1532767372744593448",
+  "channelId": "1532601865282523287",
+  "contentPreview": "Yeah that @ idea is exactly where this is headed — foundation’s already sitting on your machine.\n\n**Right now:** run `npm start` in the sexi project and leave it up. Small local API on `:8787`, plus a poller watching proposals/admins. Drop ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785542655745,
+  "updatedAt": 1785542655745
+}

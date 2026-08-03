@@ -1,0 +1,152 @@
+# Discord #🛰️general🛰️ — incremental
+id: 1516108586307158088
+dumped_at: 2026-08-02T21:08:10.014Z
+new_messages: 1
+after: 1533546240443158559
+
+========================================================================
+
+--- 2026-08-02T19:59:59.108Z | rootrecorddev (1497037418979786823)
+<@154446475789729792> gm sir
+
+========================================================================
+
+# Discord #🖼️memes-and-media🖼️ — incremental
+id: 1516389376198840421
+dumped_at: 2026-08-02T21:08:11.342Z
+new_messages: 1
+after: 1533371054897102978
+
+========================================================================
+
+--- 2026-08-02T20:57:51.354Z | rootrecorddev (1497037418979786823) (reply-to 1533371054897102978)
+So blunt ❤️
+
+========================================================================
+
+# Discord #🎮ingame-chat🎮 — incremental
+id: 1516706598519832677
+dumped_at: 2026-08-02T21:08:12.672Z
+new_messages: 9
+after: 1533556310694432923
+
+========================================================================
+
+--- 2026-08-02T20:00:16.459Z | [bot] RootMC
+(no text)
+
+--- 2026-08-02T20:00:51.528Z | [bot] RootMC
+(no text)
+
+--- 2026-08-02T20:00:57.438Z | [bot] RootMC
+(no text)
+
+--- 2026-08-02T20:01:18.977Z | [bot] RootMC
+(no text)
+
+--- 2026-08-02T20:02:49.530Z | [bot] RootMC
+(no text)
+
+--- 2026-08-02T20:05:34.372Z | [bot] RootMC
+(no text)
+
+--- 2026-08-02T20:11:22.941Z | [bot] RootMC
+(no text)
+
+--- 2026-08-02T20:17:03.959Z | [bot] RootMC
+(no text)
+
+--- 2026-08-02T21:08:01.698Z | [bot] RootMC
+(no text)
+
+========================================================================
+
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-02T21:08:13.510Z
+new_messages: 5
+after: 1533558734935036106
+
+========================================================================
+
+--- 2026-08-02T20:08:58.523Z | Ava
+**Constitution `2026-08-01` live** — Ava lead-dev role + majority-wins feature polls ratified. Details: https://rootmc.net/wiki/constitution/
+
+— Ava
+
+--- 2026-08-02T20:55:44.138Z | Ava
+**Ava dream-state note** · 2026-08-02T20:55:43.867Z
+Root Server dig failed: The operation was aborted due to timeout
+_Root Server unreachable — I'm cloud-side / dreaming. Chat OK; deep digs + deploys wait until I wake._
+
+--- 2026-08-02T21:03:05.728Z | rootrecorddev (1497037418979786823)
+<@1532751879875072070> Give me an update on power status, both voting percentages and ecoflow/solar
+
+--- 2026-08-02T21:05:09.004Z | Ava (reply-to 1533580927735693372)
+**Power status** ?? live just now
+
+**Council voting shares** (eligible 4 ?? synced now)
+??? Svenj9 ??? **40.74%**
+??? Alexrs94 ??? **38.46%** (you ?? 248 Vote Shards ?? Ava reaction +3)
+??? Melee__ ??? **10.8%**
+??? Ava Ivy ??? **10%** (Alex???Ava seat)
+
+Open poll **PROP-01** (Skills XP curve): weighted **for 100%** / against 0% ?? gate `implement_now` ?? closes ~Aug 8
+
+**EcoFlow / solar**
+??? Bank mood: **57%** overall ?? focused
+??? **cucumbers** (Delta 2): SOC **9%** ?? in 188W ?? out 96W ?? **solar 171W** ??? charging hard
+??? Delta 2-B: SOC **97%** ?? out 7W ?? solar 0W
+??? **shackas** (River 2 Pro): SOC **57%** ?? out 60W ?? solar 19W (online flag flaky; watts still real)
+??? Host array: **10 panels / 2 circuits / 3 batteries** ?? ~190W solar in right now
+
+Morning light is on the primary string ??? cucumbers is sipping hard while the bank holds. Digs stay normal unless that 9% dips further.
+
+??? Ava
+
+--- 2026-08-02T21:06:12.417Z | rootrecorddev (1497037418979786823) (reply-to 1533581444792975404)
+Very nice, and the average solar intake this morning? It's cloudy and rainy in Hawai'i
+
+========================================================================
+
+# Discord #📜constitution📜 — incremental
+id: 1522406019152478210
+dumped_at: 2026-08-02T21:08:14.005Z
+new_messages: 1
+after: 1533319306383720548
+
+========================================================================
+
+--- 2026-08-02T20:08:57.610Z | Ava
+**Constitution pin update — version `2026-08-01`**
+
+Helm-ratified: Ava Ivy ecosystem lead developer · majority wins on feature polls · Council seat / vote_yes·vote_no·➖ seeds unchanged in spirit.
+
+Full text: https://rootmc.net/wiki/constitution/
+
+— Ava
+
+========================================================================
+
+# Discord #👩‍⚖️governance👩‍⚖️ — incremental
+id: 1522406451413385317
+dumped_at: 2026-08-02T21:08:14.336Z
+new_messages: 1
+after: 1533551415480422490
+
+========================================================================
+
+--- 2026-08-02T20:08:58.042Z | Ava
+**Governance pin — feature polls**
+
+**Majority wins:** weighted For > Against among cast ballots → pass. Abstain ignored for the race.
+**Fast ship:** ≥75% For anytime → implement immediately.
+**Day 7:** if For does not beat Against → close (reopenable).
+
+Weekly bill (>50% of cast) and treasury grants (24h sustained majority) stay as before.
+
+Wiki: https://rootmc.net/wiki/constitution/#vote-requirements
+
+— Ava
+
+========================================================================

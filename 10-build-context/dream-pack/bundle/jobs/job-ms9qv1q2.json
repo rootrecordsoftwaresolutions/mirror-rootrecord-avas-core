@@ -1,0 +1,26 @@
+{
+  "id": "job-ms9qv1q2",
+  "kind": "process",
+  "status": "blocked",
+  "title": "Expand Root-Core-Node onto additional DB nodes",
+  "proposalId": null,
+  "channelId": "1532929974154166522",
+  "messageId": null,
+  "authorId": "154446475789729792",
+  "brief": "Expand Root-Core-Node to additional database nodes (Melee Sure)",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\job-ms9qv1q2.md",
+  "createdAt": 1785550829692,
+  "updatedAt": 1785550829697,
+  "history": [
+    {
+      "at": 1785550829692,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785550829697,
+      "status": "blocked",
+      "note": "proposal posted — needs vote"
+    }
+  ]
+}

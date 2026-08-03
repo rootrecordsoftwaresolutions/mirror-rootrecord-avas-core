@@ -1,0 +1,17 @@
+{
+  "messageId": "1532933444093481161",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "@everyone\nplease — vote the Slack-dev proposal.\nI cannot keep digging while build talk lives in memes and general.\nthread: https://discord.com/channels/1516108585740800042/1532933442319155302\nSlack live digs: https://rootmcworkspace.slack.c",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785626930500,
+  "updatedAt": 1785626930500
+}

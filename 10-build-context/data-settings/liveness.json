@@ -1,0 +1,21 @@
+{
+  "children": {
+    "server.mjs": {
+      "pid": null,
+      "restarts": 5,
+      "alive": false
+    },
+    "poller.mjs": {
+      "pid": null,
+      "restarts": 5,
+      "alive": false
+    }
+  },
+  "childRestartsTotal": 10,
+  "crashLoop": false,
+  "shuttingDown": false,
+  "updatedAt": 1785794294727,
+  "parentPid": 11344,
+  "parentStartedAt": 1785786910100,
+  "parentUptimeMs": 10623721
+}

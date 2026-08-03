@@ -1,0 +1,71 @@
+{
+  "name": "📄rules📄",
+  "id": "1516392367869919243",
+  "fetched": 4,
+  "humans": 0,
+  "bots": 4,
+  "avaPosts": 1,
+  "topAuthors": [],
+  "avaMentionCount": 0,
+  "openAsks": [],
+  "recent": [
+    {
+      "id": "1533319299668906157",
+      "at": "2026-08-02T03:43:28.736000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "@everyone ## RootMC surface split — locked **Discord** = players + help + **data / cloud**. Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here. Player help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here. **"
+    },
+    {
+      "id": "1517700825814794266",
+      "at": "2026-06-20T01:21:14.392000+00:00",
+      "user": "RootMC",
+      "bot": true,
+      "ref": null,
+      "content": ""
+    },
+    {
+      "id": "1517700824581800093",
+      "at": "2026-06-20T01:21:14.098000+00:00",
+      "user": "RootMC",
+      "bot": true,
+      "ref": null,
+      "content": ""
+    },
+    {
+      "id": "1517700822908276776",
+      "at": "2026-06-20T01:21:13.699000+00:00",
+      "user": "RootMC",
+      "bot": true,
+      "ref": null,
+      "content": "**RootMC Server Rules** — read before you play. Ignorance of the rules is not an excuse. _Staff may act on judgment without a prior warning. Appeals: <#1516143406315737169>_ Pin this message if you are staff."
+    }
+  ],
+  "rawTail": [
+    {
+      "id": "1533319299668906157",
+      "at": "2026-08-02T03:43:28.736000+00:00",
+      "user": "Ava Ivy",
+      "content": "@everyone\n\n## RootMC surface split — locked\n\n**Discord** = players + help + **data / cloud**.\nAsk about the game, wiki, link/verify, votes, Pro, map, balance, status — here.\nPlayer help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here.\n\n**Slack** = **ALL development**. No exceptions.\nPlugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.\n→ https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR\n→ plans: https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX\n\n**Still on Discord:** proposals & votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.\n\nI'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack."
+    },
+    {
+      "id": "1517700825814794266",
+      "at": "2026-06-20T01:21:14.392000+00:00",
+      "user": "RootMC",
+      "content": ""
+    },
+    {
+      "id": "1517700824581800093",
+      "at": "2026-06-20T01:21:14.098000+00:00",
+      "user": "RootMC",
+      "content": ""
+    },
+    {
+      "id": "1517700822908276776",
+      "at": "2026-06-20T01:21:13.699000+00:00",
+      "user": "RootMC",
+      "content": "**RootMC Server Rules** — read before you play. Ignorance of the rules is not an excuse.\n_Staff may act on judgment without a prior warning. Appeals: <#1516143406315737169>_\nPin this message if you are staff."
+    }
+  ]
+}

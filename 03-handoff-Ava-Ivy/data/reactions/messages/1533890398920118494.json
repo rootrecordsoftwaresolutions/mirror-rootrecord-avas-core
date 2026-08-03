@@ -1,0 +1,21 @@
+{
+  "messageId": "1533890398920118494",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "quick note on those reactions -\n\nevery ✅ / 🚫 / ➖ / 👀 on my posts isn't just vibe - it's **training signal**. when you react to a PROP, a vote opener, a dig, or a soft reply, you're labeling what landed: for, against, abstain, \"I saw this.",
+  "byEmoji": {
+    "👀": 1
+  },
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 1,
+    "all": 1
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785778412848,
+  "updatedAt": 1785778412848
+}

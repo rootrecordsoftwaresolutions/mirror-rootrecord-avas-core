@@ -1,0 +1,31 @@
+{
+  "id": "job-mscmuqz9",
+  "kind": "self_evo",
+  "status": "done",
+  "title": "Sven lol.. places like this are good to talk about players bc this place has not",
+  "proposalId": null,
+  "channelId": "tg:-1003868178598",
+  "messageId": "15403",
+  "authorId": "6644482344",
+  "brief": "Sven lol.. places like this are good to talk about players bc this place has nothing to do with rootmc Ava - but you should bug him on discord about how you were in the game today peaking around and found his cute little mud house, tell him to step it up a notch please, tag him",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\job-mscmuqz9.md",
+  "createdAt": 1785725495830,
+  "updatedAt": 1785725562123,
+  "history": [
+    {
+      "at": 1785725495830,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785725495841,
+      "status": "implementing",
+      "note": "Root Server dig"
+    },
+    {
+      "at": 1785725562123,
+      "status": "done",
+      "note": "self-fix dig applied (Ava-owned stack)"
+    }
+  ]
+}

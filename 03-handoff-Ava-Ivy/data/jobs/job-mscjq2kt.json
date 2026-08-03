@@ -1,0 +1,26 @@
+{
+  "id": "job-mscjq2kt",
+  "kind": "dig",
+  "status": "implementing",
+  "title": "Ok, Ava can catch up on the chat",
+  "proposalId": null,
+  "channelId": "tg:-1003868178598",
+  "messageId": "15290",
+  "authorId": "6644482344",
+  "brief": "Ok, Ava can catch up on the chat",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\job-mscjq2kt.md",
+  "createdAt": 1785720238734,
+  "updatedAt": 1785720238764,
+  "history": [
+    {
+      "at": 1785720238734,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785720238764,
+      "status": "implementing",
+      "note": "commitment opened — must deliver"
+    }
+  ]
+}

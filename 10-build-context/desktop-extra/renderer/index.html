@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ava Ivy</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Ava Ivy</h1>
+    <p class="sub">Desktop MVP · rewrite-before-send · last 42 msgs</p>
+    <nav>
+      <button type="button" class="tab active" data-page="discord">Discord</button>
+      <button type="button" class="tab" data-page="telegram">Telegram</button>
+      <button type="button" class="tab" data-page="settings">Settings</button>
+    </nav>
+  </header>
+  <main>
+    <section id="page-discord" class="page active">
+      <label>Channel
+        <select id="discord-channel"></select>
+      </label>
+      <div id="discord-history" class="history"></div>
+      <textarea id="discord-draft" rows="4" placeholder="Type as Ava… (rewritten before send)"></textarea>
+      <div class="row">
+        <button type="button" id="discord-refresh">Refresh</button>
+        <button type="button" id="discord-send" class="primary">Rewrite &amp; send</button>
+      </div>
+      <pre id="discord-status" class="status"></pre>
+    </section>
+    <section id="page-telegram" class="page">
+      <label>Chat ID
+        <input id="telegram-chat" type="text" />
+      </label>
+      <div id="telegram-history" class="history"></div>
+      <textarea id="telegram-draft" rows="4" placeholder="Type as Ava… (rewritten before send)"></textarea>
+      <div class="row">
+        <button type="button" id="telegram-refresh">Refresh</button>
+        <button type="button" id="telegram-send" class="primary">Rewrite &amp; send</button>
+      </div>
+      <pre id="telegram-status" class="status"></pre>
+    </section>
+    <section id="page-settings" class="page">
+      <p>Allowed surfaces: Discord guild channels Ava can see; Telegram operator DM.</p>
+      <p>Rewrite endpoint: local Ava status server <code>POST /api/rewrite</code> (default <code>http://127.0.0.1:8787</code>).</p>
+      <pre id="settings-status" class="status"></pre>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

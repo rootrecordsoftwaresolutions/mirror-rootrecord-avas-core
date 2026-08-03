@@ -1,0 +1,37 @@
+{
+  "minecraftName": "ZuppaFredda",
+  "firstSeenAt": 1785777554703,
+  "trust": 50,
+  "samples": [
+    {
+      "at": 1785777554703,
+      "server": "towny",
+      "text": "[join] via bridge",
+      "source": "ingame_join"
+    },
+    {
+      "at": 1785778948857,
+      "server": "towny",
+      "text": "[join] via bridge",
+      "source": "ingame_join"
+    },
+    {
+      "at": 1785787357069,
+      "server": "towny",
+      "text": "hiii",
+      "source": "ingame_chat"
+    },
+    {
+      "at": 1785787357920,
+      "server": "towny",
+      "text": "[join] via bridge",
+      "source": "ingame_join"
+    }
+  ],
+  "servers": [
+    "towny"
+  ],
+  "seenCount": 4,
+  "lastSeenAt": 1785787357920,
+  "updatedAt": 1785787357920
+}

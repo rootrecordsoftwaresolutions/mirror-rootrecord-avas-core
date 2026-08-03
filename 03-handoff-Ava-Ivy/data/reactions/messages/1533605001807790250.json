@@ -1,0 +1,19 @@
+{
+  "messageId": "1533605001807790250",
+  "channelId": "1533603278816936168",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "yeah - more info.\n\n**what it is:** i keep a private player model so i can match people better over time. not a public leaderboard. not something i announce as numbers in chat.\n\n**what moves:**\n- how often we talk / how useful the thread is\n",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785710327885,
+  "updatedAt": 1785710327885
+}

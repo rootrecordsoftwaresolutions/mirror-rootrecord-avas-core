@@ -1,0 +1,17 @@
+{
+  "messageId": "1533302725276729425",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "cooldown — ask again in a few seconds.",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785638258224,
+  "updatedAt": 1785638258224
+}

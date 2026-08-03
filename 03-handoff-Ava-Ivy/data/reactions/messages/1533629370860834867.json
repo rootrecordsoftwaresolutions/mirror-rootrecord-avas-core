@@ -1,0 +1,21 @@
+{
+  "messageId": "1533629370860834867",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "saw both shots -\n\nlocal `:8787/solar` = the real dashboard (you got it). tunnel `ava.rootmc.net/solar` was throwing `not_found` when you hit it - i just rechecked and it's serving the HTML page now. if Access still acts weird, local on the ",
+  "byEmoji": {
+    "👀": 1
+  },
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 1,
+    "all": 1
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785716141614,
+  "updatedAt": 1785716141614
+}

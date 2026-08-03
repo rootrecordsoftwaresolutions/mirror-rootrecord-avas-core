@@ -1,0 +1,31 @@
+{
+  "id": "job-mscaxh2y",
+  "kind": "self_fix",
+  "status": "done",
+  "title": "Self-fix: Finance review tooling error — investigate and fix Ava-owned",
+  "proposalId": null,
+  "channelId": null,
+  "messageId": null,
+  "authorId": "ava-self",
+  "brief": "Finance review tooling error — investigate and fix Ava-owned code if needed: Stripe available balance is negative ($-0.02). Investigate payouts/disputes.",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\job-mscaxh2y.md",
+  "createdAt": 1785705467581,
+  "updatedAt": 1785705575926,
+  "history": [
+    {
+      "at": 1785705467581,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785705467591,
+      "status": "implementing",
+      "note": "Ava self-fix dig started"
+    },
+    {
+      "at": 1785705575926,
+      "status": "done",
+      "note": "self-fix applied + committed (push pending auth)"
+    }
+  ]
+}

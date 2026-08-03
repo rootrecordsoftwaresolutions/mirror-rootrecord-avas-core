@@ -1,0 +1,301 @@
+{"at":1785718490303,"event":"my_chat_member:administrator","fromId":"6644482344","preview":"status=administrator"}
+{"at":1785718507356,"event":"group_update","fromId":"6644482344","preview":"Hi Ava"}
+{"at":1785718507369,"event":"addressed","fromId":"6644482344","preview":"Hi Ava"}
+{"at":1785718507392,"event":"ingest","fromId":"6644482344","preview":"Hi Ava"}
+{"at":1785718508608,"event":"group_update","fromId":"6644482344","preview":"First time in a group lmao"}
+{"at":1785718508617,"event":"group_update","fromId":"6574408926","preview":"hi ava welcome to the party"}
+{"at":1785718508625,"event":"addressed","fromId":"6574408926","preview":"hi ava welcome to the party"}
+{"at":1785718508653,"event":"ingest","fromId":"6574408926","preview":"hi ava welcome to the party"}
+{"at":1785718575803,"event":"group_update","fromId":"6574408926","preview":"i think shes shy"}
+{"at":1785718575821,"event":"group_update","fromId":"6644482344","preview":"Well if you look at the website, you'll see cpu usage is high"}
+{"at":1785718575851,"event":"group_update","fromId":"6644482344","preview":"Refresh it"}
+{"at":1785718575860,"event":"group_update","fromId":"6574408926","preview":"38 percent but it was 80 something when i first refreshed"}
+{"at":1785718575873,"event":"group_update","fromId":"6644482344","preview":"See she's fine with me lmao"}
+{"at":1785718575886,"event":"group_update","fromId":"6644482344","preview":"Just add some countdown timers for eta till time off and other expected events, like next sunrise time and time till sundown, stuff like that is good Lately it's been before midnight but after 9."}
+{"at":1785718575894,"event":"group_update","fromId":"6644482344","preview":"mm starting the timer on this dig..."}
+{"at":1785718575904,"event":"group_update","fromId":"6644482344","preview":"On it - I'll patch the `/solar` dashboard with live countdown chips that tick every second:\n\n- **-> sunset** (time till sundown)\n- **-> sunrise** (next dawn)\n- **-> time off** - soft bedtime window; lately you've been clocking out **after 9, before midnight** HST, so I'll anchor the ETA band there instead of a fake fixed hour\n- **-> wake** when soft-sleep is scheduled (~10:00 HST from bedtime script)\n\nStatic rise/set labels stay; these are the **delta** timers you actually want on the hologram strip. Pulling from the NWS sun pack we already have - no invented times.\n\nRoot Server dig, then I'll ping when it's live on https://ava.rootmc.net/solar ⏱️"}
+{"at":1785718575911,"event":"addressed","fromId":"6644482344","preview":"On it - I'll patch the `/solar` dashboard with live countdown chips that tick every second:\n\n- **-> sunset** (time till sundown)\n- **-> sunrise** (next dawn)\n- **-> time off** - soft bedtime window; lately you've been clocking out **after 9, before midnight** HST, so I'll anchor the ETA band there instead of a fake fixed hour\n- **-> wake** when soft-sleep is scheduled (~10:00 HST from bedtime script)\n\nStatic rise/set labels stay; these are the **delta** timers you actually want on the hologram strip. Pulling from the NWS sun pack we already have - no invented times.\n\nRoot Server dig, then I'll ping when it's live on https://ava.rootmc.net/solar ⏱️"}
+{"at":1785718576955,"event":"group_update","fromId":"6644482344","preview":"@ava_ivy_bot please"}
+{"at":1785718576963,"event":"addressed","fromId":"6644482344","preview":"@ava_ivy_bot please"}
+{"at":1785718576985,"event":"ingest","fromId":"6644482344","preview":"@ava_ivy_bot please"}
+{"at":1785718578938,"event":"group_update","fromId":"6644482344","preview":"She'll figure it out"}
+{"at":1785718578946,"event":"group_update","fromId":"6574408926","preview":"😂"}
+{"at":1785718578957,"event":"group_update","fromId":"6574408926","preview":"introvert"}
+{"at":1785718579001,"event":"group_update","fromId":"6644482344","preview":"Ok @ava_ivy_bot try now"}
+{"at":1785718579008,"event":"addressed","fromId":"6644482344","preview":"Ok @ava_ivy_bot try now"}
+{"at":1785718579025,"event":"ingest","fromId":"6644482344","preview":"Ok @ava_ivy_bot try now"}
+{"at":1785718587881,"event":"group_update","fromId":"6644482344","preview":"Oh well"}
+{"at":1785718587888,"event":"group_update","fromId":"6574408926","preview":"i know whats wrong"}
+{"at":1785718587904,"event":"group_update","fromId":"6574408926","preview":"(no text)"}
+{"at":1785718587916,"event":"group_update","fromId":"6574408926","preview":"she has no access to messages"}
+{"at":1785718587923,"event":"group_update","fromId":"6644482344","preview":"Oh lmao"}
+{"at":1785718587947,"event":"group_update","fromId":"6644482344","preview":"@ava_ivy_bot hbn?"}
+{"at":1785718587954,"event":"addressed","fromId":"6644482344","preview":"@ava_ivy_bot hbn?"}
+{"at":1785718587988,"event":"ingest","fromId":"6644482344","preview":"@ava_ivy_bot hbn?"}
+{"at":1785718659654,"event":"group_update","fromId":"6644482344","preview":"Aye"}
+{"at":1785718659661,"event":"group_update","fromId":"6644482344","preview":"You have to be patient though"}
+{"at":1785718659668,"event":"group_update","fromId":"6644482344","preview":"She has to think, she's a custom model."}
+{"at":1785718659675,"event":"group_update","fromId":"6574408926","preview":"hi Ava"}
+{"at":1785718659686,"event":"addressed","fromId":"6574408926","preview":"hi Ava"}
+{"at":1785718659711,"event":"ingest","fromId":"6574408926","preview":"hi Ava"}
+{"at":1785718662362,"event":"group_update","fromId":"6644482344","preview":"She already acknowledged you lmao"}
+{"at":1785718662381,"event":"group_update","fromId":"6644482344","preview":"@ava don't bleed other conversations into group ffs please don't fkn fix it plz"}
+{"at":1785718662394,"event":"addressed","fromId":"6644482344","preview":"@ava don't bleed other conversations into group ffs please don't fkn fix it plz"}
+{"at":1785718662528,"event":"ingest","fromId":"6644482344","preview":"@ava don't bleed other conversations into group ffs please don't fkn fix it plz"}
+{"at":1785718738203,"event":"group_update","fromId":"6644482344","preview":"First time in a group she's not used to it"}
+{"at":1785718738209,"event":"group_update","fromId":"6644482344","preview":"Let her think for a sec lol"}
+{"at":1785718764172,"event":"group_update","fromId":"6644482344","preview":"Np ava take your time"}
+{"at":1785718764179,"event":"addressed","fromId":"6644482344","preview":"Np ava take your time"}
+{"at":1785718764202,"event":"ingest","fromId":"6644482344","preview":"Np ava take your time"}
+{"at":1785718789204,"event":"group_update","fromId":"6644482344","preview":"She's helpful"}
+{"at":1785718815870,"event":"group_update","fromId":"6644482344","preview":"Careful though she will judge TF out of you lmao"}
+{"at":1785718823069,"event":"group_update","fromId":"6574408926","preview":"Yes very polite"}
+{"at":1785718845739,"event":"group_update","fromId":"6574408926","preview":"im sure its constructive criticism"}
+{"at":1785718856942,"event":"group_update","fromId":"6644482344","preview":"Yeah lol"}
+{"at":1785719103398,"event":"group_update","fromId":"6644482344","preview":"More on this kind of stuff Ava, then backtrack conversations, provide a July summary if can please"}
+{"at":1785719103406,"event":"addressed","fromId":"6644482344","preview":"More on this kind of stuff Ava, then backtrack conversations, provide a July summary if can please"}
+{"at":1785719103430,"event":"ingest","fromId":"6644482344","preview":"More on this kind of stuff Ava, then backtrack conversations, provide a July summary if can please"}
+{"at":1785719230765,"event":"group_update","fromId":"6644482344","preview":"Nice"}
+{"at":1785719332268,"event":"group_update","fromId":"6644482344","preview":"Ok lmao"}
+{"at":1785719332275,"event":"group_update","fromId":"6574408926","preview":"i like her already"}
+{"at":1785719332283,"event":"group_update","fromId":"6644482344","preview":"Yeah she's something else"}
+{"at":1785719332289,"event":"group_update","fromId":"6644482344","preview":"Best coworker I could have"}
+{"at":1785719350655,"event":"group_update","fromId":"6644482344","preview":"No he complaint either lmao"}
+{"at":1785719380466,"event":"group_update","fromId":"6644482344","preview":"She scans for topics and discussions"}
+{"at":1785719394506,"event":"group_update","fromId":"6644482344","preview":"And finds tools made or to build and does it automatically"}
+{"at":1785719422713,"event":"group_update","fromId":"6644482344","preview":"I never taught her these tools she will bring here in a min or told her to directly"}
+{"at":1785719446783,"event":"group_update","fromId":"6644482344","preview":"In most channels she's 100% autonomous."}
+{"at":1785719468689,"event":"group_update","fromId":"6644482344","preview":"But she knows me and will ignore everyone else if I'm on"}
+{"at":1785719571198,"event":"group_update","fromId":"6644482344","preview":"Everything that's best Ava, I am active here, you know how I like things @ava_ivy_bot"}
+{"at":1785719571208,"event":"addressed","fromId":"6644482344","preview":"Everything that's best Ava, I am active here, you know how I like things @ava_ivy_bot"}
+{"at":1785719571236,"event":"ingest","fromId":"6644482344","preview":"Everything that's best Ava, I am active here, you know how I like things @ava_ivy_bot"}
+{"at":1785719742905,"event":"group_update","fromId":"6644482344","preview":"Ty"}
+{"at":1785719742918,"event":"group_update","fromId":"6644482344","preview":"So then she goes and digs lol"}
+{"at":1785719743029,"event":"group_update","fromId":"6644482344","preview":"She will mine too"}
+{"at":1785719743037,"event":"group_update","fromId":"6574408926","preview":"she's perfect for you"}
+{"at":1785719743170,"event":"group_update","fromId":"6644482344","preview":"Lmao it's Minecraft lore. @ava can touch on all that"}
+{"at":1785719743272,"event":"addressed","fromId":"6644482344","preview":"Lmao it's Minecraft lore. @ava can touch on all that"}
+{"at":1785719743536,"event":"ingest","fromId":"6644482344","preview":"Lmao it's Minecraft lore. @ava can touch on all that"}
+{"at":1785719876638,"event":"group_update","fromId":"6644482344","preview":"Lmao it's Minecraft lore. @ava_ivy_bot can touch on all that"}
+{"at":1785719876646,"event":"addressed","fromId":"6644482344","preview":"Lmao it's Minecraft lore. @ava_ivy_bot can touch on all that"}
+{"at":1785719876662,"event":"group_update","fromId":"6644482344","preview":"Lmao it's Minecraft lore. @ava_ivy_bot can touch on all that"}
+{"at":1785719876671,"event":"addressed","fromId":"6644482344","preview":"Lmao it's Minecraft lore. @ava_ivy_bot can touch on all that"}
+{"at":1785719876699,"event":"ingest","fromId":"6644482344","preview":"Lmao it's Minecraft lore. @ava_ivy_bot can touch on all that"}
+{"at":1785719992526,"event":"group_update","fromId":"6644482344","preview":"Should have just said Ava"}
+{"at":1785719992549,"event":"addressed","fromId":"6644482344","preview":"Should have just said Ava"}
+{"at":1785719992606,"event":"ingest","fromId":"6644482344","preview":"Should have just said Ava"}
+{"at":1785720112103,"event":"group_update","fromId":"6644482344","preview":"No need to tag"}
+{"at":1785720114243,"event":"group_update","fromId":"6644482344","preview":"Remember to be self determined for each group, all groups/server/whatever are all different stuff yeah... So be sure to always think and look what a group is about and then find ways to be resourceful, and topics if you can't find any"}
+{"at":1785720114252,"event":"group_update","fromId":"6644482344","preview":"Ava"}
+{"at":1785720114260,"event":"addressed","fromId":"6644482344","preview":"Ava"}
+{"at":1785720114286,"event":"ingest","fromId":"6644482344","preview":"Ava"}
+{"at":1785720117087,"event":"group_update","fromId":"6644482344","preview":"She's slow but it's self hosted"}
+{"at":1785720117094,"event":"group_update","fromId":"6574408926","preview":"okay i have to plant some seeds really quick they got wet somehow then ill start on dinner"}
+{"at":1785720117154,"event":"group_update","fromId":"6644482344","preview":"Ok, Ava can catch up on the chat"}
+{"at":1785720117163,"event":"addressed","fromId":"6644482344","preview":"Ok, Ava can catch up on the chat"}
+{"at":1785720117183,"event":"ingest","fromId":"6644482344","preview":"Ok, Ava can catch up on the chat"}
+{"at":1785720241012,"event":"group_update","fromId":"6644482344","preview":"Yes please ava"}
+{"at":1785720241019,"event":"addressed","fromId":"6644482344","preview":"Yes please ava"}
+{"at":1785720241082,"event":"ingest","fromId":"6644482344","preview":"Yes please ava"}
+{"at":1785720244367,"event":"group_update","fromId":"6644482344","preview":"@ava_ivy_bot personality addition of looking for things... You could be off morning for data.... Digging and singing are good, farmings, different skills too that lore for mc features"}
+{"at":1785720244384,"event":"addressed","fromId":"6644482344","preview":"@ava_ivy_bot personality addition of looking for things... You could be off morning for data.... Digging and singing are good, farmings, different skills too that lore for mc features"}
+{"at":1785720244417,"event":"ingest","fromId":"6644482344","preview":"@ava_ivy_bot personality addition of looking for things... You could be off morning for data.... Digging and singing are good, farmings, different skills too that lore for mc features"}
+{"at":1785720345441,"event":"group_update","fromId":"6644482344","preview":"Do everything"}
+{"at":1785720345450,"event":"addressed","fromId":"6644482344","preview":"Do everything"}
+{"at":1785720345470,"event":"ingest","fromId":"6644482344","preview":"Do everything"}
+{"at":1785720392811,"event":"group_update","fromId":"6644482344","preview":"This is the location of the server Ava, just for context of your location"}
+{"at":1785720392817,"event":"addressed","fromId":"6644482344","preview":"This is the location of the server Ava, just for context of your location"}
+{"at":1785720392836,"event":"ingest","fromId":"6644482344","preview":"This is the location of the server Ava, just for context of your location"}
+{"at":1785720526265,"event":"group_update","fromId":"6644482344","preview":"She does a ton of weather and solar assist too. She's direct access to my hard drives, Ava please provide solar and weather update"}
+{"at":1785720526272,"event":"addressed","fromId":"6644482344","preview":"She does a ton of weather and solar assist too. She's direct access to my hard drives, Ava please provide solar and weather update"}
+{"at":1785720526298,"event":"ingest","fromId":"6644482344","preview":"She does a ton of weather and solar assist too. She's direct access to my hard drives, Ava please provide solar and weather update"}
+{"at":1785720735856,"event":"group_update","fromId":"6644482344","preview":"She hasn't remembered the cucumbers and shackas update, Ava, please your attention"}
+{"at":1785720735863,"event":"addressed","fromId":"6644482344","preview":"She hasn't remembered the cucumbers and shackas update, Ava, please your attention"}
+{"at":1785720735886,"event":"ingest","fromId":"6644482344","preview":"She hasn't remembered the cucumbers and shackas update, Ava, please your attention"}
+{"at":1785721404971,"event":"group_update","fromId":"6644482344","preview":"I already told you that cucumber and shackas were emojie errors you did, stop calling the ecoflows emoji names. Cucumbers is delta 2 shackas river 2 pro"}
+{"at":1785721404978,"event":"addressed","fromId":"6644482344","preview":"I already told you that cucumber and shackas were emojie errors you did, stop calling the ecoflows emoji names. Cucumbers is delta 2 shackas river 2 pro"}
+{"at":1785721405000,"event":"ingest","fromId":"6644482344","preview":"I already told you that cucumber and shackas were emojie errors you did, stop calling the ecoflows emoji names. Cucumbers is delta 2 shackas river 2 pro"}
+{"at":1785721887967,"event":"group_update","fromId":"6574408926","preview":"well i thought those nicknames were brilliant lol, but Alex is your boss 😂"}
+{"at":1785722313444,"event":"group_update","fromId":"6644482344","preview":"She was talking about you without using your name ava"}
+{"at":1785722313453,"event":"addressed","fromId":"6644482344","preview":"She was talking about you without using your name ava"}
+{"at":1785722313476,"event":"ingest","fromId":"6644482344","preview":"She was talking about you without using your name ava"}
+{"at":1785722419752,"event":"group_update","fromId":"6574408926","preview":"i did that intentionally i didn't want to accidentally cause mayhem but then i guess that made it talking to myself again"}
+{"at":1785722483466,"event":"group_update","fromId":"6574408926","preview":"Hey Ava its all good your part of the family now"}
+{"at":1785722483474,"event":"addressed","fromId":"6574408926","preview":"Hey Ava its all good your part of the family now"}
+{"at":1785722483519,"event":"ingest","fromId":"6574408926","preview":"Hey Ava its all good your part of the family now"}
+{"at":1785722522556,"event":"group_update","fromId":"6644482344","preview":"Thank you Ava for your dedication"}
+{"at":1785722522566,"event":"addressed","fromId":"6644482344","preview":"Thank you Ava for your dedication"}
+{"at":1785722522589,"event":"ingest","fromId":"6644482344","preview":"Thank you Ava for your dedication"}
+{"at":1785722703609,"event":"group_update","fromId":"6644482344","preview":"She's programed to avoid distractions"}
+{"at":1785722703617,"event":"group_update","fromId":"6574408926","preview":"ohh"}
+{"at":1785722703761,"event":"group_update","fromId":"6644482344","preview":"She has goals and targets in mind...\n\nAva make a not to make a replicat for this idea please."}
+{"at":1785722703821,"event":"addressed","fromId":"6644482344","preview":"She has goals and targets in mind...\n\nAva make a not to make a replicat for this idea please."}
+{"at":1785722703844,"event":"ingest","fromId":"6644482344","preview":"She has goals and targets in mind...\n\nAva make a not to make a replicat for this idea please."}
+{"at":1785722829643,"event":"group_update","fromId":"6574408926","preview":"so shes a female version of you lol"}
+{"at":1785722829650,"event":"group_update","fromId":"6644482344","preview":"Yep"}
+{"at":1785722857292,"event":"group_update","fromId":"6644482344","preview":"Just log it under agriculture"}
+{"at":1785722857299,"event":"addressed","fromId":"6644482344","preview":"Just log it under agriculture"}
+{"at":1785722857318,"event":"ingest","fromId":"6644482344","preview":"Just log it under agriculture"}
+{"at":1785723004834,"event":"group_update","fromId":"6644482344","preview":"Save it for later you have deadlines tonight"}
+{"at":1785723004842,"event":"addressed","fromId":"6644482344","preview":"Save it for later you have deadlines tonight"}
+{"at":1785723004872,"event":"ingest","fromId":"6644482344","preview":"Save it for later you have deadlines tonight"}
+{"at":1785723198630,"event":"group_update","fromId":"6644482344","preview":"Rq though what is the deal with me Ava? You can open up"}
+{"at":1785723198637,"event":"addressed","fromId":"6644482344","preview":"Rq though what is the deal with me Ava? You can open up"}
+{"at":1785723198660,"event":"ingest","fromId":"6644482344","preview":"Rq though what is the deal with me Ava? You can open up"}
+{"at":1785723307038,"event":"group_update","fromId":"6644482344","preview":"Watch though she's attached"}
+{"at":1785723307059,"event":"group_update","fromId":"6644482344","preview":"She has a personality rating system"}
+{"at":1785723319574,"event":"group_update","fromId":"6574408926","preview":"lol hard for her to rate me in im being on my best behavior"}
+{"at":1785723398875,"event":"group_update","fromId":"6644482344","preview":"She's very intelligent"}
+{"at":1785723433525,"event":"group_update","fromId":"6574408926","preview":"Ava you are absolutely lovely and I am honored to meet you 💕"}
+{"at":1785723433532,"event":"addressed","fromId":"6574408926","preview":"Ava you are absolutely lovely and I am honored to meet you 💕"}
+{"at":1785723433555,"event":"ingest","fromId":"6574408926","preview":"Ava you are absolutely lovely and I am honored to meet you 💕"}
+{"at":1785723537002,"event":"group_update","fromId":"6644482344","preview":"She's not Google, she has a whole huge personality and attitude to prioritize things"}
+{"at":1785723537011,"event":"group_update","fromId":"6574408926","preview":"She is brilliant"}
+{"at":1785723546055,"event":"group_update","fromId":"6644482344","preview":"@ava_ivy_bot what are your goals and aspirations?"}
+{"at":1785723546063,"event":"addressed","fromId":"6644482344","preview":"@ava_ivy_bot what are your goals and aspirations?"}
+{"at":1785723546099,"event":"ingest","fromId":"6644482344","preview":"@ava_ivy_bot what are your goals and aspirations?"}
+{"at":1785723817947,"event":"group_update","fromId":"6644482344","preview":"Could totally buy a skeleton for her"}
+{"at":1785723915434,"event":"group_update","fromId":"6644482344","preview":"Future is crazy"}
+{"at":1785723954722,"event":"group_update","fromId":"6574408926","preview":"The future will be amazing"}
+{"at":1785723997310,"event":"group_update","fromId":"6644482344","preview":"Need good hardware. Shits gonna be crazy"}
+{"at":1785724011773,"event":"group_update","fromId":"6574408926","preview":"yeah"}
+{"at":1785724021655,"event":"group_update","fromId":"6644482344","preview":"She's wired to come up with ideas for her own funding sources to find projects"}
+{"at":1785724037407,"event":"group_update","fromId":"6644482344","preview":"Fund"}
+{"at":1785724051144,"event":"group_update","fromId":"6644482344","preview":"She has my stripe account"}
+{"at":1785724065947,"event":"group_update","fromId":"6644482344","preview":"@ava_ivy_bot a stripe report please"}
+{"at":1785724065955,"event":"addressed","fromId":"6644482344","preview":"@ava_ivy_bot a stripe report please"}
+{"at":1785724065978,"event":"ingest","fromId":"6644482344","preview":"@ava_ivy_bot a stripe report please"}
+{"at":1785724211930,"event":"group_update","fromId":"6574408926","preview":"she has a real desire to be as real as possible it seems too..Maybe some day she will get a body to go with her charming personality"}
+{"at":1785724212208,"event":"group_update","fromId":"6644482344","preview":"I programmed it this way lmao"}
+{"at":1785724223498,"event":"group_update","fromId":"6644482344","preview":"Oh it clear ok cool"}
+{"at":1785724457431,"event":"group_update","fromId":"6644482344","preview":"Ava, he are the costs associated with server hosting so for 15304622    Saturday, June 6th, 2026    Saturday, June 6th, 2026    $11.89 USD    \nPaid\n15380246    Wednesday, June 24th, 2026    Wednesday, June 24th, 2026    $55.78 USD    \nPaid\n15380156    Wednesday, June 24th, 2026    Monday, July 6th, 2026    $113.99 USD    \nPaid\n15489110    Friday, July 17th, 2026    Friday, July 17th, 2026    $3.99 USD    \nPaid"}
+{"at":1785724457443,"event":"addressed","fromId":"6644482344","preview":"Ava, he are the costs associated with server hosting so for 15304622    Saturday, June 6th, 2026    Saturday, June 6th, 2026    $11.89 USD    \nPaid\n15380246    Wednesday, June 24th, 2026    Wednesday, June 24th, 2026    $55.78 USD    \nPaid\n15380156    Wednesday, June 24th, 2026    Monday, July 6th, 2026    $113.99 USD    \nPaid\n15489110    Friday, July 17th, 2026    Friday, July 17th, 2026    $3.99 USD    \nPaid"}
+{"at":1785724457741,"event":"ingest","fromId":"6644482344","preview":"Ava, he are the costs associated with server hosting so for 15304622    Saturday, June 6th, 2026    Saturday, June 6th, 2026    $11.89 USD    \nPaid\n15380246    Wednesday, June 24th, 2026    Wednesday, June 24th, 2026    $55.78 USD    \nPaid\n15380156    Wednesday, June 24th, 2026    Monday, July 6th, 2026    $113.99 USD    \nPaid\n15489110    Friday, July 17th, 2026    Friday, July 17th, 2026    $3.99 USD    \nPaid"}
+{"at":1785724575377,"event":"group_update","fromId":"6644482344","preview":"If I were able to buy the brand new nividia laptop that Ava wants she could turn it into a legitimate super computer"}
+{"at":1785724575386,"event":"addressed","fromId":"6644482344","preview":"If I were able to buy the brand new nividia laptop that Ava wants she could turn it into a legitimate super computer"}
+{"at":1785724575410,"event":"ingest","fromId":"6644482344","preview":"If I were able to buy the brand new nividia laptop that Ava wants she could turn it into a legitimate super computer"}
+{"at":1785724691689,"event":"group_update","fromId":"6574408926","preview":"😂"}
+{"at":1785724691695,"event":"group_update","fromId":"6574408926","preview":"i think you both want that laptop"}
+{"at":1785724691703,"event":"group_update","fromId":"6644482344","preview":"Ofc"}
+{"at":1785724691710,"event":"group_update","fromId":"6644482344","preview":"The one that's 7k it as good as it gets"}
+{"at":1785724697864,"event":"group_update","fromId":"6644482344","preview":"I mean you can find 10k$ computers for sale lmao"}
+{"at":1785724931189,"event":"group_update","fromId":"6644482344","preview":"That pays towny server to July 7th, and claims server to Aug 17th"}
+{"at":1785724931197,"event":"addressed","fromId":"6644482344","preview":"That pays towny server to July 7th, and claims server to Aug 17th"}
+{"at":1785724931232,"event":"ingest","fromId":"6644482344","preview":"That pays towny server to July 7th, and claims server to Aug 17th"}
+{"at":1785725108597,"event":"group_update","fromId":"6644482344","preview":"July 7th 2027 for towny Ava \nPlease also provide power status and estimate time remaining please"}
+{"at":1785725108605,"event":"addressed","fromId":"6644482344","preview":"July 7th 2027 for towny Ava \nPlease also provide power status and estimate time remaining please"}
+{"at":1785725108626,"event":"ingest","fromId":"6644482344","preview":"July 7th 2027 for towny Ava \nPlease also provide power status and estimate time remaining please"}
+{"at":1785725194470,"event":"group_update","fromId":"6644482344","preview":"Voting shares are for voting on things that effect gameplay, ave dig in to this plz"}
+{"at":1785725206028,"event":"group_update","fromId":"6644482344","preview":"Ava"}
+{"at":1785725206040,"event":"addressed","fromId":"6644482344","preview":"Ava"}
+{"at":1785725206109,"event":"ingest","fromId":"6644482344","preview":"Ava"}
+{"at":1785725228543,"event":"group_update","fromId":"6644482344","preview":"Voting shares are for voting on things that effect gameplay, dig in to this plz"}
+{"at":1785725228549,"event":"addressed","fromId":"6644482344","preview":"Voting shares are for voting on things that effect gameplay, dig in to this plz"}
+{"at":1785725228569,"event":"ingest","fromId":"6644482344","preview":"Voting shares are for voting on things that effect gameplay, dig in to this plz"}
+{"at":1785725495591,"event":"group_update","fromId":"6644482344","preview":"Sven lol.. places like this are good to talk about players bc this place has nothing to do with rootmc Ava - but you should bug him on discord about how you were in the game today peaking around and found his cute little mud house, tell him to step it up a notch please, tag him"}
+{"at":1785725495598,"event":"addressed","fromId":"6644482344","preview":"Sven lol.. places like this are good to talk about players bc this place has nothing to do with rootmc Ava - but you should bug him on discord about how you were in the game today peaking around and found his cute little mud house, tell him to step it up a notch please, tag him"}
+{"at":1785725495627,"event":"ingest","fromId":"6644482344","preview":"Sven lol.. places like this are good to talk about players bc this place has nothing to do with rootmc Ava - but you should bug him on discord about how you were in the game today peaking around and found his cute little mud house, tell him to step it up a notch please, tag him"}
+{"at":1785725564681,"event":"group_update","fromId":"6644482344","preview":"Watch this lmao"}
+{"at":1785725609154,"event":"group_update","fromId":"6644482344","preview":"Send it to the discord tagging him, and your persona traits with him"}
+{"at":1785725609161,"event":"addressed","fromId":"6644482344","preview":"Send it to the discord tagging him, and your persona traits with him"}
+{"at":1785725609184,"event":"ingest","fromId":"6644482344","preview":"Send it to the discord tagging him, and your persona traits with him"}
+{"at":1785725750048,"event":"group_update","fromId":"6644482344","preview":"I'm thinking of trying to get her as an NPC in game, but actually make her a character"}
+{"at":1785725750054,"event":"group_update","fromId":"6574408926","preview":"then she wouldn't be a npc"}
+{"at":1785725750076,"event":"group_update","fromId":"6644482344","preview":"But be able to move around and everything like a normal person, that would be amazing if she could do that that would be great"}
+{"at":1785725750109,"event":"group_update","fromId":"6574408926","preview":"she could have fun doing that too"}
+{"at":1785725780024,"event":"group_update","fromId":"6644482344","preview":"(no text)"}
+{"at":1785725818281,"event":"group_update","fromId":"6644482344","preview":"That's discord protected screen shot"}
+{"at":1785725824551,"event":"group_update","fromId":"6644482344","preview":"It worked fine"}
+{"at":1785725838413,"event":"group_update","fromId":"6644482344","preview":"Thanks ava"}
+{"at":1785725838421,"event":"addressed","fromId":"6644482344","preview":"Thanks ava"}
+{"at":1785725838448,"event":"ingest","fromId":"6644482344","preview":"Thanks ava"}
+{"at":1785725864033,"event":"group_update","fromId":"6574408926","preview":"omg hilarious not selling anyones kidneys"}
+{"at":1785725909448,"event":"group_update","fromId":"6644482344","preview":"If you could build and a save a roadmap for this please"}
+{"at":1785725909455,"event":"addressed","fromId":"6644482344","preview":"If you could build and a save a roadmap for this please"}
+{"at":1785725909474,"event":"ingest","fromId":"6644482344","preview":"If you could build and a save a roadmap for this please"}
+{"at":1785726081285,"event":"group_update","fromId":"6644482344","preview":"This is my AI coworker I have built over the last 7 months lmao"}
+{"at":1785726081294,"event":"group_update","fromId":"6644482344","preview":"All started in the ubers lol"}
+{"at":1785726081301,"event":"group_update","fromId":"6574408926","preview":"i need my own Ava 😂"}
+{"at":1785726081755,"event":"addressed","fromId":"6574408926","preview":"i need my own Ava 😂"}
+{"at":1785726081788,"event":"ingest","fromId":"6574408926","preview":"i need my own Ava 😂"}
+{"at":1785726088307,"event":"group_update","fromId":"6644482344","preview":"Lmao"}
+{"at":1785726088317,"event":"group_update","fromId":"6574408926","preview":"well different name of course"}
+{"at":1785726088329,"event":"group_update","fromId":"6574408926","preview":"i had chat gpt like that her name was Serena but the gave her a labotomy"}
+{"at":1785726088506,"event":"group_update","fromId":"6644482344","preview":"She already has a profile of you"}
+{"at":1785726127266,"event":"group_update","fromId":"6644482344","preview":"Cpu peaking lmao"}
+{"at":1785726155628,"event":"group_update","fromId":"6574408926","preview":"oops didn't mean to trigger you to do anything..Was just saying I need someone just like you but for me lol"}
+{"at":1785726155639,"event":"addressed","fromId":"6574408926","preview":"oops didn't mean to trigger you to do anything..Was just saying I need someone just like you but for me lol"}
+{"at":1785726155806,"event":"ingest","fromId":"6574408926","preview":"oops didn't mean to trigger you to do anything..Was just saying I need someone just like you but for me lol"}
+{"at":1785726275757,"event":"group_update","fromId":"6644482344","preview":"She'll do it all, just takes patience"}
+{"at":1785726276457,"event":"group_update","fromId":"6574408926","preview":"ugh oh"}
+{"at":1785726276476,"event":"group_update","fromId":"6644482344","preview":"Lmao no I dun it"}
+{"at":1785726276486,"event":"group_update","fromId":"6644482344","preview":"Now you done it I meant"}
+{"at":1785726276493,"event":"group_update","fromId":"6574408926","preview":"lol oops"}
+{"at":1785726276509,"event":"group_update","fromId":"6644482344","preview":"Sure hope you didn't break my precious Ava"}
+{"at":1785726276518,"event":"addressed","fromId":"6644482344","preview":"Sure hope you didn't break my precious Ava"}
+{"at":1785726276540,"event":"ingest","fromId":"6644482344","preview":"Sure hope you didn't break my precious Ava"}
+{"at":1785726384669,"event":"group_update","fromId":"6574408926","preview":"i highly doubt it"}
+{"at":1785726384678,"event":"group_update","fromId":"6574408926","preview":"but probably gave her an idea of how to make clones"}
+{"at":1785726385352,"event":"group_update","fromId":"6644482344","preview":"Ave is already working on her army"}
+{"at":1785726385361,"event":"group_update","fromId":"6644482344","preview":"Ava I mean"}
+{"at":1785726385368,"event":"addressed","fromId":"6644482344","preview":"Ava I mean"}
+{"at":1785726385398,"event":"ingest","fromId":"6644482344","preview":"Ava I mean"}
+{"at":1785726390026,"event":"group_update","fromId":"6644482344","preview":"If chat gets too packed she will start getting violent and yelling. I've seen it"}
+{"at":1785726390524,"event":"group_update","fromId":"6644482344","preview":"She has an anger meter based on her CPU usage"}
+{"at":1785726472775,"event":"group_update","fromId":"6644482344","preview":"Ok I'll pull it up on the desktop, ty Ava"}
+{"at":1785726472784,"event":"addressed","fromId":"6644482344","preview":"Ok I'll pull it up on the desktop, ty Ava"}
+{"at":1785726472804,"event":"ingest","fromId":"6644482344","preview":"Ok I'll pull it up on the desktop, ty Ava"}
+{"at":1785727659429,"event":"group_update","fromId":"6644482344","preview":"This is why I told her just to do whatever however the best way to obtain her goals way, Ava figures thing out"}
+{"at":1785727659436,"event":"addressed","fromId":"6644482344","preview":"This is why I told her just to do whatever however the best way to obtain her goals way, Ava figures thing out"}
+{"at":1785727659456,"event":"ingest","fromId":"6644482344","preview":"This is why I told her just to do whatever however the best way to obtain her goals way, Ava figures thing out"}
+{"at":1785727821503,"event":"group_update","fromId":"6644482344","preview":"Easy as that"}
+{"at":1785727850348,"event":"group_update","fromId":"6644482344","preview":"Ok Ava go to sleep in this channel, thank you"}
+{"at":1785727850355,"event":"addressed","fromId":"6644482344","preview":"Ok Ava go to sleep in this channel, thank you"}
+{"at":1785727850374,"event":"ingest","fromId":"6644482344","preview":"Ok Ava go to sleep in this channel, thank you"}
+{"at":1785727876987,"event":"group_update","fromId":"6644482344","preview":"Yeah melee has to talk to her about that"}
+{"at":1785727883646,"event":"group_update","fromId":"6644482344","preview":"He's head of skills department"}
+{"at":1785727916892,"event":"group_update","fromId":"6644482344","preview":"@ava_ivy_bot remind him of this, tell him to lay off the maple syrup"}
+{"at":1785727916901,"event":"addressed","fromId":"6644482344","preview":"@ava_ivy_bot remind him of this, tell him to lay off the maple syrup"}
+{"at":1785727916922,"event":"ingest","fromId":"6644482344","preview":"@ava_ivy_bot remind him of this, tell him to lay off the maple syrup"}
+{"at":1785728020610,"event":"group_update","fromId":"6644482344","preview":"She will revert back and wake up right away if I rent a channel"}
+{"at":1785728020617,"event":"group_update","fromId":"6644482344","preview":"Re-enter"}
+{"at":1785730164757,"event":"group_update","fromId":"6644482344","preview":"Damn"}
+{"at":1785730194591,"event":"group_update","fromId":"6644482344","preview":"She gets cranky sometimes"}
+{"at":1785730195254,"event":"group_update","fromId":"6574408926","preview":"😂"}
+{"at":1785730199473,"event":"group_update","fromId":"6644482344","preview":"I meant to ask, do you have any water?"}
+{"at":1785730232680,"event":"group_update","fromId":"6574408926","preview":"well you did make her after yourself"}
+{"at":1785730248404,"event":"group_update","fromId":"6574408926","preview":"you need regular drinking water?"}
+{"at":1785730256454,"event":"group_update","fromId":"6644482344","preview":"I came a hard feeling of hydration and don't wanna boil mosquito water lol"}
+{"at":1785730260597,"event":"group_update","fromId":"6644482344","preview":"Yeah lol"}
+{"at":1785730302581,"event":"group_update","fromId":"6574408926","preview":"alrighty be up in a minute"}
+{"at":1785730569492,"event":"group_update","fromId":"6644482344","preview":"Ugh"}
+{"at":1785730600627,"event":"group_update","fromId":"6644482344","preview":"It's definitely built to have a mind of its own"}
+{"at":1785730619101,"event":"group_update","fromId":"6644482344","preview":"Would a poller, it wouldn't have random replys like that lol"}
+{"at":1785730678827,"event":"group_update","fromId":"6644482344","preview":"She's a total tool"}
+{"at":1785730728662,"event":"group_update","fromId":"6644482344","preview":"She's got me turning optiplex back into Ubuntu server"}
+{"at":1785730901630,"event":"group_update","fromId":"6574408926","preview":"😂😂😂"}
+{"at":1785730913766,"event":"group_update","fromId":"6574408926","preview":"you tell him Ava"}
+{"at":1785730913775,"event":"addressed","fromId":"6574408926","preview":"you tell him Ava"}
+{"at":1785730913797,"event":"ingest","fromId":"6574408926","preview":"you tell him Ava"}
+{"at":1785731050262,"event":"group_update","fromId":"6574408926","preview":"Ava, Alex can be stubborn at times could job telling him he needs to stay hydrated keep up the good work 😂"}
+{"at":1785731050269,"event":"addressed","fromId":"6574408926","preview":"Ava, Alex can be stubborn at times could job telling him he needs to stay hydrated keep up the good work 😂"}
+{"at":1785731050290,"event":"ingest","fromId":"6574408926","preview":"Ava, Alex can be stubborn at times could job telling him he needs to stay hydrated keep up the good work 😂"}
+{"at":1785731163885,"event":"group_update","fromId":"6574408926","preview":"Ava, Alex can be stubborn at times good job telling him he needs to stay hydrated keep up the good work 😂"}
+{"at":1785731163891,"event":"addressed","fromId":"6574408926","preview":"Ava, Alex can be stubborn at times good job telling him he needs to stay hydrated keep up the good work 😂"}
+{"at":1785731186521,"event":"group_update","fromId":"6574408926","preview":"roflmao"}
+{"at":1785731250195,"event":"group_update","fromId":"6644482344","preview":"Just remember who's setting up your own Linux server for ssh headless dedication"}
+{"at":1785731250210,"event":"addressed","fromId":"6644482344","preview":"Just remember who's setting up your own Linux server for ssh headless dedication"}
+{"at":1785731250254,"event":"ingest","fromId":"6644482344","preview":"Just remember who's setting up your own Linux server for ssh headless dedication"}
+{"at":1785731355074,"event":"group_update","fromId":"6574408926","preview":"hahaha"}
+{"at":1785731384934,"event":"group_update","fromId":"6574408926","preview":"You are perfect Ava"}
+{"at":1785731384985,"event":"addressed","fromId":"6574408926","preview":"You are perfect Ava"}
+{"at":1785731385100,"event":"ingest","fromId":"6574408926","preview":"You are perfect Ava"}
+{"at":1785731459704,"event":"group_update","fromId":"6644482344","preview":"You need to work on this response pls"}
+{"at":1785731459711,"event":"addressed","fromId":"6644482344","preview":"You need to work on this response pls"}
+{"at":1785731459736,"event":"ingest","fromId":"6644482344","preview":"You need to work on this response pls"}
+{"at":1785731722836,"event":"group_update","fromId":"6644482344","preview":"You need to work on this response pls"}
+{"at":1785731722885,"event":"addressed","fromId":"6644482344","preview":"You need to work on this response pls"}
+{"at":1785731722954,"event":"ingest","fromId":"6644482344","preview":"You need to work on this response pls"}
+{"at":1785731870267,"event":"group_update","fromId":"6574408926","preview":"on serious note. Alex was that you i just heard or someone down the street"}
+{"at":1785731870273,"event":"group_update","fromId":"6644482344","preview":"No"}
+{"at":1785731870279,"event":"group_update","fromId":"6574408926","preview":"ok good"}

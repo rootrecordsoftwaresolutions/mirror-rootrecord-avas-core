@@ -1,0 +1,10 @@
+﻿Folder 10 (build context) is mostly for regeneration / reading, not a blind overwrite.
+
+After Restore-Ava-Context.ps1:
+- Merge plans: 10-build-context\plans-build → Server Handoffs\Ava Ivy\plans
+- Merge dream-pack, docs-persona, alex-life-story as needed
+- Keep agent-transcripts offline as archaeology (do not put under public web roots)
+- Appearance: 10-build-context\visual-assets\appearance → Server Handoffs\Ava Ivy\appearance
+- Plugin: 10-build-context\plugins-ava-related\root-ava-core → Plugin Building\Minecraft\plugins\root-ava-core
+
+See 10-build-context\00-README\HOW-SHE-WAS-BUILT.md for read order.

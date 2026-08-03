@@ -1,0 +1,26 @@
+{
+  "id": "job-mscjsbj1",
+  "kind": "dig",
+  "status": "implementing",
+  "title": "@ava_ivy_bot personality addition of looking for things... You could be off morn",
+  "proposalId": null,
+  "channelId": "tg:-1003868178598",
+  "messageId": "15298",
+  "authorId": "6644482344",
+  "brief": "@ava_ivy_bot personality addition of looking for things... You could be off morning for data.... Digging and singing are good, farmings, different skills too that lore for mc features",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\job-mscjsbj1.md",
+  "createdAt": 1785720343646,
+  "updatedAt": 1785720343653,
+  "history": [
+    {
+      "at": 1785720343646,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785720343653,
+      "status": "implementing",
+      "note": "commitment opened — must deliver"
+    }
+  ]
+}

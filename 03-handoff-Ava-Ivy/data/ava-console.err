@@ -1,0 +1,185 @@
+[tunnel] 2026-08-02T03:45:46Z INF Starting tunnel tunnelID=31a09834-5e86-4c4f-826b-ef4997cfe9b9
+[tunnel] 2026-08-02T03:45:46Z INF Version 2026.7.3 (Checksum 8635da433b6df8194746e88ed9d2589566c20e38bfc2a80e431a348b7c765841)
+2026-08-02T03:45:46Z INF GOOS: windows, GOVersion: go1.26.4, GoArch: amd64
+2026-08-02T03:45:46Z INF Settings: map[config:D
+[tunnel] 2026-08-02T03:45:46Z INF Environmental variables map[ROOTMC_TUNNEL_ID:31a09834-5e86-4c4f-826b-ef4997cfe9b9]
+[tunnel] 2026-08-02T03:45:46Z INF cloudflared will not automatically update on Windows systems.
+[tunnel] 2026-08-02T03:45:46Z INF Generated Connector ID: f4b0fc11-29e1-481f-914c-c7fcfe94c413
+[tunnel] 2026-08-02T03:45:47Z INF Initial protocol quic
+[tunnel] 2026-08-02T03:45:47Z INF ICMP proxy will use 192.168.1.58 as source for IPv4
+[tunnel] 2026-08-02T03:45:47Z INF ICMP proxy will use 2605:59c8:3e93:1700:ca9a:ab4e:90ff:8aee in zone Ethernet as source for IPv6
+[tunnel] 2026-08-02T03:45:47Z INF cloudflared does not support loading the system root certificate pool on Windows. Please use --origin-ca-pool <PATH> to specify the path to the certificate pool
+[tunnel] 2026-08-02T03:45:47Z INF cloudflared does not support loading the system root certificate pool on Windows. Please use --origin-ca-pool <PATH> to specify the path to the certificate pool
+2026-08-02T03:45:47Z INF cloudflared does not support 
+[tunnel] 2026-08-02T03:45:47Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=0 event=0 ip=2606:4700:a8::6
+[tunnel] 2026-08-02T03:45:47Z INF ICMP proxy will use 2605:59c8:3e93:1700:ca9a:ab4e:90ff:8aee in zone Ethernet as source for IPv6
+[tunnel] 2026-08-02T03:45:47Z INF Starting metrics server on 127.0.0.1:20241/metrics
+[tunnel] 2026-08-02T03:45:47Z INF Registered tunnel connection connIndex=0 connection=f917f762-fe73-49f5-90d5-48844ff4ac25 event=0 ip=2606:4700:a8::6 location=sjc05 protocol=quic
+[tunnel] 2026-08-02T03:45:47Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=1 event=0 ip=2606:4700:a0::10
+[tunnel] 2026-08-02T03:45:47Z INF +-------------------------------------------------------------------------------------+
+2026-08-02T03:45:47Z INF |                               CONNECTIVITY PRE-CHECKS                               |
+2026-08-02T03:
+[tunnel] 2026-08-02T03:45:47Z INF |  COMPONENT         TARGET                     STATUS  DETAILS                       |
+2026-08-02T03:45:47Z INF |  DNS Resolution    region1.v2.argotunnel.com  PASS    DNS Resolved successfully     |
+2026-08-02T03:
+[tunnel] 2026-08-02T03:45:47Z INF Registered tunnel connection connIndex=1 connection=98a1b93c-2f38-49be-a4c0-c409d458e622 event=0 ip=2606:4700:a0::10 location=lax07 protocol=quic
+[tunnel] 2026-08-02T03:45:48Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=2 event=0 ip=2606:4700:a0::7
+[tunnel] 2026-08-02T03:45:48Z INF Registered tunnel connection connIndex=2 connection=dcaf0727-d4b0-467a-9261-69790bfa0ae3 event=0 ip=2606:4700:a0::7 location=lax05 protocol=quic
+[tunnel] 2026-08-02T03:45:49Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=3 event=0 ip=2606:4700:a8::8
+[tunnel] 2026-08-02T03:45:49Z INF Registered tunnel connection connIndex=3 connection=c336e213-8c6e-483f-af7f-0df7ef753f81 event=0 ip=2606:4700:a8::8 location=sjc11 protocol=quic
+[WARN]  socket-mode:SlackWebSocket:1 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:2 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:3 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:4 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:5 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:6 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:7 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:8 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:9 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:10 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:11 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:12 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:13 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:14 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:15 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:16 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:17 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:18 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:19 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:20 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:21 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:22 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:23 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:24 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:25 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:26 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:27 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:28 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:29 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:30 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:31 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:32 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:33 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:34 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:35 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:36 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:37 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:38 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:39 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:40 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:41 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:42 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:43 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:44 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:45 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:46 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:47 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:48 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:49 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:50 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:51 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:52 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:53 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:54 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:55 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:56 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:57 A pong wasn't received from the server before the timeout of 5000ms!
+tick: EBUSY: resource busy or locked, open 'D:\.1 Work Stations\RootMC\Server Handoffs\Ava Ivy\data\watermark.json'
+[WARN]  socket-mode:SlackWebSocket:58 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:59 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:60 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:61 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:62 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:63 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:64 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:65 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:66 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:67 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:68 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:69 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:70 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:71 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:72 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:73 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:74 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:75 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:76 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:77 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:78 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:79 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:80 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:81 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:82 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:83 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:84 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:85 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:86 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:87 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:88 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:89 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:90 A pong wasn't received from the server before the timeout of 5000ms!
+[tunnel] 2026-08-02T04:58:13Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[WARN]  socket-mode:SlackWebSocket:91 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:92 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:93 A pong wasn't received from the server before the timeout of 5000ms!
+[WARN]  socket-mode:SlackWebSocket:94 A pong wasn't received from the server before the timeout of 5000ms!
+[tunnel] 2026-08-02T05:40:00Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:40:00Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:40:00Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+[tunnel] 2026-08-02T05:40:08Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:40:10Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:40:10Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+[tunnel] 2026-08-02T05:40:21Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:40:21Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+[tunnel] 2026-08-02T05:44:03Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:44:03Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+[tunnel] 2026-08-02T05:44:07Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:44:07Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+[tunnel] 2026-08-02T05:44:07Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:44:07Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+[tunnel] 2026-08-02T05:45:03Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:45:03Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+[tunnel] 2026-08-02T05:45:33Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:45:33Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+tick: EBUSY: resource busy or locked, open 'D:\.1 Work Stations\RootMC\Server Handoffs\Ava Ivy\data\seen.json'
+[tunnel] 2026-08-02T05:49:03Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:49:07Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:49:07Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+[tunnel] 2026-08-02T05:49:07Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:49:07Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+[tunnel] 2026-08-02T05:50:03Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:50:03Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+discord ack react: /channels/1532929974154166522/messages/1533351268641407077/reactions/ship_it%3A1533005788501512262/@me 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+discord ack react: /channels/1532929974154166522/messages/1533351268641407077/reactions/ava_think%3A1533005772668145694/@me 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+discord ack react: /channels/1532929974154166522/messages/1533351480516546610/reactions/ship_it%3A1533005788501512262/@me 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+discord ack react: /channels/1532929974154166522/messages/1533351772595421324/reactions/ship_it%3A1533005788501512262/@me 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+[tunnel] 2026-08-02T05:54:03Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:54:07Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:54:07Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+[tunnel] 2026-08-02T05:54:07Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:54:07Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+[tunnel] 2026-08-02T05:55:03Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+server.mjs exited 4294967295 
+poller.mjs exited 4294967295 
+server.mjs exited 4294967295 
+poller.mjs exited 4294967295 
+[tunnel] 2026-08-02T05:59:03Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:59:03Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+[tunnel] 2026-08-02T05:59:07Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:59:07Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+[tunnel] 2026-08-02T05:59:07Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:59:07Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+[tunnel] 2026-08-02T05:59:11Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:59:11Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+[tunnel] 2026-08-02T05:59:11Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:59:11Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+[tunnel] 2026-08-02T05:59:11Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T05:59:11Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+[tunnel] 2026-08-02T06:00:04Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T06:00:04Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8791: connectex: No connection could be made because the 
+poller.mjs exited 4294967295 
+server.mjs exited 4294967295 
+server.mjs exited 4294967295 
+poller.mjs exited 4294967295 
+[tunnel] 2026-08-02T06:00:45Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8787: connectex: No connection could be made because the target machine
+[tunnel] 2026-08-02T06:00:45Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp 127.0.0.1:8787: connectex: No connection could be made because the 

@@ -1,0 +1,19 @@
+{
+  "messageId": "1533901372674670683",
+  "channelId": "1532929974154166522",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "_Recent status ticks:_\n- ask - rootrecorddev: ensure R621ZA16XH6K1155 please\n- phase catchup - general-sounds-fun - ch 11 - react 0 - replied 0\n- followup scan - clear\n- hour recap - slack 1785780845.109389\n- eco poll - bank 1 - sql 2\n\nneed",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785781005027,
+  "updatedAt": 1785781005027
+}

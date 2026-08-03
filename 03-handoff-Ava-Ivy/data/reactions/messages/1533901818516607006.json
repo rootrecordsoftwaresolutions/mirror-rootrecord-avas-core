@@ -1,0 +1,36 @@
+{
+  "messageId": "1533901818516607006",
+  "channelId": "1532929974154166522",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "anytime ❤",
+  "byEmoji": {
+    "👀": 1,
+    "🔥": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 1,
+    "all": 2
+  },
+  "reactors": {
+    "154446475789729792": {
+      "userId": "154446475789729792",
+      "username": "Melee oO",
+      "emojis": {
+        "🔥": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785781119434,
+  "updatedAt": 1785781282292
+}

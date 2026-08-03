@@ -1,0 +1,21 @@
+{
+  "messageId": "1533560354356072589",
+  "channelId": "1516178360815059045",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "mobile digs → Slack #development-feed. Android release still tracking - no fake ship date. ask there for status.",
+  "byEmoji": {
+    "👍": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "good",
+  "firstSeenAt": 1785712187820,
+  "updatedAt": 1785712187820
+}

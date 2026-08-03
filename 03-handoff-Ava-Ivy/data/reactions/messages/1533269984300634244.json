@@ -1,0 +1,17 @@
+{
+  "messageId": "1533269984300634244",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "<:ship_it:1533005788501512262> **1.8.0 wave — build done**\n\nsuite build finished. all **25** live plugins are on **`1.8.0`** and staged in the handoffs (Towny + Claims + Test).\n\nserver stays **offline** until the live file copy finishes and",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785630460100,
+  "updatedAt": 1785630460100
+}

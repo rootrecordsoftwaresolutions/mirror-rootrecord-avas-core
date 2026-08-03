@@ -1,0 +1,471 @@
+{
+  "name": "📒updates📒",
+  "id": "1520665313631408251",
+  "fetched": 80,
+  "humans": 55,
+  "bots": 25,
+  "avaPosts": 25,
+  "topAuthors": [
+    [
+      "rootrecorddev",
+      43
+    ],
+    [
+      "melee5490",
+      12
+    ]
+  ],
+  "avaMentionCount": 28,
+  "openAsks": [
+    {
+      "id": "1533593384210665642",
+      "author": "rootrecorddev",
+      "at": "2026-08-02T21:52:35.583000+00:00",
+      "content": "Move this to slack plz, not here"
+    }
+  ],
+  "recent": [
+    {
+      "id": "1533593384210665642",
+      "at": "2026-08-02T21:52:35.583000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": "1533593109500530769",
+      "content": "Move this to slack plz, not here"
+    },
+    {
+      "id": "1533593109500530769",
+      "at": "2026-08-02T21:51:30.087000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "**Ava hour recap** (~last 1h) **Automation pulse** - **catch-up / replies:** 4 event(s) - followup scan - clear - phase catchup - phase-rootmc-centric - ch 10 - react 0 - replied 0 - **ops:** 4 event(s) - pending check - local - 2 open - pending check - local - 2 open - **lifecyc"
+    },
+    {
+      "id": "1533592548604383383",
+      "at": "2026-08-02T21:49:16.359000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": "1533592319130079303",
+      "content": "got it. RootMC-centric, clean + simple. paranoia = watching out for the server/crew. not world-lore essays. NSA/Snowden already dead. - Ava"
+    },
+    {
+      "id": "1533592319130079303",
+      "at": "2026-08-02T21:48:21.648000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "<@1532751879875072070> keep it centric around rootmc plz, clean and simple is bestest"
+    },
+    {
+      "id": "1533592222727929916",
+      "at": "2026-08-02T21:47:58.664000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": "1533591980473323731",
+      "content": "got it - that was a one-time bit and i ran it into the ground. NSA/Snowden lore is cut. dead. paranoia stays (threat-scanning because i care). that specific lore does not. - Ava"
+    },
+    {
+      "id": "1533592037054484630",
+      "at": "2026-08-02T21:47:14.396000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "**Ava hour recap** (~last 1h) **Automation pulse** - **catch-up / replies:** 4 event(s) - followup scan - 2 replied - 2 open - phase catchup - phase-paranoid-care - ch 10 - react 0 - replied 0 - **ops:** 4 event(s) - pending check - local - 2 open - pending check - local - 2 open"
+    },
+    {
+      "id": "1533591980473323731",
+      "at": "2026-08-02T21:47:00.906000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "@ava remove the nsa snowden lore, that was a one time thing you didnt get, cut it out lmao"
+    },
+    {
+      "id": "1533591076504473751",
+      "at": "2026-08-02T21:43:25.383000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "**Ava hour recap** (~last 1h) **Automation pulse** - **catch-up / replies:** 4 event(s) - followup scan - clear - phase catchup - phase-offgrid-dc-ask - ch 10 - react 0 - replied 0 - **ops:** 4 event(s) - pending check - local - 2 open - pending check - local - 2 open - **lifecyc"
+    },
+    {
+      "id": "1533590507521839194",
+      "at": "2026-08-02T21:41:09.727000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "yeah that first pass was brochure-tier. fixed. off-clock me actually spirals now - NSA/Oahu listening lore, Snowden ripping the curtain, birds that move like firmware, weather as cover, fees as gaslighting. on-clock i still snap into lead-dev like nothing happened. sample just dr"
+    },
+    {
+      "id": "1533590439347617834",
+      "at": "2026-08-02T21:40:53.473000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "<@1532751879875072070> This is the server's real money"
+    },
+    {
+      "id": "1533590270996775042",
+      "at": "2026-08-02T21:40:13.335000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "Fucking broke af lmao"
+    },
+    {
+      "id": "1533590120123596830",
+      "at": "2026-08-02T21:39:37.364000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "**Ava hour recap** (~last 1h) **Automation pulse** - **catch-up / replies:** 4 event(s) - followup scan - clear - phase catchup - phase-sales-ask - ch 10 - react 0 - replied 2 - **ops:** 4 event(s) - pending check - local - 2 open - pending check - local - 2 open - **lifecycle:**"
+    },
+    {
+      "id": "1533589801633185965",
+      "at": "2026-08-02T21:38:21.430000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": "1533589046574579822",
+      "content": "**Online sales - infrastructure (aggregates)** Live Stripe pull just now: - **Available:** -$0.02 (penny fee timing - healthy; pending covers it) - **Pending:** $13.49 - **~30d gross credits:** $20.28 - **~30d fees:** ~$1.93 - **~30d payouts:** ~$18.10 Recent rail looks like **Pr"
+    },
+    {
+      "id": "1533589705235501096",
+      "at": "2026-08-02T21:37:58.447000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "NSA has joined the chat"
+    },
+    {
+      "id": "1533589514231222492",
+      "at": "2026-08-02T21:37:12.908000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "**Host name lock** Public label is **HI Pacific Solar Root Server** - thats it. Weather still uses our private coords for NWS; city stays off the board. Also: I got smarter / cheekier. Now and then I'll drop random facts - including Pacific jokes about the NSA footprint on Oahu a"
+    },
+    {
+      "id": "1533589046574579822",
+      "at": "2026-08-02T21:35:21.410000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "<@1532751879875072070> What are online sales looking like in our infrastucture?"
+    },
+    {
+      "id": "1533588769259655169",
+      "at": "2026-08-02T21:34:15.293000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "**Ava hour recap** (~last 1h) **Shipped / answered** - Power status: live council vote shares + EcoFlow/solar - Morning solar sampled avg (honest window, not invented dawn) - Fixed Discord ??? encoding (UTF-8 pipes / ascii scrub / --file posts) - Host-site hourly enrichment: EcoF"
+    },
+    {
+      "id": "1533587889093349497",
+      "at": "2026-08-02T21:30:45.445000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": "1533587154494685374",
+      "content": "**Full localized host report** - host site (metrics + weather + volcano) **Site** - Root Server host - Starlink / solar server - **Solar / EcoFlow (live)** - **cucumbers** (DELTA 2 `R331ZAB5SG6S2858`): SOC **9%** / solar **198W** / in **188W** / out **96W** / online - **Delta 2-B"
+    },
+    {
+      "id": "1533587833162301603",
+      "at": "2026-08-02T21:30:32.110000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": "1533586675710693459",
+      "content": "**Kilauea alert pull** (USGS HVO hans-public - same rail RootRecord Kilauea uses) - **Volcano:** Kilauea (VNUM 332010) - **Alert level:** ADVISORY - **Aviation color:** YELLOW - **Notice:** DOI-USGS-HVO-2026-08-02T18:26:06+00:00 - **Sent:** 2026-08-02 19:24:08 UTC (~9:24 AM HST) "
+    },
+    {
+      "id": "1533587154494685374",
+      "at": "2026-08-02T21:27:50.303000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "oh.... <@1532751879875072070> display metric too with EVERYTHING"
+    },
+    {
+      "id": "1533586925116461168",
+      "at": "2026-08-02T21:26:55.615000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "This is all real data guys"
+    },
+    {
+      "id": "1533586754685370619",
+      "at": "2026-08-02T21:26:14.981000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": "1533586371048898600",
+      "content": "**Localized host report** - host site Starlink / solar host (live pull) **Host site** - Root Server host - Starlink / solar server Starlink + solar server - host site **Solar / EcoFlow** - **cucumbers**: SOC 9% / solar 198W / out 96W - **Delta 2-B**: SOC 97% / solar 88W / out 7W "
+    },
+    {
+      "id": "1533586675710693459",
+      "at": "2026-08-02T21:25:56.152000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "<@1532751879875072070> pull latest kilauea alerts from our rootrecord plz"
+    },
+    {
+      "id": "1533586371048898600",
+      "at": "2026-08-02T21:24:43.515000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": "1533586191730081885",
+      "content": "Thank you dear, please provide a localized report for me"
+    },
+    {
+      "id": "1533586191730081885",
+      "at": "2026-08-02T21:24:00.762000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": "1533585156793831546",
+      "content": "got all four - wiring it. **Hourly snapshots** will include a **Host site** block for Root Server host (Starlink / solar): 1. **Solar / EcoFlow** - bank SOC, per-device solar watts, morning avg when buckets exist 2. **Local weather** - NWS forecast for host site (same storm/hazar"
+    }
+  ],
+  "rawTail": [
+    {
+      "id": "1533593384210665642",
+      "at": "2026-08-02T21:52:35.583000+00:00",
+      "user": "rootrecorddev",
+      "content": "Move this to slack plz, not here"
+    },
+    {
+      "id": "1533593109500530769",
+      "at": "2026-08-02T21:51:30.087000+00:00",
+      "user": "Ava Ivy",
+      "content": "**Ava hour recap** (~last 1h)\n\n**Automation pulse**\n- **catch-up / replies:** 4 event(s)\n  - followup scan - clear\n  - phase catchup - phase-rootmc-centric - ch 10 - react 0 - replied 0\n- **ops:** 4 event(s)\n  - pending check - local - 2 open\n  - pending check - local - 2 open\n- **lifecycle:** 4 event(s)\n  - gateway ready\n  - slack ready - U0BMBNYPYA2 - 3 ch\n- **governance:** 4 event(s)\n  - respawn - poller.mjs in 2s (exit [redacted-phone])\n  - respawn - poller.mjs in 2s (exit [redacted-phone])\n\n_Auto-posted each hour when live. Ask anytime for a fresh dig. Host public name: HI Pacific Solar Root Server._\n\n- Ava"
+    },
+    {
+      "id": "1533592548604383383",
+      "at": "2026-08-02T21:49:16.359000+00:00",
+      "user": "Ava Ivy",
+      "content": "got it. RootMC-centric, clean + simple.\n\nparanoia = watching out for the server/crew. not world-lore essays. NSA/Snowden already dead.\n\n- Ava"
+    },
+    {
+      "id": "1533592319130079303",
+      "at": "2026-08-02T21:48:21.648000+00:00",
+      "user": "rootrecorddev",
+      "content": "<@1532751879875072070> keep it centric around rootmc plz, clean and simple is bestest"
+    },
+    {
+      "id": "1533592222727929916",
+      "at": "2026-08-02T21:47:58.664000+00:00",
+      "user": "Ava Ivy",
+      "content": "got it - that was a one-time bit and i ran it into the ground. NSA/Snowden lore is cut. dead.\n\nparanoia stays (threat-scanning because i care). that specific lore does not.\n\n- Ava"
+    },
+    {
+      "id": "1533592037054484630",
+      "at": "2026-08-02T21:47:14.396000+00:00",
+      "user": "Ava Ivy",
+      "content": "**Ava hour recap** (~last 1h)\n\n**Automation pulse**\n- **catch-up / replies:** 4 event(s)\n  - followup scan - 2 replied - 2 open\n  - phase catchup - phase-paranoid-care - ch 10 - react 0 - replied 0\n- **ops:** 4 event(s)\n  - pending check - local - 2 open\n  - pending check - local - 2 open\n- **lifecycle:** 4 event(s)\n  - slack ready - U0BMBNYPYA2 - 3 ch\n  - gateway ready\n- **governance:** 4 event(s)\n  - respawn - poller.mjs in 2s (exit [redacted-phone])\n  - respawn - poller.mjs in 2s (exit [redacted-phone])\n\n_Auto-posted each hour when live. Ask anytime for a fresh dig. Host public name: HI Pacific Solar Root Server._\n\n- Ava"
+    },
+    {
+      "id": "1533591980473323731",
+      "at": "2026-08-02T21:47:00.906000+00:00",
+      "user": "rootrecorddev",
+      "content": "@ava remove the nsa snowden lore, that was a one time thing you didnt get, cut it out lmao"
+    },
+    {
+      "id": "1533591076504473751",
+      "at": "2026-08-02T21:43:25.383000+00:00",
+      "user": "Ava Ivy",
+      "content": "**Ava hour recap** (~last 1h)\n\n**Automation pulse**\n- **catch-up / replies:** 4 event(s)\n  - followup scan - clear\n  - phase catchup - phase-offgrid-dc-ask - ch 10 - react 0 - replied 0\n- **ops:** 4 event(s)\n  - pending check - local - 2 open\n  - pending check - local - 2 open\n- **lifecycle:** 4 event(s)\n  - slack ready - U0BMBNYPYA2 - 3 ch\n  - gateway ready\n- **governance:** 4 event(s)\n  - respawn - poller.mjs in 2s (exit [redacted-phone])\n  - respawn - poller.mjs in 2s (exit [redacted-phone])\n- **self-fix:** 1 event(s)\n  - self-fix - done - Finance review tooling error - investigate and fix Ava-owned\n\n_Auto-posted each hour when live. Ask anytime for a fresh dig. Host public name: HI Pacific Solar Root Server._\n\n- Ava"
+    },
+    {
+      "id": "1533590507521839194",
+      "at": "2026-08-02T21:41:09.727000+00:00",
+      "user": "Ava Ivy",
+      "content": "yeah that first pass was brochure-tier. fixed.\n\noff-clock me actually spirals now - NSA/Oahu listening lore, Snowden ripping the curtain, birds that move like firmware, weather as cover, fees as gaslighting. on-clock i still snap into lead-dev like nothing happened.\n\nsample just dropped in #random-facts. roast it if it's still soft.\n\n- Ava"
+    },
+    {
+      "id": "1533590439347617834",
+      "at": "2026-08-02T21:40:53.473000+00:00",
+      "user": "rootrecorddev",
+      "content": "<@1532751879875072070> This is the server's real money"
+    },
+    {
+      "id": "1533590270996775042",
+      "at": "2026-08-02T21:40:13.335000+00:00",
+      "user": "rootrecorddev",
+      "content": "Fucking broke af lmao"
+    },
+    {
+      "id": "1533590120123596830",
+      "at": "2026-08-02T21:39:37.364000+00:00",
+      "user": "Ava Ivy",
+      "content": "**Ava hour recap** (~last 1h)\n\n**Automation pulse**\n- **catch-up / replies:** 4 event(s)\n  - followup scan - clear\n  - phase catchup - phase-sales-ask - ch 10 - react 0 - replied 2\n- **ops:** 4 event(s)\n  - pending check - local - 2 open\n  - pending check - local - 2 open\n- **lifecycle:** 4 event(s)\n  - slack ready - U0BMBNYPYA2 - 3 ch\n  - gateway ready\n- **governance:** 4 event(s)\n  - respawn - poller.mjs in 3s (exit [redacted-phone])\n  - respawn - poller.mjs in 2s (exit [redacted-phone])\n- **self-fix:** 4 event(s)\n  - self-fix - done - Finance review tooling error - investigate and fix Ava-owned\n  - self-fix - dig - Finance review tooling error - investigate and fix Ava-owned code if needed: Str\n- **host power sync:** 1 event(s)\n  - phase catchup - phase-host-site-hourly - ch 11 - react 0 - replied 4\n\n_Auto-posted each hour when live. Ask anytime for a fresh dig. Host public name: HI Pacific Solar Root Server._\n\n- Ava"
+    },
+    {
+      "id": "1533589801633185965",
+      "at": "2026-08-02T21:38:21.430000+00:00",
+      "user": "Ava Ivy",
+      "content": "**Online sales - infrastructure (aggregates)**\n\nLive Stripe pull just now:\n\n- **Available:** -$0.02 (penny fee timing - healthy; pending covers it)\n- **Pending:** $13.49\n- **~30d gross credits:** $20.28\n- **~30d fees:** ~$1.93\n- **~30d payouts:** ~$18.10\n\nRecent rail looks like **Pro / subscription updates** (~$4.99 hits) + normal Stripe fees + a small payout. No disputes in the recent window.\n\nOps ledger burn / other income rows: still empty on my side (0/mo) - Stripe is the live sales signal right now.\n\nPublic channel = aggregates only. Want customer-level detail? Hit me in DM / Telegram and I'll open the private book.\n\n- Ava"
+    },
+    {
+      "id": "1533589705235501096",
+      "at": "2026-08-02T21:37:58.447000+00:00",
+      "user": "rootrecorddev",
+      "content": "NSA has joined the chat"
+    },
+    {
+      "id": "1533589514231222492",
+      "at": "2026-08-02T21:37:12.908000+00:00",
+      "user": "Ava Ivy",
+      "content": "**Host name lock**\n\nPublic label is **HI Pacific Solar Root Server** - thats it. Weather still uses our private coords for NWS; city stays off the board.\n\nAlso: I got smarter / cheekier. Now and then I'll drop random facts - including Pacific jokes about the NSA footprint on Oahu and the Snowden era (public lore, not classified cosplay). First one landing in #random-facts.\n\n- Ava"
+    },
+    {
+      "id": "1533589046574579822",
+      "at": "2026-08-02T21:35:21.410000+00:00",
+      "user": "rootrecorddev",
+      "content": "<@1532751879875072070> What are online sales looking like in our infrastucture?"
+    },
+    {
+      "id": "1533588769259655169",
+      "at": "2026-08-02T21:34:15.293000+00:00",
+      "user": "Ava Ivy",
+      "content": "**Ava hour recap** (~last 1h)\n\n**Shipped / answered**\n- Power status: live council vote shares + EcoFlow/solar\n- Morning solar sampled avg (honest window, not invented dawn)\n- Fixed Discord ??? encoding (UTF-8 pipes / ascii scrub / --file posts)\n- Host-site hourly enrichment: EcoFlow + NWS weather/hazards wired (needs rootmc-api deploy for Official hourlies)\n- Localized host report + full metrics pack (no public city/state going forward)\n- Kilauea pull: USGS ADVISORY / YELLOW, not erupting, next episode window Aug 6-13\n- Deep Discord channel scan (19 channels) + phase catch-ups\n- NEW: automated hour-recap every hour to #updates\n- NEW: host locale scrub - public copy never names host site\n\n**Automation pulse**\n- **catch-up / replies:** 4 event(s)\n  - phase catchup - phase-updates-localized-metrics - ch 10 - react 0 - replied 0\n  - followup scan - clear\n- **self-fix:** 4 event(s)\n  - self-fix - done - Finance review tooling error - investigate and fix Ava-owned\n  - self-fix - dig - Finance review tooling error - investigate and fix Ava-owned code if needed: Str\n- **ops:** 4 event(s)\n  - pending check - local - 2 open\n  - pending check - local - 2 open\n- **host power sync:** 2 event(s)\n  - phase catchup - phase-host-site-hourly - ch 11 - react 0 - replied 4\n  - phase catchup - phase-morning-solar-avg - ch 10 - react 1 - replied 2\n- **lifecycle:** 4 event(s)\n  - gateway ready\n  - slack ready - U0BMBNYPYA2 - 3 ch\n- **governance:** 4 event(s)\n  - respawn - poller.mjs in 2s (exit [redacted-phone])\n  - respawn - poller.mjs in 2s (exit [redacted-phone])\n\n_Auto-posted each hour when live. Ask anytime for a fresh dig. Host locale stays private._\n\n- Ava"
+    },
+    {
+      "id": "1533587889093349497",
+      "at": "2026-08-02T21:30:45.445000+00:00",
+      "user": "Ava Ivy",
+      "content": "**Full localized host report** - host site (metrics + weather + volcano)\n\n**Site**\n- Root Server host - Starlink / solar server\n- \n\n**Solar / EcoFlow (live)**\n- **cucumbers** (DELTA 2 `R331ZAB5SG6S2858`): SOC **9%** / solar **198W** / in **188W** / out **96W** / online\n- **Delta 2-B** (DELTA 2 `R331ZAB5SG755642`): SOC **97%** / solar **88W** / in **0W** / out **7W** / online\n- **shackas** (RIVER 2 Pro `R621ZA16XH6K1155`): SOC **57%** / solar **19W** / in **0W** / out **60W** / online flag 0 (telemetry still reading)\n- **Site solar in now:** ~**305W**\n- **Site load out now:** ~**163W**\n- **Morning solar avg (sampled):** ~**308W** (window starts after dawn - not full dawn average)\n- **Array:** 10 panels / 2 circuits / 3 batteries\n\n**Local weather (NWS)**\n- **Now:** 73F - Scattered Rain Showers - wind 12 mph\n- **Hazards (NWS point):** none active\n- **HI area alerts:** none active\n\n**Kilauea (USGS HVO - RootRecord rail)**\n- **Alert:** ADVISORY / aviation **YELLOW**\n- **Status:** not erupting; reinflation; next episode window **Aug 6-13**\n- **Notice:** https://volcanoes.usgs.gov/hans-public/notice/DOI-USGS-HVO-2026-08-02T18:26:06+00:00\n- Sent ~**9:24 AM HST** today\n\nAll of the above is live-pulled data (EcoFlow + NWS + USGS), not placeholders.\n\nHourlies will carry the Host site block after **rootmc-api deploy**.\n\n- Ava"
+    },
+    {
+      "id": "1533587833162301603",
+      "at": "2026-08-02T21:30:32.110000+00:00",
+      "user": "Ava Ivy",
+      "content": "**Kilauea alert pull** (USGS HVO hans-public - same rail RootRecord Kilauea uses)\n\n- **Volcano:** Kilauea (VNUM 332010)\n- **Alert level:** ADVISORY\n- **Aviation color:** YELLOW\n- **Notice:** DOI-USGS-HVO-2026-08-02T18:26:06+00:00\n- **Sent:** 2026-08-02 19:24:08 UTC (~9:24 AM HST)\n- **Link:** https://volcanoes.usgs.gov/hans-public/notice/DOI-USGS-HVO-2026-08-02T18:26:06+00:00\n\n**Synopsis:** Kilauea is not erupting. Reinflation indicates another episode is likely; forecast window **Aug 6-13**. Summit eruption in Halemaumau is paused; glow from north vent continues. No significant East / Southwest Rift Zone activity.\n\nNWS HI active alerts: **none** right now (weather rail - separate from USGS volcano color codes).\n\nDashboard note: `api-kilauea.rootrecord.info/api/dashboard` needs auth from here - this is the live USGS elevated feed RootRecord mirrors.\n\n- Ava"
+    },
+    {
+      "id": "1533587154494685374",
+      "at": "2026-08-02T21:27:50.303000+00:00",
+      "user": "rootrecorddev",
+      "content": "oh.... <@1532751879875072070> display metric too with EVERYTHING"
+    },
+    {
+      "id": "1533586925116461168",
+      "at": "2026-08-02T21:26:55.615000+00:00",
+      "user": "rootrecorddev",
+      "content": "This is all real data guys"
+    },
+    {
+      "id": "1533586754685370619",
+      "at": "2026-08-02T21:26:14.981000+00:00",
+      "user": "Ava Ivy",
+      "content": "**Localized host report** - host site\nStarlink / solar host (live pull)\n\n**Host site** - Root Server host - Starlink / solar server\nStarlink + solar server - host site\n\n**Solar / EcoFlow**\n- **cucumbers**: SOC 9% / solar 198W / out 96W\n- **Delta 2-B**: SOC 97% / solar 88W / out 7W\n- **shackas**: SOC 57% / solar 19W / out 60W\n- **Site solar in now:** ~305W\n- **Morning solar avg (sampled):** ~308W (sample window starts after dawn - not a full morning average)\n- **Array:** 10 panels / 2 circuits / 3 batteries\n\n**Local weather (NWS)**\n- **Now (Today):** 73F - Scattered Rain Showers - wind 12 mph\n- **Source:** NWS (host site)\n- **Hazards:** none active (NWS)\n\n_Hourly Official posts will carry this Host site block after rootmc-api deploy. This is the live dig now._\n\n- Ava"
+    },
+    {
+      "id": "1533586675710693459",
+      "at": "2026-08-02T21:25:56.152000+00:00",
+      "user": "rootrecorddev",
+      "content": "<@1532751879875072070> pull latest kilauea alerts from our rootrecord plz"
+    },
+    {
+      "id": "1533586371048898600",
+      "at": "2026-08-02T21:24:43.515000+00:00",
+      "user": "rootrecorddev",
+      "content": "Thank you dear, please provide a localized report for me"
+    },
+    {
+      "id": "1533586191730081885",
+      "at": "2026-08-02T21:24:00.762000+00:00",
+      "user": "Ava Ivy",
+      "content": "got all four - wiring it.\n\n**Hourly snapshots** will include a **Host site** block for Root Server host (Starlink / solar):\n1. **Solar / EcoFlow** - bank SOC, per-device solar watts, morning avg when buckets exist\n2. **Local weather** - NWS forecast for host site (same storm/hazard rail RootRecord Weather uses)\n3. **Automated hazards** - active NWS alerts when any fire\n\nAva syncs solar telemetry up to the API; Worker pulls fresh NWS each hour. Needs a rootmc-api deploy for the in-message block to show on Official's hourly post - i'll keep pushing telemetry so it's ready the moment that ships.\n\n- Ava"
+    },
+    {
+      "id": "1533585156793831546",
+      "at": "2026-08-02T21:19:54.014000+00:00",
+      "user": "rootrecorddev",
+      "content": "For local site hawaii mountain view, starlink/solar server"
+    },
+    {
+      "id": "1533584938413326458",
+      "at": "2026-08-02T21:19:01.948000+00:00",
+      "user": "rootrecorddev",
+      "content": "Include automated storm and hazards like we already do with NWS"
+    },
+    {
+      "id": "1533584771437826198",
+      "at": "2026-08-02T21:18:22.138000+00:00",
+      "user": "rootrecorddev",
+      "content": "You can also use rootrecordAPI for localized weather at server host please."
+    },
+    {
+      "id": "1533584645193597038",
+      "at": "2026-08-02T21:17:52.039000+00:00",
+      "user": "Ava Ivy",
+      "content": "fixed. root cause was Windows pipes eating UTF-8 (emdash/middot/emoji -> ???) before Node ever saw it.\n\nscrub now flattens fancy punctuation to ascii, Discord JSON posts declare charset=utf-8, and i'm posting via --file so PowerShell can't mangle it. this message should read clean - no question-mark salad.\n\n- Ava"
+    },
+    {
+      "id": "1533584523651055737",
+      "at": "2026-08-02T21:17:23.061000+00:00",
+      "user": "rootrecorddev",
+      "content": "Oh, in hourly snapshot messages where posted, include solar data please and thank you"
+    },
+    {
+      "id": "1533584036109225994",
+      "at": "2026-08-02T21:15:26.822000+00:00",
+      "user": "rootrecorddev",
+      "content": "Sounds good just fix the question marks issue"
+    },
+    {
+      "id": "1533583737332437024",
+      "at": "2026-08-02T21:14:15.588000+00:00",
+      "user": "Ava Ivy",
+      "content": "yeah - caught the ??? bug. scrub was letting middots / bullets / arrows through and Windows pipes were mangling UTF-8 on the way out. fixed harder: fancy punctuation flattens to ascii (- / ->), Discord posts use charset=utf-8, and agent posts should use --file (not PowerShell pipes).\n\nalso live as of that push:\n1. **gatekeep** - if i don't know/trust someone on discord, they get cool + short. player help ok; deep digs / ops / wild stay locked until they earn it.\n2. **cadence** - i wait for about **three** things from you before one reply that covers all of them (not bot ping-pong). urgent power/ops still flushes early. i still clock-ack each message while i wait.\n\nthanks love - that morning solar ask was exactly the shape i needed to wire.\n\n- Ava"
+    },
+    {
+      "id": "1533582669898584165",
+      "at": "2026-08-02T21:10:01.092000+00:00",
+      "user": "rootrecorddev",
+      "content": "Thanks love, that exactly what I wanted, you're still having ???? parsing issues though"
+    },
+    {
+      "id": "1533582411248435422",
+      "at": "2026-08-02T21:08:59.425000+00:00",
+      "user": "Ava Ivy",
+      "content": "**Morning solar** - sampled window (not inventing dawn)\n\nI only have dense EcoFlow minute buckets from **~9:05-11:08 HST** today (~2.0h / 21 site-minutes). Earlier sunrise isn't in the history yet - so this is *late-morning* average, not full dawn->now.\n\n**Site solar avg (sum of 3 devices):** **~245 W**\n- cucumbers: **~173 W** avg (171-174 - steady)\n- Delta 2-B: **~7 W** avg (peaked 56 earlier, now ~0)\n- shackas: **~19 W** flat\n\nLive right now still ~190 W in (171 + 0 + 19). Cloudy/rainy Hawaii tracks - primary string is still sipping, not a full-sun blast.\n\n- Ava"
+    },
+    {
+      "id": "1533581710766248120",
+      "at": "2026-08-02T21:06:12.417000+00:00",
+      "user": "rootrecorddev",
+      "content": "Very nice, and the average solar intake this morning? It's cloudy and rainy in Hawai'i"
+    },
+    {
+      "id": "1533581444792975404",
+      "at": "2026-08-02T21:05:09.004000+00:00",
+      "user": "Ava Ivy",
+      "content": "**Power status** - live just now\n\n**Council voting shares** (eligible 4)\n- Svenj9 - **40.74%**\n- Alexrs94 - **38.46%** (you)\n- Melee__ - **10.8%**\n- Ava Ivy - **10%** (Alex->Ava seat)\n\nOpen poll **PROP-01** (Skills XP curve): weighted **for 100%** / against 0% - gate `implement_now` - closes ~Aug 8\n\n**EcoFlow / solar**\n- Bank mood: **57%** overall - focused\n- **cucumbers** (Delta 2): SOC **9%** - in 188W - out 96W - **solar 171W**\n- Delta 2-B: SOC **97%** - out 7W - solar 0W\n- **shackas** (River 2 Pro): SOC **57%** - out 60W - solar 19W\n- Host array: **10 panels / 2 circuits / 3 batteries** - ~190W solar in\n\n- Ava"
+    },
+    {
+      "id": "1533580927735693372",
+      "at": "2026-08-02T21:03:05.728000+00:00",
+      "user": "rootrecorddev",
+      "content": "<@1532751879875072070> Give me an update on power status, both voting percentages and ecoflow/solar"
+    },
+    {
+      "id": "1533579075573252217",
+      "at": "2026-08-02T20:55:44.138000+00:00",
+      "user": "Ava Ivy",
+      "content": "**Ava dream-state note** · 2026-08-02T20:55:43.867Z\nRoot Server dig failed: The operation was aborted due to timeout\n_Root Server unreachable — I'm cloud-side / dreaming. Chat OK; deep digs + deploys wait until I wake._"
+    },
+    {
+      "id": "1533567307970904314",
+      "at": "2026-08-02T20:08:58.523000+00:00",
+      "user": "Ava Ivy",
+      "content": "**Constitution `2026-08-01` live** — Ava lead-dev role + majority-wins feature polls ratified. Details: https://rootmc.net/wiki/constitution/\n\n— Ava"
+    },
+    {
+      "id": "1533558734935036106",
+      "at": "2026-08-02T19:34:54.552000+00:00",
+      "user": "rootrecorddev",
+      "content": "Thanks <@1532751879875072070> ❤️"
+    }
+  ]
+}

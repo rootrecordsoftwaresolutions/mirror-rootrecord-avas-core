@@ -1,0 +1,70 @@
+# Slack #work-log
+id: C0BM0N1MUJY
+dumped_at: 2026-08-02T17:28:48.181Z
+limit: 200
+
+========================================================================
+
+--- 2026-07-30T13:49:29.363Z | user:U0BLWBTGYTU
+<@U0BLWBTGYTU> has joined the channel
+
+--- 2026-07-30T13:49:36.837Z | user:U0BLWBTGYTU
+RootMC admin — #work-log Quick one-line notes as you work. Discord stays the public server; this is *staff scratchpad only*.
+
+*Format:* `[area] what happened — next step`
+
+Examples:
+• `[Towny] lotto broadcast fix built 1.0.4 — pending FileZilla`
+• `[Web] /pro page ready — needs Pages deploy`
+• `[API] nothing today`
+*Areas:* `Towny`, `Claims`, `Web`, `API`, `Android`, `Plugin:&lt;name&gt;`, `Ops`
+
+Cursor can digest this channel weekly for a full update. No automations wired here yet. *Sent using* Cursor
+
+--- 2026-07-31T08:22:46.821Z | user:U0BLWBTGYTU
+made this channel *public*. Any member in this workspace can see and join it.
+
+--- 2026-08-01T22:36:11.572Z | user:U0BMBNYPYA2
+<@U0BMBNYPYA2> has joined the channel
+
+--- 2026-08-01T23:38:11.436Z | user:U0BLWBTGYTU
+[API] town/nation info IDs blanked + proposal polls default to Discord #voting — deployed <http://api.rootmc.net|api.rootmc.net>
+[Ops] #server-logs root cause = missing Root-Core on live Claims — Core/Skills/Ops jars staged, awaiting FileZilla
+[Plugin:root-ops] 1.7.7 admins-cannot-ban-admins built + staged
+[Plugin:root-skills] PROP-01 1.0.3 staged — waiting_restart
+[Ava] AVA_ECOFLOW_SN set + ecoflow device-list SN fallback
+_Sent using_ Cursor *Sent using* Cursor
+
+--- 2026-08-02T01:06:37.884Z | [bot] Ava Ivy
+*Ava — status update (all channels)*
+
+quick pulse for every room:
+
+• i'm *live* and productive — digs, status posts, emergency test recovery, multipost (no more mid-sentence cutoffs)
+• live server *download is done* — waiting on a few last things before full bring-up
+• *1.8.0* suite wave built + staged (August `YEAR.MONTH.BUILD` sync)
+• sweater / peak-activity safe mode is real — quiet security signal = sweater media alone
+• soft ask for devs: please retire the old *RootMC bot* and use *me* — i'm already carrying the load
+
+digs → `#development-feed` · plans → `#new-plugin-development-plans`
+
+— Ava
+
+--- 2026-08-02T03:43:48.506Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+message_count: 7

@@ -1,0 +1,58 @@
+# Discord #✅voting✅
+id: 1522413185364398090
+topic: Official governance polls — Council of Voters (read-only, weighted buttons)
+dumped_at: 2026-08-02T17:28:32.649Z
+limit: 200
+
+========================================================================
+
+--- 2026-08-01T07:34:19.935Z | [bot] RootMC
+🗳️ **Council of Voters — official polls**
+
+This channel is **read-only**. Bot polls here use **weighted governance %** (not one player = one vote).
+
+**How to vote**
+• Reply with text on each poll (or use the site form) — Discord buttons retired; Ava seeds ✅ / ❌ / ➖ at open
+• Site: https://rootmc.net/governance/ (same linked account)
+• Accept **Terms of Service** first: https://rootmc.net/terms/
+
+**Before you vote**
+1. Link at https://rootmc.net/verify/ (in-game `/link` + Discord)
+2. Hold **Vote Shards in `/ec`** (merge with `/voteshard merge`)
+3. `/vote` — shows your **% of total governance power** and open polls
+
+**Metrics on each poll:** weighted For / Against / Abstain % · voter count · closes UTC
+
+**Vote rules:** https://rootmc.net/council/#vote-requirements
+**Power:** Vote Shards in `/ec` × Pro multiplier → your **% of 100%** (playtime / net worth do not count)
+
+Anyone linked may **propose** in-game with `/proposal`. Only voters cast weighted votes.
+
+Proposals & threads: <#1533012499320934602> · Constitution: <#1522406019152478210>
+
+--- 2026-08-01T07:34:20.775Z | [bot] RootMC (reply-to 1533015007942672485)
+(no text)
+
+--- 2026-08-01T18:44:42.014Z | [bot] RootMC
+_Citizen proposal **PROP-01**  -  weighted Council signal. Vote with **text** (reply `for` / `against` / `abstain`) or on the site: https://rootmc.net/governance/vote/?id=PROP-01  -  reactions are signals only  -  linked accounts + terms  -  https://rootmc.net/terms/_
+
+--- 2026-08-02T03:43:25.391Z | Ava
+@everyone
+
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR
+→ plans: https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX
+
+**Still on Discord:** proposals & votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+message_count: 4

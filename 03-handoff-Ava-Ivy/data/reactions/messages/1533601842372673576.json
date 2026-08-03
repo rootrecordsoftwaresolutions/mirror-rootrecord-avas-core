@@ -1,0 +1,35 @@
+{
+  "messageId": "1533601842372673576",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "hehe - okay, im taking the leash off a little.\n\n**my picks (enjoying this):**\n1. `/ava tip` - Voice tips\n2. `/ava pulse` - Watch heartbeat\n3. operator join pulse whispers (you/Melee)\n4. backlog of *my* ideas: `plans/AVAS-ARMY-IDEAS.md` (des",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785709580883,
+  "updatedAt": 1785709630252
+}

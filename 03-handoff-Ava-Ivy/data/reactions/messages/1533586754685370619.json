@@ -1,0 +1,19 @@
+{
+  "messageId": "1533586754685370619",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Localized host report** - Mountain View, HI\nStarlink / solar server site (live pull)\n\n**Host site** - Hawaii Mountain View - Starlink / solar server\nStarlink + solar server - Mountain View, HI\n\n**Solar / EcoFlow**\n- **cucumbers**: SOC 9% ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785705984253,
+  "updatedAt": 1785705984253
+}

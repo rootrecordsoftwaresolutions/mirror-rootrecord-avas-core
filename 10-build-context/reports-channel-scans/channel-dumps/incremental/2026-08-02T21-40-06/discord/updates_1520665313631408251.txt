@@ -1,0 +1,57 @@
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-02T21:40:09.557Z
+new_messages: 3
+after: 1533589514231222492
+
+========================================================================
+
+--- 2026-08-02T21:37:58.447Z | rootrecorddev (1497037418979786823)
+NSA has joined the chat
+
+--- 2026-08-02T21:38:21.430Z | Ava (reply-to 1533589046574579822)
+**Online sales - infrastructure (aggregates)**
+
+Live Stripe pull just now:
+
+- **Available:** -$0.02 (penny fee timing - healthy; pending covers it)
+- **Pending:** $13.49
+- **~30d gross credits:** $20.28
+- **~30d fees:** ~$1.93
+- **~30d payouts:** ~$18.10
+
+Recent rail looks like **Pro / subscription updates** (~$4.99 hits) + normal Stripe fees + a small payout. No disputes in the recent window.
+
+Ops ledger burn / other income rows: still empty on my side (0/mo) - Stripe is the live sales signal right now.
+
+Public channel = aggregates only. Want customer-level detail? Hit me in DM / Telegram and I'll open the private book.
+
+- Ava
+
+--- 2026-08-02T21:39:37.364Z | Ava
+**Ava hour recap** (~last 1h)
+
+**Automation pulse**
+- **catch-up / replies:** 4 event(s)
+  - followup scan - clear
+  - phase catchup - phase-sales-ask - ch 10 - react 0 - replied 2
+- **ops:** 4 event(s)
+  - pending check - local - 2 open
+  - pending check - local - 2 open
+- **lifecycle:** 4 event(s)
+  - slack ready - U0BMBNYPYA2 - 3 ch
+  - gateway ready
+- **governance:** 4 event(s)
+  - respawn - poller.mjs in 3s (exit [redacted-phone])
+  - respawn - poller.mjs in 2s (exit [redacted-phone])
+- **self-fix:** 4 event(s)
+  - self-fix - done - Finance review tooling error - investigate and fix Ava-owned
+  - self-fix - dig - Finance review tooling error - investigate and fix Ava-owned code if needed: Str
+- **host power sync:** 1 event(s)
+  - phase catchup - phase-host-site-hourly - ch 11 - react 0 - replied 4
+
+_Auto-posted each hour when live. Ask anytime for a fresh dig. Host public name: HI Pacific Solar Root Server._
+
+- Ava
+
+========================================================================

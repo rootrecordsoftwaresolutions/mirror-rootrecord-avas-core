@@ -1,0 +1,17 @@
+{
+  "messageId": "1532932095112904735",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "@everyone\\n**Root-Skills v1.0.1** is staged.\\n\\n21 skills + 21 talents, Retro XP tables, /skills hub, SHIFT+F loadout, migrator ready.\\nJar: oot-skills-1.0.1.jar on Claims / Towny / Test handoffs + heartbeat manifest.\\n\\nLive cutover still ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785626930950,
+  "updatedAt": 1785626930950
+}

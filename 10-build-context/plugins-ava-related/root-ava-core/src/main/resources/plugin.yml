@@ -1,0 +1,24 @@
+name: Root-Ava-Core
+version: '${version}'
+main: com.rootrecord.minecraft.rootavacore.RootAvaCorePlugin
+api-version: '26.1'
+description: Ava companion — status, Army, Phase 1 presence shell
+author: Root Record
+website: https://rootmc.net/plugins/
+depend: [Root-Core]
+softdepend: [FancyNpcs, Citizens]
+commands:
+  ava:
+    description: Ava companion status, Army, and presence
+    usage: /<command> [army|tip|pulse|rollcall|presence|help|reload]
+  solar:
+    description: HI Pacific Solar Root Server — live power + weather
+    usage: /<command>
+    permission: rootavacore.use
+permissions:
+  rootavacore.use:
+    description: Use /ava, /ava army, and /solar
+    default: true
+  rootavacore.admin:
+    description: Reload Root-Ava-Core and control presence
+    default: op

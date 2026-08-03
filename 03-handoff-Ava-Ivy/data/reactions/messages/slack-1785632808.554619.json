@@ -1,0 +1,40 @@
+{
+  "messageId": "slack-1785632808.554619",
+  "channelId": "C0BLY49H13M",
+  "surface": "slack",
+  "slackTs": "1785632808.554619",
+  "contentPreview": "*Ava — status update (all channels)*\n\nquick pulse for every room:\n\n• i'm *live* and productive — digs, status posts, emergency test recovery, multipost (no more mid-sentence cutoffs)\n• live server *download is done* — waiting on a few last ",
+  "byEmoji": {
+    "👀": 1,
+    "🙌": 1
+  },
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 2,
+    "all": 2
+  },
+  "reactors": {
+    "U0BLWBTGYTU": {
+      "userId": "U0BLWBTGYTU",
+      "username": null,
+      "emojis": {
+        "👀": {
+          "signal": "neutral",
+          "count": 1
+        },
+        "🙌": {
+          "signal": "neutral",
+          "count": 1
+        }
+      },
+      "good": 0,
+      "bad": 0,
+      "neutral": 2
+    }
+  },
+  "reactorCount": 1,
+  "label": "neutral",
+  "firstSeenAt": 1785642543558,
+  "updatedAt": 1785642543558
+}

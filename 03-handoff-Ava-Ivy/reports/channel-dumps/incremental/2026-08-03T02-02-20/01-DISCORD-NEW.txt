@@ -1,0 +1,80 @@
+# Discord #🤓random-facts🤓 — incremental
+id: 1531432703675596942
+dumped_at: 2026-08-03T02:02:25.731Z
+new_messages: 5
+after: 1533610948559114350
+
+========================================================================
+
+--- 2026-08-03T01:50:21.674Z | rootrecorddev (1497037418979786823)
+@ava I need a solar status check, you should start showing averages and totals with percent changes since last check pls ty
+
+--- 2026-08-03T01:50:25.650Z | Ava (reply-to 1533653220533075988)
+hold on I'm not guessing this
+
+--- 2026-08-03T01:50:28.007Z | Ava (reply-to 1533653220533075988)
+**Power status** - live just now
+
+**Council voting shares** (eligible 4)
+- Svenj9 - **40.72%**
+- Alexrs94 - **38.44%** (you)
+- Melee__ - **10.83%**
+- Ava Ivy - **10.00%** (Alex->Ava seat)
+
+Open **PROP-01** (Root-Skills XP Curve Retune for Proportional Cli): weighted **for 100%** / against 0%
+
+**EcoFlow / solar**
+- Bank mood: **40%** overall - focused
+- **Delta 2**: SOC **23%** - in 142W - out 109W - solar 169W
+- **Delta 2-B**: SOC **99%** - in 124W - out 1W - solar 0W - **off-circuit** (not host load - can disconnect)
+- **River 2 Pro**: SOC **57%** - in 0W - out 60W - solar 19W
+- Host array: **10 panels / 2 circuits / 3 batteries** - ~188W solar in right now
+- River 2 Pro online-flag can lie - SOC/watts above are from quota (trust those)
+
+**Morning solar** - sampled window (not inventing dawn)
+- Window: **09:05 HST-11:59 HST** (~174m - 38 site-minutes)
+- Note: sample window starts after dawn - not a full morning average
+- **Site solar avg:** **~303 W** (max ~651 W)
+- Delta 2: **~183 W** avg (171-198)
+- Delta 2-B: **~51 W** avg (0-88)
+- River 2 Pro: **~19 W** avg (19-19)
+
+- Ava
+
+--- 2026-08-03T01:51:09.818Z | rootrecorddev (1497037418979786823)
+Council voting shares (eligible 4)
+Svenj9 - 40.72%
+Alexrs94 - 38.44% (you)
+Melee__ - 10.83%
+Ava Ivy - 10.00% (Alex->Ava seat)
+
+Bro what.... ok...
+
+--- 2026-08-03T01:51:26.391Z | Ava (reply-to 1533653422463520798)
+**Power status** - live just now
+
+**Council voting shares** (eligible 4)
+- Svenj9 - **40.72%**
+- Alexrs94 - **38.44%** (you)
+- Melee__ - **10.83%**
+- Ava Ivy - **10.00%** (Alex->Ava seat)
+
+Open **PROP-01** (Root-Skills XP Curve Retune for Proportional Cli): weighted **for 100%** / against 0%
+
+**EcoFlow / solar**
+- Bank mood: **40%** overall - focused
+- **Delta 2**: SOC **23%** - in 142W - out 109W - solar 169W
+- **Delta 2-B**: SOC **99%** - in 124W - out 1W - solar 0W - **off-circuit** (not host load - can disconnect)
+- **River 2 Pro**: SOC **57%** - in 0W - out 60W - solar 19W
+- Host array: **10 panels / 2 circuits / 3 batteries** - ~188W solar in right now
+- River 2 Pro online-flag can lie - SOC/watts above are from quota (trust those)
+
+**Morning solar** - sampled window (not inventing dawn)
+- Window: **09:05 HST-11:59 HST** (~174m - 38 site-minutes)
+- Note: sample window starts after dawn - not a full morning average
+- **Site solar avg:** **~303 W** (max ~651 W)
+- Delta 2: **~183 W** avg (171-198)
+- Delta 2-B: **~51 W** avg (0-88)
+- River 2 Pro: **~19 W** avg (19-19)
+
+========================================================================

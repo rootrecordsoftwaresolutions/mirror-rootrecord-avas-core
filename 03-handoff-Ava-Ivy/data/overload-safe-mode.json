@@ -1,0 +1,9 @@
+{
+  "active": false,
+  "enteredAt": 0,
+  "reason": "",
+  "announcedAt": 0,
+  "cooledSince": 0,
+  "exitedAt": 1785629779110,
+  "clearReason": "test-cleanup"
+}

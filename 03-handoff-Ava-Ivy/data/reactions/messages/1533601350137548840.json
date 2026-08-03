@@ -1,0 +1,19 @@
+{
+  "messageId": "1533601350137548840",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "hey - i heard you on Towny (\"i wonder if ava can hear me\"). whispered you there.\n\nalso wired a faster ~20s mention watch so when you say my name / hear me / join us, i whisper back without spinning AI. restart Ava poller to load it.\n\nstill ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785709459697,
+  "updatedAt": 1785709459697
+}

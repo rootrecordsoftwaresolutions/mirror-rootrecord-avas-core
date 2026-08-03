@@ -1,0 +1,100 @@
+# Slack #server-logs — incremental
+id: C0BMX0QKSTS
+dumped_at: 2026-08-02T23:21:43.869Z
+new_messages: 3
+since: 1785711965.063299
+
+========================================================================
+
+--- 2026-08-02T23:06:05.013Z | [bot] incoming-webhook
+[2026-08-02T22:41:07.224Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T22:42:03.65Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=23 chunks=48 marketKeys=0 distinct=252
+[2026-08-02T22:42:03.753Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:43:03.78Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:44:03.696Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=23 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T22:44:03.784Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:44:04.113Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (253 items).
+[2026-08-02T22:45:03.767Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:46:03.582Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T22:46:03.755Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:46:03.773Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=23 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T22:46:07.065Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T22:46:07.181Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T22:47:03.802Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:48:03.647Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=22 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T22:48:03.766Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:48:04.156Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (253 items).
+[2026-08-02T22:49:03.74Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:50:03.648Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=1 containers=1011 skippedDupContainers=0 groundStacks=21 chunks=48 marketKeys=0 distinct=253
+[2026-08-02T22:50:03.797Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:50:46.195Z] [INFO] [Root-ItemInfo] Item census updated — reason=join players=2 containers=941 skippedDupContainers=0 groundStacks=20 chunks=48 marketKeys=0 distinct=262
+[2026-08-02T22:50:46.454Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (262 items).
+[2026-08-02T22:51:04.031Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T22:51:04.211Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T22:51:07.705Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T22:51:07.803Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T22:51:19.304Z] [INFO] [Votifier] Got a protocol v1 vote record from /34.239.107.144:44582 -&gt; Vote (from:<http://PlanetMinecraft.com|PlanetMinecraft.com> username:Melee__ address:34.239.107.144 timeStamp:1785711079 additionalData:null)
+[2026-08-02T22:51:19.331Z] [INFO] [Root-Play] Votifier vote received — player=Melee__ service=<http://PlanetMinecraft.com|PlanetMinecraft.com>
+[2026-08-02T22:51:19.381Z] [INFO] [Root-Play] Vote service normalized: <http://PlanetMinecraft.com|PlanetMinecraft.com> -&gt; planetminecraft
+[2026-08-02T22:51:19.564Z] [INFO] [Root-Play] Vote appreciation +1 queued/granted for Melee__ (vote #657)
+[2026-08-02T22:51:19.59Z] [INFO] [Root-Play] Vote shard +1 for Melee__ (vote #657)
+[2026-08-02T22:51:19.701Z] [WARNING] [Root-Play] Claims vote mirror failed for Melee__
+java.io.IOException: HTTP 502: error code: 502
+
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchangeOnce(CloudApiClient.java:1113)
+
+--- 2026-08-02T23:06:05.046Z | [bot] incoming-webhook
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchange(CloudApiClient.java:1080)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.post(CloudApiClient.java:1072)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.queueClaimsVoteCredit(CloudApiClient.java:538)
+	at root-play-1.8.0.jar//com.rootrecord.minecraft.rootrewards.service.VoteRewardService.mirrorVoteToClaims(VoteRewardService.java:173)
+	at root-play-1.8.0.jar//com.rootrecord.minecraft.rootrewards.service.VoteRewardService.lambda$handleVote$0(VoteRewardService.java:79)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+[2026-08-02T22:51:19.75Z] [INFO] [Root-Play] Vote reward +8.0 G to Melee__ (planetminecraft)
+[2026-08-02T22:51:25.305Z] [INFO] [Votifier] Got a protocol v1 vote record from /45.79.154.79:59658 -&gt; Vote (from:MinecraftServersList username:Melee__ address:192.226.222.12 timeStamp:1785711085 additionalData:null)
+[2026-08-02T22:51:25.331Z] [INFO] [Root-Play] Votifier vote received — player=Melee__ service=MinecraftServersList
+[2026-08-02T22:51:25.333Z] [INFO] [Root-Play] Vote service normalized: MinecraftServersList -&gt; <http://minecraftlist.org|minecraftlist.org>
+[2026-08-02T22:51:25.428Z] [INFO] [Root-Play] Vote appreciation +1 queued/granted for Melee__ (vote #658)
+[2026-08-02T22:51:25.458Z] [INFO] [Root-Play] Vote shard +1 for Melee__ (vote #658)
+[2026-08-02T22:51:25.561Z] [WARNING] [Root-Play] Claims vote mirror failed for Melee__
+java.io.IOException: HTTP 502: error code: 502
+
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchangeOnce(CloudApiClient.java:1113)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchange(CloudApiClient.java:1080)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.post(CloudApiClient.java:1072)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.queueClaimsVoteCredit(CloudApiClient.java:538)
+	at root-play-1.8.0.jar//com.rootrecord.minecraft.rootrewards.service.VoteRewardService.mirrorVoteToClaims(VoteRewardService.java:173)
+	at root-play-1.8.0.jar//com.rootrecord.minecraft.rootrewards.service.VoteRewardService.lambda$handleVote$0(VoteRewardService.java:79)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+[2026-08-02T22:51:25.581Z] [INFO] [Root-Play] Vote reward +3.0 G to Melee__ (<http://minecraftlist.org|minecraftlist.org>)
+[2026-08-02T22:51:31.177Z] [INFO] [Votifier] Got a protocol v1 vote record from /45.32.206.74:52292 -&gt; Vote (from:Minerank username:Melee__ address:127.0.0.1 timeStamp:1785711091 additionalData:null)
+[2026-08-02T22:51:31.18Z] [INFO] [Root-Play] Votifier vote received — player=Melee__ service=Minerank
+[2026-08-02T22:51:31.267Z] [INFO] [Root-Play] Vote appreciation +1 queued/granted for Melee__ (vote #659)
+[2026-08-02T22:51:31.289Z] [INFO] [Root-Play] Vote shard +1 for Melee__ (vote #659)
+[2026-08-02T22:51:31.385Z] [WARNING] [Root-Play] Claims vote mirror failed for Melee__
+java.io.IOException: HTTP 502: error code: 502
+
+
+--- 2026-08-02T23:06:05.063Z | [bot] incoming-webhook
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchangeOnce(CloudApiClient.java:1113)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.exchange(CloudApiClient.java:1080)
+	at rootmc-1.8.0.jar//com.rootrecord.minecraft.rootstat.cloud.CloudApiClient.post(CloudApiClient.java:10
+
+========================================================================

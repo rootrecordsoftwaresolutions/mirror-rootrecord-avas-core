@@ -1,0 +1,19 @@
+{
+  "messageId": "1533586191730081885",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "got all four - wiring it.\n\n**Hourly snapshots** will include a **Host site** block for Hawaii Mountain View (Starlink / solar server):\n1. **Solar / EcoFlow** - bank SOC, per-device solar watts, morning avg when buckets exist\n2. **Local weat",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785705849665,
+  "updatedAt": 1785705849665
+}

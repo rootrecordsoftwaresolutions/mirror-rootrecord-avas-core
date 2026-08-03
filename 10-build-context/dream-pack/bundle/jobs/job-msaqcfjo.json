@@ -1,0 +1,36 @@
+{
+  "id": "job-msaqcfjo",
+  "kind": "feature",
+  "status": "waiting_restart",
+  "title": "Gate implement_now: Root-Skills XP Curve Retune for Proportional Climb",
+  "proposalId": "PROP-01",
+  "channelId": "1522406451413385317",
+  "messageId": null,
+  "authorId": null,
+  "brief": "PROP-01 implemented as root-skills 1.0.2 — proportional formula + auto-migrate; jars staged on Claims/Towny/Test",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\PROP-01.md",
+  "createdAt": 1785610427318,
+  "updatedAt": 1785621900000,
+  "history": [
+    {
+      "at": 1785610427318,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785610427801,
+      "status": "staged",
+      "note": "governance implement_now — stage-only"
+    },
+    {
+      "at": 1785610427806,
+      "status": "waiting_restart",
+      "note": "awaiting human restart"
+    },
+    {
+      "at": 1785621900000,
+      "status": "waiting_restart",
+      "note": "1.0.2 built + handoff staged (formula 1.6/2.35/500); human FileZilla + Shockbyte restart"
+    }
+  ]
+}

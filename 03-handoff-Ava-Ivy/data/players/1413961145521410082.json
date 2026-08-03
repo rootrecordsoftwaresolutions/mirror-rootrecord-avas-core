@@ -1,0 +1,37 @@
+{
+  "discordId": "1413961145521410082",
+  "username": "lodge_0xcc7",
+  "firstSeenAt": 1785542648980,
+  "trust": 50,
+  "rudeness": 0,
+  "skepticism": 0,
+  "interests": [],
+  "notes": [
+    "figure-out-active"
+  ],
+  "samples": [
+    {
+      "at": 1785542648980,
+      "channel": "🖼️memes-and-media🖼️",
+      "text": "Happy weekend guys",
+      "source": "first-join-scout"
+    }
+  ],
+  "knownId": null,
+  "secrets": false,
+  "onboardingSentAt": 1785696697407,
+  "cursorRuns": 0,
+  "member": false,
+  "lastSeenAt": 1785696697407,
+  "seenCount": 1,
+  "channels": [
+    "🖼️memes-and-media🖼️"
+  ],
+  "tone": "default",
+  "figureOut": {
+    "active": true,
+    "startedAt": 1785696695144,
+    "factors": {}
+  },
+  "updatedAt": 1785696697407
+}

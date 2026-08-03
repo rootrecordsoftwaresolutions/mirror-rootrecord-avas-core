@@ -1,0 +1,31 @@
+{
+  "id": "job-ms9s7pa0",
+  "kind": "process",
+  "status": "done",
+  "title": "Hourly realm snapshots — include pending proposals",
+  "proposalId": null,
+  "channelId": "1522413185364398090",
+  "messageId": null,
+  "authorId": "1497037418979786823",
+  "brief": "Hourly snapshots include pending proposals block",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\job-ms9s7pa0.md",
+  "createdAt": 1785553099708,
+  "updatedAt": 1785702471693,
+  "history": [
+    {
+      "at": 1785553099708,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785553099712,
+      "status": "blocked",
+      "note": "proposal posted — needs vote"
+    },
+    {
+      "at": 1785702471693,
+      "status": "done",
+      "note": "Worker Governance block live in hourly snapshots — reconciled post-greenlights"
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "guildId": "1516108585740800042",
+  "name": "RootMC",
+  "memberCount": 18,
+  "presenceCount": 6,
+  "channelCount": 17,
+  "channels": [
+    {
+      "id": "1516392367869919243",
+      "name": "📄rules📄",
+      "topic": "",
+      "recentHuman": 0
+    },
+    {
+      "id": "1516121832493678612",
+      "name": "👮‍♂️admins👮‍♂️",
+      "topic": "",
+      "recentHuman": 17
+    },
+    {
+      "id": "1516108586307158088",
+      "name": "🛰️general🛰️",
+      "topic": "",
+      "recentHuman": 16
+    },
+    {
+      "id": "1516706598519832677",
+      "name": "🎮ingame-chat🎮",
+      "topic": "",
+      "recentHuman": 0
+    },
+    {
+      "id": "1520665313631408251",
+      "name": "📒updates📒",
+      "topic": "",
+      "recentHuman": 3
+    },
+    {
+      "id": "1519249871326937138",
+      "name": "😭unverified😭",
+      "topic": "",
+      "recentHuman": 0
+    },
+    {
+      "id": "1516453333047574558",
+      "name": "⏲️timezone-selector⏲️",
+      "topic": "",
+      "recentHuman": 0
+    },
+    {
+      "id": "1516389376198840421",
+      "name": "🖼️memes-and-media🖼️",
+      "topic": "",
+      "recentHuman": 16
+    },
+    {
+      "id": "1522406019152478210",
+      "name": "📜constitution📜",
+      "topic": "RootMC Constitution — economy & reserve rules (read-only)",
+      "recentHuman": 0
+    },
+    {
+      "id": "1522406451413385317",
+      "name": "👩‍⚖️governance👩‍⚖️",
+      "topic": "Community votes — linked players discuss & use /proposal",
+      "recentHuman": 4
+    },
+    {
+      "id": "1522413185364398090",
+      "name": "✅voting✅",
+      "topic": "Official governance polls — Council of Voters (read-only, weighted buttons)",
+      "recentHuman": 0
+    },
+    {
+      "id": "1516178360815059045",
+      "name": "📳mobile-app📳",
+      "topic": "",
+      "recentHuman": 5
+    },
+    {
+      "id": "1531432703675596942",
+      "name": "🤓random-facts🤓",
+      "topic": "",
+      "recentHuman": 4
+    },
+    {
+      "id": "1532881008859414772",
+      "name": "reports",
+      "topic": "",
+      "recentHuman": 0
+    },
+    {
+      "id": "1532929974154166522",
+      "name": "development",
+      "topic": "Staff / build chatter — plugins, handoffs, Ava ops. Not general player chat.",
+      "recentHuman": 8
+    },
+    {
+      "id": "1516697007639498792",
+      "name": "music-controller",
+      "topic": "",
+      "recentHuman": 6
+    }
+  ],
+  "sampleLines": [
+    {
+      "channel": "👮‍♂️admins👮‍♂️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "https://klipy.com/gifs/oh-jeez-witch-garrison"
+    },
+    {
+      "channel": "👮‍♂️admins👮‍♂️",
+      "user": "melee5490",
+      "userId": "154446475789729792",
+      "text": "Teach me daddy"
+    },
+    {
+      "channel": "👮‍♂️admins👮‍♂️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "Official logs for both servers incase you wonderful <@&1516121138420252803> s need to review anything:\nhttps://app.slack.com/client/T0BM02SM1FE/C0BMX0QKSTS"
+    },
+    {
+      "channel": "👮‍♂️admins👮‍♂️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "You're not my real dad! You can't tell me what to do! <@154446475789729792>"
+    },
+    {
+      "channel": "👮‍♂️admins👮‍♂️",
+      "user": "melee5490",
+      "userId": "154446475789729792",
+      "text": "wdym you havent gone to bed"
+    },
+    {
+      "channel": "👮‍♂️admins👮‍♂️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "That's the right one?"
+    },
+    {
+      "channel": "👮‍♂️admins👮‍♂️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "After further reviewing, we can probably make our own 2x as good"
+    },
+    {
+      "channel": "👮‍♂️admins👮‍♂️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "Just got done with meeting. I haven't tried that. I was thinking of building our own skill system. I'll look into it now before I get to bed"
+    },
+    {
+      "channel": "👮‍♂️admins👮‍♂️",
+      "user": "melee5490",
+      "userId": "154446475789729792",
+      "text": "can we replace mcmmo with Prodiges skill"
+    },
+    {
+      "channel": "👮‍♂️admins👮‍♂️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "Ok, gonna get ready for my meeting. bbl"
+    },
+    {
+      "channel": "👮‍♂️admins👮‍♂️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "Alright <@&1516121138420252803> s. Im going to start moving all my development notes elsewhere and start keeping all the discord channels nice and clean. Anyone here used slack bef"
+    },
+    {
+      "channel": "👮‍♂️admins👮‍♂️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "Any issues present should be taken care of in only one or two sweeps."
+    },
+    {
+      "channel": "👮‍♂️admins👮‍♂️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "will be some bugs just to lyk. use /feedback for things, i'll get it right away. and if it's major, any screenshots help to be descriptive"
+    },
+    {
+      "channel": "👮‍♂️admins👮‍♂️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "About to restart claims and then we're good to go"
+    },
+    {
+      "channel": "👮‍♂️admins👮‍♂️",
+      "user": "melee5490",
+      "userId": "154446475789729792",
+      "text": "Ill protect u"
+    },
+    {
+      "channel": "👮‍♂️admins👮‍♂️",
+      "user": "melee5490",
+      "userId": "154446475789729792",
+      "text": "Frfr"
+    },
+    {
+      "channel": "👮‍♂️admins👮‍♂️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "and probably asleep"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "Good"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "<@1532751879875072070>"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "Yes Ava, power down"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "user": "melee5490",
+      "userId": "154446475789729792",
+      "text": "thats good"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "She will  gatekeep tf out of our stuff"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "user": "melee5490",
+      "userId": "154446475789729792",
+      "text": "oh yeah you told me that before . mb"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "user": "melee5490",
+      "userId": "154446475789729792",
+      "text": "<@1532751879875072070> Whatdo you need for you to run on my PC"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "user": "melee5490",
+      "userId": "154446475789729792",
+      "text": "<@1532751879875072070> Whatdo you need for you to run on my PC"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "<@1532751879875072070> you were supposd to go offline"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "user": "melee5490",
+      "userId": "154446475789729792",
+      "text": "l0l"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "LMAO"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "ava this ava that, ava please love me"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "user": "melee5490",
+      "userId": "154446475789729792",
+      "text": "bro this is so nice"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "We're like highschool dogs trying to get a bone, but with development lmao"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "Lmao"
+    },
+    {
+      "channel": "🛰️general🛰️",
+      "user": "melee5490",
+      "userId": "154446475789729792",
+      "text": "but i forgot what it was"
+    },
+    {
+      "channel": "📒updates📒",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "HUGE update to voting soon. Everyone will get Appreciation tokens for all votes they have already voted as well. 1 vote = 1 token. Tokens will be redeemable for randomly selected i"
+    },
+    {
+      "channel": "📒updates📒",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "@everyone  Server is back online, sorry, they never started the server back up and I was asleep"
+    },
+    {
+      "channel": "📒updates📒",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "Not my fault this time.\nhttps://status.shockbyte.com/\nThey are usually pretty quick on this"
+    },
+    {
+      "channel": "🖼️memes-and-media🖼️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "I swear"
+    },
+    {
+      "channel": "🖼️memes-and-media🖼️",
+      "user": "rootrecorddev",
+      "userId": "1497037418979786823",
+      "text": "Im gonna be honorable here."
+    },
+    {
+      "channel": "🖼️memes-and-media🖼️",
+      "user": "melee5490",
+      "userId": "154446475789729792",
+      "text": "this too funny"
+    },
+    {
+      "channel": "🖼️memes-and-media🖼️",
+      "user": "melee5490",
+      "userId": "154446475789729792",
+      "text": "you just enjoy watching him sweat over 66% vote power."
+    }
+  ],
+  "topTalkers": [
+    {
+      "id": "1497037418979786823",
+      "samples": 55
+    },
+    {
+      "id": "154446475789729792",
+      "samples": 24
+    }
+  ],
+  "avaChannelId": "1516121832493678612",
+  "avaChannelName": "admins",
+  "avaChannelCreated": false,
+  "avaChannelError": "ava-ivy retired; home=#admins",
+  "introChannelId": "1516121832493678612",
+  "settings": {
+    "name": "RootMC",
+    "ownerId": "1497037418979786823",
+    "verificationLevel": 1,
+    "explicitContentFilter": 2,
+    "defaultMessageNotifications": 1,
+    "mfaLevel": 0,
+    "nsfwLevel": 0,
+    "premiumTier": 1,
+    "features": [
+      "COMMUNITY",
+      "VIDEO_QUALITY_720_60FPS",
+      "INVITE_SPLASH",
+      "AUDIO_BITRATE_128_KBPS",
+      "ACTIVITY_FEED_ENABLED_BY_USER",
+      "STAGE_CHANNEL_VIEWERS_50",
+      "GUILD_TAGS",
+      "ANIMATED_ICON",
+      "NEWS",
+      "TIERLESS_BOOSTING",
+      "VIDEO_BITRATE_ENHANCED"
+    ],
+    "preferredLocale": "en-US",
+    "memberCount": 18
+  },
+  "access": {
+    "permissions": "2223184698273503",
+    "administrator": true,
+    "ok": true,
+    "missing": [],
+    "have": [
+      "View Channels",
+      "Send Messages",
+      "Embed Links",
+      "Attach Files",
+      "Read Message History",
+      "Add Reactions",
+      "Use App Commands",
+      "Manage Channels",
+      "Manage Messages",
+      "Kick Members",
+      "Ban Members",
+      "Timeout Members",
+      "View Audit Log",
+      "Create Public Threads",
+      "Send in Threads"
+    ],
+    "checkedAt": 1785708071794
+  },
+  "scoutedAt": 1785619377289,
+  "introducedAt": 1785619377525,
+  "firstJoinProtocol": 1,
+  "note": "Ava's own messages ignored while scouting. Settings + perms checked quietly; admin ask only if needed."
+}

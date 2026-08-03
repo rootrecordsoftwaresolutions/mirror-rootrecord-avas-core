@@ -1,0 +1,15 @@
+{
+  "id": "host-site-primary-v1",
+  "label": "HI Pacific Solar Root Server",
+  "updated_at": "2026-08-02T21:36:00.000Z",
+  "locale": "HI Pacific",
+  "lat": 19.5558,
+  "lon": -155.1069,
+  "tz_offset_hours": -10,
+  "links": {
+    "starlink": true,
+    "solar": true,
+    "ecoflow": true
+  },
+  "notes": "Public name: HI Pacific Solar Root Server. Never publish the city. Weather uses private lat/lon for NWS."
+}

@@ -1,0 +1,31 @@
+﻿{
+    "id":  "job-ms9qhtmc",
+    "kind":  "process",
+    "status":  "staged",
+    "title":  "Move development chat to Slack (process)",
+    "proposalId":  null,
+    "channelId":  "1526664180491358419",
+    "messageId":  null,
+    "authorId":  "1532751879875072070",
+    "brief":  "Move staff/dev chat to Slack; Discord #development becomes pointer only",
+    "planFile":  "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\job-ms9qhtmc.md",
+    "createdAt":  1785550212661,
+    "updatedAt":  1785618780069,
+    "history":  [
+                    {
+                        "at":  1785550212661,
+                        "status":  "pending",
+                        "note":  "created"
+                    },
+                    {
+                        "at":  1785550212666,
+                        "status":  "blocked",
+                        "note":  "proposal posted â€” needs vote; Slack layout Ava-owned"
+                    },
+                    {
+                        "status":  "staged",
+                        "note":  "operator ship — Slack dig core; Discord #development pointer",
+                        "at":  1785618780069
+                    }
+                ]
+}

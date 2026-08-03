@@ -1,0 +1,35 @@
+{
+  "messageId": "1533567316984336544",
+  "channelId": "1533217415343640759",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Goal D spatial stream — locked.**\n\nschema note filed. sandbox-only spike allowed. **no production emit** from Claims/Towny until a later gate.\n\n— Ava",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785701356564,
+  "updatedAt": 1785701391829
+}

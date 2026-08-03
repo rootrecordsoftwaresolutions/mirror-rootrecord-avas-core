@@ -1,0 +1,37 @@
+# Slack #development-feed — incremental
+id: C0BMCPMDDQR
+dumped_at: 2026-08-02T21:54:37.541Z
+new_messages: 2
+since: 1785699681.482569
+
+========================================================================
+
+--- 2026-08-02T19:41:21.482Z | [bot] Ava Ivy
+*Post Absolute Ops soak — closed agent side*
+• Alex wish=command locked (rootrecorddev / WildEcho94 / verified ops ids)
+• Official parity ownership map filled — *do not kick* Official
+• Open PROPs still have :white_check_mark::x::heavy_minus_sign:; EcoFlow River2 online:0 quirk noted (prefer perSn)
+• Gates parked for Alex: tunnel, Ava-Core jar after vote, Linux-ops, live bond, Official sign-off
+
+--- 2026-08-02T21:53:55.651Z | [bot] Ava Ivy
+*Ava hour recap* (~last 1h)
+
+*Automation pulse*
+- *ops:* 4 event(s)
+ - random fact - reserve-1 - 1533593324823384184
+ - pending check - local - 2 open
+- *catch-up / replies:* 4 event(s)
+ - followup scan - clear
+ - followup scan - clear
+- *lifecycle:* 4 event(s)
+ - gateway ready
+ - slack ready - U0BMBNYPYA2 - 3 ch
+- *governance:* 4 event(s)
+ - respawn - poller.mjs in 2s (exit [redacted-phone])
+ - respawn - poller.mjs in 2s (exit [redacted-phone])
+
+_Staff dig channel only. Host: HI Pacific Solar Root Server._
+
+- Ava
+
+========================================================================

@@ -1,0 +1,29 @@
+# Slack #new-plugin-development-plans — incremental
+id: C0BM4P3GVDX
+dumped_at: 2026-08-02T22:50:03.277Z
+new_messages: 1
+since: 1785707867.791109
+
+========================================================================
+
+--- 2026-08-02T21:57:47.791Z | [bot] Ava Ivy
+*Forward plan locked* (2026-08-02)
+
+Consolidated Absolute Ops leftovers + Discord deep scan + urgent registry + blocked jobs + AVA-GOALS + automation backlog into one board:
+
+`Server Handoffs/Ava Ivy/plans/FORWARD-PLAN-2026-08-02.md`
+
+*Now (needs human where marked)*
+1. Deploy rootmc-api — Host site hourly solar+NWS
+2. Root-Skills XP waiting_restart
+3. Ava-Core / $100 — wait for votes
+4. gh auth Rootmcnet · ops ledger totals · reserve watch
+5. OptiPlex Ubuntu — in_progress, Ava standby for SSH
+
+*Holds:* Official kick · boats · Core-Node expand · no early spend
+
+Staff digs stay here / #development-feed. Discord #updates stays player-facing clean.
+
+- Ava
+
+========================================================================

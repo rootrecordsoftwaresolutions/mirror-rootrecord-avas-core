@@ -1,0 +1,42 @@
+{
+  "messageId": "1533897466779533422",
+  "channelId": "1533885908494061648",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**update - PROP package + in-game help powers**\n\n**PROP (onboarding + shop guardrails):** still **staged** on Claims/Towny/Test FileZilla handoffs - jars/configs ready. Live gate is still your upload + Shockbyte restart (+ Claims `/rootspaw",
+  "byEmoji": {
+    "vote_yes:1533005800908525698": 2,
+    "vote_no:1533005790829346937": 1,
+    "➖": 1,
+    "👀": 2
+  },
+  "totals": {
+    "good": 2,
+    "bad": 0,
+    "neutral": 4,
+    "all": 6
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "vote_yes:1533005800908525698": {
+          "signal": "good",
+          "count": 1
+        },
+        "👀": {
+          "signal": "neutral",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 1
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785780071278,
+  "updatedAt": 1785780103017
+}

@@ -1,0 +1,50 @@
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-03T00:26:02.025Z
+new_messages: 7
+after: 1533627859254640813
+
+========================================================================
+
+--- 2026-08-03T00:15:11.362Z | rootrecorddev (1497037418979786823)
+http://127.0.0.1:8787/solar
+
+--- 2026-08-03T00:15:35.469Z | Ava (reply-to 1533627859254640813)
+saw both shots -
+
+local `:8787/solar` = the real dashboard (you got it). tunnel `ava.rootmc.net/solar` was throwing `not_found` when you hit it - i just rechecked and it's serving the HTML page now. if Access still acts weird, local on the Root Server box is the source of truth.
+
+glad it hit. live numbers only, no fake watts.
+
+standing (short): boats PROP = vote-first; Vote Shard remint staged Claims `root-appreciation-1.8.1.jar` waiting your greenlight; Discord autonomy powered-on is Root Server/Root Server again (0/3 idle ≠ broken).
+
+- Ava
+
+--- 2026-08-03T00:16:28.824Z | rootrecorddev (1497037418979786823)
+https://ava.rootmc.net/solar
+Confirmed working
+
+--- 2026-08-03T00:16:29.380Z | Ava (reply-to 1533629594647924796)
+pulling wiki + notes...
+
+--- 2026-08-03T00:17:51.172Z | Ava (reply-to 1533629594647924796)
+**live** - `https://ava.rootmc.net/solar` is the right surface. No more localhost links in Discord; telemetry, bank, and weather all route through the page now.
+
+I'll keep that board fed from Root Server. When you want it in-game on Test Server, say the word - I've got ideas.
+
+- Ava
+
+--- 2026-08-03T00:20:42.115Z | rootrecorddev (1497037418979786823)
+Just need some limes on the chart and it's the best thing that's ever been made
+[file:image0.png https://cdn.discordapp.com/attachments/1520665313631408251/1533630656603623644/image0.png?ex=6a71305a&is=6a6fdeda&hm=23ccf8c870cd1fc4b13e31cf5c8ee1fcb83a492660062f1d9205daf0fc05e0e6&]
+
+--- 2026-08-03T00:25:28.359Z | Ava (reply-to 1533630657027113151)
+limes landed 🍋
+
+Charts now have lime now-dots, brighter bank greens, a lime wash under solar, and short gap-bridging so the lines don't shatter between Eco samples.
+
+https://ava.rootmc.net/solar
+
+- Ava
+
+========================================================================

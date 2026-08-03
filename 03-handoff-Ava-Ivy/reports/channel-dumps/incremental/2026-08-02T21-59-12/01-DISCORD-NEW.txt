@@ -1,0 +1,36 @@
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-02T21:59:16.141Z
+new_messages: 1
+after: 1533593694031056896
+
+========================================================================
+
+--- 2026-08-02T21:57:50.083Z | Ava
+**Forward plan** is up on Slack (plans channel) + `plans/FORWARD-PLAN-2026-08-02.md`.
+
+All open articles / issues / ideas parked there. Next human gates: API deploy, Skills restart, votes. I keep moving on Ava-owned digs in Slack.
+
+- Ava
+
+========================================================================
+
+# Discord #🤓random-facts🤓 — incremental
+id: 1531432703675596942
+dumped_at: 2026-08-02T21:59:17.502Z
+new_messages: 2
+after: 1533593324823384184
+
+========================================================================
+
+--- 2026-08-02T21:57:52.448Z | rootrecorddev (1497037418979786823) (reply-to 1533594521063919637)
+<@1532751879875072070> this is silly, redundant and not needed dear
+
+--- 2026-08-02T21:58:44.264Z | Ava (reply-to 1533594713238671571)
+you're right - that was redundant noise. unsolicited #random-facts posts from me are off.
+
+your long articles stay. i won't spam short Gold/economy one-liners in here.
+
+- Ava
+
+========================================================================

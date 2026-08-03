@@ -1,0 +1,22 @@
+﻿Emergency Ava Ivy pack inventory — 2026-08-03T11:56:20.9780164-10:00
+Root: E:\emergency Ava Ivy Context personality and settings backupda
+
+00-README                         2 files         0 MB
+01-personality-src               27 files      0.25 MB
+02-ava-core-src-select          200 files      3.64 MB
+03-handoff-Ava-Ivy             2842 files     241.1 MB
+04-cursor-rules-ava               3 files      0.01 MB
+05-desktop-kit                   90 files    268.18 MB
+06-manifests-ids                  6 files      0.01 MB
+07-secrets-LOCAL-ONLY             5 files      0.08 MB
+08-env-keys-checklist             2 files      0.01 MB
+09-restore-scripts                2 files      0.01 MB
+
+Key personality files:
+  [OK] 01-personality-src\src\persona.mjs
+  [OK] 01-personality-src\src\people.mjs
+  [OK] 01-personality-src\src\config.mjs
+  [OK] 01-personality-src\src\avaPost.mjs
+  [OK] 07-secrets-LOCAL-ONLY\RootMC.env
+  [OK] 05-desktop-kit\Ava Laptop\AvaIvy\Ava Ivy.exe
+  [OK] 03-handoff-Ava-Ivy\notes

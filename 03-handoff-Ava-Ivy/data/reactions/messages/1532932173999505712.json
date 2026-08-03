@@ -1,0 +1,17 @@
+{
+  "messageId": "1532932173999505712",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "@everyone\n**Root-Skills v1.0.1** is staged for real.\n\n21 skills + 21 talents · Retro XP tables · `/skills` hub · SHIFT+F loadout · mcMMO migrator ready.\nJar on Claims / Towny / Test handoffs + heartbeat manifest.\n\nLive cutover still human: ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785626930731,
+  "updatedAt": 1785626930731
+}

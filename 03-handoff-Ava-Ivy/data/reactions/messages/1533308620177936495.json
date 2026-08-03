@@ -1,0 +1,40 @@
+{
+  "messageId": "1533308620177936495",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Good — you're locked in on Pro, so no pitch from me. Thanks for having my back on the build side. <:ava_wave:1533005773565591614>",
+  "byEmoji": {
+    "❤": 1,
+    "🤙": 1
+  },
+  "totals": {
+    "good": 2,
+    "bad": 0,
+    "neutral": 0,
+    "all": 2
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        },
+        "🤙": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 2,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785639666968,
+  "updatedAt": 1785640348372
+}

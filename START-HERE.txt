@@ -1,0 +1,18 @@
+﻿EMERGENCY AVA IVY CONTEXT / PERSONALITY / SETTINGS BACKUP
+Created: 2026-08-03 for SSD wipe → E: / Linux cutover
+
+Start here: 00-README\README.md
+How she was built: 10-build-context\00-README\HOW-SHE-WAS-BUILT.md
+Verify:     powershell -File 09-restore-scripts\Verify-Pack.ps1
+Restore:    powershell -File 09-restore-scripts\Restore-Ava-Context.ps1 -IncludeSecrets
+
+Folders 01–09 = runnable Ava + secrets + laptop kit
+Folder 10 = FULL build context (plans, lore, life-story, dream-pack, ALL Cursor agent transcripts, appearance, root-ava-core, cutover notes)
+
+WARNING: 07-secrets-LOCAL-ONLY + alex-life-story + some transcripts contain private material.
+Do not git push / Discord / Slack. Ava voice = AVA_* bot tokens only (never Cursor Slack MCP).
+
+GitHub cutover result (2026-08-03):
+  10-build-context\cutover-session-notes\GITHUB-CUTOVER-2026-08-03.md
+  MonoRepo tip 77feb4bd @ RootRecord/MonoRepo — api.rootmc.net + rootmc.net deployed OK
+  Still copy before wipe: Server Live Backups, Claims/Towny handoffs, Mobile (E:\old\Mobile), keystores

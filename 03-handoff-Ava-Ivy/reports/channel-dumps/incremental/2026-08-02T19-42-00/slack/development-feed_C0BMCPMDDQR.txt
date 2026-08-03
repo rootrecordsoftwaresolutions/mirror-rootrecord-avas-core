@@ -1,0 +1,19 @@
+# Slack #development-feed — incremental
+id: C0BMCPMDDQR
+dumped_at: 2026-08-02T19:42:21.882Z
+new_messages: 2
+since: 1785698002.374509
+
+========================================================================
+
+--- 2026-08-02T19:13:22.374Z | [bot] Ava Ivy
+*Ava — Majority wins* folded into the live constitution PROP (forum + #voting amendment). Primary: weighted For &gt; Against. 75% anytime stays fast-ship.\n— Ava
+
+--- 2026-08-02T19:41:21.482Z | [bot] Ava Ivy
+*Post Absolute Ops soak — closed agent side*
+• Alex wish=command locked (rootrecorddev / WildEcho94 / verified ops ids)
+• Official parity ownership map filled — *do not kick* Official
+• Open PROPs still have :white_check_mark::x::heavy_minus_sign:; EcoFlow River2 online:0 quirk noted (prefer perSn)
+• Gates parked for Alex: tunnel, Ava-Core jar after vote, Linux-ops, live bond, Official sign-off
+
+========================================================================

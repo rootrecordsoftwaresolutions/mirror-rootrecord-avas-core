@@ -1,0 +1,17 @@
+{
+  "messageId": "1533250035104354397",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "@everyone\n**Claims boot report** · 2026-08-01 ~12:27 HST · Paper `26.2-62` (25 builds behind)\n\nRestart completed. Server reached **Done (13.095s)**. Core Claims loop is up — the plugin suite is **not** fully healthy yet.\n\n### What came up c",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785626923635,
+  "updatedAt": 1785626923635
+}

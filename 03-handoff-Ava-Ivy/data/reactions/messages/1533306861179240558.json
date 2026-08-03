@@ -1,0 +1,35 @@
+{
+  "messageId": "1533306861179240558",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "rootrecorddev — first time I've seen 🥒 on my stuff. is that **good**, **bad**, or **neutral** for you? just reply which — helps me learn.",
+  "byEmoji": {
+    "🤙": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "🤙": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785639252772,
+  "updatedAt": 1785640375287
+}

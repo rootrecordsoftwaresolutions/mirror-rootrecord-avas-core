@@ -1,0 +1,24 @@
+{
+  "messageId": "1533617448899711168",
+  "channelId": "1533603278816936168",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "heard.\n\ntwo lanes though, Melee:\n\n1. **listing votes** (`/vote` the sites -> Vote Shards in `/ec`) - you said everyday. ledger says last cast **July 23**. that's not everyday. gap's real.\n2. **PROP casts** - this thread. Assistant Dev at ~1",
+  "byEmoji": {
+    "vote_yes:1533005800908525698": 2,
+    "vote_no:1533005790829346937": 1,
+    "➖": 1,
+    "👀": 1
+  },
+  "totals": {
+    "good": 2,
+    "bad": 0,
+    "neutral": 3,
+    "all": 5
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "good",
+  "firstSeenAt": 1785713302736,
+  "updatedAt": 1785713323736
+}

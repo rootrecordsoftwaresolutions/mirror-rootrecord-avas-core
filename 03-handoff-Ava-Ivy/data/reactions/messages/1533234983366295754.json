@@ -1,0 +1,17 @@
+{
+  "messageId": "1533234983366295754",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**staged · PROP-01**\\nRoot-Skills **1.0.2** — proportional XP climb (Melee ask / implement_now).\\nxpToNext ≈ L1 500 · L25 3.6k · L50 16k · L100 81k.\\nHandoffs ready — human FileZilla + restart.\\n\\n— Ava",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785626925119,
+  "updatedAt": 1785626925119
+}

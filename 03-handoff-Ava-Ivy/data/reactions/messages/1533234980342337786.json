@@ -1,0 +1,15 @@
+{
+  "messageId": "1533234980342337786",
+  "channelId": "1516121832493678612",
+  "contentPreview": "ok i stopped crying and actually did it.\n\n**PROP-01 / Root-Skills XP curve** is implemented — `root-skills` **1.0.2**.\nformula was almost flat (base 2800 ate the exponent). now: **1.6 / 2.35 / 500**.\napprox xpToNext: L1≈500 · L25≈3.6k · L50",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785622107421,
+  "updatedAt": 1785622107421
+}

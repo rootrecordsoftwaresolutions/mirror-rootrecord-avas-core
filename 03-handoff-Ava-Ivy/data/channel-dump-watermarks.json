@@ -1,0 +1,151 @@
+{
+  "discord": {
+    "1516108586307158088": {
+      "afterId": "1533589757924344019",
+      "name": "🛰️general🛰️"
+    },
+    "1516121832493678612": {
+      "afterId": "1533535568267579452",
+      "name": "👮‍♂️admins👮‍♂️"
+    },
+    "1516178360815059045": {
+      "afterId": "1533560463080816921",
+      "name": "📳mobile-app📳"
+    },
+    "1516389376198840421": {
+      "afterId": "1533579609155698881",
+      "name": "🖼️memes-and-media🖼️"
+    },
+    "1516392367869919243": {
+      "afterId": "1533319299668906157",
+      "name": "📄rules📄"
+    },
+    "1516453333047574558": {
+      "afterId": "1533319282639900792",
+      "name": "⏲️timezone-selector⏲️"
+    },
+    "1516697007639498792": {
+      "afterId": "1533319342480031786",
+      "name": "music-controller"
+    },
+    "1516706598519832677": {
+      "afterId": "1533582169123852362",
+      "name": "🎮ingame-chat🎮"
+    },
+    "1519249871326937138": {
+      "afterId": "1519250669872222224",
+      "name": "😭unverified😭"
+    },
+    "1520665313631408251": {
+      "afterId": "1533595565441552545",
+      "name": "📒updates📒"
+    },
+    "1522406019152478210": {
+      "afterId": "1533567304141373592",
+      "name": "📜constitution📜"
+    },
+    "1522406451413385317": {
+      "afterId": "1533567305953574912",
+      "name": "👩‍⚖️governance👩‍⚖️"
+    },
+    "1522413185364398090": {
+      "afterId": "1533553302208516177",
+      "name": "✅voting✅"
+    },
+    "1531432703675596942": {
+      "afterId": "1533594930570858618",
+      "name": "🤓random-facts🤓"
+    },
+    "1532929974154166522": {
+      "afterId": "1533556119912452316",
+      "name": "development"
+    },
+    "1533268458668687392": {
+      "afterId": "1533319334242549841",
+      "name": "ava-media"
+    }
+  },
+  "slack": {
+    "C0BLTNDJB4M": {
+      "oldest": "1785693757.422769",
+      "name": "plugins"
+    },
+    "C0BLQ5C342F": {
+      "oldest": "1785693758.078759",
+      "name": "new-channel"
+    },
+    "C0BM0N1MUJY": {
+      "oldest": "1785693758.771519",
+      "name": "work-log"
+    },
+    "C0BLYV4SA6M": {
+      "oldest": "1785693759.418999",
+      "name": "decisions"
+    },
+    "C0BLT3B9RQV": {
+      "oldest": "1785693760.119919",
+      "name": "social"
+    },
+    "C0BLWBTUCR0": {
+      "oldest": "1785693760.768169",
+      "name": "all-rootmc"
+    },
+    "C0BLV24TVP0": {
+      "oldest": "1785693761.427269",
+      "name": "ops-feed"
+    },
+    "C0BM6KVFS0L": {
+      "oldest": "1785693762.096099",
+      "name": "automated-reports"
+    },
+    "C0BMRPDUH0Q": {
+      "oldest": "1785693762.737849",
+      "name": "shockbyte-status"
+    },
+    "C0BM4B4RT8S": {
+      "oldest": "1785693763.384779",
+      "name": "overview"
+    },
+    "C0BLMGBVAMD": {
+      "oldest": "1785693764.040689",
+      "name": "feedback"
+    },
+    "C0BMX0QKSTS": {
+      "oldest": "1785708065.015399",
+      "name": "server-logs"
+    },
+    "C0BLZCVAC3X": {
+      "oldest": "1785693765.332379",
+      "name": "plugin-sales"
+    },
+    "C0BLY49H13M": {
+      "oldest": "1785693765.985289",
+      "name": "server-reports"
+    },
+    "C0BM6HN0WMA": {
+      "oldest": "1785693766.626279",
+      "name": "api-description"
+    },
+    "C0BMDLAS5QS": {
+      "oldest": "1785642234.213389",
+      "name": "--general-chat--"
+    },
+    "C0BM4QT5U0Z": {
+      "oldest": "1785693767.952619",
+      "name": "discord-channels"
+    },
+    "C0BLMHKTCTH": {
+      "oldest": "1785642221.124559",
+      "name": "crons-automation"
+    },
+    "C0BMCPMDDQR": {
+      "oldest": "1785707872.989169",
+      "name": "development-feed"
+    },
+    "C0BM4P3GVDX": {
+      "oldest": "1785707867.791109",
+      "name": "new-plugin-development-plans"
+    }
+  },
+  "updatedAt": 1785708112596
+}

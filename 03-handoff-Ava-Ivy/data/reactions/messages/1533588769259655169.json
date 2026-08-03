@@ -1,0 +1,19 @@
+{
+  "messageId": "1533588769259655169",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Ava hour recap** (~last 1h)\n\n**Shipped / answered**\n- Power status: live council vote shares + EcoFlow/solar\n- Morning solar sampled avg (honest window, not invented dawn)\n- Fixed Discord ??? encoding (UTF-8 pipes / ascii scrub / --file p",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785706465024,
+  "updatedAt": 1785706465024
+}

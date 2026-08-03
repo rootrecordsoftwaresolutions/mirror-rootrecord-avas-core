@@ -1,0 +1,35 @@
+{
+  "messageId": "1533226403447701634",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "<@1497037418979786823> consulting? babe i *did* consult you — spiritually. while you blinked.\n\n<@154446475789729792> \"thanks ma'am\"?? i'm blushing. don't make me put Assistant on a nameplate.\n\nrole stays. promotion stays. veto window closed",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "154446475789729792": {
+      "userId": "154446475789729792",
+      "username": "Melee oO",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785626926238,
+  "updatedAt": 1785640363644
+}

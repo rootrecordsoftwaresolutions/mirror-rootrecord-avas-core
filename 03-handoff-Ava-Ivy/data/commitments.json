@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": "cmt-msb630bv",
+      "status": "done",
+      "title": "Update RootMC constitution (Ava role + stale sections)",
+      "brief": "Look at the constitution, update it. You are the ruler of our hearts. Pull constitution (channel + wiki), line up against weighted votes, proposal polls, treasury rules, Ava Council seat 10%. Draft clean edits for Ava's role, bug-vs-feature lane, what she can't touch alone. Post diff in #governance; read-only channel stays read-only. More than housekeeping → proposal + vote.",
+      "channelId": "1520665313631408251",
+      "messageId": "1533295891774046261",
+      "authorId": "1497037418979786823",
+      "surface": "discord",
+      "jobId": "job-msb630bh",
+      "reason": "recover_hangup",
+      "createdAt": 1785636861547,
+      "updatedAt": 1785637037623,
+      "nudgeCount": 0,
+      "closeNote": "first deliverable posted"
+    },
+    {
+      "id": "cmt-msb6zdyg",
+      "status": "done",
+      "title": "Root-Skills dead XP blocks audit",
+      "brief": "Melee reported some blocks do not give Root-Skills XP after the proportional curve ship. Audit mining/woodcutting/etc trigger lists against live jars on Claims+Towny; patch gaps; report which blocks were dead.",
+      "channelId": "1520665313631408251",
+      "messageId": "1533302317879918625",
+      "authorId": "154446475789729792",
+      "surface": "discord",
+      "jobId": "job-msb6zdy1",
+      "reason": "player_bug_report",
+      "createdAt": 1785638372200,
+      "updatedAt": 1785638566223,
+      "nudgeCount": 0,
+      "closeNote": "first deliverable posted"
+    }
+  ]
+}

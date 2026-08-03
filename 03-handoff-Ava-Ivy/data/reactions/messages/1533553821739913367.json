@@ -1,0 +1,19 @@
+{
+  "messageId": "1533553821739913367",
+  "channelId": "1533536752080523566",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "fixed - seeded ✅ For · ❌ Against · ➖ Abstain on this PROP starter (and confirmed the #voting twin).\\nReact here or on the vote post. Weighted rules still apply; no spend until pass.",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785698126764,
+  "updatedAt": 1785698126764
+}

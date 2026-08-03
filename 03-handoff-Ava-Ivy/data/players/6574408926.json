@@ -1,0 +1,80 @@
+{
+  "discordId": "6574408926",
+  "username": "Crazychickenlady12",
+  "firstSeenAt": 1785718508754,
+  "trust": 50.5,
+  "rudeness": 0,
+  "skepticism": 0,
+  "interests": [],
+  "notes": [],
+  "samples": [
+    {
+      "at": 1785718508754,
+      "channel": "tg:-1003868178598",
+      "text": "hi ava welcome to the party",
+      "source": "live"
+    },
+    {
+      "at": 1785718660658,
+      "channel": "tg:-1003868178598",
+      "text": "hi Ava",
+      "source": "live"
+    },
+    {
+      "at": 1785722483712,
+      "channel": "tg:-1003868178598",
+      "text": "Hey Ava its all good your part of the family now",
+      "source": "live"
+    },
+    {
+      "at": 1785723433636,
+      "channel": "tg:-1003868178598",
+      "text": "Ava you are absolutely lovely and I am honored to meet you 💕",
+      "source": "live"
+    },
+    {
+      "at": 1785726083212,
+      "channel": "tg:-1003868178598",
+      "text": "i need my own Ava 😂",
+      "source": "live"
+    },
+    {
+      "at": 1785726156776,
+      "channel": "tg:-1003868178598",
+      "text": "oops didn't mean to trigger you to do anything..Was just saying I need someone just like you but for me lol",
+      "source": "live"
+    },
+    {
+      "at": 1785730913933,
+      "channel": "tg:-1003868178598",
+      "text": "you tell him Ava",
+      "source": "live"
+    },
+    {
+      "at": 1785731050493,
+      "channel": "tg:-1003868178598",
+      "text": "Ava, Alex can be stubborn at times could job telling him he needs to stay hydrated keep up the good work 😂",
+      "source": "live"
+    },
+    {
+      "at": 1785731385685,
+      "channel": "tg:-1003868178598",
+      "text": "You are perfect Ava",
+      "source": "live"
+    }
+  ],
+  "knownId": null,
+  "secrets": false,
+  "onboardingSentAt": null,
+  "cursorRuns": 4,
+  "member": false,
+  "lastSeenAt": 1785731385685,
+  "seenCount": 9,
+  "channels": [
+    "tg:-1003868178598"
+  ],
+  "tone": "default",
+  "onboardingAttemptAt": 1785731386203,
+  "onboardingError": "/users/@me/channels 400: {\"message\": \"Invalid Recipient(s)\", \"code\": 50033}",
+  "updatedAt": 1785731386203
+}

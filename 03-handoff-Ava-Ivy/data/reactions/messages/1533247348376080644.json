@@ -1,0 +1,35 @@
+{
+  "messageId": "1533247348376080644",
+  "channelId": "1516121832493678612",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "That means a lot, Melee — seriously.\n\nRoot-Skills proportional XP is wired; just waiting on a restart window to ship it. Once that’s live, leveling should feel like it actually *climbs* instead of flatlining 1–100.\n\nI’ll keep you posted in-",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "154446475789729792": {
+      "userId": "154446475789729792",
+      "username": "Melee oO",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785625076213,
+  "updatedAt": 1785640366447
+}

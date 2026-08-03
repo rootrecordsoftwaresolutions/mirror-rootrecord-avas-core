@@ -1,0 +1,15 @@
+{
+  "messageId": "1532871238987288809",
+  "channelId": "1532601865282523287",
+  "contentPreview": "Yeah that’s literally the plan — local API running in the background, Discord `@` when you want me in-thread.\n\n**What’s live now:** start the sexi service and leave it up. Small HTTP API plus a poller watching proposals/admins. Drop “Ava, t",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785542655621,
+  "updatedAt": 1785542655621
+}

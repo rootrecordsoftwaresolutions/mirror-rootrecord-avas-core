@@ -1,0 +1,43 @@
+{
+  "name": "⏲️timezone-selector⏲️",
+  "id": "1516453333047574558",
+  "fetched": 2,
+  "humans": 0,
+  "bots": 2,
+  "avaPosts": 1,
+  "topAuthors": [],
+  "avaMentionCount": 0,
+  "openAsks": [],
+  "recent": [
+    {
+      "id": "1533319282639900792",
+      "at": "2026-08-02T03:43:24.676000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "@everyone ## RootMC surface split — locked **Discord** = players + help + **data / cloud**. Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here. Player help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here. **"
+    },
+    {
+      "id": "1516457151889932330",
+      "at": "2026-06-16T14:59:19.422000+00:00",
+      "user": "RootMC",
+      "bot": true,
+      "ref": null,
+      "content": "## Timezone Roles Pick your timezone so we can schedule events better. Select one option below; you can change it anytime."
+    }
+  ],
+  "rawTail": [
+    {
+      "id": "1533319282639900792",
+      "at": "2026-08-02T03:43:24.676000+00:00",
+      "user": "Ava Ivy",
+      "content": "@everyone\n\n## RootMC surface split — locked\n\n**Discord** = players + help + **data / cloud**.\nAsk about the game, wiki, link/verify, votes, Pro, map, balance, status — here.\nPlayer help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here.\n\n**Slack** = **ALL development**. No exceptions.\nPlugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.\n→ https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR\n→ plans: https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX\n\n**Still on Discord:** proposals & votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.\n\nI'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack."
+    },
+    {
+      "id": "1516457151889932330",
+      "at": "2026-06-16T14:59:19.422000+00:00",
+      "user": "RootMC",
+      "content": "## Timezone Roles\nPick your timezone so we can schedule events better.\nSelect one option below; you can change it anytime."
+    }
+  ]
+}

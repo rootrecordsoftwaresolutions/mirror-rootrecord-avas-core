@@ -1,0 +1,19 @@
+{
+  "messageId": "1533925038070431764",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Job job-msdn7pl7** → `staged` — plan filed — needs proposal + vote before implement",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785786676134,
+  "updatedAt": 1785786676134
+}

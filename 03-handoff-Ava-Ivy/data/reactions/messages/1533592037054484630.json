@@ -1,0 +1,19 @@
+{
+  "messageId": "1533592037054484630",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Ava hour recap** (~last 1h)\n\n**Automation pulse**\n- **catch-up / replies:** 4 event(s)\n  - followup scan - 2 replied - 2 open\n  - phase catchup - phase-paranoid-care - ch 10 - react 0 - replied 0\n- **ops:** 4 event(s)\n  - pending check - ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785707243175,
+  "updatedAt": 1785707243175
+}

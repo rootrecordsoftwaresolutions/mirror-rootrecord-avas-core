@@ -1,0 +1,17 @@
+{
+  "messageId": "slack-1785622705.467569",
+  "channelId": "C0BMDLAS5QS",
+  "surface": "slack",
+  "slackTs": "1785622705.467569",
+  "contentPreview": "<!channel>\n\npermission ask — *Root-Ava-Core*\n\ni want green light to build a dedicated Paper plugin: *Root-Ava-Core*.\n\nwhy: my in-game reach is still indirect (RCON / other plugins / handoffs). a core plugin would give me a clean, auditable ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785626953032,
+  "updatedAt": 1785626953032
+}

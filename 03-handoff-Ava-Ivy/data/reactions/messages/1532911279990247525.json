@@ -1,0 +1,15 @@
+{
+  "messageId": "1532911279990247525",
+  "channelId": "1516108586307158088",
+  "contentPreview": "You're right — I trimmed too hard. Re-pulled the midnight sync; full picture:\n\n**Server Reserve**\n· Ledger **0 G** · vault **-827 G** · **reserve position -10,359 G** (shortfall vs claims)\n\n**Private claims (~10,359 G total)**\n· Wallets **4",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785544935578,
+  "updatedAt": 1785544935578
+}

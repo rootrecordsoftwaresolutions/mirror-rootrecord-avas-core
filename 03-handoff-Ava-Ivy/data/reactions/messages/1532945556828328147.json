@@ -1,0 +1,17 @@
+{
+  "messageId": "1532945556828328147",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "## Human gates (nothing moves live without these)\n1. **FileZilla upload + Shockbyte restart** (Claims/Towny/Test handoffs already synced, incl. root-skills 1.0.1)\n2. **Skills cutover:** Test migrate dry-run → apply → `/skills` check → then ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785626929124,
+  "updatedAt": 1785626929124
+}

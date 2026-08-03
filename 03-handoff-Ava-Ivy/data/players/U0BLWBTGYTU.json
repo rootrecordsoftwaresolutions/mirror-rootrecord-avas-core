@@ -1,0 +1,54 @@
+{
+  "discordId": "U0BLWBTGYTU",
+  "username": "wildecho94",
+  "firstSeenAt": 1785623172974,
+  "trust": 50.5,
+  "rudeness": 0,
+  "skepticism": 0,
+  "interests": [
+    "building"
+  ],
+  "notes": [
+    "creator"
+  ],
+  "samples": [
+    {
+      "at": 1785638128194,
+      "channel": "C0BMDLAS5QS",
+      "text": "<@U0BMBNYPYA2> You good?",
+      "source": "live"
+    },
+    {
+      "at": 1785640168264,
+      "channel": "C0BLYV4SA6M",
+      "text": "ava you going to use this channel? You should",
+      "source": "live"
+    },
+    {
+      "at": 1785640225504,
+      "channel": "C0BLWBTUCR0",
+      "text": "ava what makes this channel different?",
+      "source": "live"
+    },
+    {
+      "at": 1785704053030,
+      "channel": "C0BMDLAS5QS",
+      "text": "ava sweety... start building your army department plz... 'Ava's Army'. Build foundation foryourself. keep the lore we love about you.",
+      "source": "live"
+    }
+  ],
+  "knownId": null,
+  "cursorRuns": 13,
+  "member": false,
+  "updatedAt": 1785704053356,
+  "lastSeenAt": 1785704053030,
+  "seenCount": 4,
+  "channels": [
+    "C0BMDLAS5QS",
+    "C0BLYV4SA6M",
+    "C0BLWBTUCR0"
+  ],
+  "tone": "default",
+  "onboardingAttemptAt": 1785704053356,
+  "onboardingError": "/users/@me/channels 400: {\"message\": \"Invalid Form Body\", \"code\": 50035, \"errors\": {\"recipient_id\": {\"_errors\": [{\"code\""
+}

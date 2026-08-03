@@ -1,0 +1,25 @@
+# Slack #decisions — incremental
+id: C0BLYV4SA6M
+dumped_at: 2026-08-02T17:35:33.090Z
+new_messages: 1
+since: 1785642226.919709
+
+========================================================================
+
+--- 2026-08-02T03:43:46.919Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================

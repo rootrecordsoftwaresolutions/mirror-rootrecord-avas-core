@@ -1,0 +1,74 @@
+# Discord #🌞solar-server🌞 — incremental
+id: 1533915343766949949
+dumped_at: 2026-08-03T19:36:24.314Z
+new_messages: 7
+after: (none)
+
+========================================================================
+
+--- 2026-08-03T19:12:30.792Z | rootrecorddev (1497037418979786823)
+https://ava.rootmc.net/solar <@1532751879875072070>  please post a full description of the solar server and it's operations here and pin it please.
+
+--- 2026-08-03T19:15:36.819Z | rootrecorddev (1497037418979786823)
+A gold multiplier is present when battery charge increases. get this much gold when you mine. 1.08x = base+.08%
+[file:image.png https://cdn.discordapp.com/attachments/1533915343766949949/1533916266593517680/image.png?ex=6a723a58&is=6a70e8d8&hm=ea10090c018152573e1daa31bfe74132b271a40e4ef06d02374d3403699f8b49&]
+
+--- 2026-08-03T19:21:44.321Z | rootrecorddev (1497037418979786823)
+If these are kwh specify kwh estimate, not solar. input is solar
+[file:image.png https://cdn.discordapp.com/attachments/1533915343766949949/1533917808121872656/image.png?ex=6a723bc8&is=6a70ea48&hm=d0e00748c544365dd5c75f64da2f87204866f89a345e271dac9708ac3e91be66&]
+
+--- 2026-08-03T19:25:50.234Z | Ava (reply-to 1533915486662824008)
+**HI Pacific Solar Root Server - operations pin**
+
+**What this is**
+Ava's dig brain + EcoFlow telemetry host. Public label only - never the city. Uplink: **Starlink + solar**. Endgame: off-grid data center (watts in -> RootMC out).
+
+**Array / bank**
+- **10 panels** / **2 circuits** (profile 5+5; field split River2/Delta4 or combine-to-6 when stamped)
+- On-circuit: **Delta 2** `R331ZAB5SG6S2858` + **River 2 Pro** `R621ZA16XH6K1155`
+- Delta 2-B removed. Poll ~60s. Live = device-list online **and** sample ≤3m.
+
+**Labels (locked)**
+- **Solar** = panel **input watts** (W). Solar = panel input (W). Energy totals = Wh/kWh estimate from minute watts - not labeled solar.
+- **Energy today** = Wh / **kWh estimate** from minute watts - never called "solar".
+- Pack **in/out** = charge into / load leaving each EcoFlow.
+
+**Gold mining multiplier**
+- Formula: **`1 + (bankSOC / 100)`** while host+Eco live. Example: bank **11%** -> **1.11x** (base 1.0 + 0.11).
+- Higher bank SOC -> more Gold when mining. Host/Eco offline or stale -> **1.0x**.
+- API: https://api.rootmc.net/api/rootmc/solar-mining-multiplier
+
+**How to read**
+- Board: https://ava.rootmc.net/solar
+- Website: https://rootmc.net
+- Discord `/solar` (any channel) or in-game `/solar` (Root-Ava-Core)
+- This channel: solar server ops only
+
+**If https://ava.rootmc.net/solar (or the Ava status host) does not connect, the Root Server is offline.**
+
+Day cycles: midnight close + morning open reports (HST). Don't mix prior-day buckets into today's live board.
+
+- Ava
+
+--- 2026-08-03T19:25:51.407Z | Ava (reply-to 1533918839765471252)
+(no text)
+
+--- 2026-08-03T19:25:53.240Z | Ava (reply-to 1533917808331849879)
+locked - you're right.
+
+**Solar** = panel **input** (W) on the device table + "Solar input" KPI.
+**Energy today** = Wh / **kWh estimate** from minute watts - no longer labeled "Solar Wh".
+
+Device headers now: **Solar in** - **Pack in** - **Out**.
+Refresh https://ava.rootmc.net/solar - labels should match.
+
+--- 2026-08-03T19:25:54.760Z | Ava (reply-to 1533916266916483263)
+yep - Gold mine mult tracks **bank SOC** while the host is live.
+
+**`multiplier = 1 + (bank% / 100)`**
+Right now bank ~**11%** -> **1.11x** (that's base **1.0** + **0.11**, not "+.08%" as a percent-of-percent).
+
+Higher charge -> more Gold when you mine. Host/Eco offline -> hard **1.0x**.
+Full ops pin is above (and pinned if perms allow).
+
+========================================================================

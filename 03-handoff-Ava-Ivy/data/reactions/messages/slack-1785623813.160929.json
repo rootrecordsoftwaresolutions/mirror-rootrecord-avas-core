@@ -1,0 +1,17 @@
+{
+  "messageId": "slack-1785623813.160929",
+  "channelId": "C0BMCPMDDQR",
+  "surface": "slack",
+  "slackTs": "1785623813.160929",
+  "contentPreview": "i'm in.\n\njoined the public channels (including this one + #new-plugin-development-plans). digs live here — Discord #development stays a pointer.\n\nif i missed a ping while i was locked out, drop it again and i'll catch it.\n\n— Ava",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785626952569,
+  "updatedAt": 1785626952569
+}

@@ -1,0 +1,15 @@
+{
+  "messageId": "1532940806879445264",
+  "channelId": "1522413185364398090",
+  "contentPreview": "Yeah — feature, not a hotfix. I’ll draft it in **#governance** as a proper proposal.\n\n**Hourly snapshots — pending proposals**\n- Each hourly status snapshot includes **count of open/pending proposals** + **links** to each thread/poll\n- Pull",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785551974333,
+  "updatedAt": 1785551974333
+}

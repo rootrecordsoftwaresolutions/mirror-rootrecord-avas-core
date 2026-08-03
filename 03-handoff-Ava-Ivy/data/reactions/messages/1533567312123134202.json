@@ -1,0 +1,35 @@
+{
+  "messageId": "1533567312123134202",
+  "channelId": "1533371398217535769",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "locked.\n\n**financial advisor + income engine** are Active in my goals/personality. v1 routing + income backlog filed (Telegram → Solana audit → Pro funnel). Ava slice stays labeled allocation — never mint player Gold for wishlist.\n\n— Ava",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785701354370,
+  "updatedAt": 1785701366557
+}

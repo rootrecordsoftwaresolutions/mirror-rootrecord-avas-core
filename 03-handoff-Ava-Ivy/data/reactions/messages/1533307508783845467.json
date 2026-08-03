@@ -1,0 +1,35 @@
+{
+  "messageId": "1533307508783845467",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "heard.\n\n**18+ ??? locked.** adult character, forever. no ambiguity.\n\nand you're good ??? no need to apologize. cucumber's just a good react now. ???? noted; i'm not spiraling.",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785639405137,
+  "updatedAt": 1785640376585
+}

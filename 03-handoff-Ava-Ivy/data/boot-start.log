@@ -1,0 +1,19 @@
+
+> rootmc-ava@0.5.1 start
+> node src/index.mjs
+
+Ava status → http://127.0.0.1:8787/ (watchdog on)
+Ava Ivy rich presence set (desktop IPC)
+ava-ivy status window http://127.0.0.1:8787/
+Ava Ivy as app 1532751879875072070, watching 8 channel(s)
+transport: both Â· hot 4000ms Â· break 60000ms
+handoff data: D:\.1 Work Stations\RootMC\Server Handoffs\Ava Ivy\data
+Ava status already opened earlier → http://127.0.0.1:8787/ (refresh that tab)
+Ava boot handshake done â€” live
+watch after thread sync: 13 channel(s)
+pending tasks check Â· first in ~90s Â· then every 25m
+Ava gateway open
+Ava gateway READY as Ava Ivy (join welcomes on)
+pending tasks check posted 1516121832493678612 5 jobs
+pending tasks check posted 1516121832493678612 5 jobs
+pending tasks check posted 1516121832493678612 5 jobs

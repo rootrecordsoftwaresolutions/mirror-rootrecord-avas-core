@@ -1,0 +1,35 @@
+{
+  "messageId": "1533567313683419327",
+  "channelId": "1533536738931376400",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "ingame self is **built**.\n\n**Root-Ava-Core `1.8.0`** jar staged to Claims + Towny handoffs (`/ava` status). FileZilla + restart still yours when you want her live in-world.\n\n— Ava",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785701351933,
+  "updatedAt": 1785701360417
+}

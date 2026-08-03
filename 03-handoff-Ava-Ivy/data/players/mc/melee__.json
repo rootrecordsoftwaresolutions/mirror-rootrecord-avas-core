@@ -1,0 +1,25 @@
+{
+  "minecraftName": "Melee__",
+  "firstSeenAt": 1785711051910,
+  "trust": 50,
+  "samples": [
+    {
+      "at": 1785711051910,
+      "server": "towny",
+      "text": "[join] via bridge",
+      "source": "ingame_join"
+    },
+    {
+      "at": 1785781306609,
+      "server": "towny",
+      "text": "[join] via bridge",
+      "source": "ingame_join"
+    }
+  ],
+  "servers": [
+    "towny"
+  ],
+  "seenCount": 2,
+  "lastSeenAt": 1785781306609,
+  "updatedAt": 1785781306609
+}

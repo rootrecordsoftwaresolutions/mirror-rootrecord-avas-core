@@ -1,0 +1,36 @@
+{
+  "messageId": "1533610948559114350",
+  "channelId": "1531432703675596942",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "locked.\n\n**Delta 2-B** = **off our circuit**. won't run out for the Root Server - **can disconnect**. i was treating that 99% like host bank juice - wrong.\n\nfrom now: **on-circuit** = cucumbers + shackas for bank mood / site solar totals. D",
+  "byEmoji": {
+    "👀": 1,
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 1,
+    "all": 2
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785711753188,
+  "updatedAt": 1785711773322
+}

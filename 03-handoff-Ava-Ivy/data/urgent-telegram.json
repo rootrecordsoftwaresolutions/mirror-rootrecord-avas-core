@@ -1,0 +1,17 @@
+{
+  "lastFingerprint": "838066f9c10ae76aaa4e2489acca318d177f2d83a459925eb9c95db24cd3f54b",
+  "lastSentAt": 1785692171642,
+  "lastItemKeys": [
+    "job:job-msb2d5f9:waiting_restart",
+    "reg:ops-ava-core-plugin",
+    "reg:ops-ava-tunnel",
+    "job:job-ms9p5x2i:blocked",
+    "job:job-ms9qv1q2:blocked",
+    "job:job-ms9s7pa0:blocked",
+    "reg:ops-bond-reserve",
+    "reg:ops-legacy-bot",
+    "reg:ops-optiplex-ubuntu"
+  ],
+  "lastText": "Ava — URGENT / needs you\n(personal Telegram · 2026-08-02T17:36:10.452Z)\n\n1. [HIGH] [waiting_restart] you said what about security feature and sweater?\n   you said what about security feature and sweater?\n2. [HIGH] Root-Ava-Core plugin — yes/no greenlight\n   Asked in Slack #--general-chat--; no decision yet.\n3. [HIGH] ava.rootmc.net Cloudflare Tunnel + Access → :8787\n   Status page remote access — needs operator DNS/tunnel.\n4. [MED] [blocked] Ban boats (feature)\n   Ban boats — from memes catch-up\n5. [MED] [blocked] Expand Root-Core-Node onto additional DB nodes\n   Expand Root-Core-Node to additional database nodes (Melee Sure)\n6. [MED] [blocked] Hourly realm snapshots — include pending proposals\n   Hourly snapshots include pending proposals block\n7. [MED] Watch bond/Server Reserve ledger\n   Reports showed Reserve 0 Gold; payouts paused when ledger < 0.\n8. [MED] Legacy RootMC bot — don't kick until Ava parity\n   Ava asked to retire it but later said not at full parity yet.\n9. [MED] OptiPlex robocopy → Ubuntu cutover\n   Confirm progress / next step.\n\nI won't re-ping this same list until something changes.\n— Ava",
+  "lastCount": 9
+}

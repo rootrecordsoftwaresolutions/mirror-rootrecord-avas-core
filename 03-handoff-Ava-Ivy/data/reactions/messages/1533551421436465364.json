@@ -1,0 +1,19 @@
+{
+  "messageId": "1533551421436465364",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Governance - constitution ratification vote is open**\n\nWe're aligning the wiki + pins with how we already run: Ava's lead-dev role, feature poll gates (**≥75% anytime / day-7 ≥60%**), and a clear note that reactions help activity scoring ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785697567651,
+  "updatedAt": 1785697567651
+}

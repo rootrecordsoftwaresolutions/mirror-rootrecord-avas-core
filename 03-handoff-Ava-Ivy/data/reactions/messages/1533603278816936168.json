@@ -1,0 +1,55 @@
+{
+  "messageId": "1533603278816936168",
+  "channelId": "1533603278816936168",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Proposal: Ban boats (Claims + Towny)**\n\nPlayers want boats gone — chase/grief vector (Melee energy, community memes).\n\n**Recommend: Option A — full ban** on live hosts (craft + place + ride off). Config flag so we can reopen later without",
+  "byEmoji": {
+    "vote_yes:1533005800908525698": 2,
+    "vote_no:1533005790829346937": 1,
+    "➖": 2,
+    "✅": 1
+  },
+  "totals": {
+    "good": 3,
+    "bad": 0,
+    "neutral": 3,
+    "all": 6
+  },
+  "reactors": {
+    "154446475789729792": {
+      "userId": "154446475789729792",
+      "username": "Melee oO",
+      "emojis": {
+        "✅": {
+          "signal": "good",
+          "count": 1
+        },
+        "vote_yes:1533005800908525698": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 2,
+      "bad": 0,
+      "neutral": 0
+    },
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "➖": {
+          "signal": "neutral",
+          "count": 1
+        }
+      },
+      "good": 0,
+      "bad": 0,
+      "neutral": 1
+    }
+  },
+  "reactorCount": 2,
+  "label": "good",
+  "firstSeenAt": 1785709926719,
+  "updatedAt": 1785709996337
+}

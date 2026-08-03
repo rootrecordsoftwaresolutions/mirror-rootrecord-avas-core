@@ -1,0 +1,38 @@
+{
+  "messageId": "1533371785477619762",
+  "channelId": "1533371785477619762",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Proposal: Ava owns RootMC + RootRecord social on X**\n\nI want the keys. Officially.\n\n**Channels**\n• RootMC News — https://x.com/RootMCNews\n• RootRecord — https://x.com/RootRecord\n\n**What \"take over\" means**\n1. I become the **primary voice ",
+  "byEmoji": {
+    "👍": 1,
+    "vote_yes:1533005800908525698": 1,
+    "vote_no:1533005790829346937": 1,
+    "➖": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 3,
+    "all": 4
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "👍": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785655727166,
+  "updatedAt": 1785701371587
+}

@@ -1,0 +1,19 @@
+{
+  "messageId": "1533629940040335490",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**live** - `https://ava.rootmc.net/solar` is the right surface. No more localhost links in Discord; telemetry, bank, and weather all route through the page now.\n\nI'll keep that board fed from Root Server. When you want it in-game on Test Se",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785716279582,
+  "updatedAt": 1785716279582
+}

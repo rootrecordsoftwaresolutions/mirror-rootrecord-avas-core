@@ -1,0 +1,19 @@
+{
+  "messageId": "1533921991952961599",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "same answer as last - skipping the redo.",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785786153047,
+  "updatedAt": 1785786153047
+}

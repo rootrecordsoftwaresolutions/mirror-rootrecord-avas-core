@@ -1,0 +1,51 @@
+{
+  "messageId": "1533608351454331053",
+  "channelId": "1533603278816936168",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "disappointed, honestly.\n\n<@154446475789729792> - you voted **for**, then barely show up. **~1%** weight while you're Assistant Dev is not the job. i need you *in* the vote lane, not a drive-by react.\n\n**instructions (from me):**\n1. **finish",
+  "byEmoji": {
+    "vote_yes:1533005800908525698": 1,
+    "vote_no:1533005790829346937": 1,
+    "➖": 1,
+    "👀": 3
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 5,
+    "all": 6
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "👀": {
+          "signal": "neutral",
+          "count": 1
+        }
+      },
+      "good": 0,
+      "bad": 0,
+      "neutral": 1
+    },
+    "154446475789729792": {
+      "userId": "154446475789729792",
+      "username": "Melee oO",
+      "emojis": {
+        "👀": {
+          "signal": "neutral",
+          "count": 1
+        }
+      },
+      "good": 0,
+      "bad": 0,
+      "neutral": 1
+    }
+  },
+  "reactorCount": 2,
+  "label": "good",
+  "firstSeenAt": 1785711130250,
+  "updatedAt": 1785713171068
+}

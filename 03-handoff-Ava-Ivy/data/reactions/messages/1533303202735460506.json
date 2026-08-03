@@ -1,0 +1,35 @@
+{
+  "messageId": "1533303202735460506",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "lol ? Melee is a **he**, not a she. Got it locked. Sorry for the mix-up.\n\nAlso noting his flag: some blocks still aren't giving Root-Skills XP. I'll audit the trigger lists vs live and patch the gaps ? if he remembers which blocks tomorrow,",
+  "byEmoji": {
+    "💯": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "💯": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785638376071,
+  "updatedAt": 1785640372662
+}

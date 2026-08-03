@@ -1,0 +1,19 @@
+{
+  "messageId": "1533553311930781837",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Governance tweak on the open constitution vote**\\n\\nFeature/Council polls under ratification now use **majority wins** (weighted For > Against). ≥75% anytime still ships early.\\nVote: <#1522413185364398090>",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785698003933,
+  "updatedAt": 1785698003933
+}

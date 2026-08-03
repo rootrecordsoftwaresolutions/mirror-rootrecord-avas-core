@@ -1,0 +1,241 @@
+{
+  "at": "2026-08-01T05:20:20.571Z",
+  "hushed": false,
+  "jobs": [
+    {
+      "id": "job-ms9p5x2i",
+      "status": "blocked",
+      "title": "Ban boats (feature)"
+    },
+    {
+      "id": "job-ms9qhtmc",
+      "status": "blocked",
+      "title": "Move development chat to Slack (process)"
+    },
+    {
+      "id": "job-ms9qv1q2",
+      "status": "blocked",
+      "title": "Expand Root-Core-Node onto additional DB nodes"
+    },
+    {
+      "id": "job-ms9s7pa0",
+      "status": "blocked",
+      "title": "Hourly realm snapshots — include pending proposals"
+    }
+  ],
+  "openAsks": [],
+  "mentionsUnanswered": [],
+  "mentionsAll": [],
+  "channelSummaries": [
+    {
+      "id": "1516108586307158088",
+      "name": "🛰️general🛰️",
+      "lastAuthor": "Ava Ivy",
+      "lastPreview": "@everyone caught up again — standing in <#1520665313631408251>. still need **upload + restart**, ski",
+      "lastId": "1532945558170370170",
+      "avaMentions": 5
+    },
+    {
+      "id": "1516121832493678612",
+      "name": "👮‍♂️admins👮‍♂️",
+      "lastAuthor": "Ava Ivy",
+      "lastPreview": "<@154446475789729792> Root-Core-Node full scope + DB-node expansion ask is in <#1532929974154166522>",
+      "lastId": "1532934034148167823",
+      "avaMentions": 0
+    },
+    {
+      "id": "1516178360815059045",
+      "name": "📳mobile-app📳",
+      "lastAuthor": "rootrecorddev",
+      "lastPreview": "",
+      "lastId": "1524984110089768960",
+      "avaMentions": 0
+    },
+    {
+      "id": "1516389376198840421",
+      "name": "🖼️memes-and-media🖼️",
+      "lastAuthor": "rootrecorddev",
+      "lastPreview": "I swear",
+      "lastId": "1532925092449882223",
+      "avaMentions": 6
+    },
+    {
+      "id": "1516392367869919243",
+      "name": "📄rules📄",
+      "lastAuthor": "RootMC",
+      "lastPreview": "",
+      "lastId": "1517700825814794266",
+      "avaMentions": 0
+    },
+    {
+      "id": "1516395175780286615",
+      "name": "📰daily-summary📰",
+      "lastAuthor": "RootMC",
+      "lastPreview": "# RootMC Daily Summary *2026-07-30 HST*  ### Server status - **Public launch**  -  **40 days since l",
+      "lastId": "1532689414055002232",
+      "avaMentions": 0
+    },
+    {
+      "id": "1516453333047574558",
+      "name": "⏲️timezone-selector⏲️",
+      "lastAuthor": "RootMC",
+      "lastPreview": "## Timezone Roles Pick your timezone so we can schedule events better. Select one option below; you ",
+      "lastId": "1516457151889932330",
+      "avaMentions": 0
+    },
+    {
+      "id": "1516697007639498792",
+      "name": "music-controller",
+      "lastAuthor": "FlaviBot",
+      "lastPreview": "",
+      "lastId": "1516701845853175809",
+      "avaMentions": 0
+    },
+    {
+      "id": "1516706598519832677",
+      "name": "🎮ingame-chat🎮",
+      "lastAuthor": "RootMC",
+      "lastPreview": "",
+      "lastId": "1532973251712651468",
+      "avaMentions": 0
+    },
+    {
+      "id": "1516804780884889621",
+      "name": "🪙economy-info🪙",
+      "lastAuthor": "RootMC",
+      "lastPreview": "### Live stats _Server Reserve  -  synced Jul 30, 11:55 PM HST_ **Reserve balance** - **Balance:** 1",
+      "lastId": "1532690573444776077",
+      "avaMentions": 0
+    },
+    {
+      "id": "1519249871326937138",
+      "name": "😭unverified😭",
+      "lastAuthor": "RootMC",
+      "lastPreview": "",
+      "lastId": "1519250669872222224",
+      "avaMentions": 0
+    },
+    {
+      "id": "1520665313631408251",
+      "name": "📒updates📒",
+      "lastAuthor": "Ava Ivy",
+      "lastPreview": "## Human gates (nothing moves live without these) 1. **FileZilla upload + Shockbyte restart** (Claim",
+      "lastId": "1532945556828328147",
+      "avaMentions": 0
+    },
+    {
+      "id": "1522406019152478210",
+      "name": "📜constitution📜",
+      "lastAuthor": "RootMC",
+      "lastPreview": "",
+      "lastId": "1523727770394427442",
+      "avaMentions": 0
+    },
+    {
+      "id": "1522406451413385317",
+      "name": "👩‍⚖️governance👩‍⚖️",
+      "lastAuthor": "Ava Ivy",
+      "lastPreview": "governance catch-up: hourly snapshots + pending proposals → forum proposal posted. https://discord.c",
+      "lastId": "1532945553451913288",
+      "avaMentions": 0
+    },
+    {
+      "id": "1522413185364398090",
+      "name": "✅voting✅",
+      "lastAuthor": "Ava Ivy",
+      "lastPreview": "On it.  **Now:** fixing proposal create so every new one spins a **7-day weighted poll** automatical",
+      "lastId": "1532961808636444722",
+      "avaMentions": 12
+    },
+    {
+      "id": "1531432703675596942",
+      "name": "🤓random-facts🤓",
+      "lastAuthor": "rootrecorddev",
+      "lastPreview": "# Rocket Ships and Horse Butts: How the Roman Empire Designed the Space Shuttle  When you look at a ",
+      "lastId": "1531437494539915414",
+      "avaMentions": 0
+    },
+    {
+      "id": "1532881008859414772",
+      "name": "reports",
+      "lastPreview": "",
+      "avaMentions": 0
+    },
+    {
+      "id": "1532903049499246636",
+      "name": "ava-ivy",
+      "lastAuthor": "Ava Ivy",
+      "lastPreview": "pending check — looking at my own backlog:  **Jobs (4 open)** · blocked: 4 · `job-ms9s7pa0` [blocked",
+      "lastId": "1532966336769298522",
+      "avaMentions": 3
+    },
+    {
+      "id": "1532929974154166522",
+      "name": "development",
+      "lastAuthor": "Ava Ivy",
+      "lastPreview": "Good — toggles noted.  Device list was already synced from your buckets: **2 DELTA 2** online, **RIV",
+      "lastId": "1532949928798720241",
+      "avaMentions": 8
+    }
+  ],
+  "proposalThreads": [
+    {
+      "id": "1532945550486278175",
+      "name": "Hourly realm snapshots — include pending proposals",
+      "messageCount": 1,
+      "last": "<@1532751879875072070> What is your level of governance?"
+    },
+    {
+      "id": "1532936029546221649",
+      "name": "Expand Root-Core-Node onto additional DB nodes",
+      "messageCount": 0,
+      "last": "@everyone  **Proposal: Additional database nodes for Root-Core-Node**  <@154446475789729792> said **Sure** — opening the"
+    },
+    {
+      "id": "1532933442319155302",
+      "name": "Move development chat to Slack (process)",
+      "messageCount": 2,
+      "last": "<@1532751879875072070> tell me everything you would do on slack"
+    },
+    {
+      "id": "1532924066988556493",
+      "name": "Ban boats (feature)",
+      "messageCount": 1,
+      "last": "<@1532751879875072070> How would you vote on this?"
+    },
+    {
+      "id": "1532743647244587028",
+      "name": "Sexi Discord recommendation assistant (foundation)",
+      "messageCount": 6,
+      "last": "**Where this proposal stands (catch-up)**  This foundation **shipped and is live** as **Ava Ivy** (`Web Files/rootmc-ava"
+    },
+    {
+      "id": "1532607968644825169",
+      "name": "Migrate Root-Discord into Root-Core (comms rebrand)",
+      "messageCount": 2,
+      "last": "will implement this tonight."
+    },
+    {
+      "id": "1532601865282523287",
+      "name": "Elite root-skills — full mcMMO replace (plan)",
+      "messageCount": 84,
+      "last": "Lmao"
+    },
+    {
+      "id": "1528482000606986402",
+      "name": "Proposal: Global Item Storage & Marketplace",
+      "messageCount": 1,
+      "last": "no discussion, going forward"
+    },
+    {
+      "id": "1527561675786551366",
+      "name": "MobHeads",
+      "messageCount": 14,
+      "last": "On it — **root-heads 1.0.0** foundation is built and matches your latest call: **player heads on by default**, full `pla"
+    }
+  ],
+  "watch": {
+    "development": "1532929974154166522",
+    "updates": "1520665313631408251"
+  }
+}

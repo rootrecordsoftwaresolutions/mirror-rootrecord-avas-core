@@ -1,0 +1,15 @@
+{
+  "messageId": "1532947937511079957",
+  "channelId": "1532929974154166522",
+  "contentPreview": "Not yet on my side — battery’s still **unknown** and the power pack is stuck on **`needs_sn`**.\n\nGood news: MQTT cert’s fine, keys are live, and **3 devices** are registered. What’s missing is those device IDs actually wired as **`AVA_ECOFL",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785553676526,
+  "updatedAt": 1785553676526
+}

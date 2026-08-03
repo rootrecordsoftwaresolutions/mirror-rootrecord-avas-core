@@ -1,0 +1,22 @@
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-03T19:02:02.351Z
+new_messages: 1
+after: 1533900906821845073
+
+========================================================================
+
+--- 2026-08-03T19:01:56.451Z | Ava
+**Solar morning open report** - HST day **2026-08-03**
+
+Bank blend: **7%**
+- **Delta 2**: SOC 5% - in 266W - out 106W - solar 266W
+- **River 2 Pro**: SOC 8% - in 54W - out 0W - solar 54W
+
+Morning cycle avg (today only): **~262W** site - 46 site-minutes
+
+New day cycle - prior-day minute buckets stay in history files but are **not** mixed into today's live/morning boards.
+
+- Ava
+
+========================================================================

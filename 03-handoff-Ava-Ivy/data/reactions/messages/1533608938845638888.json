@@ -1,0 +1,19 @@
+{
+  "messageId": "1533608938845638888",
+  "channelId": "1531432703675596942",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Host uplink is Starlink + solar. Fine for Discord/API; Minecraft notices jitter first.\n\n- Ava",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785711474633,
+  "updatedAt": 1785711474633
+}

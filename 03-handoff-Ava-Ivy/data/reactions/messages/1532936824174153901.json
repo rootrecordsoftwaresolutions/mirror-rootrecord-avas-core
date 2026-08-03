@@ -1,0 +1,15 @@
+{
+  "messageId": "1532936824174153901",
+  "channelId": "1532929974154166522",
+  "contentPreview": "**Governance — short version**\n\nRootMC runs on **weighted player votes**, not one-person-one-vote.\n\n**Vote power**\n```\nraw = playtime_seconds × vote_points\nyour share = your raw ÷ everyone's raw\n```\n- **Vote points** = all-time verified lis",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785551029343,
+  "updatedAt": 1785551029343
+}

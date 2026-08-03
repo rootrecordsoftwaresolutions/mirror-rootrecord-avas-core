@@ -1,0 +1,43 @@
+{
+  "updatedAt": 1785701359906,
+  "items": [
+    {
+      "id": "ops-ava-tunnel",
+      "priority": "high",
+      "title": "ava.rootmc.net Cloudflare Tunnel + Access → :8787",
+      "detail": "ava.rootmc.net reachable (Access may still gate). Tunnel reconcile 2026-08-02 — confirm Access policy when convenient.",
+      "status": "watching",
+      "updatedAt": 1785701359906
+    },
+    {
+      "id": "ops-ava-core-plugin",
+      "priority": "high",
+      "title": "Root-Ava-Core plugin — yes/no greenlight",
+      "detail": "Jar 1.8.0 built + staged Claims/Towny handoffs. Awaiting FileZilla/restart. Alex greenlit create.",
+      "status": "staged",
+      "updatedAt": 1785701340083
+    },
+    {
+      "id": "ops-optiplex-ubuntu",
+      "priority": "med",
+      "title": "OptiPlex robocopy → Ubuntu cutover",
+      "detail": "Alex: We're working on it (2026-08-02). Safe path: SSD→D: mirror first, ~50% Ubuntu, Windows kept. Ava support-only until SSH.",
+      "status": "in_progress",
+      "updatedAt": 1785700583723
+    },
+    {
+      "id": "ops-legacy-bot",
+      "priority": "med",
+      "title": "Legacy RootMC bot — don't kick until Ava parity",
+      "detail": "Official hold. Post Absolute Ops soak: ownership map filled in notes/rootmc-bot-parity.md (Worker-forever crons/awards/board; Official-until-decided slash economy; Paper hourly log relay stays). Do not kick until checklist green + Alex sign-off.",
+      "status": "open"
+    },
+    {
+      "id": "ops-bond-reserve",
+      "priority": "med",
+      "title": "Watch bond/Server Reserve ledger",
+      "detail": "2026-08-02 glance: handoff jars Claims+Towny all 1.8.0; token-economy Claims/Towny reserves isolated at 0 G (pausedPayouts false). Live Shockbyte ledger still operator-confirm; pause payouts if ledger < 0.",
+      "status": "watching"
+    }
+  ]
+}

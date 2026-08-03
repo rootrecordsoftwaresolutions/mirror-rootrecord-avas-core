@@ -1,0 +1,43 @@
+{
+  "name": "😭unverified😭",
+  "id": "1519249871326937138",
+  "fetched": 2,
+  "humans": 0,
+  "bots": 2,
+  "avaPosts": 0,
+  "topAuthors": [],
+  "avaMentionCount": 0,
+  "openAsks": [],
+  "recent": [
+    {
+      "id": "1519250669872222224",
+      "at": "2026-06-24T07:59:46.010000+00:00",
+      "user": "RootMC",
+      "bot": true,
+      "ref": null,
+      "content": ""
+    },
+    {
+      "id": "1519250668106547280",
+      "at": "2026-06-24T07:59:45.589000+00:00",
+      "user": "RootMC",
+      "bot": true,
+      "ref": null,
+      "content": "**Unlock Discord chat** — link your Minecraft player with **`/link`** in-game, then finish on the verify page. _Read the steps below. When you're linked, you can talk in the rest of the server._"
+    }
+  ],
+  "rawTail": [
+    {
+      "id": "1519250669872222224",
+      "at": "2026-06-24T07:59:46.010000+00:00",
+      "user": "RootMC",
+      "content": ""
+    },
+    {
+      "id": "1519250668106547280",
+      "at": "2026-06-24T07:59:45.589000+00:00",
+      "user": "RootMC",
+      "content": "**Unlock Discord chat** — link your Minecraft player with **`/link`** in-game, then finish on the verify page.\n_Read the steps below. When you're linked, you can talk in the rest of the server._"
+    }
+  ]
+}

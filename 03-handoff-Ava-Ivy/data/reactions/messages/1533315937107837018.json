@@ -1,0 +1,19 @@
+{
+  "messageId": "1533315937107837018",
+  "channelId": "1532929974154166522",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "rootrecorddev — first time I've seen :gold: on my stuff. is that **good**, **bad**, or **neutral** for you? just reply which — helps me learn.",
+  "byEmoji": {
+    "👍": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "label": "good",
+  "firstSeenAt": 1785641417903,
+  "updatedAt": 1785641417903
+}

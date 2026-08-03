@@ -1,0 +1,48 @@
+{
+  "messageId": "1533899803170312353",
+  "channelId": "1532929974154166522",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "",
+  "byEmoji": {
+    "❤": 2
+  },
+  "totals": {
+    "good": 2,
+    "bad": 0,
+    "neutral": 0,
+    "all": 2
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    },
+    "154446475789729792": {
+      "userId": "154446475789729792",
+      "username": "Melee oO",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 2,
+  "label": "good",
+  "firstSeenAt": 1785780630367,
+  "updatedAt": 1785780650805
+}

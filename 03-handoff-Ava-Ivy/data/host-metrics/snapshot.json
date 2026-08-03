@@ -1,0 +1,1144 @@
+{
+  "status": "sampling",
+  "host_key": "laptop",
+  "note": "sampling — posts to D1 when minute closes",
+  "updatedAt": 1785708663971,
+  "hostname": "rootatmus_prime",
+  "platform": "win32",
+  "cpus": 6,
+  "totalMemGb": 31.8,
+  "remote_summary": {
+    "ok": true,
+    "hosts": [
+      {
+        "host_key": "laptop",
+        "host_kind": "workstation",
+        "host_label": "Dev Laptop",
+        "all_time": {
+          "cpu_avg_pct": 31.6,
+          "ram_avg_pct": 56.5,
+          "disk_used_pct": 14.1,
+          "tps_avg": null,
+          "minute_count": 5992,
+          "sample_total": 159624,
+          "first_minute_ts": "2026-07-10T20:00:00.000Z",
+          "last_minute_ts": "2026-08-02T22:05:00.000Z"
+        },
+        "updated_at": "2026-08-02T22:06:01.149Z"
+      },
+      {
+        "host_key": "primary",
+        "host_kind": "workstation",
+        "host_label": "Dev Workstation",
+        "all_time": {
+          "cpu_avg_pct": 40.8,
+          "ram_avg_pct": 51.3,
+          "disk_used_pct": 0,
+          "tps_avg": null,
+          "minute_count": 7090,
+          "sample_total": 194625,
+          "first_minute_ts": "2026-07-10T20:00:00.000Z",
+          "last_minute_ts": "2026-07-27T00:03:00.000Z"
+        },
+        "updated_at": "2026-07-27T00:04:00.923Z"
+      },
+      {
+        "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+        "host_kind": "server",
+        "host_label": "play.rootmc.net",
+        "all_time": {
+          "cpu_avg_pct": 20.2,
+          "ram_avg_pct": 17.2,
+          "disk_used_pct": 0,
+          "tps_avg": 19.98,
+          "minute_count": 7625,
+          "sample_total": 228174,
+          "first_minute_ts": "2026-07-19T00:00:00.000Z",
+          "last_minute_ts": "2026-08-02T00:00:00.000Z"
+        },
+        "updated_at": "2026-08-02T22:05:00.425Z"
+      }
+    ],
+    "recent_minutes": {
+      "laptop": [
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T22:05:00.000Z",
+          "cpu_avg_pct": 83.78,
+          "ram_avg_pct": 53.22,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 23
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T22:04:00.000Z",
+          "cpu_avg_pct": 72.48,
+          "ram_avg_pct": 51.39,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 23
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T22:03:00.000Z",
+          "cpu_avg_pct": 76.48,
+          "ram_avg_pct": 51.8,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 25
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T22:02:00.000Z",
+          "cpu_avg_pct": 84.09,
+          "ram_avg_pct": 51.18,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 22
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T22:01:00.000Z",
+          "cpu_avg_pct": 46,
+          "ram_avg_pct": 50.12,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 17
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T22:00:00.000Z",
+          "cpu_avg_pct": 73.65,
+          "ram_avg_pct": 51.08,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 26
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:59:00.000Z",
+          "cpu_avg_pct": 49.64,
+          "ram_avg_pct": 51,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 28
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:58:00.000Z",
+          "cpu_avg_pct": 66,
+          "ram_avg_pct": 51,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 1
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:57:00.000Z",
+          "cpu_avg_pct": 67,
+          "ram_avg_pct": 50.76,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 25
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:56:00.000Z",
+          "cpu_avg_pct": 59.57,
+          "ram_avg_pct": 50.54,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 28
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:55:00.000Z",
+          "cpu_avg_pct": 62.14,
+          "ram_avg_pct": 50.54,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 28
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:54:00.000Z",
+          "cpu_avg_pct": 61.86,
+          "ram_avg_pct": 50.59,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 22
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:53:00.000Z",
+          "cpu_avg_pct": 57,
+          "ram_avg_pct": 51,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 1
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:52:00.000Z",
+          "cpu_avg_pct": 61.74,
+          "ram_avg_pct": 50.07,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 27
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:51:00.000Z",
+          "cpu_avg_pct": 66.04,
+          "ram_avg_pct": 50.43,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 28
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:50:00.000Z",
+          "cpu_avg_pct": 73.19,
+          "ram_avg_pct": 50.73,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 26
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:49:00.000Z",
+          "cpu_avg_pct": 58.71,
+          "ram_avg_pct": 49.93,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 14
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:48:00.000Z",
+          "cpu_avg_pct": 59.76,
+          "ram_avg_pct": 50.14,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 21
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:47:00.000Z",
+          "cpu_avg_pct": 61.76,
+          "ram_avg_pct": 50.4,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 25
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:46:00.000Z",
+          "cpu_avg_pct": 65.52,
+          "ram_avg_pct": 50.56,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 27
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:45:00.000Z",
+          "cpu_avg_pct": 69.1,
+          "ram_avg_pct": 50.6,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 20
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:43:00.000Z",
+          "cpu_avg_pct": 62.83,
+          "ram_avg_pct": 51.1,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 29
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:42:00.000Z",
+          "cpu_avg_pct": 61.12,
+          "ram_avg_pct": 51,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 26
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:41:00.000Z",
+          "cpu_avg_pct": 50.12,
+          "ram_avg_pct": 50.76,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 17
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:40:00.000Z",
+          "cpu_avg_pct": 69.48,
+          "ram_avg_pct": 50.16,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 25
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:39:00.000Z",
+          "cpu_avg_pct": 89.5,
+          "ram_avg_pct": 50.5,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 2
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:38:00.000Z",
+          "cpu_avg_pct": 68.33,
+          "ram_avg_pct": 50.58,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 24
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:37:00.000Z",
+          "cpu_avg_pct": 66.15,
+          "ram_avg_pct": 50.08,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 13
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:36:00.000Z",
+          "cpu_avg_pct": 72.3,
+          "ram_avg_pct": 50.1,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 10
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:35:00.000Z",
+          "cpu_avg_pct": 62.78,
+          "ram_avg_pct": 50.26,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 23
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:34:00.000Z",
+          "cpu_avg_pct": 61.27,
+          "ram_avg_pct": 51.36,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 11
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:33:00.000Z",
+          "cpu_avg_pct": 70.63,
+          "ram_avg_pct": 51.83,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 24
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:32:00.000Z",
+          "cpu_avg_pct": 72.48,
+          "ram_avg_pct": 52.04,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 23
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:31:00.000Z",
+          "cpu_avg_pct": 69.09,
+          "ram_avg_pct": 51.57,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 23
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:30:00.000Z",
+          "cpu_avg_pct": 66.08,
+          "ram_avg_pct": 51.96,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 24
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:29:00.000Z",
+          "cpu_avg_pct": 69.05,
+          "ram_avg_pct": 51.68,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 22
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:28:00.000Z",
+          "cpu_avg_pct": 71.77,
+          "ram_avg_pct": 51.41,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 22
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:27:00.000Z",
+          "cpu_avg_pct": 68,
+          "ram_avg_pct": 51.05,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 20
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:26:00.000Z",
+          "cpu_avg_pct": 68.96,
+          "ram_avg_pct": 50.83,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 24
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:25:00.000Z",
+          "cpu_avg_pct": 64.48,
+          "ram_avg_pct": 51.28,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 25
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:24:00.000Z",
+          "cpu_avg_pct": 64.65,
+          "ram_avg_pct": 51.6,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 20
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:23:00.000Z",
+          "cpu_avg_pct": 66.42,
+          "ram_avg_pct": 51.92,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 26
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:22:00.000Z",
+          "cpu_avg_pct": 71.48,
+          "ram_avg_pct": 52.13,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 23
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:21:00.000Z",
+          "cpu_avg_pct": 65.04,
+          "ram_avg_pct": 52.5,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 24
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:20:00.000Z",
+          "cpu_avg_pct": 58.59,
+          "ram_avg_pct": 52.82,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 22
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:19:00.000Z",
+          "cpu_avg_pct": 69.16,
+          "ram_avg_pct": 52.68,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 25
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:18:00.000Z",
+          "cpu_avg_pct": 68.42,
+          "ram_avg_pct": 52.96,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 24
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:17:00.000Z",
+          "cpu_avg_pct": 72.48,
+          "ram_avg_pct": 52.72,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 25
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:16:00.000Z",
+          "cpu_avg_pct": 63.16,
+          "ram_avg_pct": 52.16,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 25
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:15:00.000Z",
+          "cpu_avg_pct": 65.67,
+          "ram_avg_pct": 52.5,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 6
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:14:00.000Z",
+          "cpu_avg_pct": 60.14,
+          "ram_avg_pct": 52.14,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 14
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:13:00.000Z",
+          "cpu_avg_pct": 81.36,
+          "ram_avg_pct": 53.55,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 22
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:12:00.000Z",
+          "cpu_avg_pct": 81.38,
+          "ram_avg_pct": 53.33,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 21
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:11:00.000Z",
+          "cpu_avg_pct": 84.77,
+          "ram_avg_pct": 53.5,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 22
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:10:00.000Z",
+          "cpu_avg_pct": 74.1,
+          "ram_avg_pct": 53.76,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 21
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:09:00.000Z",
+          "cpu_avg_pct": 73,
+          "ram_avg_pct": 54,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 1
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:08:00.000Z",
+          "cpu_avg_pct": 78.25,
+          "ram_avg_pct": 54.5,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 24
+        },
+        {
+          "host_key": "laptop",
+          "minute_ts": "2026-08-02T21:07:00.000Z",
+          "cpu_avg_pct": 77,
+          "ram_avg_pct": 54.5,
+          "disk_used_pct": 27,
+          "tps_avg": null,
+          "sample_count": 2
+        }
+      ],
+      "15bbc057-4f8b-4761-abdb-7b7e4d9c7512": [
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T22:04:00.000Z",
+          "cpu_avg_pct": 15.670903954802258,
+          "ram_avg_pct": 20.579247915391203,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999967969769678,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T22:03:00.000Z",
+          "cpu_avg_pct": 15,
+          "ram_avg_pct": 13.512556006511053,
+          "disk_used_pct": 0,
+          "tps_avg": 20.00002460386041,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T22:02:00.000Z",
+          "cpu_avg_pct": 19.710451977401135,
+          "ram_avg_pct": 20.74162005999331,
+          "disk_used_pct": 0,
+          "tps_avg": 19.99999384962192,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T22:01:00.000Z",
+          "cpu_avg_pct": 38.333333333333336,
+          "ram_avg_pct": 28.63861322402954,
+          "disk_used_pct": 0,
+          "tps_avg": 20.000004675438227,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T22:00:00.000Z",
+          "cpu_avg_pct": 15.903954802259888,
+          "ram_avg_pct": 20.57564784746386,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999970835978804,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:59:00.000Z",
+          "cpu_avg_pct": 26.666666666666668,
+          "ram_avg_pct": 23.142625018954277,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999997998334923,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:58:00.000Z",
+          "cpu_avg_pct": 16.283898305084747,
+          "ram_avg_pct": 20.176595481017895,
+          "disk_used_pct": 0,
+          "tps_avg": 19.895246185567625,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:57:00.000Z",
+          "cpu_avg_pct": 13.5,
+          "ram_avg_pct": 23.162208994229633,
+          "disk_used_pct": 0,
+          "tps_avg": 20.000001971690452,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:56:00.000Z",
+          "cpu_avg_pct": 17.14406779661017,
+          "ram_avg_pct": 20.40918219603051,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999988505388018,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:55:00.000Z",
+          "cpu_avg_pct": 15,
+          "ram_avg_pct": 18.75503535072009,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999998976852673,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:54:00.000Z",
+          "cpu_avg_pct": 15.533898305084746,
+          "ram_avg_pct": 20.48784297191154,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999972080119772,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:53:00.000Z",
+          "cpu_avg_pct": 14.000000000000002,
+          "ram_avg_pct": 17.73512065410614,
+          "disk_used_pct": 0,
+          "tps_avg": 20.00000302248172,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:52:00.000Z",
+          "cpu_avg_pct": 17.838983050847457,
+          "ram_avg_pct": 20.30787637804524,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999972592037864,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:51:00.000Z",
+          "cpu_avg_pct": 36.5,
+          "ram_avg_pct": 12.679084514578184,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999966894642643,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:50:00.000Z",
+          "cpu_avg_pct": 15.11864406779661,
+          "ram_avg_pct": 20.45861875354234,
+          "disk_used_pct": 0,
+          "tps_avg": 20.00004110917305,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:49:00.000Z",
+          "cpu_avg_pct": 15,
+          "ram_avg_pct": 25.600230197111767,
+          "disk_used_pct": 0,
+          "tps_avg": 20.000129077269346,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:48:00.000Z",
+          "cpu_avg_pct": 14.228813559322035,
+          "ram_avg_pct": 20.76587863476936,
+          "disk_used_pct": 0,
+          "tps_avg": 20.00004828011818,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:47:00.000Z",
+          "cpu_avg_pct": 15.5,
+          "ram_avg_pct": 25.211588417490322,
+          "disk_used_pct": 0,
+          "tps_avg": 19.99999832006675,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:46:00.000Z",
+          "cpu_avg_pct": 15.55084745762712,
+          "ram_avg_pct": 20.7908655522065,
+          "disk_used_pct": 0,
+          "tps_avg": 20.00001724860922,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:45:00.000Z",
+          "cpu_avg_pct": 13.5,
+          "ram_avg_pct": 27.800485491752625,
+          "disk_used_pct": 0,
+          "tps_avg": 20.000114131209163,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:44:00.000Z",
+          "cpu_avg_pct": 14.533898305084746,
+          "ram_avg_pct": 20.539439475889928,
+          "disk_used_pct": 0,
+          "tps_avg": 20.000019922680114,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:43:00.000Z",
+          "cpu_avg_pct": 14.000000000000002,
+          "ram_avg_pct": 21.83021518091361,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999995796170744,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:42:00.000Z",
+          "cpu_avg_pct": 19.593220338983052,
+          "ram_avg_pct": 20.82051248579038,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999969718775795,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:41:00.000Z",
+          "cpu_avg_pct": 14.000000000000002,
+          "ram_avg_pct": 12.646467859546343,
+          "disk_used_pct": 0,
+          "tps_avg": 19.99928585098012,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:40:00.000Z",
+          "cpu_avg_pct": 14.957627118644067,
+          "ram_avg_pct": 20.694145991724756,
+          "disk_used_pct": 0,
+          "tps_avg": 20.000012572779895,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:39:00.000Z",
+          "cpu_avg_pct": 12.5,
+          "ram_avg_pct": 25.578327228625614,
+          "disk_used_pct": 0,
+          "tps_avg": 19.99999146045327,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:38:00.000Z",
+          "cpu_avg_pct": 14.641625615763546,
+          "ram_avg_pct": 20.54846020008641,
+          "disk_used_pct": 0,
+          "tps_avg": 19.92389871687568,
+          "sample_count": 58
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:37:00.000Z",
+          "cpu_avg_pct": 15,
+          "ram_avg_pct": 25.08663224677245,
+          "disk_used_pct": 0,
+          "tps_avg": 20.00000023114072,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:36:00.000Z",
+          "cpu_avg_pct": 18.42463680387409,
+          "ram_avg_pct": 20.695647826723466,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999991637191126,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:35:00.000Z",
+          "cpu_avg_pct": 13.571428571428571,
+          "ram_avg_pct": 18.654896194736164,
+          "disk_used_pct": 0,
+          "tps_avg": 19.9999985552041,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:34:00.000Z",
+          "cpu_avg_pct": 35.41313559322034,
+          "ram_avg_pct": 21.158153130173005,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999946903720517,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:33:00.000Z",
+          "cpu_avg_pct": 44.285714285714285,
+          "ram_avg_pct": 20.47884874045849,
+          "disk_used_pct": 0,
+          "tps_avg": 19.99999890424652,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:32:00.000Z",
+          "cpu_avg_pct": 36.811440677966104,
+          "ram_avg_pct": 21.171489105386254,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999953350804393,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:31:00.000Z",
+          "cpu_avg_pct": 39.285714285714285,
+          "ram_avg_pct": 21.113712588946026,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999976785039436,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:30:00.000Z",
+          "cpu_avg_pct": 37.493946731234864,
+          "ram_avg_pct": 21.989722920339656,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999973128422504,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:29:00.000Z",
+          "cpu_avg_pct": 29.28571428571429,
+          "ram_avg_pct": 21.322818100452423,
+          "disk_used_pct": 0,
+          "tps_avg": 20.000015987023602,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:28:00.000Z",
+          "cpu_avg_pct": 36.35441888619856,
+          "ram_avg_pct": 20.09669569252575,
+          "disk_used_pct": 0,
+          "tps_avg": 20.000014464936353,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:27:00.000Z",
+          "cpu_avg_pct": 38.75,
+          "ram_avg_pct": 15.889226396878561,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999997089425904,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:26:00.000Z",
+          "cpu_avg_pct": 41.91434624697337,
+          "ram_avg_pct": 19.97175198995461,
+          "disk_used_pct": 0,
+          "tps_avg": 19.9999795724594,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:25:00.000Z",
+          "cpu_avg_pct": 45.625,
+          "ram_avg_pct": 27.914346133669216,
+          "disk_used_pct": 0,
+          "tps_avg": 20.00000041099085,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:24:00.000Z",
+          "cpu_avg_pct": 38.914951573849876,
+          "ram_avg_pct": 21.101137269604,
+          "disk_used_pct": 0,
+          "tps_avg": 20.0000529172679,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:23:00.000Z",
+          "cpu_avg_pct": 14.285714285714285,
+          "ram_avg_pct": 21.925639361143112,
+          "disk_used_pct": 0,
+          "tps_avg": 19.99994055704595,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:22:00.000Z",
+          "cpu_avg_pct": 39.86077481840194,
+          "ram_avg_pct": 21.30513930809026,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999956495209688,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:21:00.000Z",
+          "cpu_avg_pct": 43.57142857142857,
+          "ram_avg_pct": 29.562803357839584,
+          "disk_used_pct": 0,
+          "tps_avg": 20.000000982847677,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:20:00.000Z",
+          "cpu_avg_pct": 32.33202179176755,
+          "ram_avg_pct": 20.273563377348715,
+          "disk_used_pct": 0,
+          "tps_avg": 20.000008310546477,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:19:00.000Z",
+          "cpu_avg_pct": 44.285714285714285,
+          "ram_avg_pct": 27.517347410321236,
+          "disk_used_pct": 0,
+          "tps_avg": 20.000000670774376,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:18:00.000Z",
+          "cpu_avg_pct": 36.84927360774818,
+          "ram_avg_pct": 20.63309527133817,
+          "disk_used_pct": 0,
+          "tps_avg": 19.908133063756825,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:17:00.000Z",
+          "cpu_avg_pct": 38.75,
+          "ram_avg_pct": 19.368489583333332,
+          "disk_used_pct": 0,
+          "tps_avg": 20.000135290507178,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:16:00.000Z",
+          "cpu_avg_pct": 31.71186440677966,
+          "ram_avg_pct": 20.467464207003356,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999964171101837,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:15:00.000Z",
+          "cpu_avg_pct": 42.5,
+          "ram_avg_pct": 23.817869027455647,
+          "disk_used_pct": 0,
+          "tps_avg": 20.000119119110796,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:14:00.000Z",
+          "cpu_avg_pct": 34.148305084745765,
+          "ram_avg_pct": 21.17325528656359,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999961708174535,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:13:00.000Z",
+          "cpu_avg_pct": 33.75,
+          "ram_avg_pct": 18.643691514929134,
+          "disk_used_pct": 0,
+          "tps_avg": 20.000000282431312,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:12:00.000Z",
+          "cpu_avg_pct": 35.74152542372882,
+          "ram_avg_pct": 19.883970051246177,
+          "disk_used_pct": 0,
+          "tps_avg": 20.00001733814197,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:11:00.000Z",
+          "cpu_avg_pct": 38.75,
+          "ram_avg_pct": 13.408256943027178,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999998840299817,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:10:00.000Z",
+          "cpu_avg_pct": 35.53813559322034,
+          "ram_avg_pct": 20.383458382497402,
+          "disk_used_pct": 0,
+          "tps_avg": 20.000113867958206,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:09:00.000Z",
+          "cpu_avg_pct": 23.75,
+          "ram_avg_pct": 21.82280756533146,
+          "disk_used_pct": 0,
+          "tps_avg": 19.99999748043329,
+          "sample_count": 1
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:08:00.000Z",
+          "cpu_avg_pct": 37.8728813559322,
+          "ram_avg_pct": 20.416177045238218,
+          "disk_used_pct": 0,
+          "tps_avg": 19.999817600218314,
+          "sample_count": 59
+        },
+        {
+          "host_key": "15bbc057-4f8b-4761-abdb-7b7e4d9c7512",
+          "minute_ts": "2026-08-02T21:07:00.000Z",
+          "cpu_avg_pct": 20,
+          "ram_avg_pct": 22.775691747665405,
+          "disk_used_pct": 0,
+          "tps_avg": 19.99999393205846,
+          "sample_count": 1
+        }
+      ]
+    },
+    "synced_at": "2026-08-02T22:06:20.643Z"
+  },
+  "current": {
+    "cpu": 45,
+    "ram": 54,
+    "disk": 27
+  },
+  "bucket_size": 2,
+  "last_minute": {
+    "host_key": "laptop",
+    "host_kind": "workstation",
+    "minute_ts": "2026-08-02T22:10:00.000Z",
+    "cpu_avg_pct": 71.59,
+    "ram_avg_pct": 53.07,
+    "disk_used_pct": 27,
+    "sample_count": 27,
+    "posted_at": "2026-08-02T22:11:00.852Z"
+  },
+  "lifetime": {
+    "host_key": "laptop",
+    "cpu_sum": 2160807.590000001,
+    "ram_sum": 1831329.040000002,
+    "disk_sum": 1018071.4199999996,
+    "sample_total": 32501,
+    "minute_count": 1406,
+    "first_minute_ts": "2026-08-01T01:26:00.000Z",
+    "last_minute_ts": "2026-08-02T22:10:00.000Z",
+    "updated_at": "2026-08-02T22:11:00.860Z"
+  },
+  "last_post": {
+    "ok": true
+  }
+}

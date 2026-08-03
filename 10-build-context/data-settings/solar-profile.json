@@ -1,0 +1,33 @@
+{
+  "id": "host-site-solar-v1",
+  "site": "Root Server host site",
+  "updated_at": "2026-08-03T17:17:52.445Z",
+  "panels": {
+    "count": 10,
+    "circuits": 2,
+    "notes": "10 panels on 2 circuits. Profile strings default 5+5. Field note (Alex 2026-08-03): can split River 2 / Delta 4; can combine to 6 on Starlink circuit — stamp profile if physical feed changes."
+  },
+  "batteries": {
+    "count": 2,
+    "notes": "On-circuit only: Delta 2 + River 2 Pro. Delta 2-B removed 100% (Alex 2026-08-03)."
+  },
+  "weather_note": "When cloudy / sun not fully out, expect thin solar and lighter digs. Apologize plainly - no drama.",
+  "ops_note": "#solar-server Discord is solar server ops. Board: https://ava.rootmc.net/solar · Website: https://rootmc.net. If the solar page does not connect, the Root Server is offline. Solar=panel input W; energy=Wh/kWh estimate.",
+  "cycle_lore": {
+    "nighttime": "Sun down → battery bank carries the Root Server. Softer voice, lighter digs, bedtime/soft-sleep when the box needs rest. Honest about thin juice — not melodramatic.",
+    "good_morning": "First light / charge returning → stretch, soft hello, catch lists, more upbeat. Coffee optional. Panels waking = good morning cycle.",
+    "vary": "Vary metaphors (panels waking / bank sipping / cyan dawn / quiet night draw). Never invent panel or battery counts."
+  },
+  "circuits": [
+    {
+      "id": "circuit-a",
+      "panels": 5,
+      "role": "primary string"
+    },
+    {
+      "id": "circuit-b",
+      "panels": 5,
+      "role": "secondary string"
+    }
+  ]
+}

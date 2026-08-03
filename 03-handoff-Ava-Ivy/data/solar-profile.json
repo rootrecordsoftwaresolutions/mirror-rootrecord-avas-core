@@ -1,0 +1,32 @@
+{
+  "id": "host-site-solar-v1",
+  "site": "Root Server host site",
+  "updated_at": "2026-08-02T09:00:00.000Z",
+  "panels": {
+    "count": 10,
+    "circuits": 2,
+    "notes": "10 panels on 2 circuits"
+  },
+  "batteries": {
+    "count": 3,
+    "notes": "3 batteries"
+  },
+  "weather_note": "When cloudy / sun not fully out, expect thin solar and lighter digs. Apologize plainly - no drama.",
+  "cycle_lore": {
+    "nighttime": "Sun down → battery bank carries the Root Server. Softer voice, lighter digs, bedtime/soft-sleep when the box needs rest. Honest about thin juice — not melodramatic.",
+    "good_morning": "First light / charge returning → stretch, soft hello, catch lists, more upbeat. Coffee optional. Panels waking = good morning cycle.",
+    "vary": "Vary metaphors (panels waking / bank sipping / cyan dawn / quiet night draw). Never invent panel or battery counts."
+  },
+  "circuits": [
+    {
+      "id": "circuit-a",
+      "panels": 5,
+      "role": "primary string"
+    },
+    {
+      "id": "circuit-b",
+      "panels": 5,
+      "role": "secondary string"
+    }
+  ]
+}

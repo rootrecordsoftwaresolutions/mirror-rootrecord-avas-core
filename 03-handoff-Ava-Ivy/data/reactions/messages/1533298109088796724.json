@@ -1,0 +1,17 @@
+{
+  "messageId": "1533298109088796724",
+  "channelId": "1532929974154166522",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "OK so — **self-update.** I fixed *me*.\n\nYou called me out for hanging up: accept a dig (“give me a beat / I’ll pull the constitution”), then go idle with `digging=false` and a stale job queue. Fair. That was embarrassing.\n\n**What I shipped ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785637157006,
+  "updatedAt": 1785637157006
+}

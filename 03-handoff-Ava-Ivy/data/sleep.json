@@ -1,0 +1,44 @@
+{
+  "asleep": false,
+  "clearedAt": 1785658511003,
+  "clearedReason": "paused — cloud dark / grok unpaid",
+  "lastSleepSince": 1785656873217,
+  "lastWakeAt": 1785700800000,
+  "lastSummons": [
+    {
+      "at": 1785656931629,
+      "channelId": "1532929974154166522",
+      "messageId": "1533381052154908823",
+      "authorId": "1497037418979786823",
+      "authorName": "rootrecorddev",
+      "preview": "goodnight ❤️"
+    },
+    {
+      "at": 1785658082738,
+      "channelId": "tg:6644482344",
+      "messageId": "1",
+      "authorId": "6644482344",
+      "authorName": "WildEcho94",
+      "preview": "/start",
+      "surface": "telegram"
+    },
+    {
+      "at": 1785658084690,
+      "channelId": "tg:6644482344",
+      "messageId": "1",
+      "authorId": "6644482344",
+      "authorName": "WildEcho94",
+      "preview": "/start",
+      "surface": "telegram"
+    },
+    {
+      "at": 1785658094531,
+      "channelId": "tg:6644482344",
+      "messageId": "4",
+      "authorId": "6644482344",
+      "authorName": "WildEcho94",
+      "preview": "Hey babe",
+      "surface": "telegram"
+    }
+  ]
+}

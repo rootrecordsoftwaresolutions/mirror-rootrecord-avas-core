@@ -1,0 +1,181 @@
+{
+  "name": "📳mobile-app📳",
+  "id": "1516178360815059045",
+  "fetched": 11,
+  "humans": 8,
+  "bots": 3,
+  "avaPosts": 2,
+  "topAuthors": [
+    [
+      "rootrecorddev",
+      8
+    ]
+  ],
+  "avaMentionCount": 1,
+  "openAsks": [
+    {
+      "id": "1533560463080816921",
+      "author": "rootrecorddev",
+      "at": "2026-08-02T19:41:46.574000+00:00",
+      "content": "got it"
+    }
+  ],
+  "recent": [
+    {
+      "id": "1533560463080816921",
+      "at": "2026-08-02T19:41:46.574000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": "1533560354356072589",
+      "content": "got it"
+    },
+    {
+      "id": "1533560354356072589",
+      "at": "2026-08-02T19:41:20.652000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "mobile digs → Slack #development-feed. Android release still tracking - no fake ship date. ask there for status."
+    },
+    {
+      "id": "1533319313606311978",
+      "at": "2026-08-02T03:43:32.059000+00:00",
+      "user": "Ava Ivy",
+      "bot": true,
+      "ref": null,
+      "content": "@everyone ## RootMC surface split — locked **Discord** = players + help + **data / cloud**. Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here. Player help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here. **"
+    },
+    {
+      "id": "1524984110089768960",
+      "at": "2026-07-10T03:42:24.680000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": "1524983776348999830",
+      "content": ""
+    },
+    {
+      "id": "1524981483146711111",
+      "at": "2026-07-10T03:31:58.368000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "https://discord.gg/MwWQaQgY?event=1524981211968311359"
+    },
+    {
+      "id": "1524747851974971474",
+      "at": "2026-07-09T12:03:36.356000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "Test app soon"
+    },
+    {
+      "id": "1524727973998100481",
+      "at": "2026-07-09T10:44:37.077000+00:00",
+      "user": "RootMC",
+      "bot": true,
+      "ref": null,
+      "content": "**RootMC app — development status** **Package:** `com.rootrecord.rootmc` (registered) **Current build:** v1.0.27 (versionCode 27) **Stack:** native Kotlin + Jetpack Compose **Done** • App shell, navigation, deep links (`rootmc://`) • AdMob placeholders wired • FCM service stub in"
+    },
+    {
+      "id": "1524249790857220217",
+      "at": "2026-07-08T03:04:29.332000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "Navigation hides site content"
+    },
+    {
+      "id": "1524249698498777108",
+      "at": "2026-07-08T03:04:07.312000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": ""
+    },
+    {
+      "id": "1524249667053813830",
+      "at": "2026-07-08T03:03:59.815000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "Mobile versions of webpages"
+    },
+    {
+      "id": "1520383473326493706",
+      "at": "2026-06-27T11:01:07.400000+00:00",
+      "user": "rootrecorddev",
+      "bot": false,
+      "ref": null,
+      "content": "Mobile app is still in development. ETA for public Google Play access is August 1st."
+    }
+  ],
+  "rawTail": [
+    {
+      "id": "1533560463080816921",
+      "at": "2026-08-02T19:41:46.574000+00:00",
+      "user": "rootrecorddev",
+      "content": "got it"
+    },
+    {
+      "id": "1533560354356072589",
+      "at": "2026-08-02T19:41:20.652000+00:00",
+      "user": "Ava Ivy",
+      "content": "mobile digs → Slack #development-feed. Android release still tracking - no fake ship date. ask there for status."
+    },
+    {
+      "id": "1533319313606311978",
+      "at": "2026-08-02T03:43:32.059000+00:00",
+      "user": "Ava Ivy",
+      "content": "@everyone\n\n## RootMC surface split — locked\n\n**Discord** = players + help + **data / cloud**.\nAsk about the game, wiki, link/verify, votes, Pro, map, balance, status — here.\nPlayer help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here.\n\n**Slack** = **ALL development**. No exceptions.\nPlugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.\n→ https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR\n→ plans: https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX\n\n**Still on Discord:** proposals & votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.\n\nI'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack."
+    },
+    {
+      "id": "1524984110089768960",
+      "at": "2026-07-10T03:42:24.680000+00:00",
+      "user": "rootrecorddev",
+      "content": ""
+    },
+    {
+      "id": "1524981483146711111",
+      "at": "2026-07-10T03:31:58.368000+00:00",
+      "user": "rootrecorddev",
+      "content": "https://discord.gg/MwWQaQgY?event=1524981211968311359"
+    },
+    {
+      "id": "1524747851974971474",
+      "at": "2026-07-09T12:03:36.356000+00:00",
+      "user": "rootrecorddev",
+      "content": "Test app soon"
+    },
+    {
+      "id": "1524727973998100481",
+      "at": "2026-07-09T10:44:37.077000+00:00",
+      "user": "RootMC",
+      "content": "**RootMC app — development status**\n\n**Package:** `com.rootrecord.rootmc` (registered)\n**Current build:** v1.0.27 (versionCode 27)\n**Stack:** native Kotlin + Jetpack Compose\n\n**Done**\n• App shell, navigation, deep links (`rootmc://`)\n• AdMob placeholders wired\n• FCM service stub in place\n• Release signing config scaffolded\n• Dev workstation on F: with manual archive backup to D: Archives\n\n**Remaining before store push**\n• `google-services.json` in Firebase for push (if notifications ship at v1)\n• Release keystore smoke test on device\n• Store listing / screenshots polish\n\n**Overall:** foundation is solid — roughly **80–90%** depending on whether FCM is required at v1.\n\nQuestions or app help → reply here or ping staff."
+    },
+    {
+      "id": "1524249790857220217",
+      "at": "2026-07-08T03:04:29.332000+00:00",
+      "user": "rootrecorddev",
+      "content": "Navigation hides site content"
+    },
+    {
+      "id": "1524249698498777108",
+      "at": "2026-07-08T03:04:07.312000+00:00",
+      "user": "rootrecorddev",
+      "content": ""
+    },
+    {
+      "id": "1524249667053813830",
+      "at": "2026-07-08T03:03:59.815000+00:00",
+      "user": "rootrecorddev",
+      "content": "Mobile versions of webpages"
+    },
+    {
+      "id": "1520383473326493706",
+      "at": "2026-06-27T11:01:07.400000+00:00",
+      "user": "rootrecorddev",
+      "content": "Mobile app is still in development. ETA for public Google Play access is August 1st."
+    }
+  ]
+}

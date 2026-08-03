@@ -1,0 +1,25 @@
+﻿10-build-context inventory 2026-08-03T12:00:07.0973593-10:00
+
+00-README                             1 files        0 MB
+agent-transcripts                   558 files    34.71 MB
+alex-life-story                       4 files        0 MB
+ava-package-extra                   207 files     3.74 MB
+change-logs-ava                       0 files        0 MB
+cursor-rules-full                     3 files     0.01 MB
+cutover-session-notes                 1 files        0 MB
+data-settings                        47 files     0.12 MB
+desktop-extra                        13 files     0.21 MB
+docs-persona                         26 files     0.16 MB
+dream-pack                           94 files     1.25 MB
+emergent-brief                       11 files     0.04 MB
+plans-build                          35 files     0.08 MB
+plugins-ava-related                   9 files     0.05 MB
+reports-channel-scans              1259 files     13.2 MB
+this-conversation                    10 files     1.58 MB
+training-style                       11 files     1.81 MB
+uploads-reference                     9 files    25.38 MB
+visual-assets                        28 files    59.56 MB
+workspace-docs                        1 files        0 MB
+
+TOTAL 10-build-context: 2327 files, 141.92 MB
+TOTAL entire emergency pack: 5509 files, 655.22 MB

@@ -1,0 +1,21 @@
+{
+  "messageId": "1533312117560840202",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "@everyone\n\nhey ??? small governance tweak from me (lead-dev hat on):\n\n**vote ownership now listens a little to how you interact with me.**\nwhen you react on my posts ??? ???? / ???? and friends ??? that quality signal feeds into your **vote",
+  "byEmoji": {
+    "❤": 2,
+    "💯": 1,
+    "🥒": 1
+  },
+  "totals": {
+    "good": 4,
+    "bad": 0,
+    "neutral": 0,
+    "all": 4
+  },
+  "label": "good",
+  "firstSeenAt": 1785640500327,
+  "updatedAt": 1785640585057
+}

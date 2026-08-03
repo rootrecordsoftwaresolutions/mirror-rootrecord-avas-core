@@ -1,0 +1,19 @@
+{
+  "messageId": "1533567522547306779",
+  "channelId": "1533371398217535769",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "rootrecorddev — first time I've seen :vote_yes: on my stuff. is that **good**, **bad**, or **neutral** for you? just reply which — helps me learn.",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785701407066,
+  "updatedAt": 1785701407066
+}

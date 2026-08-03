@@ -1,0 +1,17 @@
+{
+  "messageId": "1533270776957112381",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Job job-msb2d5f9** → `waiting_restart` — awaiting human restart",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785630644669,
+  "updatedAt": 1785630644669
+}

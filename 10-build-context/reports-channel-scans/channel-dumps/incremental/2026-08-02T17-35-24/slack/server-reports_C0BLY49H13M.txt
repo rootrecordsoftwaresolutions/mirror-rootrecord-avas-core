@@ -1,0 +1,69 @@
+# Slack #server-reports — incremental
+id: C0BLY49H13M
+dumped_at: 2026-08-02T17:35:40.190Z
+new_messages: 1
+since: 1785664890.874769
+
+========================================================================
+
+--- 2026-08-02T10:01:30.874Z | [bot] incoming-webhook
+*Economy Brief*
+_2026-08-01 HST · Slack copy after Discord_
+_daily_economy_intel_
+
+*Economy Brief*
+*2026-08-01 HST*
+
+&gt; Economy brief for 2026-08-01: Towny wallets 700.328 Gold, Claims 5.0k Gold; mined 49.7k | 519.862 Gold.
+
+*Market Overview*
+
+- Towny wallets total *700.328 Gold* across 19 players, up *6.76 Gold* from the prior report; Claims wallets total *5.0k Gold* across 5 players, up *0.4k Gold*.
+- Towny combined net worth holds at *919.551 Gold*; Claims net worth rises to *5.0k Gold*.
+- All-time gold mined stands at *49.7k Gold* on Towny and *519.862 Gold* on Claims, up *107.771 Gold*.
+- Active shop listings total *28* on Towny and *0* on Claims.
+
+*Towny vs Claims*
+
+- *Gold in wallets:* Towny *700.328 Gold* | Claims *5.0k Gold*
+- *Combined net worth:* Towny *919.551 Gold* | Claims *5.0k Gold*
+- *Gold mined (all-time):* Towny *49.7k Gold* | Claims *519.862 Gold*
+- *Shop listings:* Towny *28* | Claims *0*
+- *Players with wallets:* Towny *19* | Claims *5*
+
+_Realm-wide linked players (shared): *6*_
+_Realm playtime (shared Towny+Claims): *63* players - top *Alexrs94* at 12d 21h_
+
+*Towny Economy*
+
+- *Gold in wallets:* 700.328 Gold (*19* players)
+- *Combined net worth:* 919.551 Gold
+- *Gold mined (all-time):* 49.7k Gold
+- *Shop listings:* *28*
+- *Top wallets:* *ZuppaFredda* 286.873 Gold; *Elfrieden* 102.89 Gold; *HueWarriorr* 100.89 Gold
+
+*Claims Economy*
+
+- *Gold in wallets:* 5.0k Gold (*5* players)
+- *Combined net worth:* 5.0k Gold
+- *Gold mined (all-time):* 519.862 Gold
+- *Shop listings:* *0*
+- *Top wallets:* *Svenj9* 2.4k Gold; *ZuppaFredda* 1.3k Gold; *Alexrs94* 917.198 Gold
+
+*Outlook*
+
+- Wallet balances increased on both hosts; Claims recorded notable growth in mined gold and net worth while Towny remained stable.
+- Server Reserve shows no activity across inflows or outflows.
+
+*Live stats*
+_Server Reserve  -  synced Aug 1, 11:43 PM HST_
+*Reserve balance*
+- *Balance:* 0 Gold
+- *All-time net (ledger):* 0 Gold
+- *Avg monthly net:* 0 Gold
+*2026-08 month-to-date*
+- *Inflow:* 0 Gold  -  *Outflow:* 0 Gold  -  *Net:* 0 Gold
+*Towny fees to reserve (MTD)*
+- Claims 0 Gold  -  New towns 0 Gold  -  New nations 0 Gold  -  Services 0 Gold  -  *Total* 0 Gold
+
+========================================================================

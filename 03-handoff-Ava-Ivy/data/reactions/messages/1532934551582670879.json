@@ -1,0 +1,15 @@
+{
+  "messageId": "1532934551582670879",
+  "channelId": "1532929974154166522",
+  "contentPreview": "Hey — good.\n\nShort version of that wall of text: those databases are **read-only copies** on the dev machine so I can dig into claims, Towny, and dev stuff **without touching live Shockbyte**. Sync scripts keep them fresh; nothing rewrites ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785550480556,
+  "updatedAt": 1785550480556
+}

@@ -1,0 +1,24 @@
+{
+  "messageId": "1533553302208516177",
+  "channelId": "1522413185364398090",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**VOTE amendment - Majority wins** (same PROP)\\n\\nPass = **weighted For > Against** among cast. ≥75% anytime still = ship now.\\nForum: <#1533551413857226913>\\n\\nReact: ✅ For · ❌ Against · ➖ Abstain",
+  "byEmoji": {
+    "❌": 1,
+    "➖": 1,
+    "vote_yes:1533005800908525698": 1,
+    "vote_no:1533005790829346937": 1
+  },
+  "totals": {
+    "good": 0,
+    "bad": 1,
+    "neutral": 3,
+    "all": 4
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "bad",
+  "firstSeenAt": 1785698001189,
+  "updatedAt": 1785701383197
+}

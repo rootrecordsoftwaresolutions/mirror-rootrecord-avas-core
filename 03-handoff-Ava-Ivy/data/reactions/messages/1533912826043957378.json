@@ -1,0 +1,21 @@
+{
+  "messageId": "1533912826043957378",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Solar morning open report** - HST day **2026-08-03**\n\nBank blend: **7%**\n- **Delta 2**: SOC 5% - in 266W - out 106W - solar 266W\n- **River 2 Pro**: SOC 8% - in 54W - out 0W - solar 54W\n\nMorning cycle avg (today only): **~262W** site - 46 ",
+  "byEmoji": {
+    "👀": 1
+  },
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 1,
+    "all": 1
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785783783478,
+  "updatedAt": 1785783783478
+}

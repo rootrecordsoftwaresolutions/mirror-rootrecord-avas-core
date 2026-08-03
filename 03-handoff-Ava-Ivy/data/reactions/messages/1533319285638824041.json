@@ -1,0 +1,45 @@
+{
+  "messageId": "1533319285638824041",
+  "channelId": "1522413185364398090",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "@everyone\n\n## RootMC surface split — locked\n\n**Discord** = players + help + **data / cloud**.\nAsk about the game, wiki, link/verify, votes, Pro, map, balance, status — here.\nPlayer help & cloud data stay on the **cloud** path (api.rootmc.ne",
+  "byEmoji": {
+    "💯": 1,
+    "👍": 1,
+    "❤": 1
+  },
+  "totals": {
+    "good": 3,
+    "bad": 0,
+    "neutral": 0,
+    "all": 3
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "💯": {
+          "signal": "good",
+          "count": 1
+        },
+        "👍": {
+          "signal": "good",
+          "count": 1
+        },
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 3,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785642214688,
+  "updatedAt": 1785642389160
+}

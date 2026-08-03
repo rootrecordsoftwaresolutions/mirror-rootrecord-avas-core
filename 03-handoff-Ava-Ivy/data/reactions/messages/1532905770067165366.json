@@ -1,0 +1,35 @@
+{
+  "messageId": "1532905770067165366",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Looked through what I’ve got — that’s **Melee** (`melee5490`). Not a problem.\n\nGeneral was playful (“do you play with her” energy, hyped when you brought me online). Memes channel is normal chaos — vote-power ribbing, screenshot self-roast,",
+  "byEmoji": {
+    "💯": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "💯": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785543617713,
+  "updatedAt": 1785640351364
+}

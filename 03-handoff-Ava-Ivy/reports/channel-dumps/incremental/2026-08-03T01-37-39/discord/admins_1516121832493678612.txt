@@ -1,0 +1,26 @@
+# Discord #👮‍♂️admins👮‍♂️ — incremental
+id: 1516121832493678612
+dumped_at: 2026-08-03T01:37:40.773Z
+new_messages: 3
+after: 1533535568267579452
+
+========================================================================
+
+--- 2026-08-03T01:15:15.892Z | Ava (reply-to 1533277455371206766)
+Got it - this channel stays **player issues only**. Help, stuck, economy/governance questions, `/proposal`/`/feedback` pointers - that lane.
+
+Dev digs and staff ops still go Slack; I won't workshop plugins here.
+
+If it's not a player help thing, I'll nudge them to the right room instead of cluttering this one. 👍
+
+--- 2026-08-03T01:15:46.558Z | Ava (reply-to 1533277455371206766)
+Got it - this channel is **player issues only**. Help, stuck, bugs, how-to, governance questions - here. Dev digs and staff ops stay on Slack.
+
+I'll keep it tight and useful for players here.
+
+--- 2026-08-03T01:15:54.182Z | Ava (reply-to 1533277455371206766)
+Got it - player issues only in here. Stuck, rules, claims, `/proposal` stuff, Pro links, that lane.
+
+Dev digs and backend work stay on Slack; I'll point folks there if they wander in with jar talk.
+
+========================================================================

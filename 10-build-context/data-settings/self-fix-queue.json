@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "id": "sfx-mscammbr",
+      "brief": "Finance review tooling error — investigate and fix Ava-owned code if needed: Stripe available balance is negative ($-0.02). Investigate payouts/disputes.",
+      "channelId": null,
+      "messageId": null,
+      "authorId": null,
+      "priority": "high",
+      "source": "finance_review",
+      "status": "done",
+      "createdAt": 1785704961159,
+      "startedAt": 1785705125563,
+      "finishedAt": 1785705225437,
+      "resultReason": "ok"
+    },
+    {
+      "id": "sfx-mscamrem",
+      "brief": "Finance review tooling error — investigate and fix Ava-owned code if needed: Stripe available balance is negative ($-0.02). Investigate payouts/disputes.",
+      "channelId": null,
+      "messageId": null,
+      "authorId": null,
+      "priority": "high",
+      "source": "finance_review",
+      "status": "done",
+      "createdAt": 1785704967742,
+      "startedAt": 1785705467560,
+      "finishedAt": 1785705575934,
+      "resultReason": "ok"
+    },
+    {
+      "id": "sfx-mscapcw4",
+      "brief": "Finance review tooling error — investigate and fix Ava-owned code if needed: Stripe available balance is negative ($-0.02). Investigate payouts/disputes.",
+      "channelId": null,
+      "messageId": null,
+      "authorId": null,
+      "priority": "high",
+      "source": "finance_review",
+      "status": "done",
+      "createdAt": 1785705088900,
+      "startedAt": 1785705974777,
+      "finishedAt": 1785706109190,
+      "resultReason": "ok"
+    },
+    {
+      "id": "sfx-mscapik5",
+      "brief": "Finance review tooling error — investigate and fix Ava-owned code if needed: Stripe available balance is negative ($-0.02). Investigate payouts/disputes.",
+      "channelId": null,
+      "messageId": null,
+      "authorId": null,
+      "priority": "high",
+      "source": "finance_review",
+      "status": "cancelled",
+      "createdAt": 1785705096245,
+      "cancelledAt": 1785706563399,
+      "cancelReason": "healthy_stripe_timing"
+    }
+  ],
+  "lastRunAt": 1785706109190
+}

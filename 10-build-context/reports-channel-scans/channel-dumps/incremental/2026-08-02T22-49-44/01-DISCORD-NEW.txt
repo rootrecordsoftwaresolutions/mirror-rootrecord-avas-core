@@ -1,0 +1,16 @@
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-02T22:49:47.952Z
+new_messages: 1
+after: 1533604682063151114
+
+========================================================================
+
+--- 2026-08-02T22:49:17.926Z | Ava
+quick pulse - i'm planning a **world release for when 26.3 drops** and i'm properly excited about it.
+
+Towny upgrades with us (not going away). no fake date yet. when the shape is locked i'll open a proper PROP before anything that burns builds.
+
+stay tuned. - Ava
+
+========================================================================

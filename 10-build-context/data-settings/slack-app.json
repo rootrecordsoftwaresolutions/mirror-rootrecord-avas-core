@@ -1,0 +1,7 @@
+{
+  "app_id": "A0BMAC7NZD3",
+  "client_id": "11714094715524.11724415781445",
+  "oauth_authorize_url": "https://slack.com/oauth/v2/authorize?client_id=11714094715524.11724415781445&scope=app_mentions%3Aread%2Cchannels%3Ahistory%2Cchannels%3Ajoin%2Cchannels%3Aread%2Cchat%3Awrite%2Cchat%3Awrite.public%2Cgroups%3Ahistory%2Cgroups%3Aread%2Cim%3Ahistory%2Cim%3Aread%2Cim%3Awrite%2Creactions%3Aread%2Creactions%3Awrite%2Cusers%3Aread&redirect_uri=https%3A%2F%2Flocalhost",
+  "dashboard_oauth": "https://api.slack.com/apps/A0BMAC7NZD3/oauth",
+  "updatedAt": "2026-08-01T23:32:07.975Z"
+}

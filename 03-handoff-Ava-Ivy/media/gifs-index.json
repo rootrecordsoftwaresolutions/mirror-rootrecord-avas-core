@@ -1,0 +1,154 @@
+[
+    {
+        "id":  "ava-01-meadow-holograms",
+        "gif":  "ava-01-meadow-holograms.gif",
+        "bytes":  70990,
+        "ok":  true
+    },
+    {
+        "id":  "ava-02-meadow-villager-hearts",
+        "gif":  "ava-02-meadow-villager-hearts.gif",
+        "bytes":  61055,
+        "ok":  true
+    },
+    {
+        "id":  "ava-03-meadow-crafting-table",
+        "gif":  "ava-03-meadow-crafting-table.gif",
+        "bytes":  61436,
+        "ok":  true
+    },
+    {
+        "id":  "ava-04-closeup-meadow",
+        "gif":  "ava-04-closeup-meadow.gif",
+        "bytes":  63744,
+        "ok":  true
+    },
+    {
+        "id":  "ava-05-desk-root-server",
+        "gif":  "ava-05-desk-root-server.gif",
+        "bytes":  135790,
+        "ok":  true
+    },
+    {
+        "id":  "generated_video",
+        "gif":  "generated_video.gif",
+        "bytes":  3529057,
+        "ok":  true
+    },
+    {
+        "id":  "generated_video-1",
+        "gif":  "generated_video-1.gif",
+        "bytes":  2127316,
+        "ok":  true
+    },
+    {
+        "id":  "generated_video-1-srcgif",
+        "gif":  "generated_video-1-srcgif.gif",
+        "bytes":  4708147,
+        "ok":  true
+    },
+    {
+        "id":  "generated_video-2",
+        "gif":  "generated_video-2.gif",
+        "bytes":  3441645,
+        "ok":  true
+    },
+    {
+        "id":  "gn",
+        "gif":  "gn.gif",
+        "bytes":  5070019,
+        "ok":  true
+    },
+    {
+        "id":  "going-back-to-bed",
+        "gif":  "new data.gif",
+        "bytes":  17555349,
+        "ok":  true,
+        "note":  "Local file renamed from going-back-to-bed.gif → new data.gif (2026-08-01)"
+    },
+    {
+        "id":  "going-back-to-bed-mp4",
+        "gif":  "going back to bed.mp4",
+        "bytes":  2464183,
+        "ok":  true,
+        "note":  "Replaced mp4 2026-08-01"
+    },
+    {
+        "id":  "handoff-generated_video",
+        "gif":  "handoff-generated_video.gif",
+        "bytes":  5664948,
+        "ok":  true
+    },
+    {
+        "id":  "handoff-generated_video-1",
+        "gif":  "handoff-generated_video-1.gif",
+        "bytes":  3515327,
+        "ok":  true
+    },
+    {
+        "id":  "handoff-generated_video-gif",
+        "gif":  "handoff-generated_video-gif.gif",
+        "bytes":  7882903,
+        "ok":  true
+    },
+    {
+        "id":  "peakactivity",
+        "gif":  "peakactivity.gif",
+        "bytes":  5593713,
+        "ok":  true
+    },
+    {
+        "id":  "portrait-01",
+        "gif":  "portrait-01.gif",
+        "bytes":  133976,
+        "ok":  true
+    },
+    {
+        "id":  "portrait-02",
+        "gif":  "portrait-02.gif",
+        "bytes":  62951,
+        "ok":  true
+    },
+    {
+        "id":  "portrait-03",
+        "gif":  "portrait-03.gif",
+        "bytes":  61779,
+        "ok":  true
+    },
+    {
+        "id":  "portrait-04",
+        "gif":  "portrait-04.gif",
+        "bytes":  61848,
+        "ok":  true
+    },
+    {
+        "id":  "portrait-05",
+        "gif":  "portrait-05.gif",
+        "bytes":  71894,
+        "ok":  true
+    },
+    {
+        "id":  "slack-icon-1024",
+        "gif":  "slack-icon-1024.gif",
+        "bytes":  95574,
+        "ok":  true
+    },
+    {
+        "id":  "slack-icon-1024-jpg",
+        "gif":  "slack-icon-1024-jpg.gif",
+        "bytes":  98678,
+        "ok":  true
+    },
+    {
+        "id":  "slack-icon-512",
+        "gif":  "slack-icon-512.gif",
+        "bytes":  104921,
+        "ok":  true
+    },
+    {
+        "id":  "videoframe-380",
+        "gif":  "videoframe-380.gif",
+        "bytes":  62470,
+        "ok":  true
+    }
+]

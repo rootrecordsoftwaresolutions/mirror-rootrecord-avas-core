@@ -1,0 +1,26 @@
+{
+  "id": "job-mscjnb9x",
+  "kind": "dig",
+  "status": "implementing",
+  "title": "Should have just said Ava",
+  "proposalId": null,
+  "channelId": "tg:-1003868178598",
+  "messageId": "15282",
+  "authorId": "6644482344",
+  "brief": "Should have just said Ava",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\job-mscjnb9x.md",
+  "createdAt": 1785720110038,
+  "updatedAt": 1785720110047,
+  "history": [
+    {
+      "at": 1785720110038,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785720110047,
+      "status": "implementing",
+      "note": "commitment opened — must deliver"
+    }
+  ]
+}

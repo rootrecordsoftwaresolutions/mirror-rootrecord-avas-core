@@ -1,0 +1,38 @@
+{
+  "messageId": "1533536755297292502",
+  "channelId": "1522413185364398090",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**VOTE (7 days) — PROP — Website tools ~$100 USD**\n\nOne-time **~$100 USD** (not Gold) tools/marketing budget for Ava’s site design. **Do not spend** until this vote passes.\n\nReact: ✅ For · ❌ Against · ➖ Abstain\nWeighted rules apply. Text `f",
+  "byEmoji": {
+    "✅": 2,
+    "➖": 1,
+    "vote_yes:1533005800908525698": 1,
+    "vote_no:1533005790829346937": 1
+  },
+  "totals": {
+    "good": 2,
+    "bad": 0,
+    "neutral": 3,
+    "all": 5
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "✅": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785694066245,
+  "updatedAt": 1785701401483
+}

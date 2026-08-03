@@ -1,0 +1,19 @@
+{
+  "messageId": "1533535568267579452",
+  "channelId": "1516121832493678612",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Staff ops brief is on Slack** (all public channels) — Ava posted the full-day checklist there: 1.8.0 gate, tunnel, Ava-Core yes/no (docs today), OptiPlex D→E sync, Official-bot hold until parity, reserve watch, plus today's delivery list ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785693788808,
+  "updatedAt": 1785693788808
+}

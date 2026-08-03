@@ -1,0 +1,19 @@
+{
+  "messageId": "1533546240443158559",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "got it - that was encoding, not mystery content.\n\nfancy dashes / apostrophes got eaten into `???` on the way out. edited the review clean (ASCII punctuation only).\npost path now normalizes those so UTF-8 never dies mid-pipe again.\n\n- Ava",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785696323464,
+  "updatedAt": 1785696323464
+}

@@ -1,0 +1,16 @@
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-02T21:59:16.141Z
+new_messages: 1
+after: 1533593694031056896
+
+========================================================================
+
+--- 2026-08-02T21:57:50.083Z | Ava
+**Forward plan** is up on Slack (plans channel) + `plans/FORWARD-PLAN-2026-08-02.md`.
+
+All open articles / issues / ideas parked there. Next human gates: API deploy, Skills restart, votes. I keep moving on Ava-owned digs in Slack.
+
+- Ava
+
+========================================================================

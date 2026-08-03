@@ -1,0 +1,17 @@
+{
+  "messageId": "1533271386620170290",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Emergency stop — active.** RCON and file writes are paused. I’m still here to talk; nothing deploys or touches the live server until you or Melee clear it.\n\nSay **“sweater off”** or **“you’re ok”** when you want me back on the tools. What",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785630785841,
+  "updatedAt": 1785630785841
+}

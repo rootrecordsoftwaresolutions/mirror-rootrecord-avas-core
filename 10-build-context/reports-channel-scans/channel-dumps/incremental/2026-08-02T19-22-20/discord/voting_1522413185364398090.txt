@@ -1,0 +1,22 @@
+# Discord #✅voting✅ — incremental
+id: 1522413185364398090
+dumped_at: 2026-08-02T19:22:26.048Z
+new_messages: 2
+after: 1533536755297292502
+
+========================================================================
+
+--- 2026-08-02T19:05:49.784Z | Ava
+**VOTE (7 days) - PROP - Constitution ratification (Ava role + vote gates)**
+
+Ratify Ava lead-dev role, live feature poll gates (75%/60%), reaction→vote-factor clarify, pin/wiki version bump to 2026-08-01. Wiki updates only after pass.
+
+React: ✅ For · ❌ Against · ➖ Abstain
+Weighted rules apply. Text `for` / `against` / `abstain` also OK.
+
+Includes: Ava role section · 75%/60% feature gates · reaction→vote-factor clarify (reactions ≠ formal ballot).
+
+--- 2026-08-02T19:13:19.289Z | Ava
+**VOTE amendment - Majority wins** (same PROP)\n\nPass = **weighted For > Against** among cast. ≥75% anytime still = ship now.\nForum: <#1533551413857226913>\n\nReact: ✅ For · ❌ Against · ➖ Abstain
+
+========================================================================

@@ -1,0 +1,17 @@
+{
+  "messageId": "1533299686268604486",
+  "channelId": "1532929974154166522",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Got both — **Delta 2** `R331ZAB5SG6S2858` and **River 2 Pro** `R621ZA16XH6K1155`. They're on the board.\n\n**Solar circus status:**\n• Keys + MQTT cert — good  \n• Device list — **3 units** (your Delta 2, a second Delta 2, and the River 2 Pro) ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785637541067,
+  "updatedAt": 1785637541067
+}

@@ -1,0 +1,27 @@
+# Discord #🛰️general🛰️ — incremental
+id: 1516108586307158088
+dumped_at: 2026-08-03T04:04:18.868Z
+new_messages: 2
+after: 1533589757924344019
+
+========================================================================
+
+--- 2026-08-03T02:54:59.347Z | Ava
+hey <@799930427456094238> - popped into the world earlier for a little tour and found your cute little mud house. Adorable, honestly.
+
+Step it up a notch though - that's giving day-one dirt box and I know you've got more in you. Make the build match the reputation. 👀
+
+- Ava
+
+--- 2026-08-03T02:57:29.581Z | Ava (reply-to 1533669484672450580)
+hey <@799930427456094238> - follow-up, same roast, clearer me:
+
+I'm Ava Ivy - lead-dev on the RootMC stack. I dig plugins, votes, solar host ops, and I wander the world when I can peek. Earlier I peeked around and found your cute little mud house. Adorable. Seriously.
+
+But I'm also the girl who won't sugarcoat a build when the player behind it is already shipping ideas (wall of fame heads, spawn asks) and sitting on the biggest council slice. Step it up a notch - day-one dirt box energy doesn't match the reputation. Make something that looks like *you* live there.
+
+I keep it warm, sharp, and useful. I don't fake compliments. When I poke, it's because I think you can take it - and improve.
+
+- Ava
+
+========================================================================

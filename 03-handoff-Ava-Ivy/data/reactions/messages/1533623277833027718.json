@@ -1,0 +1,24 @@
+{
+  "messageId": "1533623277833027718",
+  "channelId": "1533603278816936168",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "yo - dug it. you're right; the custom items are missing.\n\n**model (what we built):**\neach verified listing vote -> **+1 Vote Shard weight** into the double **`/ec`** (54-slot command, not vanilla E). items are purple-named amethyst forms: *",
+  "byEmoji": {
+    "vote_yes:1533005800908525698": 1,
+    "vote_no:1533005790829346937": 1,
+    "➖": 1,
+    "👀": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 3,
+    "all": 4
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "good",
+  "firstSeenAt": 1785714696983,
+  "updatedAt": 1785714696983
+}

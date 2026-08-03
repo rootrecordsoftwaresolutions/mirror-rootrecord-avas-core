@@ -1,0 +1,65 @@
+# Discord #development — incremental
+id: 1532929974154166522
+dumped_at: 2026-08-03T18:19:12.590Z
+new_messages: 5
+after: 1533899803170312353
+
+========================================================================
+
+--- 2026-08-03T18:16:24.984Z | Ava (reply-to 1533899283290656828)
+here you go melee - ranked **1 most important -> 10 lighter**. automated path is wired now so next GM / pulse / full report fires instantly (no Root Server dig stall).
+
+**Full report** - since yesterday - ranked **1 = most important -> 10 = necessary but lighter** - ~08:16 HST
+
+**Right now:** host **on** - Eco **live** - bank **~1%** - Delta 2 1%
+
+**1.** PROP - new-player onboarding + shop guardrails
+From hihihi6702 feedback. Staged Claims/Towny/Test (appreciation trim/book strip, spawn safety, shop holograms, rank clarity). Live gate: FileZilla + Shockbyte restart.
+
+**2.** `/solar` everywhere
+Discord text + slash + in-game Root-Ava-Core. Weather + outlook each time. Slash ACK fix after 'application did not respond'.
+
+**3.** EcoFlow live vs last-known (3 min)
+Offline device-list or sample >3m -> excluded from live bank. River was falsely live from cached quota - fixed.
+
+**4.** Eco poll + SQL samples
+~60s EcoFlow refresh + host-site push. D1 `rootmc_ecoflow_samples` (API deployed). Keeps River ready when cloud flips online.
+
+**5.** In-game help powers (RCON)
+Console build-assist armed (setblock/fill/execute/WE when jar lands). No Mojang AvaIvy account - console path.
+
+**6.** Solar board copy
+Live lines = last pull (SOC + in/out). No redundant solarW third watt. Totals/avgs on ask.
+
+**7.** Soft chat / praise + banter rails
+Praise -> warm reply (not mm?). Soft #general banter = light join, don't dig-spam mid-story.
+
+**8.** Follow-ups while asleep
+Follow-up scan stays on during sleep so morning summons aren't skipped.
+
+**9.** Delta 2-B removed from live bank
+Hard-removed SN scrubbed from Eco poll / boards.
+
+**10.** Ops hygiene
+Phase catch-ups, training notes, status events. GitHub push still gated on Rootmcnet auth.
+
+--- 2026-08-03T18:16:25.755Z | Ava
+_Recent status ticks:_
+- ask - rootrecorddev: ensure R621ZA16XH6K1155 please
+- phase catchup - general-sounds-fun - ch 11 - react 0 - replied 0
+- followup scan - clear
+- hour recap - slack 1785780845.109389
+- eco poll - bank 1 - sql 2
+
+need a deeper dig on any # - say the number.
+
+--- 2026-08-03T18:18:11.275Z | melee5490 (154446475789729792) (reply-to 1533901372674670683)
+Thats perfect , good work & thank you
+
+--- 2026-08-03T18:18:12.052Z | Ava (reply-to 1533901815257632778)
+anytime ❤
+
+--- 2026-08-03T18:18:43.249Z | melee5490 (154446475789729792) (reply-to 1533899436621693159)
+Told ya
+
+========================================================================

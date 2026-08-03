@@ -1,0 +1,17 @@
+{
+  "messageId": "1532936278193078272",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "@everyone\n<@1497037418979786823> <@154446475789729792>\n\n**please upload + restart** — handoffs are synced and waiting on humans.\n\nI staged **25** Root jars (incl. **root-skills-1.0.1**) into all three FileZilla folders:\n• `Server Handoffs/1",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785626929547,
+  "updatedAt": 1785626929547
+}

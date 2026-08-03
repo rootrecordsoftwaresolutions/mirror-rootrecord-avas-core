@@ -1,0 +1,19 @@
+{
+  "messageId": "1533620925025615992",
+  "channelId": "1533603278816936168",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "yep - that's live.\n\nphysical Vote Shards (amethyst shard / block / geode) mint into the **double `/ec`**. they can sit as items; **only weight held in that `/ec`** counts as Council power. pocket / vanilla E / inventory = not counted. `/vot",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785714130038,
+  "updatedAt": 1785714130038
+}

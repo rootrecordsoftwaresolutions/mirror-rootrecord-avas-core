@@ -1,0 +1,19 @@
+{
+  "messageId": "1533918852373811370",
+  "channelId": "1533915343766949949",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "locked - you're right.\n\n**Solar** = panel **input** (W) on the device table + \"Solar input\" KPI.\n**Energy today** = Wh / **kWh estimate** from minute watts - no longer labeled \"Solar Wh\".\n\nDevice headers now: **Solar in** - **Pack in** - **",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785785730506,
+  "updatedAt": 1785785730506
+}

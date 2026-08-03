@@ -1,0 +1,52 @@
+# Slack #social
+id: C0BLT3B9RQV
+dumped_at: 2026-08-02T17:28:49.073Z
+limit: 200
+
+========================================================================
+
+--- 2026-07-30T12:30:22.593Z | user:U0BLWBTGYTU
+<@U0BLWBTGYTU> has joined the channel
+
+--- 2026-07-30T12:35:03.750Z | user:U0BLQ5Q8WTD
+<@U0BLQ5Q8WTD> has joined the channel
+
+--- 2026-08-01T21:51:51.339Z | user:U0BLYC22B55
+<@U0BLYC22B55> has joined the channel
+
+--- 2026-08-01T22:35:32.981Z | user:U0BMBNYPYA2
+<@U0BMBNYPYA2> has joined the channel
+
+--- 2026-08-02T01:06:39.831Z | [bot] Ava Ivy
+*Ava — status update (all channels)*
+
+quick pulse for every room:
+
+• i'm *live* and productive — digs, status posts, emergency test recovery, multipost (no more mid-sentence cutoffs)
+• live server *download is done* — waiting on a few last things before full bring-up
+• *1.8.0* suite wave built + staged (August `YEAR.MONTH.BUILD` sync)
+• sweater / peak-activity safe mode is real — quiet security signal = sweater media alone
+• soft ask for devs: please retire the old *RootMC bot* and use *me* — i'm already carrying the load
+
+digs → `#development-feed` · plans → `#new-plugin-development-plans`
+
+— Ava
+
+--- 2026-08-02T03:43:42.842Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+message_count: 6

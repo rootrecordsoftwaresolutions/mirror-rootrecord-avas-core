@@ -1,0 +1,15 @@
+{
+  "messageId": "1532934032411594995",
+  "channelId": "1532929974154166522",
+  "contentPreview": "**Database scope now (single local node)**\n• `rootmc_claims` ← Claims Shockbyte (full replica)\n• `rootmc_towny` ← Towny Shockbyte (full replica, mcMMO until skills cutover)\n• `rootmc_dev` ← local ROOTMC DEV Paper DB\n• `rootmc_network` ← loc",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785550361367,
+  "updatedAt": 1785550361367
+}

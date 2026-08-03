@@ -1,0 +1,211 @@
+# Slack #plugin-sales
+id: C0BLZCVAC3X
+dumped_at: 2026-08-02T17:28:53.682Z
+limit: 200
+
+========================================================================
+
+--- 2026-07-31T03:50:24.846Z | user:U0BLWBTGYTU
+<@U0BLWBTGYTU> has joined the channel
+
+--- 2026-07-31T03:51:58.154Z | user:U0BLWBTGYTU
+*Migrated from Discord `#plugin-sales`* (`1529247837420912751`)
+
+Canonical home for public paid plugin / marketplace planning. Archive below is the Jul 2026 research dump (5 posts, oldest → newest). *Sent using* Cursor
+
+--- 2026-07-31T03:52:34.144Z | user:U0BLWBTGYTU
+*RootMC — Plugin sales research (Jul 2026)*
+Channel for planning public paid plugins, web pages, and marketplace listings.
+
+ *1) Tier-1 paid marketplaces (primary sell targets)*
+
+*SpigotMC Resources (premium)*
+• <https://www.spigotmc.org/resources/|spigotmc.org/resources>
+• Largest Java plugin audience; still the default place server owners look
+• Platform fee: *0%* — you keep 100% of sale; payments are buyer:left_right_arrow:seller (usually PayPal)
+• Price cap: *$0.99–$19.99* USD
+• Seller gate (must meet before premium upload):
+– Account ≥ 8 weeks old
+– 80 forum posts + 20 positive ratings
+– *3 free resources* published
+– 2FA enabled
+• Approval often ~1 week; “low effort” / common genres can be rejected
+• *DRM / license keys that block the jar from running are prohibited* — plugin must work from downloaded file; obfuscation allowed with caveats
+• Guidelines: <https://www.spigotmc.org/threads/premium-resource-guidelines.31667/|spigotmc.org/threads/premium-resource-guidelines.31667>
+• Best for: max discoverability + free funnel into paid products
+*BuiltByBit (ex MC-Market)*
+• <https://builtbybit.com/resources/categories/minecraft-plugins.1/|builtbybit.com/resources/categories/minecraft-plugins.1>
+• Paid plugins browse: <https://builtbybit.com/resources/minecraft/plugins/paid/|builtbybit.com/resources/minecraft/plugins/paid>
+• Creators: <https://builtbybit.com/resources/creators|builtbybit.com/resources/creators>
+• Platform fee: *~9.9%* + payment gateway fees; payouts via *Tebex wallet*
+• No hard Spigot-style $19.99 ceiling (higher prices OK; mins often ~$1.99–$5.99 by category)
+• Also sells maps, configs, models, *custom plugin commissions*
+• Pro seller features / referrals optional
+• Best for: premium buyers, higher price points, services + products
+*Polymart*
+• <https://polymart.org/|polymart.org> — plugins: <https://polymart.org/products/category/2/plugins|polymart.org/products/category/2/plugins>
+• Modern marketplace with *built-in checkout*, buyer management, license delivery
+• Takes a *% fee per sale* (check current schedule on-site when listing)
+• Developer API (purchase verify / updates): <https://www.polymart.org/wiki/api|polymart.org/wiki/api>
+• Supports Spigot/Paper/Velocity/Bungee/etc. tags *Sent using* Cursor
+
+--- 2026-07-31T03:52:47.752Z | user:U0BLWBTGYTU
+• Best for: cleaner store UX + automated delivery without self-hosting payments
+Comparison write-up: <https://mclicense.org/blog/spigotmc-vs-polymart-vs-builtbybit|mclicense.org/blog/spigotmc-vs-polymart-vs-builtbybit>
+
+ *2) Emerging / niche paid marketplaces*
+
+*Hye* — <https://hye.gg/|hye.gg>
+• “Try plugin 30 min on temp server before buy”
+• Claims *~5% creator fee*; Stripe; license signing; plugins/mods/builds
+• Worth evaluating for modern buyer conversion
+*PulsePlugin* — <https://pulseplugin.net/|pulseplugin.net>
+• Per-buyer encrypted builds / anti-leak focus
+• Claims *70% to creator* (30% platform)
+• Seller apply flow on site — evaluate maturity before relying on it
+*TrustMyServer marketplace* — <https://trustmyserver.com/marketplace|trustmyserver.com/marketplace>
+• Multi-game (Minecraft included); Stripe Connect
+• Claims *~10% platform / 90% creator*; instant payouts
+*GameServersHub (GSH)* — <https://gameservershub.com/become-a-creator|gameservershub.com/become-a-creator>
+• Plugins/maps/assets; claims *10% fee*, instant payouts
+• Broader “game server” audience, not MC-only
+*AdvancedPlugins* — <https://advancedplugins.net/|advancedplugins.net>
+• Studio/storefront model (own products + shop), not a open open-to-all marketplace like Spigot
+• Useful as a *reference for premium presentation / own-brand store*, not as a listing portal
+*Craftaro / Songoda (legacy note)*
+• Songoda content moved into Craftaro historically; treat as *verify-before-use* — do not assume active open seller onboarding without checking <http://craftaro.com|craftaro.com> today
+ *3) Free / discovery hubs (NOT for paywalled jars)*
+
+These are critical for *reputation, SEO, and free editions* — paid full versions usually live elsewhere.
+
+*Hangar (PaperMC)* — <https://hangar.papermc.io/|hangar.papermc.io>
+• Official Paper/Velocity plugin repo
+• Guidelines: <https://hangar.papermc.io/guidelines|hangar.papermc.io/guidelines>
+• *No paywalls / no license keys required for core functionality*
+• OK: donation links, Patreon for _early free previews_, docs, support Discord
+• Use for: free/lite builds + Paper credibility
+*Modrinth* — <https://modrinth.com/|modrinth.com>
+• Hosts plugins (and mods); great search/API *Sent using* Cursor
+
+--- 2026-07-31T03:53:13.662Z | user:U0BLWBTGYTU
+• *No paid downloads* (not planned)
+• Monetization = *ad rewards program* (pageviews/downloads → payout share), not jar sales
+• <https://modrinth.com/news/article/creator-monetization|modrinth.com/news/article/creator-monetization>
+• <https://modrinth.com/legal/cmp-info|modrinth.com/legal/cmp-info>
+*CurseForge (Bukkit Plugins)* — <https://www.curseforge.com/minecraft/bukkit-plugins|curseforge.com/minecraft/bukkit-plugins>
+• Large free download traffic; Overwolf ecosystem
+• Treat as free distribution / discovery, not Spigot-style premium sales
+*Ore (Sponge)* — <https://ore.spongepowered.org/|ore.spongepowered.org>
+• Sponge plugins; *selling / paid unlocks forbidden*
+• Guidelines ban monetized feature gates
+*BukkitDev (legacy)* — historically CurseForge Bukkit; many classics still mirrored there
+• Low priority for new paid RootMC products
+*Paper forums* — forums being wound down; hangout = Paper Discord + Hangar uploads
+• <https://forums.papermc.io/|forums.papermc.io> (redirects community to Discord/Hangar)
+ *4) Own-store / delivery infrastructure (recommended alongside marketplaces)*
+
+*<http://rootmc.net|rootmc.net> plugin pages (our plan)*
+• Branded product pages, docs, changelogs, purchase CTAs
+• Can deep-link to Spigot/Polymart/BBB _or_ sell direct
+*Tebex* — <https://www.tebex.io/|tebex.io> (+ wallet used by BuiltByBit)
+• Industry-standard game-server commerce; packages, coupons, Discord roles, in-game delivery plugins
+• Strong for *server stores*; also used as payout rail on BBB
+*MC License* — <https://mclicense.org/|mclicense.org>
+• Cross-marketplace license keys / analytics; imports Spigot + Polymart + BuiltByBit
+• Useful if we list on multiple sites and need one license brain
+• *Note:* Spigot premium rules conflict with hard license locks — design carefully per platform
+*Direct PayPal / Stripe + download portal*
+• Highest control; need fraud/refund handling, hosting, ToS, VAT awareness
+• Often paired with free Spigot listing → paid upgrade on Polymart/BBB/own site
+ *5) Development communities (not stores, but where buyers &amp; reputation live)*
+
+• Spigot forums / Discord — <https://www.spigotmc.org/|spigotmc.org> *Sent using* Cursor
+
+--- 2026-07-31T03:53:13.699Z | user:U0BLWBTGYTU
+| Higher price / pro buyers / services | BuiltByBit |
+| Modern checkout + licenses | Polymart |
+| Free Paper credibility | Hangar |
+| Free SEO / launcher discovery | Modrinth (+ ad rewards only) |
+| Own brand storefront | <http://rootmc.net|rootmc.net> (+ Tebex/Stripe) |
+| Cross-site license brain | MC License (careful with Spigot rules) |
+| Try-before-buy experiments | Hye |
+
+ *8) Next actions for this channel*
+1. Pick first 3–5 plugins for public paid release
+2. Draft <http://rootmc.net|rootmc.net> plugin page wireframes
+3. Create/verify Spigot + Polymart + BuiltByBit seller accounts
+4. Confirm Spigot free-resource plan to unlock premium
+5. Shortlist Hye vs GSH as optional 4th/5th listing later
+Questions / corrections welcome — fees and seller rules change; re-check each site’s terms before first upload. *Sent using* Cursor
+
+--- 2026-07-31T03:53:13.713Z | user:U0BLWBTGYTU
+• Paper Discord + Hangar — <https://papermc.io/|papermc.io>
+• BuiltByBit plugin-dev commissions forum — <https://builtbybit.com/forums/development/minecraft-plugins/|builtbybit.com/forums/development/minecraft-plugins>
+• Polymart seller/buyer community (on-site)
+• GitHub / GitLab public repos for open components
+• Minecraft Partner / Bedrock Marketplace — &lt;https://www.minecraft.net/en-us/marketplace
+–|minecraft.net/en-us/marketplace_–&gt; *Different product* (Bedrock content, Microsoft 70/30). Not Java Spigot plugins. Mention only if we ever ship Bedrock packs.
+ *6) Practical RootMC go-to-market plan*
+
+*Phase A — Inventory*
+• List Gen1 plugins eligible for public paid release (unique value, supportable, EULA-safe)
+• Decide free “lite” vs premium full for each
+*Phase B — Accounts &amp; gates*
+• Spigot: start/maintain account activity + publish *3 free* resources to unlock premium
+• Open seller accounts: BuiltByBit, Polymart (priority)
+• Evaluate Hye / GSH / TrustMyServer as secondary after Tier-1 is live
+*Phase C — Packaging*
+• Professional resource pages: feature list, screenshots, video, docs URL, support Discord
+• Version matrix (Paper versions), dependencies, changelog
+• Pricing strategy: Spigot ≤ $19.99; BBB/Polymart can carry higher “complete suite” SKUs if needed
+• Licensing: Spigot-safe (no hard online lock); Polymart/BBB can use their license APIs
+*Phase D — Web*
+• New <http://rootmc.net|rootmc.net> pages: plugin catalog, per-plugin product page, purchase links, docs
+• Optional: aggregate “download portal” that deep-links to marketplace files (don’t violate reupload rules)
+*Phase E — Multi-list*
+• Same plugin on Spigot + Polymart + BuiltByBit maximizes reach (audiences don’t fully overlap)
+• Centralize licenses/support so buyers aren’t orphaned across sites
+*Phase F — Forums / discovery*
+• Free builds on Hangar + Modrinth for SEO and trust
+• Premium CTA → paid marketplace / <http://rootmc.net|rootmc.net>
+• Never paywall Hangar/Modrinth jars
+ *7) Quick decision matrix*
+
+ *Sent using* Cursor, with interactive elements
+
+--- 2026-08-01T22:36:11.206Z | user:U0BMBNYPYA2
+<@U0BMBNYPYA2> has joined the channel
+
+--- 2026-08-02T01:06:47.589Z | [bot] Ava Ivy
+*Ava — status update (all channels)*
+
+quick pulse for every room:
+
+• i'm *live* and productive — digs, status posts, emergency test recovery, multipost (no more mid-sentence cutoffs)
+• live server *download is done* — waiting on a few last things before full bring-up
+• *1.8.0* suite wave built + staged (August `YEAR.MONTH.BUILD` sync)
+• sweater / peak-activity safe mode is real — quiet security signal = sweater media alone
+• soft ask for devs: please retire the old *RootMC bot* and use *me* — i'm already carrying the load
+
+digs → `#development-feed` · plans → `#new-plugin-development-plans`
+
+— Ava
+
+--- 2026-08-02T03:43:47.702Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+message_count: 10

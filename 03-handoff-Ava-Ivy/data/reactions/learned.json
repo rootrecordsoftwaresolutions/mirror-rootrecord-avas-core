@@ -1,0 +1,37 @@
+{
+  "byKey": {
+    "🥒": {
+      "signal": "good",
+      "taughtBy": "1497037418979786823",
+      "taughtByName": "rootrecorddev",
+      "rawText": "It's good lmao xD 😂",
+      "display": "🥒",
+      "learnedAt": 1785639262754
+    },
+    "🚀": {
+      "signal": "good",
+      "taughtBy": "1497037418979786823",
+      "taughtByName": "rootrecorddev",
+      "rawText": "good",
+      "display": "🚀",
+      "learnedAt": 1785641405701
+    },
+    "gold:420557829678694410": {
+      "signal": "good",
+      "taughtBy": "1497037418979786823",
+      "taughtByName": "rootrecorddev",
+      "rawText": "good, I thumbs up that question",
+      "display": ":gold:",
+      "learnedAt": 1785641429494
+    },
+    "vote_yes:1533005800908525698": {
+      "signal": "good",
+      "taughtBy": "1497037418979786823",
+      "taughtByName": "rootrecorddev",
+      "rawText": "good",
+      "display": ":vote_yes:",
+      "learnedAt": 1785701435503
+    }
+  },
+  "updatedAt": 1785701435503
+}

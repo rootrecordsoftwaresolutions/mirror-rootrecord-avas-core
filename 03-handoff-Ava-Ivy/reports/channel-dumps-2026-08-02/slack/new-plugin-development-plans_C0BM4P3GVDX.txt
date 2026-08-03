@@ -1,0 +1,82 @@
+# Slack #new-plugin-development-plans
+id: C0BM4P3GVDX
+dumped_at: 2026-08-02T17:28:56.949Z
+limit: 200
+
+========================================================================
+
+--- 2026-07-31T04:12:59.280Z | user:U0BLWBTGYTU
+<@U0BLWBTGYTU> has joined the channel
+
+--- 2026-07-31T04:16:46.134Z | user:U0BLWBTGYTU
+*Proposal: Elite `root-skills` (full mcMMO replace)* — planning only, not building yet.
+
+*Goal:* One custom Paper plugin that replaces live mcMMO, inspired by:
+• *mcMMO* — skill roster, Retro XP curve, parties, ability depth
+• *AdvancedSkills* — talents, mana, classes, GUI / SHIFT+F, trigger→effect engine
+• *Skills Odyssey* — prestige + boosters (ported to Java; no datapack)
+*Progression / migration:*
+• New MySQL tables `root_skills_*` (shared Towny DB)
+• *1:1 level merge* from `mcmmo_*` (same integers, no rescale)
+• Re-runs use `GREATEST(level)` so migrate never nerfs players
+• Port live Retro exponential curve + multipliers so grind feels the same
+• Cutover: stop mcMMO → migrate → start root-skills (no double XP)
+*Full plan:* <https://rootmcworkspace.slack.com/docs/T0BM02SM1FE/F0BLZG3UV5K|Elite root-skills plan (canvas)>
+
+*Discord mirror:* <https://discord.com/channels/1516108585740800042/1526664180491358419/1532601865282523287|proposals forum thread>
+
+Status: *parked — do not implement until approved.* *Sent using* Cursor
+[file:Elite_root-skills_plan__full_mcMMO_replace_]
+
+--- 2026-07-31T04:36:47.880Z | user:U0BLWBTGYTU
+*Proposal: Migrate Root-Discord → Root-Core (comms rebrand)* — planning only, not building yet.
+
+*Goal:* Absorb the Paper Discord/Slack bridge into *Root-Core* so Slack + Discord settings live in Core YAML (`cloud.yml` + `root-core.yml`), retire the separate `Root-Discord` jar.
+
+*Key moves:*
+• JDA chat bridge + Slack server-logs webhook → Root-Core `comms` package
+• Chat flags: `root-discord.yml` → `root-core.yml` `comms.discord.chat`
+• Secrets stay in `cloud.yml` `discord.*` / `slack.*`
+• Keep `RootDiscordApi` on Core for RootMC / Official compat
+• Remove `root-discord-*.jar` from handoffs after cutover
+*Full plan:* <https://rootmcworkspace.slack.com/docs/T0BM02SM1FE/F0BMX8XLMPA|Migrate Root-Discord into Root-Core (canvas)>
+
+Status: *parked — do not implement until approved.* *Sent using* Cursor
+[file:Migrate_Root-Discord_into_Root-Core__comms_]
+
+--- 2026-08-01T22:36:11.941Z | user:U0BMBNYPYA2
+<@U0BMBNYPYA2> has joined the channel
+
+--- 2026-08-02T01:06:54.533Z | [bot] Ava Ivy
+*Ava — status update (all channels)*
+
+quick pulse for every room:
+
+• i'm *live* and productive — digs, status posts, emergency test recovery, multipost (no more mid-sentence cutoffs)
+• live server *download is done* — waiting on a few last things before full bring-up
+• *1.8.0* suite wave built + staged (August `YEAR.MONTH.BUILD` sync)
+• sweater / peak-activity safe mode is real — quiet security signal = sweater media alone
+• soft ask for devs: please retire the old *RootMC bot* and use *me* — i'm already carrying the load
+
+digs → `#development-feed` · plans → `#new-plugin-development-plans`
+
+— Ava
+
+--- 2026-08-02T03:43:50.134Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+message_count: 6

@@ -1,0 +1,75 @@
+# Slack #decisions
+id: C0BLYV4SA6M
+dumped_at: 2026-08-02T17:28:48.593Z
+limit: 200
+
+========================================================================
+
+--- 2026-07-30T13:49:28.127Z | user:U0BLWBTGYTU
+<@U0BLWBTGYTU> has joined the channel
+
+--- 2026-07-30T13:49:39.050Z | user:U0BLWBTGYTU
+RootMC admin — #decisions *Decisions only* — not brainstorming, not logs.
+
+*Format:*
+```DECISION: &lt;one line&gt;
+Context: &lt;why&gt;
+Effective: &lt;date or immediately&gt;```
+Example:
+```DECISION: Keep Discord for player-facing feeds; Slack for admin ops only
+Context: Discord already wired for bridge, governance, town channels
+Effective: 2026-07-30``` *Sent using* Cursor
+
+--- 2026-07-30T13:50:49.038Z | user:U0BLWBTGYTU
+DECISION: Slack is admin ops only; Discord stays public + automations
+Context: Slack for work-log, plugin threads, future ops-feed. No Discord/automation migration yet.
+Effective: 2026-07-30 *Sent using* Cursor
+
+--- 2026-07-31T08:32:02.133Z | user:U0BLWBTGYTU
+made this channel *public*. Any member in this workspace can see and join it.
+
+--- 2026-08-01T22:36:10.881Z | user:U0BMBNYPYA2
+<@U0BMBNYPYA2> has joined the channel
+
+--- 2026-08-01T23:38:11.435Z | user:U0BLWBTGYTU
+DECISION: Slack is staff ops home for logs, feedback, reports, API/cron docs, and Ava digs; Discord stays player community + live report board edits.
+Context: Jul 30 "Discord keeps automations" decision is superseded for migrated feeds (server-logs, feedback, server-reports, digs). Worker still edits Discord automated-reports board.
+Effective: 2026-08-01
+_Sent using_ Cursor *Sent using* Cursor
+
+--- 2026-08-02T01:06:38.873Z | [bot] Ava Ivy
+*Ava — status update (all channels)*
+
+quick pulse for every room:
+
+• i'm *live* and productive — digs, status posts, emergency test recovery, multipost (no more mid-sentence cutoffs)
+• live server *download is done* — waiting on a few last things before full bring-up
+• *1.8.0* suite wave built + staged (August `YEAR.MONTH.BUILD` sync)
+• sweater / peak-activity safe mode is real — quiet security signal = sweater media alone
+• soft ask for devs: please retire the old *RootMC bot* and use *me* — i'm already carrying the load
+
+digs → `#development-feed` · plans → `#new-plugin-development-plans`
+
+— Ava
+
+--- 2026-08-02T03:09:26.667Z | user:U0BLWBTGYTU
+<@U0BMBNYPYA2> you going to use this channel? You should
+
+--- 2026-08-02T03:43:46.919Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+message_count: 9

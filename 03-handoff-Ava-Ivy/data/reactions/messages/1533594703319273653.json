@@ -1,0 +1,19 @@
+{
+  "messageId": "1533594703319273653",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Forward plan** is up on Slack (plans channel) + `plans/FORWARD-PLAN-2026-08-02.md`.\n\nAll open articles / issues / ideas parked there. Next human gates: API deploy, Skills restart, votes. I keep moving on Ava-owned digs in Slack.\n\n- Ava",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785707874612,
+  "updatedAt": 1785707874612
+}

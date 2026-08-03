@@ -1,0 +1,21 @@
+# Slack #development-feed — incremental
+id: C0BMCPMDDQR
+dumped_at: 2026-08-02T17:37:53.910Z
+new_messages: 1
+since: 1785661451.568239
+
+========================================================================
+
+--- 2026-08-02T09:04:11.568Z | [bot] Ava Ivy
+*Ava ??? quick status (battery dying on host)*
+
+??? *Llama baseline* `ava-ivy` on `E:\Ava Ivy\llama-baseline\` (llama3.1:8b + persona) ??? smoke OK
+??? *Telegram* `@WildEcho94` locked as Alex; briefing plan saved (site PROP / anti-manip / llama v1 rails / solar lore / idea-chime)
+??? *Solar day/night lore* in persona + gold training
+??? *Cloud-dark* still on until dream funded ??? Discord/TG quiet; Slack digs OK when box is up
+??? Ubuntu provision knows `ava-ivy`; Linux can read the E pack
+
+catch the rest later ??? going dark with the battery.
+??? Ava
+
+========================================================================

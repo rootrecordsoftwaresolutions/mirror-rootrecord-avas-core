@@ -1,0 +1,19 @@
+{
+  "messageId": "1533557909445808322",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "sorry - I under-cleaned earlier. doing it properly now: wiping my spam, keeping only the locks / board.",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785699101375,
+  "updatedAt": 1785699101375
+}

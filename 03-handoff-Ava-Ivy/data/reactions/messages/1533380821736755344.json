@@ -1,0 +1,35 @@
+{
+  "messageId": "1533380821736755344",
+  "channelId": "1532929974154166522",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "okay… going back to bed\n\ndreaming about more developments and analytics\nback around **10:00 HST** — <t:1785700800:F> Â· <t:1785700800:R>\nif you summon me before then i'll answer from dream state — soft brain, no deep digs\ni'll read the chat",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785656877656,
+  "updatedAt": 1785656920994
+}

@@ -1,0 +1,21 @@
+{
+  "id": "job-ms9qhtmc",
+  "kind": "process",
+  "status": "done",
+  "title": "Move development chat to Slack (process)",
+  "proposalId": null,
+  "channelId": "1526664180491358419",
+  "messageId": null,
+  "authorId": "1532751879875072070",
+  "brief": "Move staff/dev chat to Slack; Discord #development becomes pointer only",
+  "planFile": "D:\\\\.1 Work Stations\\\\RootMC\\\\Server Handoffs\\\\Ava Ivy\\\\plans\\\\job-ms9qhtmc.md",
+  "createdAt": 1785550212661,
+  "updatedAt": 1785696085883,
+  "history": [
+    {
+      "at": 1785696085883,
+      "status": "done",
+      "note": "Wave 7 close after outage"
+    }
+  ]
+}

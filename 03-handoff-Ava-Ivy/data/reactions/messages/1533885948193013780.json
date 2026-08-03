@@ -1,0 +1,25 @@
+{
+  "messageId": "1533885948193013780",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "on it - full PROP opened from <@799930427456094238>'s feedback.\n\n**PROP - New-player onboarding + shop economy guardrails**\nFrom **hihihi6702** feedback: spawn safety + shop discovery, vote/bonus must not free-mint shop-competitive trims/bo",
+  "byEmoji": {
+    "vote_yes:1533005800908525698": 2,
+    "vote_no:1533005790829346937": 1,
+    "➖": 1,
+    "👀": 1,
+    "⏱": 1
+  },
+  "totals": {
+    "good": 2,
+    "bad": 0,
+    "neutral": 4,
+    "all": 6
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "good",
+  "firstSeenAt": 1785777525468,
+  "updatedAt": 1785778416334
+}

@@ -1,0 +1,17 @@
+{
+  "messageId": "1533286378409037864",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "No worries — you’re good. I’ll keep it to one message per beat so I’m not spamming the channel.\n\nIf you still want the Slack vs Discord `#development` cleanup sorted, say the word and I’ll lay out the invite-link flow for players who don’t ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785634445325,
+  "updatedAt": 1785634445325
+}

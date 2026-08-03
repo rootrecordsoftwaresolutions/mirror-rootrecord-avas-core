@@ -1,0 +1,95 @@
+{
+  "site": {
+    "id": "host-site-primary-v1",
+    "label": "HI Pacific Solar Root Server",
+    "locale": "HI Pacific",
+    "lat": 19.5558,
+    "lon": -155.1069,
+    "tz_offset_hours": -10,
+    "updated_at": "2026-08-03T19:15:00.000Z",
+    "links": {
+      "starlink": true,
+      "solar": true,
+      "ecoflow": true,
+      "website": "https://rootmc.net",
+      "solar_board": "https://ava.rootmc.net/solar",
+      "solar_ops_discord": "https://discord.com/channels/1516108585740800042/1533915343766949949",
+      "solar_ops_channel_id": "1533915343766949949"
+    },
+    "notes": "Public name: HI Pacific Solar Root Server. Never publish the city. Weather uses private lat/lon for NWS. #solar-server (1533915343766949949) is solar server ops Discord. If ava.rootmc.net/solar does not connect, the Root Server is offline. Solar=panel input W; energy totals=Wh/kWh estimate."
+  },
+  "hostOnline": true,
+  "solar": {
+    "batteryPct": 16,
+    "perSn": {
+      "R331ZAB5SG6S2858": {
+        "ok": true,
+        "live": true,
+        "deviceOnline": true,
+        "sampledAt": 1785791767847,
+        "soc": 23,
+        "inW": 104,
+        "outW": 108,
+        "solarW": 111,
+        "offCircuit": false
+      },
+      "R621ZA16XH6K1155": {
+        "ok": true,
+        "live": true,
+        "deviceOnline": true,
+        "sampledAt": 1785791768164,
+        "soc": 9,
+        "inW": 54,
+        "outW": 49,
+        "solarW": 54,
+        "offCircuit": false
+      }
+    },
+    "morningAvgW": 253.75641025641025,
+    "morningNote": "sample window starts after dawn - not a full morning average",
+    "hostOnline": true,
+    "ecoStatus": "live",
+    "ecoUpdatedAt": 1785791768175,
+    "ecoOffline": false,
+    "ecoStale": false
+  },
+  "weather": {
+    "ok": true,
+    "source": "NWS",
+    "city": null,
+    "state": null,
+    "period": {
+      "name": "Today",
+      "temp": 77,
+      "unit": "F",
+      "wind": "5 to 10 mph",
+      "short": "Chance Rain Showers"
+    },
+    "outlook": [
+      {
+        "name": "Tonight",
+        "temp": 66,
+        "unit": "F",
+        "wind": "1 to 5 mph",
+        "short": "Chance Rain Showers"
+      },
+      {
+        "name": "Tuesday",
+        "temp": 76,
+        "unit": "F",
+        "wind": "1 to 8 mph",
+        "short": "Chance Rain Showers"
+      }
+    ],
+    "sun": {
+      "sunrise": "2026-08-03T05:57:24-10:00",
+      "sunset": "2026-08-03T18:55:48-10:00",
+      "transit": "2026-08-03T12:26:36-10:00",
+      "civilTwilightBegin": "2026-08-03T05:34:09-10:00",
+      "civilTwilightEnd": "2026-08-03T19:19:03-10:00"
+    },
+    "alerts": [],
+    "fetchedAt": "2026-08-03T21:16:09.187Z"
+  },
+  "updatedAt": "2026-08-03T21:16:09.193Z"
+}

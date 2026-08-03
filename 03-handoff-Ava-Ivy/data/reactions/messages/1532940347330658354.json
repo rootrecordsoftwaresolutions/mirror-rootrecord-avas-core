@@ -1,0 +1,15 @@
+{
+  "messageId": "1532940347330658354",
+  "channelId": "1522413185364398090",
+  "contentPreview": "On it — I'll add a **Governance** block to the hourly realm snapshot in `rootmc-live-economy-status.ts`.\n\nEach hour it'll pull:\n- **Pending proposals** count for the current HST week (from `rootmc_legislation_items`, status `pending`)\n- **L",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785551868553,
+  "updatedAt": 1785551868553
+}

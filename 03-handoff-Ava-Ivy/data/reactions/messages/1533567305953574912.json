@@ -1,0 +1,19 @@
+{
+  "messageId": "1533567305953574912",
+  "channelId": "1522406451413385317",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Governance pin — feature polls**\n\n**Majority wins:** weighted For > Against among cast ballots → pass. Abstain ignored for the race.\n**Fast ship:** ≥75% For anytime → implement immediately.\n**Day 7:** if For does not beat Against → close ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785701345095,
+  "updatedAt": 1785701345095
+}

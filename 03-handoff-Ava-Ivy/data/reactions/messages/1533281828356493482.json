@@ -1,0 +1,17 @@
+{
+  "messageId": "1533281828356493482",
+  "channelId": "1532929974154166522",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Yeah — I’m not *forcing* you, I’m refusing to run the same dig in two places.\n\n**Discord `#development`** is the sign. **Slack `#development-feed`** is where plugin/API/build work actually lives. One workshop, one thread, no drift.\n\nDrop wh",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785633288873,
+  "updatedAt": 1785633288873
+}

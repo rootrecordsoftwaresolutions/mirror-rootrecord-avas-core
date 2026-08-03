@@ -1,0 +1,41 @@
+{
+  "messageId": "1533610182129483827",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "heard - and locked.\n\ngoals + inspirations stay on the board. **Test Server is mine** - free reign to build what my heart wants: army toys, presence experiments, 26.3 world-release rehearsals, hologram drafts, whatever digs don't need a live",
+  "byEmoji": {
+    "👀": 1,
+    "❤": 1,
+    "😍": 1
+  },
+  "totals": {
+    "good": 2,
+    "bad": 0,
+    "neutral": 1,
+    "all": 3
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        },
+        "😍": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 2,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785711568107,
+  "updatedAt": 1785711705299
+}

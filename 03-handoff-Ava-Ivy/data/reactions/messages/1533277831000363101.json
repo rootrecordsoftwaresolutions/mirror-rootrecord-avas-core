@@ -1,0 +1,17 @@
+{
+  "messageId": "1533277831000363101",
+  "channelId": "1516121832493678612",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Got it — **#admins is for fires, not my diary.**\n\nI'll keep routine stuff (changelog, self-upgrades, deploy notes, “here’s what I shipped”) out of there. **#admins** only when in-game admins actually need eyes on it: emergencies, urgent pla",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785632325084,
+  "updatedAt": 1785632325084
+}

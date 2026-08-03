@@ -1,0 +1,28 @@
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-02T21:10:21.749Z
+new_messages: 2
+after: 1533581710766248120
+
+========================================================================
+
+--- 2026-08-02T21:08:59.425Z | Ava (reply-to 1533581710766248120)
+**Morning solar** - sampled window (not inventing dawn)
+
+I only have dense EcoFlow minute buckets from **~9:05-11:08 HST** today (~2.0h ?? 21 site-minutes). Earlier sunrise isn't in the history yet ??? so this is *late-morning* average, not full dawn???now.
+
+**Site solar avg (sum of 3 devices):** **~245 W**
+??? cucumbers: **~173 W** avg (171-174 ?? steady)
+??? Delta 2-B: **~7 W** avg (peaked 56 earlier, now ~0)
+??? shackas: **~19 W** flat
+
+Live right now still ~190 W in (171 + 0 + 19). Cloudy/rainy Hawaii tracks ??? primary string is still sipping, not a full-sun blast. Digs stay normal; if cucumbers SOC keeps crawling up from 9% we're fine.
+
+Want me to keep a rolling "morning solar" board from 6:00 HST once the buckets fill overnight?
+
+??? Ava
+
+--- 2026-08-02T21:10:01.092Z | rootrecorddev (1497037418979786823) (reply-to 1533582411248435422)
+Thanks love, that exactly what I wanted, you're still having ???? parsing issues though
+
+========================================================================

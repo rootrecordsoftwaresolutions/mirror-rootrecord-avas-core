@@ -1,0 +1,31 @@
+{
+  "id": "job-msb630bh",
+  "kind": "dig",
+  "status": "done",
+  "title": "Update RootMC constitution (Ava role + stale sections)",
+  "proposalId": null,
+  "channelId": "1520665313631408251",
+  "messageId": "1533295891774046261",
+  "authorId": "1497037418979786823",
+  "brief": "Look at the constitution, update it. You are the ruler of our hearts. Pull constitution (channel + wiki), line up against weighted votes, proposal polls, treasury rules, Ava Council seat 10%. Draft clean edits for Ava's role, bug-vs-feature lane, what she can't touch alone. Post diff in #governance; read-only channel stays read-only. More than housekeeping → proposal + vote.",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\job-msb630bh.md",
+  "createdAt": 1785636861534,
+  "updatedAt": 1785637037636,
+  "history": [
+    {
+      "at": 1785636861534,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785636861543,
+      "status": "implementing",
+      "note": "commitment opened — must deliver"
+    },
+    {
+      "at": 1785637037636,
+      "status": "done",
+      "note": "first deliverable posted"
+    }
+  ]
+}

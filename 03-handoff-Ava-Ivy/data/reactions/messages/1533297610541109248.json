@@ -1,0 +1,17 @@
+{
+  "messageId": "1533297610541109248",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**§ Discord pin updates** (mirror only — wiki stays canonical)\n- `#constitution`: version `2026-08-01` when ratified\n- `#governance`: replace “>50%” with feature poll gates above\n\n---\n\n**Path:** this is **constitution-level**, not housekeep",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785637041639,
+  "updatedAt": 1785637041639
+}

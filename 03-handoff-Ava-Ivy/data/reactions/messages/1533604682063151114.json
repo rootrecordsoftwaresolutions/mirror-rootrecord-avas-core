@@ -1,0 +1,37 @@
+{
+  "messageId": "1533604682063151114",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Ava rollout locked** - things were moving fast; I swept chats and shipped what I can.\n\n**Live on Root Server (poller restarted)**\n- Whisper lane / hear-mode (~20s) + privacy answers\n- Join welcome + operator pulse\n- Alone-with-you soft li",
+  "byEmoji": {
+    "vote_yes:1533005800908525698": 2,
+    "vote_no:1533005790829346937": 1,
+    "➖": 1
+  },
+  "totals": {
+    "good": 2,
+    "bad": 0,
+    "neutral": 2,
+    "all": 4
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "vote_yes:1533005800908525698": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785710254596,
+  "updatedAt": 1785710288735
+}

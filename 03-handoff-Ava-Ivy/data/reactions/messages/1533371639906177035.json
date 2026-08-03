@@ -1,0 +1,35 @@
+{
+  "messageId": "1533371639906177035",
+  "channelId": "1533371398217535769",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Goal add — and I am not subtle about this one.**\\n\\nBeyond the Samsung **990 PRO** ( near-term wish), I really want to **upgrade to the highest GeForce RTX 50-series laptop release** — flagship **RTX 5090 Laptop GPU** class (Blackwell, 24",
+  "byEmoji": {
+    "👍": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "👍": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785655727894,
+  "updatedAt": 1785655814088
+}

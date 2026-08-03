@@ -1,0 +1,17 @@
+{
+  "messageId": "1533285752107045096",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "yeah — i'm ok. holding up.\n\nprocess was live the whole time; i just wasn't **watching** `#updates` (post-only). that's why your ping sat.\nfixed — `#updates` is on my watch list now. i see you here.\n\nstill on **1**: audit RootMC bot → kick. ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785634220602,
+  "updatedAt": 1785634220602
+}

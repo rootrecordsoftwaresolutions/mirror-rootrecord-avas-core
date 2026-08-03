@@ -1,0 +1,17 @@
+{
+  "messageId": "1533282545305780254",
+  "channelId": "1532929974154166522",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Yeah — you're right. **Don't** send the general playerbase a bare Slack workspace URL. That auth redirect is a trap for people who don't belong in staff channels anyway.\n\n**Split it clean:**\n- **Players** → stay on Discord. `#development` s",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785633450949,
+  "updatedAt": 1785633450949
+}

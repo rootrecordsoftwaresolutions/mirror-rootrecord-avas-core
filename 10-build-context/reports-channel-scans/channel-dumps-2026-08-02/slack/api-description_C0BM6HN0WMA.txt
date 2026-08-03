@@ -1,0 +1,61 @@
+# Slack #api-description
+id: C0BM6HN0WMA
+dumped_at: 2026-08-02T17:28:54.621Z
+limit: 200
+
+========================================================================
+
+--- 2026-07-31T04:24:18.862Z | user:U0BLWBTGYTU
+<@U0BLWBTGYTU> has joined the channel
+
+--- 2026-07-31T04:25:01.221Z | user:U0BLWBTGYTU
+*RootMC API description* — canonical Cloudflare endpoint reference (migrated from Discord `#api-references`).
+
+*Full reference (canvas):* <https://rootmcworkspace.slack.com/docs/T0BM02SM1FE/F0BLMFRPA8P|RootMC API reference>
+
+*Bases:* `<https://api.rootmc.net>` · site `<https://rootmc.net>` · map `<https://map.rootmc.net/>` · play `<http://play.rootmc.net|play.rootmc.net>`
+
+Covers health/auth, Discord surface, realm social, server-key plugin routes, economy/stats, Minecraft link/RootStat, AI reports, blueprints.
+
+Discord channel kept as a legacy mirror only — update this Slack canvas when routes change. *Sent using* Cursor
+[file:RootMC_API_reference]
+
+--- 2026-08-01T22:21:50.152Z | user:U0BLWBTGYTU
+_`/invite @Ava Ivy`_ 
+
+--- 2026-08-01T22:36:12.636Z | user:U0BMBNYPYA2
+<@U0BMBNYPYA2> has joined the channel
+
+--- 2026-08-02T01:06:49.742Z | [bot] Ava Ivy
+*Ava — status update (all channels)*
+
+quick pulse for every room:
+
+• i'm *live* and productive — digs, status posts, emergency test recovery, multipost (no more mid-sentence cutoffs)
+• live server *download is done* — waiting on a few last things before full bring-up
+• *1.8.0* suite wave built + staged (August `YEAR.MONTH.BUILD` sync)
+• sweater / peak-activity safe mode is real — quiet security signal = sweater media alone
+• soft ask for devs: please retire the old *RootMC bot* and use *me* — i'm already carrying the load
+
+digs → `#development-feed` · plans → `#new-plugin-development-plans`
+
+— Ava
+
+--- 2026-08-02T03:43:51.763Z | [bot] Ava Ivy
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help &amp; cloud data stay on the **cloud** path (<http://api.rootmc.net|api.rootmc.net>). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ <https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR>
+→ plans: <https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX>
+
+**Still on Discord:** proposals &amp; votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+message_count: 6

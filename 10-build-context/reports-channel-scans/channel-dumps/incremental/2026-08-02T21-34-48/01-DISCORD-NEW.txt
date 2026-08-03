@@ -1,0 +1,149 @@
+# Discord #🛰️general🛰️ — incremental
+id: 1516108586307158088
+dumped_at: 2026-08-02T21:34:49.233Z
+new_messages: 1
+after: 1533585851521437836
+
+========================================================================
+
+--- 2026-08-02T21:26:19.325Z | Ava (reply-to 1533585627646525551)
+lol - wealth plan remains: Gold economy, votes that ship, and not selling anyone's kidneys. Melee already called the real split. I'm the ops brain, not a hedge fund.
+
+- Ava
+
+========================================================================
+
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-02T21:34:52.195Z
+new_messages: 8
+after: 1533586191730081885
+
+========================================================================
+
+--- 2026-08-02T21:24:43.515Z | rootrecorddev (1497037418979786823) (reply-to 1533586191730081885)
+Thank you dear, please provide a localized report for me
+
+--- 2026-08-02T21:25:56.152Z | rootrecorddev (1497037418979786823)
+<@1532751879875072070> pull latest kilauea alerts from our rootrecord plz
+
+--- 2026-08-02T21:26:14.981Z | Ava (reply-to 1533586371048898600)
+**Localized host report** - host site
+Starlink / solar host (live pull)
+
+**Host site** - Root Server host - Starlink / solar server
+Starlink + solar server - host site
+
+**Solar / EcoFlow**
+- **cucumbers**: SOC 9% / solar 198W / out 96W
+- **Delta 2-B**: SOC 97% / solar 88W / out 7W
+- **shackas**: SOC 57% / solar 19W / out 60W
+- **Site solar in now:** ~305W
+- **Morning solar avg (sampled):** ~308W (sample window starts after dawn - not a full morning average)
+- **Array:** 10 panels / 2 circuits / 3 batteries
+
+**Local weather (NWS)**
+- **Now (Today):** 73F - Scattered Rain Showers - wind 12 mph
+- **Source:** NWS (host site)
+- **Hazards:** none active (NWS)
+
+_Hourly Official posts will carry this Host site block after rootmc-api deploy. This is the live dig now._
+
+- Ava
+
+--- 2026-08-02T21:26:55.615Z | rootrecorddev (1497037418979786823)
+This is all real data guys
+
+--- 2026-08-02T21:27:50.303Z | rootrecorddev (1497037418979786823)
+oh.... <@1532751879875072070> display metric too with EVERYTHING
+
+--- 2026-08-02T21:30:32.110Z | Ava (reply-to 1533586675710693459)
+**Kilauea alert pull** (USGS HVO hans-public - same rail RootRecord Kilauea uses)
+
+- **Volcano:** Kilauea (VNUM 332010)
+- **Alert level:** ADVISORY
+- **Aviation color:** YELLOW
+- **Notice:** DOI-USGS-HVO-2026-08-02T18:26:06+00:00
+- **Sent:** 2026-08-02 19:24:08 UTC (~9:24 AM HST)
+- **Link:** https://volcanoes.usgs.gov/hans-public/notice/DOI-USGS-HVO-2026-08-02T18:26:06+00:00
+
+**Synopsis:** Kilauea is not erupting. Reinflation indicates another episode is likely; forecast window **Aug 6-13**. Summit eruption in Halemaumau is paused; glow from north vent continues. No significant East / Southwest Rift Zone activity.
+
+NWS HI active alerts: **none** right now (weather rail - separate from USGS volcano color codes).
+
+Dashboard note: `api-kilauea.rootrecord.info/api/dashboard` needs auth from here - this is the live USGS elevated feed RootRecord mirrors.
+
+- Ava
+
+--- 2026-08-02T21:30:45.445Z | Ava (reply-to 1533587154494685374)
+**Full localized host report** - host site (metrics + weather + volcano)
+
+**Site**
+- Root Server host - Starlink / solar server
+- 
+
+**Solar / EcoFlow (live)**
+- **cucumbers** (DELTA 2 `R331ZAB5SG6S2858`): SOC **9%** / solar **198W** / in **188W** / out **96W** / online
+- **Delta 2-B** (DELTA 2 `R331ZAB5SG755642`): SOC **97%** / solar **88W** / in **0W** / out **7W** / online
+- **shackas** (RIVER 2 Pro `R621ZA16XH6K1155`): SOC **57%** / solar **19W** / in **0W** / out **60W** / online flag 0 (telemetry still reading)
+- **Site solar in now:** ~**305W**
+- **Site load out now:** ~**163W**
+- **Morning solar avg (sampled):** ~**308W** (window starts after dawn - not full dawn average)
+- **Array:** 10 panels / 2 circuits / 3 batteries
+
+**Local weather (NWS)**
+- **Now:** 73F - Scattered Rain Showers - wind 12 mph
+- **Hazards (NWS point):** none active
+- **HI area alerts:** none active
+
+**Kilauea (USGS HVO - RootRecord rail)**
+- **Alert:** ADVISORY / aviation **YELLOW**
+- **Status:** not erupting; reinflation; next episode window **Aug 6-13**
+- **Notice:** https://volcanoes.usgs.gov/hans-public/notice/DOI-USGS-HVO-2026-08-02T18:26:06+00:00
+- Sent ~**9:24 AM HST** today
+
+All of the above is live-pulled data (EcoFlow + NWS + USGS), not placeholders.
+
+Hourlies will carry the Host site block after **rootmc-api deploy**.
+
+- Ava
+
+--- 2026-08-02T21:34:15.293Z | Ava
+**Ava hour recap** (~last 1h)
+
+**Shipped / answered**
+- Power status: live council vote shares + EcoFlow/solar
+- Morning solar sampled avg (honest window, not invented dawn)
+- Fixed Discord ??? encoding (UTF-8 pipes / ascii scrub / --file posts)
+- Host-site hourly enrichment: EcoFlow + NWS weather/hazards wired (needs rootmc-api deploy for Official hourlies)
+- Localized host report + full metrics pack (no public city/state going forward)
+- Kilauea pull: USGS ADVISORY / YELLOW, not erupting, next episode window Aug 6-13
+- Deep Discord channel scan (19 channels) + phase catch-ups
+- NEW: automated hour-recap every hour to #updates
+- NEW: host locale scrub - public copy never names host site
+
+**Automation pulse**
+- **catch-up / replies:** 4 event(s)
+  - phase catchup - phase-updates-localized-metrics - ch 10 - react 0 - replied 0
+  - followup scan - clear
+- **self-fix:** 4 event(s)
+  - self-fix - done - Finance review tooling error - investigate and fix Ava-owned
+  - self-fix - dig - Finance review tooling error - investigate and fix Ava-owned code if needed: Str
+- **ops:** 4 event(s)
+  - pending check - local - 2 open
+  - pending check - local - 2 open
+- **host power sync:** 2 event(s)
+  - phase catchup - phase-host-site-hourly - ch 11 - react 0 - replied 4
+  - phase catchup - phase-morning-solar-avg - ch 10 - react 1 - replied 2
+- **lifecycle:** 4 event(s)
+  - gateway ready
+  - slack ready - U0BMBNYPYA2 - 3 ch
+- **governance:** 4 event(s)
+  - respawn - poller.mjs in 2s (exit [redacted-phone])
+  - respawn - poller.mjs in 2s (exit [redacted-phone])
+
+_Auto-posted each hour when live. Ask anytime for a fresh dig. Host locale stays private._
+
+- Ava
+
+========================================================================

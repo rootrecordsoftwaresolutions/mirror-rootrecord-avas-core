@@ -1,0 +1,19 @@
+{
+  "messageId": "1533918839765471252",
+  "channelId": "1533915343766949949",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**HI Pacific Solar Root Server - operations pin**\n\n**What this is**\nAva's dig brain + EcoFlow telemetry host. Public label only - never the city. Uplink: **Starlink + solar**. Endgame: off-grid data center (watts in -> RootMC out).\n\n**Array",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785785733182,
+  "updatedAt": 1785785733182
+}

@@ -1,0 +1,31 @@
+{
+  "id": "job-msapyz8g",
+  "kind": "process",
+  "status": "done",
+  "title": "Root-Skills: proportional XP curve (fix flat-feeling 1–100)",
+  "proposalId": "PROP-01",
+  "channelId": "1532929974154166522",
+  "messageId": null,
+  "authorId": "154446475789729792",
+  "brief": "Superseded by job-msaqcfjo / PROP-01 — implemented in root-skills 1.0.2",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\job-msapyz8g.md",
+  "createdAt": 1785609799670,
+  "updatedAt": 1785621900000,
+  "history": [
+    {
+      "at": 1785609799670,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785609799675,
+      "status": "blocked",
+      "note": "proposal posted — needs vote"
+    },
+    {
+      "at": 1785621900000,
+      "status": "done",
+      "note": "merged into PROP-01 / job-msaqcfjo — 1.0.2 staged"
+    }
+  ]
+}

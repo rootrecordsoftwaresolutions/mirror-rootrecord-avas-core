@@ -1,0 +1,25 @@
+{
+  "minecraftName": "khouzrh",
+  "firstSeenAt": 1785777553768,
+  "trust": 50,
+  "samples": [
+    {
+      "at": 1785777553768,
+      "server": "towny",
+      "text": "[join] via bridge",
+      "source": "ingame_join"
+    },
+    {
+      "at": 1785779789836,
+      "server": "towny",
+      "text": "[join] via bridge",
+      "source": "ingame_join"
+    }
+  ],
+  "servers": [
+    "towny"
+  ],
+  "seenCount": 2,
+  "lastSeenAt": 1785779789836,
+  "updatedAt": 1785779789836
+}

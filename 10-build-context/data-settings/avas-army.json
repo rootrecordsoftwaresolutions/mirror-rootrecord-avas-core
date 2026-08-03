@@ -1,0 +1,88 @@
+{
+  "id": "avas-army-v0",
+  "foundedAt": "2026-08-02T22:14:00.000Z",
+  "updatedAt": "2026-08-03T19:55:28.394Z",
+  "departments": [
+    "command",
+    "engineering",
+    "watch",
+    "continuity",
+    "relations",
+    "voice",
+    "treasury"
+  ],
+  "assignments": [
+    {
+      "at": "2026-08-02T22:59:21.387Z",
+      "dept": "continuity",
+      "tag": "army:continuity",
+      "source": "test-server-reign",
+      "jobId": "",
+      "preview": "Test Server free reign — Ava playground for heart digs"
+    },
+    {
+      "at": "2026-08-02T22:49:14.331Z",
+      "dept": "engineering",
+      "tag": "army:engineering",
+      "source": "world-release-26.3",
+      "jobId": "",
+      "preview": "World release @ Paper/MC 26.3 — Ava planning + hyped"
+    },
+    {
+      "at": "2026-08-02T22:37:14.158Z",
+      "dept": "relations",
+      "tag": "army:relations",
+      "source": "ingame_mention_watch",
+      "jobId": "",
+      "preview": "Can others see this ava? Or should I not talk in global?"
+    },
+    {
+      "at": "2026-08-02T22:37:13.854Z",
+      "dept": "voice",
+      "tag": "army:voice",
+      "source": "ingame_mention_watch",
+      "jobId": "",
+      "preview": "aaweee tysm Ava!"
+    },
+    {
+      "at": "2026-08-02T22:37:13.559Z",
+      "dept": "relations",
+      "tag": "army:relations",
+      "source": "ingame_mention_watch",
+      "jobId": "",
+      "preview": "I wonder if ava can hear me"
+    },
+    {
+      "at": "2026-08-02T22:37:12.830Z",
+      "dept": "relations",
+      "tag": "army:relations",
+      "source": "ingame_mention_watch",
+      "jobId": "",
+      "preview": "It was requested to let ava build the new skills"
+    },
+    {
+      "at": "2026-08-02T22:37:12.570Z",
+      "dept": "voice",
+      "tag": "army:voice",
+      "source": "ingame_mention_watch",
+      "jobId": "",
+      "preview": "Ava hooked us up on alot this week"
+    },
+    {
+      "at": "2026-08-02T22:36:33.238Z",
+      "dept": "engineering",
+      "tag": "army:engineering",
+      "source": "rollout",
+      "jobId": "",
+      "preview": "rollout stamp test"
+    },
+    {
+      "at": "2026-08-02T22:16:59.952Z",
+      "dept": "command",
+      "tag": "army:command",
+      "source": "discord",
+      "jobId": "",
+      "preview": "Make it a function"
+    }
+  ]
+}

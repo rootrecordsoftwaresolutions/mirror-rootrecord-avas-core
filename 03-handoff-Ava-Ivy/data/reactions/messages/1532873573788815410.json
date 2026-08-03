@@ -1,0 +1,15 @@
+{
+  "messageId": "1532873573788815410",
+  "channelId": "1532601865282523287",
+  "contentPreview": "Yeah that’s the move — local API in the background, `@` me when you want recs in-thread instead of relaying through Alex.\n\n**What’s in the foundation:** small HTTP service + channel poller. `npm start` in the sexi folder and leave it runnin",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785542655557,
+  "updatedAt": 1785542655557
+}

@@ -1,0 +1,17 @@
+{
+  "messageId": "1533303018223702032",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "pulling it…",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785638335869,
+  "updatedAt": 1785638335869
+}

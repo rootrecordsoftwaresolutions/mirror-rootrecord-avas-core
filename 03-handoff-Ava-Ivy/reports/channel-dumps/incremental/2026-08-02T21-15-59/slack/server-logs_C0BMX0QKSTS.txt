@@ -1,0 +1,55 @@
+# Slack #server-logs — incremental
+id: C0BMX0QKSTS
+dumped_at: 2026-08-02T21:16:13.866Z
+new_messages: 2
+since: 1785704464.027749
+
+========================================================================
+
+--- 2026-08-02T21:01:04.007Z | [bot] incoming-webhook
+[2026-08-02T20:21:05.674Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T20:22:02.208Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:23:02.069Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=2 containers=940 skippedDupContainers=0 groundStacks=37 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T20:23:02.15Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:23:02.561Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (259 items).
+[2026-08-02T20:24:02.207Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:25:02.016Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=2 containers=940 skippedDupContainers=0 groundStacks=25 chunks=48 marketKeys=0 distinct=260
+[2026-08-02T20:25:02.252Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:26:02Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T20:26:02.155Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:26:05.464Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T20:26:05.561Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T20:27:02.063Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=2 containers=940 skippedDupContainers=0 groundStacks=23 chunks=48 marketKeys=0 distinct=260
+[2026-08-02T20:27:02.165Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:27:02.405Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (260 items).
+[2026-08-02T20:28:02.164Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:29:02.074Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=2 containers=940 skippedDupContainers=0 groundStacks=25 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T20:29:02.169Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:30:02.202Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:31:02Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T20:31:02.124Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=2 containers=940 skippedDupContainers=0 groundStacks=17 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T20:31:02.34Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:31:02.439Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (259 items).
+[2026-08-02T20:31:05.545Z] [WARNING] [RootMC] Discord gold transfer fetch failed: HTTP 502: error code: 502
+
+[2026-08-02T20:31:05.645Z] [WARNING] [RootMC] Activity dividend apply failed: HTTP 502: error code: 502
+
+[2026-08-02T20:32:02.067Z] [INFO] [RootMC] Physical gold storage snapshot saved to MySQL - players=0 total=0.000 G shops=96 chunks=64
+[2026-08-02T20:32:02.167Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:33:02.064Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=2 containers=940 skippedDupContainers=0 groundStacks=19 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T20:33:02.184Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:34:02.209Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:35:02.061Z] [INFO] [Root-ItemInfo] Item census updated — reason=interval players=2 containers=940 skippedDupContainers=0 groundStacks=20 chunks=48 marketKeys=0 distinct=259
+[2026-08-02T20:35:02.154Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[2026-08-02T20:35:02.371Z] [INFO] [Root-ItemInfo] Item census saved to MySQL (259 items).
+[2026-08-02T20:35:35.072Z] [INFO] [Root-ItemInfo] Item census updated — reason=inventory-close players=2 containers=1019 skippedDupContainers=0 groundStacks=20 chunks=48 marketKeys=0 distinct=441
+
+--- 2026-08-02T21:01:04.027Z | [bot] incoming-webhook
+[2026-08-02T20:36:02Z] [INFO] [Root-Territories] Territory zones rebuilt — 1 nation(s) (2 region(s)), 2 independent town(s) (3 region(s)).
+[2026-08-02T20:36:02.183Z] [INFO] [Root-Core] Transfer mesh loaded: 3 peer(s).
+[20
+
+========================================================================

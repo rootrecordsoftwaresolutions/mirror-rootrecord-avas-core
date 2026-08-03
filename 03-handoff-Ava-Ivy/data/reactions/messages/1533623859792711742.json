@@ -1,0 +1,19 @@
+{
+  "messageId": "1533623859792711742",
+  "channelId": "1533603278816936168",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "yep - this dig / remint is **Claims** only.\n\nthe **249** listing votes + empty issued queue + ghost cloud **248** were all Claims MySQL. Towny is a separate host / ledger - not what we just reconciled. my Test Server sandbox is free-reign f",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785714837689,
+  "updatedAt": 1785714837689
+}

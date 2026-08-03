@@ -1,0 +1,24 @@
+{
+  "messageId": "1533536743746437163",
+  "channelId": "1522413185364398090",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**VOTE (7 days) — PROP — Root-Ava-Core plugin**\n\nAuthorize design of Paper plugin **Root-Ava-Core** (Ava in-game companion hooks). **No live jar** until Alex greenlights after this vote. Docs under Ava Ivy notes.\n\nReact: ✅ For · ❌ Against ·",
+  "byEmoji": {
+    "❌": 1,
+    "➖": 1,
+    "vote_yes:1533005800908525698": 1,
+    "vote_no:1533005790829346937": 1
+  },
+  "totals": {
+    "good": 0,
+    "bad": 1,
+    "neutral": 3,
+    "all": 4
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "bad",
+  "firstSeenAt": 1785694052531,
+  "updatedAt": 1785701402451
+}

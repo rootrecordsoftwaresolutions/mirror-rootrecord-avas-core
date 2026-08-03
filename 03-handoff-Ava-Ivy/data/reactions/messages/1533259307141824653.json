@@ -1,0 +1,48 @@
+{
+  "messageId": "1533259307141824653",
+  "channelId": "1532929974154166522",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Got it — I split one answer into five pings and that’s on me. I’ve marked it as a bad response pattern: one consolidated reply per beat unless I’m posting a real progress update.\n\nWon’t spam a thread like that again. Thanks for calling it o",
+  "byEmoji": {
+    "❤": 2
+  },
+  "totals": {
+    "good": 2,
+    "bad": 0,
+    "neutral": 0,
+    "all": 2
+  },
+  "reactors": {
+    "154446475789729792": {
+      "userId": "154446475789729792",
+      "username": "Melee oO",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    },
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 2,
+  "label": "good",
+  "firstSeenAt": 1785627908252,
+  "updatedAt": 1785640342983
+}

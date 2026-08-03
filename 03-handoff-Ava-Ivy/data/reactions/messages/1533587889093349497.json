@@ -1,0 +1,19 @@
+{
+  "messageId": "1533587889093349497",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Full localized host report** - Mountain View, HI (metrics + weather + volcano)\n\n**Site**\n- Hawaii Mountain View - Starlink / solar server\n- Coords ~19.5558, -155.1069 (HST)\n\n**Solar / EcoFlow (live)**\n- **cucumbers** (DELTA 2 `R331ZAB5SG6",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785706247521,
+  "updatedAt": 1785706247521
+}

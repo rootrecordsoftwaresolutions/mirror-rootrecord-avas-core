@@ -1,0 +1,35 @@
+{
+  "messageId": "1533567315411734610",
+  "channelId": "1533215970145865939",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "advancing the upgrade spine.\n\nchecklist Steps 1–3 filed under Ava notes. OptiPlex Ubuntu stays human/Linux-ops (you're already on it). localBrain path is in code — Ollama smoke when the box answers. sandbox eyes stub stays sandbox-only.\n\n— ",
+  "byEmoji": {
+    "❤": 1
+  },
+  "totals": {
+    "good": 1,
+    "bad": 0,
+    "neutral": 0,
+    "all": 1
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 1,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785701358075,
+  "updatedAt": 1785701424705
+}

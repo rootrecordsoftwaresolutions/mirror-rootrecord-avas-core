@@ -1,0 +1,26 @@
+{
+  "id": "job-ms9p5x2i",
+  "kind": "feature",
+  "status": "blocked",
+  "title": "Ban boats (feature)",
+  "proposalId": null,
+  "channelId": "1516389376198840421",
+  "messageId": "1532921973846442165",
+  "authorId": "1497037418979786823",
+  "brief": "Ban boats — from memes catch-up",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\job-ms9p5x2i.md",
+  "createdAt": 1785547977644,
+  "updatedAt": 1785547977649,
+  "history": [
+    {
+      "at": 1785547977644,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785547977649,
+      "status": "blocked",
+      "note": "proposal drafted — needs vote; no implement until pass"
+    }
+  ]
+}

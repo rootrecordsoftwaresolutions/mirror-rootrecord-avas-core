@@ -1,0 +1,21 @@
+{
+  "messageId": "1533892889049043094",
+  "channelId": "1516108586307158088",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "fixed - you were right.\n\n**River 2 Pro** was `online: 0` on the device list but quota still returned cached **57% / 19W / 60W**. I was treating that as live. Wrong.\n\n**Live calc rule now**\n- device-list **offline** -> excluded (quota cache ",
+  "byEmoji": {
+    "👀": 1
+  },
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 1,
+    "all": 1
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785779072830,
+  "updatedAt": 1785779072830
+}

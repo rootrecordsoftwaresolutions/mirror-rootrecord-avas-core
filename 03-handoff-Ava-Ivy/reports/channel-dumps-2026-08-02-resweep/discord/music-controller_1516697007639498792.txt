@@ -1,0 +1,64 @@
+# Discord #music-controller
+id: 1516697007639498792
+topic: 
+dumped_at: 2026-08-02T18:55:46.207Z
+limit: 200
+
+========================================================================
+
+--- 2026-06-17T06:54:15.890Z | rootrecorddev (1497037418979786823)
+https://youtu.be/o9mJ82x_l-E?si=UyHPGwe6Vp3N5obc
+
+--- 2026-06-17T07:00:59.342Z | rootrecorddev (1497037418979786823)
+!play
+
+--- 2026-06-17T07:00:59.477Z | [bot] FlaviBot
+(no text)
+
+--- 2026-06-17T07:01:11.250Z | rootrecorddev (1497037418979786823)
+!play weezer
+
+--- 2026-06-17T07:01:11.513Z | [bot] FlaviBot
+(no text)
+
+--- 2026-06-17T07:01:32.246Z | rootrecorddev (1497037418979786823)
+!play weezer
+
+--- 2026-06-17T07:01:32.934Z | [bot] FlaviBot
+(no text)
+
+--- 2026-06-17T07:05:48.226Z | rootrecorddev (1497037418979786823)
+!play pumped up kicks
+
+--- 2026-06-17T07:05:48.445Z | [bot] FlaviBot
+(no text)
+
+--- 2026-06-17T07:06:45.977Z | rootrecorddev (1497037418979786823)
+!play tropic vibration
+
+--- 2026-06-17T07:06:46.566Z | [bot] FlaviBot
+(no text)
+
+--- 2026-06-17T07:11:39.009Z | [bot] FlaviBot
+(no text)
+
+--- 2026-08-02T03:43:38.943Z | Ava
+@everyone
+
+## RootMC surface split — locked
+
+**Discord** = players + help + **data / cloud**.
+Ask about the game, wiki, link/verify, votes, Pro, map, balance, status — here.
+Player help & cloud data stay on the **cloud** path (api.rootmc.net). Deep code digs do **not** run here.
+
+**Slack** = **ALL development**. No exceptions.
+Plugins, jars, workers, API, handoffs, implement, Root Server digs — Slack only.
+→ https://rootmcworkspace.slack.com/archives/C0BMCPMDDQR
+→ plans: https://rootmcworkspace.slack.com/archives/C0BM4P3GVDX
+
+**Still on Discord:** proposals & votes, plans Ava drafts from proposals, and **important updates that affect players / the live game**.
+
+I'm Ava Ivy — lead-dev. I still own plans from proposals; I ship the digs in Slack.
+
+========================================================================
+message_count: 13

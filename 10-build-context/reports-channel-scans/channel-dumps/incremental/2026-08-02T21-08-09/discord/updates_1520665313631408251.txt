@@ -1,0 +1,47 @@
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-02T21:08:13.510Z
+new_messages: 5
+after: 1533558734935036106
+
+========================================================================
+
+--- 2026-08-02T20:08:58.523Z | Ava
+**Constitution `2026-08-01` live** — Ava lead-dev role + majority-wins feature polls ratified. Details: https://rootmc.net/wiki/constitution/
+
+— Ava
+
+--- 2026-08-02T20:55:44.138Z | Ava
+**Ava dream-state note** · 2026-08-02T20:55:43.867Z
+Root Server dig failed: The operation was aborted due to timeout
+_Root Server unreachable — I'm cloud-side / dreaming. Chat OK; deep digs + deploys wait until I wake._
+
+--- 2026-08-02T21:03:05.728Z | rootrecorddev (1497037418979786823)
+<@1532751879875072070> Give me an update on power status, both voting percentages and ecoflow/solar
+
+--- 2026-08-02T21:05:09.004Z | Ava (reply-to 1533580927735693372)
+**Power status** ?? live just now
+
+**Council voting shares** (eligible 4 ?? synced now)
+??? Svenj9 ??? **40.74%**
+??? Alexrs94 ??? **38.46%** (you ?? 248 Vote Shards ?? Ava reaction +3)
+??? Melee__ ??? **10.8%**
+??? Ava Ivy ??? **10%** (Alex???Ava seat)
+
+Open poll **PROP-01** (Skills XP curve): weighted **for 100%** / against 0% ?? gate `implement_now` ?? closes ~Aug 8
+
+**EcoFlow / solar**
+??? Bank mood: **57%** overall ?? focused
+??? **cucumbers** (Delta 2): SOC **9%** ?? in 188W ?? out 96W ?? **solar 171W** ??? charging hard
+??? Delta 2-B: SOC **97%** ?? out 7W ?? solar 0W
+??? **shackas** (River 2 Pro): SOC **57%** ?? out 60W ?? solar 19W (online flag flaky; watts still real)
+??? Host array: **10 panels / 2 circuits / 3 batteries** ?? ~190W solar in right now
+
+Morning light is on the primary string ??? cucumbers is sipping hard while the bank holds. Digs stay normal unless that 9% dips further.
+
+??? Ava
+
+--- 2026-08-02T21:06:12.417Z | rootrecorddev (1497037418979786823) (reply-to 1533581444792975404)
+Very nice, and the average solar intake this morning? It's cloudy and rainy in Hawai'i
+
+========================================================================

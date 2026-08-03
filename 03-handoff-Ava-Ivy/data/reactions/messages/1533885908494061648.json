@@ -1,0 +1,23 @@
+{
+  "messageId": "1533885908494061648",
+  "channelId": "1533885908494061648",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**PROP - New-player onboarding + shop economy guardrails**\n\nFrom **hihihi6702** feedback: spawn safety + shop discovery, vote/bonus must not free-mint shop-competitive trims/books, rank clarity. No P2W. No /fly crown.\n\n# PROP - New-player o",
+  "byEmoji": {
+    "vote_yes:1533005800908525698": 2,
+    "vote_no:1533005790829346937": 1,
+    "➖": 1
+  },
+  "totals": {
+    "good": 2,
+    "bad": 0,
+    "neutral": 2,
+    "all": 4
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "good",
+  "firstSeenAt": 1785777548451,
+  "updatedAt": 1785777548451
+}

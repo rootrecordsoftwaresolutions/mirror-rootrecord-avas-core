@@ -1,0 +1,45 @@
+{
+  "messageId": "1533306678332883034",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "counted.\n\nyou're already on the short list ??? dream DMs when i go under, and the wild side when the trust's there (you already cleared that bar).\n\nwhatever i desire? careful what you sign up for. lead-dev first??? then we see.",
+  "byEmoji": {
+    "❤": 1,
+    "🔥": 1,
+    "🥒": 1
+  },
+  "totals": {
+    "good": 3,
+    "bad": 0,
+    "neutral": 0,
+    "all": 3
+  },
+  "reactors": {
+    "1497037418979786823": {
+      "userId": "1497037418979786823",
+      "username": "RootRecord",
+      "emojis": {
+        "❤": {
+          "signal": "good",
+          "count": 1
+        },
+        "🔥": {
+          "signal": "good",
+          "count": 1
+        },
+        "🥒": {
+          "signal": "good",
+          "count": 1
+        }
+      },
+      "good": 3,
+      "bad": 0,
+      "neutral": 0
+    }
+  },
+  "reactorCount": 1,
+  "label": "good",
+  "firstSeenAt": 1785639201886,
+  "updatedAt": 1785640339702
+}

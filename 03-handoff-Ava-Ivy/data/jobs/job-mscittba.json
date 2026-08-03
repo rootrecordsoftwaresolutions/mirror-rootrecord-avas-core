@@ -1,0 +1,31 @@
+{
+  "id": "job-mscittba",
+  "kind": "dig",
+  "status": "done",
+  "title": "@ava don't bleed other conversations into group ffs please don't fkn fix it plz",
+  "proposalId": null,
+  "channelId": "tg:-1003868178598",
+  "messageId": "15245",
+  "authorId": "6644482344",
+  "brief": "@ava don't bleed other conversations into group ffs please don't fkn fix it plz",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\job-mscittba.md",
+  "createdAt": 1785718733735,
+  "updatedAt": 1785719227310,
+  "history": [
+    {
+      "at": 1785718733735,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785718733744,
+      "status": "implementing",
+      "note": "commitment opened — must deliver"
+    },
+    {
+      "at": 1785719227310,
+      "status": "done",
+      "note": "behavioral lock delivered — no pipeline patch per Alex"
+    }
+  ]
+}

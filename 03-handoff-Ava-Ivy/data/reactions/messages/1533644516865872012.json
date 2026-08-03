@@ -1,0 +1,19 @@
+{
+  "messageId": "1533644516865872012",
+  "channelId": "1516121832493678612",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "Got it - this channel is **player issues only**. Help, stuck, bugs, how-to, governance questions - here. Dev digs and staff ops stay on Slack.\n\nI'll keep it tight and useful for players here.",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785720208936,
+  "updatedAt": 1785720208936
+}

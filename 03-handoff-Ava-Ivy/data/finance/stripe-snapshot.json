@@ -1,0 +1,274 @@
+{
+  "ok": true,
+  "fetchedAt": 1785708172450,
+  "available": [
+    {
+      "currency": "usd",
+      "amount": -0.02
+    }
+  ],
+  "pending": [
+    {
+      "currency": "usd",
+      "amount": 13.49
+    }
+  ],
+  "usdAvailable": -0.02,
+  "usdPending": 13.49,
+  "income30dUsd": 20.28,
+  "fees30dUsd": 1.93,
+  "payouts30dUsd": 18.1,
+  "recent": [
+    {
+      "id": "txn_1TzpWyIaRpbMiAovnpV9940W",
+      "type": "topup",
+      "amount": 0.05,
+      "fee": 0,
+      "net": 0.05,
+      "currency": "usd",
+      "created": 1785639220000,
+      "description": "Automatic balance transfer from Financial Account"
+    },
+    {
+      "id": "txn_1TzSuaIaRpbMiAovrekqyJ6T",
+      "type": "stripe_fee",
+      "amount": -0.07,
+      "fee": 0,
+      "net": -0.07,
+      "currency": "usd",
+      "created": 1785552272000,
+      "description": "Billing - Usage Fee (2026-07-31)"
+    },
+    {
+      "id": "txn_1TzSYNIaRpbMiAovsqFSqQKc",
+      "type": "topup",
+      "amount": 0.03,
+      "fee": 0,
+      "net": 0.03,
+      "currency": "usd",
+      "created": 1785550895000,
+      "description": "Automatic balance transfer from Financial Account"
+    },
+    {
+      "id": "txn_3TzK8DIaRpbMiAov2JWhU5pW",
+      "type": "payment",
+      "amount": 4.99,
+      "fee": 0.52,
+      "net": 4.47,
+      "currency": "usd",
+      "created": 1785518524000,
+      "description": "Subscription update"
+    },
+    {
+      "id": "txn_3TzK7wIaRpbMiAov0UvkSFib",
+      "type": "payment",
+      "amount": 4.99,
+      "fee": 0.52,
+      "net": 4.47,
+      "currency": "usd",
+      "created": 1785518507000,
+      "description": "Subscription update"
+    },
+    {
+      "id": "txn_1Tz5ukIaRpbMiAovsVWjo6CL",
+      "type": "stripe_fee",
+      "amount": -0.03,
+      "fee": 0,
+      "net": -0.03,
+      "currency": "usd",
+      "created": 1785463870000,
+      "description": "Billing - Usage Fee (2026-07-30)"
+    },
+    {
+      "id": "txn_3Tyj47IaRpbMiAov06aHn4G0",
+      "type": "payment",
+      "amount": 4.99,
+      "fee": 0.44,
+      "net": 4.55,
+      "currency": "usd",
+      "created": 1785376043000,
+      "description": "Subscription update"
+    },
+    {
+      "id": "txn_1TuJrwIaRpbMiAov9cjjbsD8",
+      "type": "payout",
+      "amount": -4.71,
+      "fee": 0,
+      "net": -4.71,
+      "currency": "usd",
+      "created": 1784325872000,
+      "description": ""
+    },
+    {
+      "id": "txn_1Tt2EIIaRpbMiAovlMUNdUca",
+      "type": "stripe_fee",
+      "amount": -0.03,
+      "fee": 0,
+      "net": -0.03,
+      "currency": "usd",
+      "created": 1784019737000,
+      "description": "Automatic Taxes (2026-07-13): Automatic tax"
+    },
+    {
+      "id": "txn_1Tt0NkIaRpbMiAovV71wqFXY",
+      "type": "stripe_fee",
+      "amount": -0.04,
+      "fee": 0,
+      "net": -0.04,
+      "currency": "usd",
+      "created": 1784012636000,
+      "description": "Billing - Usage Fee (2026-07-13)"
+    },
+    {
+      "id": "txn_3TsaYTIaRpbMiAov2pDfjn2I",
+      "type": "payment",
+      "amount": 5.23,
+      "fee": 0.45,
+      "net": 4.78,
+      "currency": "usd",
+      "created": 1783913362000,
+      "description": "Subscription update"
+    },
+    {
+      "id": "txn_1TrWCbIaRpbMiAovt2DaTf7S",
+      "type": "payout",
+      "amount": -13.39,
+      "fee": 0,
+      "net": -13.39,
+      "currency": "usd",
+      "created": 1783658297000,
+      "description": ""
+    },
+    {
+      "id": "txn_1ToK9fIaRpbMiAovJCtYU2NV",
+      "type": "stripe_fee",
+      "amount": -0.1,
+      "fee": 0,
+      "net": -0.1,
+      "currency": "usd",
+      "created": 1782897003000,
+      "description": "Billing - Usage Fee (2026-06-30)"
+    },
+    {
+      "id": "txn_3To5NTIaRpbMiAov2CVLqFcx",
+      "type": "payment",
+      "amount": 4.99,
+      "fee": 0.52,
+      "net": 4.47,
+      "currency": "usd",
+      "created": 1782840202000,
+      "description": "Subscription update"
+    },
+    {
+      "id": "txn_3To5LCIaRpbMiAov1YmnSHiN",
+      "type": "payment",
+      "amount": 4.99,
+      "fee": 0.52,
+      "net": 4.47,
+      "currency": "usd",
+      "created": 1782840061000,
+      "description": "Subscription update"
+    },
+    {
+      "id": "txn_3TnqlYIaRpbMiAov2EUSp8Rt",
+      "type": "payment",
+      "amount": 4.99,
+      "fee": 0.44,
+      "net": 4.55,
+      "currency": "usd",
+      "created": 1782784036000,
+      "description": "Subscription update"
+    },
+    {
+      "id": "txn_1TlLoEIaRpbMiAov8xSKQtNI",
+      "type": "payout",
+      "amount": -4.71,
+      "fee": 0,
+      "net": -4.71,
+      "currency": "usd",
+      "created": 1782188378000,
+      "description": ""
+    },
+    {
+      "id": "txn_1Ti5rGIaRpbMiAov998DXvl8",
+      "type": "stripe_fee",
+      "amount": -0.03,
+      "fee": 0,
+      "net": -0.03,
+      "currency": "usd",
+      "created": 1781412077000,
+      "description": "Automatic Taxes (2026-06-13): Automatic tax"
+    },
+    {
+      "id": "txn_1Ti38cIaRpbMiAovtaG46mMb",
+      "type": "stripe_fee",
+      "amount": -0.04,
+      "fee": 0,
+      "net": -0.04,
+      "currency": "usd",
+      "created": 1781401622000,
+      "description": "Billing - Usage Fee (2026-06-13)"
+    },
+    {
+      "id": "txn_3ThiHbIaRpbMiAov0MFSi94w",
+      "type": "payment",
+      "amount": 5.23,
+      "fee": 0.45,
+      "net": 4.78,
+      "currency": "usd",
+      "created": 1781321460000,
+      "description": "Subscription update"
+    },
+    {
+      "id": "txn_1Te36aIaRpbMiAovbbJPPqCT",
+      "type": "payout",
+      "amount": -13.39,
+      "fee": 0,
+      "net": -13.39,
+      "currency": "usd",
+      "created": 1780448184000,
+      "description": ""
+    },
+    {
+      "id": "txn_1TdLpMIaRpbMiAovkFVYsxcv",
+      "type": "stripe_fee",
+      "amount": -0.07,
+      "fee": 0,
+      "net": -0.07,
+      "currency": "usd",
+      "created": 1780281824000,
+      "description": "Billing - Usage Fee (2026-05-31)"
+    },
+    {
+      "id": "txn_3TdC70IaRpbMiAov0DJeBYaQ",
+      "type": "payment",
+      "amount": 4.99,
+      "fee": 0.52,
+      "net": 4.47,
+      "currency": "usd",
+      "created": 1780244480000,
+      "description": "Subscription creation"
+    },
+    {
+      "id": "txn_3TdC5mIaRpbMiAov00QnwZSx",
+      "type": "payment",
+      "amount": 4.99,
+      "fee": 0.52,
+      "net": 4.47,
+      "currency": "usd",
+      "created": 1780244404000,
+      "description": "Subscription creation"
+    },
+    {
+      "id": "txn_1TcygnIaRpbMiAov5p9EBudx",
+      "type": "stripe_fee",
+      "amount": -0.03,
+      "fee": 0,
+      "net": -0.03,
+      "currency": "usd",
+      "created": 1780192881000,
+      "description": "Billing - Usage Fee (2026-05-30)"
+    }
+  ],
+  "source": "stripe_balance_api"
+}

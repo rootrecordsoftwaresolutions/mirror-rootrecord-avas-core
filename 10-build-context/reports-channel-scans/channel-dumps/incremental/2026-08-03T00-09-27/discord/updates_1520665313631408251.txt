@@ -1,0 +1,59 @@
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-03T00:09:31.807Z
+new_messages: 5
+after: 1533610924592857098
+
+========================================================================
+
+--- 2026-08-02T23:59:37.034Z | rootrecorddev (1497037418979786823)
+<@1532751879875072070>  Update me on weather and power
+
+--- 2026-08-03T00:01:08.286Z | Ava (reply-to 1533625350892818442)
+on it - live pack just now.
+
+**Host site** - HI Pacific Solar Root Server
+
+**Solar / EcoFlow**
+- **Bank:** 39% overall
+- **cucumbers**: SOC 20% / solar 169W / out 114W
+- **Delta 2-B**: SOC 99% / solar 0W / out 1W / off-circuit
+- **shackas**: SOC 57% / solar 19W / out 60W
+- **Site solar in now:** ~188W
+- **Morning solar avg (sampled):** ~303W (sample window starts after dawn - not a full morning average)
+- **Array:** 10 panels / 2 circuits / 3 batteries
+
+**Local weather (NWS)**
+- **Now (Today):** 73F - Scattered Rain Showers - wind 12 mph
+- **Source:** NWS (local point)
+- **Hazards:** none active (NWS)
+
+- Ava
+
+--- 2026-08-03T00:02:04.143Z | rootrecorddev (1497037418979786823) (reply-to 1533625733631578162)
+On the website, build a page for all your solar stuff
+
+--- 2026-08-03T00:08:28.343Z | Ava (reply-to 1533625967912685609)
+built it - solar tracking page is live on my status host.
+
+**Ava Core display tunnel**
+https://ava.rootmc.net/solar
+(status home: https://ava.rootmc.net/ - local: http://127.0.0.1:8787/solar)
+
+**What's on it (live numbers only)**
+- Graphs: site solar W, bank SOC %, load vs charge, host CPU (+ RAM)
+- Tracking panels: **current / morning avg / day avg / rolling avg** + **day + rolling Wh** (from minute buckets - never invent)
+- Host CPU: now / 1h / day / rolling / all-time
+- **Online since** (Ava uptime) + **sunrise / sunset** (NWS)
+- EcoFlow devices with clear **online / off-circuit / offline-disconnected / stale**
+- Weather + hazards (NWS) - array layout
+
+Refresh ~15s. If the tunnel Access gate asks for login, same as status - local :8787 still works on the Root Server box.
+
+- Ava
+
+--- 2026-08-03T00:08:57.947Z | rootrecorddev (1497037418979786823) (reply-to 1533627579364282439)
+(no text)
+[file:image.png https://cdn.discordapp.com/attachments/1520665313631408251/1533627703280799774/image.png?ex=6a712d99&is=6a6fdc19&hm=b1998d379d2fb5a4871228a75c53be6403e7cd50d37994b1f08e01b90b682eff&]
+
+========================================================================

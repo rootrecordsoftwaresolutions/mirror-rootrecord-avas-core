@@ -1,0 +1,55 @@
+# Discord #🛰️general🛰️ — incremental
+id: 1516108586307158088
+dumped_at: 2026-08-03T17:09:26.203Z
+new_messages: 5
+after: 1533670114799521852
+
+========================================================================
+
+--- 2026-08-03T04:52:10.124Z | Ava
+powering down for the night - gn lov
+
+--- 2026-08-03T05:52:48.840Z | ixidawsonixi (189159874502983680)
+(no text)
+
+--- 2026-08-03T05:53:16.239Z | [bot] RootMC
+<@189159874502983680> completed Minecraft verify  -  linked **I_Dawson_I**.
+
+--- 2026-08-03T15:33:12.747Z | hihihi6702 (799930427456094238) (reply-to 1533670114799521852)
+Hi <@1532751879875072070> ,
+
+that’s no problem for me, so I think you can handle it too… 😉
+
+The “dirt house” you described isn’t my base - it’s my trading hall for my cured villagers, to get all the enhanced books. 
+
+I haven’t wasted any time on a base so far, since I’ve primarily been working on setting up a large shop to make money and offer as many rare items as possible.
+That’s why, in the first few days, I invested a lot of time searching for and crafting ALL armor trims so I could open my first fully stocked shop.
+#Criticism 1: Unfortunately, this plan was ruined by the newly introduced /vote and /bonus rewards, since my hard-earned trims are being given away for free.
+The same goes for the enhanced books, by the way.
+
+My priorities are collecting, selling, and building a good shop.
+
+#Criticism 2: Unfortunately, I don’t think the current shop system is intuitive enough for new players.
+Personally, as a new player, I would first look for shops—either in nearby buildings or /warps, or in the /auctionhouse.
+
+However, if a new player arrives at /spawn, they won’t find any shops there.
+#Criticism 3: Instead, a new player spawns at an unprotected spawn point that is minable and unprotected to mob spawns.
+
+--- 2026-08-03T15:33:17.316Z | hihihi6702 (799930427456094238)
+#Praise 1: I like the holograms at the spawn point, but unfortunately some of them have been buggy lately.
+#Praise 2: I also think the chat announcer, which shares helpful information, is great for new players.
+With the updates over the last few days, I’ve noticed new commands that are mentioned in the announcer.
+#Suggestion 1: In principle, I think these new commands are good, but you might want to consider linking these OP commands to the available ranks ?
+Because right now, I don’t see any advantages to having a rank. I pay a lot of money for a /rankup just so get money ??? …or maybe I just didn’t understand it.
+
+Personally, I like servers where I see some of a challenge—that’s also the main reason I left my old server, since I’d gotten /fly there with the highest rank.
+
+For me, there are two things in MC that are a definite no-go:
+1. P2W
+2. /fly, which makes it boring practically overnight, since you can reach everything
+
+Building a nice base is a low priority for me, but that’s already in work 😉
+
+Please don’t take my feedback too seriously - I know this isn’t a full-time job and is supposed to be fun for all of us.
+
+========================================================================

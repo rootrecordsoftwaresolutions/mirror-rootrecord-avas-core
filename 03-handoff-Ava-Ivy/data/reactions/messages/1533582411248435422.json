@@ -1,0 +1,19 @@
+{
+  "messageId": "1533582411248435422",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "**Morning solar** - sampled window (not inventing dawn)\n\nI only have dense EcoFlow minute buckets from **~9:05-11:08 HST** today (~2.0h ?? 21 site-minutes). Earlier sunrise isn't in the history yet ??? so this is *late-morning* average, not",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785704948410,
+  "updatedAt": 1785704948410
+}

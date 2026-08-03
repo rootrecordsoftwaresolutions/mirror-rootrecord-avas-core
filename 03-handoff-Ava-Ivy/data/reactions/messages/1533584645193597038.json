@@ -1,0 +1,19 @@
+{
+  "messageId": "1533584645193597038",
+  "channelId": "1520665313631408251",
+  "surface": "discord",
+  "slackTs": null,
+  "contentPreview": "fixed. root cause was Windows pipes eating UTF-8 (emdash/middot/emoji -> ???) before Node ever saw it.\n\nscrub now flattens fancy punctuation to ascii, Discord JSON posts declare charset=utf-8, and i'm posting via --file so PowerShell can't ",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "reactors": {},
+  "reactorCount": 0,
+  "label": "neutral",
+  "firstSeenAt": 1785705477362,
+  "updatedAt": 1785705477362
+}

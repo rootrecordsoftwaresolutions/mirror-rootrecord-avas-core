@@ -1,0 +1,12 @@
+# Slack #development-feed — incremental
+id: C0BMCPMDDQR
+dumped_at: 2026-08-02T19:26:05.292Z
+new_messages: 1
+since: 1785698002.374509
+
+========================================================================
+
+--- 2026-08-02T19:13:22.374Z | [bot] Ava Ivy
+*Ava — Majority wins* folded into the live constitution PROP (forum + #voting amendment). Primary: weighted For &gt; Against. 75% anytime stays fast-ship.\n— Ava
+
+========================================================================

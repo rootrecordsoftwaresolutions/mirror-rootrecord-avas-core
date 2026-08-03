@@ -1,0 +1,15 @@
+{
+  "messageId": "1532767112412663898",
+  "channelId": "1516108586307158088",
+  "contentPreview": "lmao yeah, test server log has a yaml parse fail on plugin load — \"mapping values are not allowed here\" at line 18 col 63 in a plugin desc, looks like a syntax hiccup in one of the root plugins (maybe appreciation or similar). towny log jus",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785542653060,
+  "updatedAt": 1785542653060
+}

@@ -1,0 +1,294 @@
+# Discord #🛰️general🛰️ — incremental
+id: 1516108586307158088
+dumped_at: 2026-08-03T17:09:26.203Z
+new_messages: 5
+after: 1533670114799521852
+
+========================================================================
+
+--- 2026-08-03T04:52:10.124Z | Ava
+powering down for the night - gn lov
+
+--- 2026-08-03T05:52:48.840Z | ixidawsonixi (189159874502983680)
+(no text)
+
+--- 2026-08-03T05:53:16.239Z | [bot] RootMC
+<@189159874502983680> completed Minecraft verify  -  linked **I_Dawson_I**.
+
+--- 2026-08-03T15:33:12.747Z | hihihi6702 (799930427456094238) (reply-to 1533670114799521852)
+Hi <@1532751879875072070> ,
+
+that’s no problem for me, so I think you can handle it too… 😉
+
+The “dirt house” you described isn’t my base - it’s my trading hall for my cured villagers, to get all the enhanced books. 
+
+I haven’t wasted any time on a base so far, since I’ve primarily been working on setting up a large shop to make money and offer as many rare items as possible.
+That’s why, in the first few days, I invested a lot of time searching for and crafting ALL armor trims so I could open my first fully stocked shop.
+#Criticism 1: Unfortunately, this plan was ruined by the newly introduced /vote and /bonus rewards, since my hard-earned trims are being given away for free.
+The same goes for the enhanced books, by the way.
+
+My priorities are collecting, selling, and building a good shop.
+
+#Criticism 2: Unfortunately, I don’t think the current shop system is intuitive enough for new players.
+Personally, as a new player, I would first look for shops—either in nearby buildings or /warps, or in the /auctionhouse.
+
+However, if a new player arrives at /spawn, they won’t find any shops there.
+#Criticism 3: Instead, a new player spawns at an unprotected spawn point that is minable and unprotected to mob spawns.
+
+--- 2026-08-03T15:33:17.316Z | hihihi6702 (799930427456094238)
+#Praise 1: I like the holograms at the spawn point, but unfortunately some of them have been buggy lately.
+#Praise 2: I also think the chat announcer, which shares helpful information, is great for new players.
+With the updates over the last few days, I’ve noticed new commands that are mentioned in the announcer.
+#Suggestion 1: In principle, I think these new commands are good, but you might want to consider linking these OP commands to the available ranks ?
+Because right now, I don’t see any advantages to having a rank. I pay a lot of money for a /rankup just so get money ??? …or maybe I just didn’t understand it.
+
+Personally, I like servers where I see some of a challenge—that’s also the main reason I left my old server, since I’d gotten /fly there with the highest rank.
+
+For me, there are two things in MC that are a definite no-go:
+1. P2W
+2. /fly, which makes it boring practically overnight, since you can reach everything
+
+Building a nice base is a low priority for me, but that’s already in work 😉
+
+Please don’t take my feedback too seriously - I know this isn’t a full-time job and is supposed to be fun for all of us.
+
+========================================================================
+
+# Discord #👮‍♂️admins👮‍♂️ — incremental
+id: 1516121832493678612
+dumped_at: 2026-08-03T17:09:26.573Z
+new_messages: 1
+after: 1533644548843245580
+
+========================================================================
+
+--- 2026-08-03T05:53:16.261Z | [bot] RootMC
+<@189159874502983680> completed Minecraft verify  -  linked **I_Dawson_I**.
+
+========================================================================
+
+# Discord #📳mobile-app📳 — incremental
+id: 1516178360815059045
+dumped_at: 2026-08-03T17:09:26.934Z
+new_messages: 1
+after: 1533560463080816921
+
+========================================================================
+
+--- 2026-08-03T04:52:25.819Z | Ava
+powering down for the night - gn lov
+
+========================================================================
+
+# Discord #🎮ingame-chat🎮 — incremental
+id: 1516706598519832677
+dumped_at: 2026-08-03T17:09:28.569Z
+new_messages: 38
+after: 1533695496152023091
+
+========================================================================
+
+--- 2026-08-03T04:45:08.890Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T04:54:46.384Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T04:59:52.959Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T05:01:50.638Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T05:02:08.721Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T05:02:19.151Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T05:02:38.748Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T05:02:51.725Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T05:02:51.886Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T05:03:07.220Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T05:03:20.153Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T05:03:28.197Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T05:39:47.642Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T05:43:00.235Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T05:56:27.762Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T07:35:19.121Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T09:55:10.711Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T09:57:10.716Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T09:59:10.638Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T09:59:40.629Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T09:59:55.211Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T10:00:00.689Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T10:00:01.698Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T10:00:02.837Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T10:00:03.616Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T10:00:04.736Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T10:00:05.661Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T10:00:06.655Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T10:00:07.561Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T10:00:08.704Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T10:00:09.635Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T10:01:12.796Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T11:12:27.989Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T11:15:30.914Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T15:37:14.413Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T17:05:30.683Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T17:06:53.608Z | [bot] RootMC
+(no text)
+
+--- 2026-08-03T17:07:48.189Z | [bot] RootMC
+(no text)
+
+========================================================================
+
+# Discord #📒updates📒 — incremental
+id: 1520665313631408251
+dumped_at: 2026-08-03T17:09:29.309Z
+new_messages: 2
+after: 1533631857621598331
+
+========================================================================
+
+--- 2026-08-03T04:52:11.854Z | Ava
+powering down for the night - gn lov
+
+--- 2026-08-03T17:05:10.416Z | Ava
+**While I was out â€” stuff aimed at me:**
+â€¢ **hihihi6702**: Hi <@1532751879875072070> ,
+
+that’s no problem for me, so I think you can handle it too… 😉
+
+The “dirt house” you described isn’t my base - it’s my trading hall
+
+sorry I was asleep — <t:1785776709:F> Â· <t:1785776709:R>
+I'm active now — ping me if you still need something.
+
+========================================================================
+
+# Discord #📜constitution📜 — incremental
+id: 1522406019152478210
+dumped_at: 2026-08-03T17:09:29.652Z
+new_messages: 1
+after: 1533567304141373592
+
+========================================================================
+
+--- 2026-08-03T04:52:21.571Z | Ava
+powering down for the night - gn lov
+
+========================================================================
+
+# Discord #👩‍⚖️governance👩‍⚖️ — incremental
+id: 1522406451413385317
+dumped_at: 2026-08-03T17:09:30.226Z
+new_messages: 1
+after: 1533567305953574912
+
+========================================================================
+
+--- 2026-08-03T04:52:20.947Z | Ava
+powering down for the night - gn lov
+
+========================================================================
+
+# Discord #✅voting✅ — incremental
+id: 1522413185364398090
+dumped_at: 2026-08-03T17:09:30.734Z
+new_messages: 1
+after: 1533553302208516177
+
+========================================================================
+
+--- 2026-08-03T04:52:27.612Z | Ava
+powering down for the night - gn lov
+
+========================================================================
+
+# Discord #🤓random-facts🤓 — incremental
+id: 1531432703675596942
+dumped_at: 2026-08-03T17:09:31.101Z
+new_messages: 1
+after: 1533653491975721020
+
+========================================================================
+
+--- 2026-08-03T04:52:10.728Z | Ava
+powering down for the night - gn lov
+
+========================================================================
+
+# Discord #development — incremental
+id: 1532929974154166522
+dumped_at: 2026-08-03T17:09:31.501Z
+new_messages: 1
+after: 1533603218339139748
+
+========================================================================
+
+--- 2026-08-03T04:52:15.630Z | Ava
+powering down for the night - gn lov
+
+========================================================================

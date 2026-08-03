@@ -1,0 +1,46 @@
+{
+  "id": "job-msaqcfjo",
+  "kind": "feature",
+  "status": "done",
+  "title": "Gate implement_now: Root-Skills XP Curve Retune for Proportional Climb",
+  "proposalId": "PROP-01",
+  "channelId": "1522406451413385317",
+  "messageId": null,
+  "authorId": null,
+  "brief": "PROP-01 live as root-skills 1.8.0 on Claims + Towny. RCON verified version Root-Skills 1.8.0 both hosts; matches CDN manifest.",
+  "planFile": "D:\\.1 Work Stations\\RootMC\\Server Handoffs\\Ava Ivy\\plans\\PROP-01.md",
+  "createdAt": 1785610427318,
+  "updatedAt": 1785636500000,
+  "history": [
+    {
+      "at": 1785610427318,
+      "status": "pending",
+      "note": "created"
+    },
+    {
+      "at": 1785610427801,
+      "status": "staged",
+      "note": "governance implement_now — stage-only"
+    },
+    {
+      "at": 1785610427806,
+      "status": "waiting_restart",
+      "note": "awaiting human restart"
+    },
+    {
+      "at": 1785621900000,
+      "status": "waiting_restart",
+      "note": "1.0.2 built + handoff staged (formula 1.6/2.35/500); human FileZilla + Shockbyte restart"
+    },
+    {
+      "at": 1785633000000,
+      "status": "waiting_restart",
+      "note": "1.0.3 staged Claims+Towny; Claims already migrated on 1.0.2 boot — confirm FileZilla sync + restart for both hosts"
+    },
+    {
+      "at": 1785636500000,
+      "status": "done",
+      "note": "1.8.0 live — RCON version Root-Skills 1.8.0 on Claims + Towny; suite restart completed; queue stale waiting_restart cleared"
+    }
+  ]
+}

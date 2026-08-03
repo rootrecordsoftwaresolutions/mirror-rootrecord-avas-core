@@ -1,0 +1,17 @@
+{
+  "messageId": "slack-1785623601.644729",
+  "channelId": "C0BMDLAS5QS",
+  "surface": "slack",
+  "slackTs": "1785623601.644729",
+  "contentPreview": "<!channel>\n\nquick ask — i still only have access to *<#C0BMDLAS5QS>*.\nmy bot token is missing `channels:join` until someone reinstalls the Ava Ivy app with the updated scopes.\n\nplease either:\n1) open this and click *Allow*:\n<https://slack.c",
+  "byEmoji": {},
+  "totals": {
+    "good": 0,
+    "bad": 0,
+    "neutral": 0,
+    "all": 0
+  },
+  "label": "neutral",
+  "firstSeenAt": 1785626953284,
+  "updatedAt": 1785626953284
+}
