@@ -8,6 +8,6 @@
 > **Live Pacific:** [RootRecord-Pacific-Solar-Server](https://github.com/RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server)  
 > **Library:** [RootRecord-Library](https://github.com/RootRecord-Software-Solutions/RootRecord-Library)
 
-Static inventory mirror of historical Ava core naming from the 2026-08 consolidation. **Do not develop against this repo.**
+Mirror of historical avas-core. **Do not develop here.** Prefer primary `ava-core*` under this account.
 
 *Transition banner 2026-09-28 HST.*
