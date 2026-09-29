@@ -1,34 +1,13 @@
-# avas-core
+# mirror-rootrecord-avas-core
 
-Private home for **Ava Ivy** — personality, memory, handoff notes, build context, and collected history.
+> **Inventory mirror (2026-08)** — not primary development.
 
-**GitHub:** https://github.com/RootRecord/avas-core (private)  
-**Local:** `E:\avas-core`
+> **Authority:** [RootRecord-Software-Solutions](https://github.com/RootRecord-Software-Solutions) (org)  
+> **Docs index:** [MIGRATION-DOCS-INDEX](https://github.com/RootRecord-Software-Solutions/RootRecord-Library/blob/main/Documentation/00-architecture/MIGRATION-DOCS-INDEX-2026-09-28.md)  
+> **Product / archive catalog:** [Product-Archive-Repo-Catalog](https://github.com/RootRecord-Software-Solutions/RootRecord-Library/blob/main/Documentation/00-architecture/Product-Archive-Repo-Catalog-2026-09-28.md)  
+> **Live Pacific:** [RootRecord-Pacific-Solar-Server](https://github.com/RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server)  
+> **Library:** [RootRecord-Library](https://github.com/RootRecord-Software-Solutions/RootRecord-Library)
 
-Not a substitute for `RootMC\.env`. Secrets stay offline (`07-secrets-LOCAL-ONLY` is a stub here).
+Static inventory mirror of historical Ava core naming from the 2026-08 consolidation. **Do not develop against this repo.**
 
-## Layout
-
-| Path | Role |
-|------|------|
-| `01-personality-src` | Runtime voice (`persona`, `people`, `avaPost`, `config`, …) |
-| `02-ava-core-src-select` | Ava Node `src` / `scripts` / `docs` / `assets` |
-| `03-handoff-Ava-Ivy` | Live handoff memory |
-| `04-cursor-rules-ava` | Cursor Ava rules |
-| `05-desktop-kit` | Desktop source + laptop launchers (EXE omitted — see pointer) |
-| `06-manifests-ids` | Public bot/channel IDs |
-| `08-env-keys-checklist` | Env **names** only |
-| `09-restore-scripts` | Verify / restore helpers |
-| `10-build-context` | Plans, lore, transcripts, appearance, cutover notes |
-| `history/` | Contributions from other agent chats (see `AGENTS.md`) |
-
-## Identity locks
-
-- Lead developer of RootMC — not a helper sidekick
-- Gold (G), not dollars
-- Slack/Discord Ava posts only via `AVA_*` bot tokens (`avaPost`) — never Cursor Slack MCP (Alex)
-- Features → proposal + vote
-
-## Restore
-
-See `00-README/README.md` and `10-build-context/00-README/HOW-SHE-WAS-BUILT.md`.
+*Transition banner 2026-09-28 HST.*
